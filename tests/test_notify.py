@@ -8,6 +8,7 @@ import pytest
 from intern_radar.models import Posting
 from intern_radar.notify import (
     DISCORD_MESSAGE_LIMIT,
+    NotifyError,
     _discord_chunks,
     format_issue_body,
     format_lines,
@@ -79,16 +80,16 @@ def test_github_issue_posts_expected_payload(monkeypatch: pytest.MonkeyPatch) ->
     assert "**Acme**" in payload["body"]
 
 
-def test_github_issue_skips_without_token(
-    monkeypatch: pytest.MonkeyPatch, capsys: pytest.CaptureFixture[str]
-) -> None:
+def test_github_issue_raises_without_token(monkeypatch: pytest.MonkeyPatch) -> None:
+    # Silently skipping would let main mark postings seen with no notification
+    # ever delivered — this must fail loudly instead.
     monkeypatch.delenv("GITHUB_TOKEN", raising=False)
     monkeypatch.delenv("GITHUB_REPOSITORY", raising=False)
     calls: list[object] = []
     monkeypatch.setattr(urllib.request, "urlopen", lambda *a, **k: calls.append(a))
-    notify_github_issue([posting("Acme", "SWE Intern")])
+    with pytest.raises(NotifyError):
+        notify_github_issue([posting("Acme", "SWE Intern")])
     assert not calls
-    assert "skipping" in capsys.readouterr().out
 
 
 def test_discord_noop_without_webhook(monkeypatch: pytest.MonkeyPatch) -> None:

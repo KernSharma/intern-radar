@@ -13,7 +13,7 @@ PRUNE_AFTER_DAYS = 365
 @dataclass
 class SeenStore:
     path: Path
-    seen: dict[str, str] = field(default_factory=dict)  # key -> first-seen ISO date
+    seen: dict[str, str] = field(default_factory=dict)  # key -> last-seen ISO date
 
     @classmethod
     def load(cls, path: Path) -> SeenStore:
@@ -29,17 +29,19 @@ class SeenStore:
         return posting.key in self.seen or posting.url_key in self.seen
 
     def mark(self, posting: Posting, today: str) -> None:
-        self.seen.setdefault(posting.key, today)
-        self.seen.setdefault(posting.url_key, today)
+        # Overwrite, not setdefault: entries hold the LAST date the posting was
+        # observed live, so prune only drops postings that have disappeared.
+        self.seen[posting.key] = today
+        self.seen[posting.url_key] = today
 
     def prune(self, today: str) -> int:
-        """Drop entries first seen more than PRUNE_AFTER_DAYS ago. Postings do
-        not live that long, and this bounds the state file's growth."""
+        """Drop entries not observed live for PRUNE_AFTER_DAYS. Bounds the
+        state file's growth without re-notifying long-lived postings."""
         cutoff = (
             datetime.fromisoformat(today).replace(tzinfo=UTC)
             - timedelta(days=PRUNE_AFTER_DAYS)
         ).date().isoformat()
-        stale = [k for k, first_seen in self.seen.items() if first_seen < cutoff]
+        stale = [k for k, last_seen in self.seen.items() if last_seen < cutoff]
         for k in stale:
             del self.seen[k]
         return len(stale)

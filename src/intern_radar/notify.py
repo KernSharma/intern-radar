@@ -43,8 +43,12 @@ def notify_github_issue(postings: list[Posting]) -> None:
     token = os.environ.get("GITHUB_TOKEN", "")
     repo = os.environ.get("GITHUB_REPOSITORY", "")
     if not token or not repo:
-        print("warn: github_issues enabled but GITHUB_TOKEN/GITHUB_REPOSITORY missing; skipping")
-        return
+        # Failing loudly matters: silently skipping would mark these postings
+        # seen without any notification ever going out.
+        raise NotifyError(
+            "github_issues is enabled but GITHUB_TOKEN/GITHUB_REPOSITORY are not set "
+            "(disable notify.github_issues in config.toml for local runs)"
+        )
     now = datetime.now(tz=UTC).strftime("%Y-%m-%d %H:%M UTC")
     payload = {
         "title": f"{len(postings)} new internship posting(s) — {now}",

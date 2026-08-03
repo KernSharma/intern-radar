@@ -36,6 +36,22 @@ def test_direct_ats_requires_intern_in_title() -> None:
     assert not matches(ats("Software Engineer, Backend"), DEFAULT)
 
 
+def test_employment_type_label_beats_title_gate() -> None:
+    # An intern posting titled without a keyword still passes when the source
+    # itself labels it an internship (Ashby "Intern", Lever "Internship").
+    labeled = Posting(
+        key="t:1", source="ashby", company="X", url="https://x.example/1",
+        title="Software Engineer — Summer 2027 Program", employment_type="Intern",
+    )
+    assert matches(labeled, DEFAULT)
+    assert not matches(ats("Software Engineer — Summer 2027 Program"), DEFAULT)
+
+
+def test_empty_title_require_any_means_any() -> None:
+    f = FilterConfig(title_require_any=())
+    assert matches(ats("Software Engineer, Backend"), f)
+
+
 def test_title_exclusions_beat_inclusions() -> None:
     assert not matches(ats("Senior Intern Program Manager"), DEFAULT)
     assert not matches(ats("PhD Research Intern"), DEFAULT)

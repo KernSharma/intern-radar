@@ -34,6 +34,8 @@ def test_lever_parses_real_payload(load_fixture: Any) -> None:
     assert intern.url == "https://jobs.lever.co/palantir/774cf5c9-bf6a-4d77-bf60-d50ef1beb1a0"
     assert intern.locations == ("Paris, France",)
     assert intern.posted_at == "2026-05-11"  # createdAt is epoch milliseconds
+    assert intern.employment_type == "Internship"  # categories.commitment
+    assert postings[1].employment_type == "Full-time"
 
 
 def test_ashby_parses_real_payload(load_fixture: Any) -> None:
@@ -46,6 +48,8 @@ def test_ashby_parses_real_payload(load_fixture: Any) -> None:
     assert postings[1].title == "Security Engineer, Cloud"
     assert intern.locations == ("New York, NY (HQ)", "San Francisco, CA")
     assert intern.posted_at == "2025-08-07"
+    assert intern.employment_type == "Intern"
+    assert postings[1].employment_type == "FullTime"
 
 
 def test_ashby_skips_unlisted(load_fixture: Any) -> None:

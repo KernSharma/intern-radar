@@ -27,12 +27,14 @@ def parse_lever(company: str, payload: Any) -> list[Posting]:
             continue
         categories = job.get("categories")
         locations: tuple[str, ...] = ()
+        commitment = ""
         if isinstance(categories, dict):
             all_locations = categories.get("allLocations")
             if isinstance(all_locations, list) and all_locations:
                 locations = tuple(str(x).strip() for x in all_locations if str(x).strip())
             elif categories.get("location"):
                 locations = (str(categories["location"]).strip(),)
+            commitment = str(categories.get("commitment", ""))
         postings.append(
             Posting(
                 key=f"lever:{company}:{job_id}",
@@ -42,6 +44,7 @@ def parse_lever(company: str, payload: Any) -> list[Posting]:
                 url=url,
                 locations=locations,
                 posted_at=_ms_to_iso(job.get("createdAt")),
+                employment_type=commitment,
             )
         )
     return postings

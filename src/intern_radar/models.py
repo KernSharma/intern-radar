@@ -16,6 +16,7 @@ class Posting:
     category: str = ""  # simplify only
     degrees: tuple[str, ...] = ()  # simplify only
     posted_at: str = ""  # ISO date if the source provides one
+    employment_type: str = ""  # source's own label, e.g. "Intern"/"Internship"
 
     @property
     def url_key(self) -> str:
@@ -30,13 +31,25 @@ def normalize_url(url: str) -> str:
     ?gh_jid=.
     """
     parts = urlsplit(url.strip())
-    query = [(k, v) for k, v in parse_qsl(parts.query, keep_blank_values=True)
-             if not k.lower().startswith("utm_") and k.lower() not in {"ref", "source", "src"}]
+    host = parts.netloc.lower()
+    query: list[tuple[str, str]] = []
+    for pair in parse_qsl(parts.query, keep_blank_values=True):
+        k = pair[0].lower()
+        if k.startswith("utm_") or k in {"ref", "source", "src"}:
+            continue
+        if pair not in query:  # some boards duplicate params (?gh_jid=X&gh_jid=X)
+            query.append(pair)
     path = parts.path.rstrip("/")
-    # Aggregators link Lever jobs as .../apply; Lever's own API uses the bare
-    # posting URL. Same job — normalize to the bare form.
-    if parts.netloc.lower() == "jobs.lever.co" and path.endswith("/apply"):
+    # Aggregators link Lever jobs as .../apply and Ashby jobs as
+    # .../application?embed=true; the boards' own APIs use the bare posting
+    # URL. Same job — normalize to the bare form.
+    if host == "jobs.lever.co" and path.endswith("/apply"):
         path = path[: -len("/apply")]
-    return urlunsplit(
-        (parts.scheme.lower(), parts.netloc.lower(), path, urlencode(query), "")
-    )
+    if host == "jobs.ashbyhq.com":
+        if path.endswith("/application"):
+            path = path[: -len("/application")]
+        query = [(k, v) for k, v in query if k.lower() != "embed"]
+    # This is a dedup key, never fetched, so case-fold the path too —
+    # aggregators and board APIs disagree on org-slug casing (/Perplexity/ vs
+    # /perplexity/) while job ids are numeric or UUIDs.
+    return urlunsplit((parts.scheme.lower(), host, path.lower(), urlencode(query), ""))

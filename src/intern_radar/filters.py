@@ -32,8 +32,13 @@ def matches(posting: Posting, filters: FilterConfig) -> bool:
             or bool(set(posting.degrees) & set(filters.degrees_any))
         )
 
-    # Direct ATS posting: no term metadata, so gate on the title.
-    return any(kw.lower() in title_lower for kw in filters.title_require_any)
+    # Direct ATS posting: the source's own employment-type label counts first
+    # (Ashby: "Intern", Lever: "Internship"), then the title keyword gate.
+    if "intern" in posting.employment_type.lower():
+        return True
+    return not filters.title_require_any or any(
+        kw.lower() in title_lower for kw in filters.title_require_any
+    )
 
 
 def apply_filters(postings: list[Posting], filters: FilterConfig) -> list[Posting]:

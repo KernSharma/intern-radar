@@ -42,6 +42,25 @@ def test_url_normalization() -> None:
     )
 
 
+def test_url_normalization_ashby_aggregator_forms() -> None:
+    # Simplify links Ashby jobs as /application?embed=true with its own slug
+    # casing; the Ashby API returns the bare jobUrl. All three must dedupe.
+    bare = normalize_url("https://jobs.ashbyhq.com/perplexity/79a07e2d-abc")
+    assert normalize_url("https://jobs.ashbyhq.com/Perplexity/79a07e2d-abc/application") == bare
+    assert (
+        normalize_url("https://jobs.ashbyhq.com/Perplexity/79a07e2d-abc/application?embed=true")
+        == bare
+    )
+
+
+def test_url_normalization_drops_duplicated_params() -> None:
+    # Seen live: jobs.solarwinds.com/job-detail/?gh_jid=X&gh_jid=X
+    assert (
+        normalize_url("https://x.example/job/?gh_jid=1&gh_jid=1")
+        == normalize_url("https://x.example/job?gh_jid=1")
+    )
+
+
 def test_prune_drops_only_stale(tmp_path: Path) -> None:
     store = SeenStore.load(tmp_path / "seen.json")
     store.mark(posting("old:1", "https://x.example/old"), "2024-01-01")
@@ -52,9 +71,12 @@ def test_prune_drops_only_stale(tmp_path: Path) -> None:
     assert store.seen.keys() == {"new:1", posting("new:1", "https://x.example/new").url_key}
 
 
-def test_mark_keeps_first_seen_date(tmp_path: Path) -> None:
+def test_mark_refreshes_last_seen_date(tmp_path: Path) -> None:
+    # Entries hold last-seen, not first-seen: a posting that stays live past
+    # the prune horizon must not be pruned and re-notified.
     store = SeenStore.load(tmp_path / "seen.json")
     p = posting("a:1", "https://x.example/1")
-    store.mark(p, "2026-08-01")
+    store.mark(p, "2025-08-01")
     store.mark(p, "2026-08-03")
-    assert store.seen["a:1"] == "2026-08-01"
+    assert store.seen["a:1"] == "2026-08-03"
+    assert store.prune("2026-08-03") == 0

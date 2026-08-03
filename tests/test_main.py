@@ -87,6 +87,41 @@ def test_dry_run_writes_nothing(
     assert not state.exists()
 
 
+def test_notify_failure_leaves_state_unsaved(
+    monkeypatch: pytest.MonkeyPatch, tmp_path: Path,
+) -> None:
+    # github_issues enabled but no creds: the run must fail without marking
+    # anything seen, so the next run retries delivery.
+    config = tmp_path / "config.toml"
+    config.write_text(CONFIG.replace("github_issues = false", "github_issues = true"),
+                      encoding="utf-8")
+    state = tmp_path / "seen.json"
+    monkeypatch.delenv("GITHUB_TOKEN", raising=False)
+    monkeypatch.delenv("GITHUB_REPOSITORY", raising=False)
+    monkeypatch.delenv("DISCORD_WEBHOOK_URL", raising=False)
+    monkeypatch.setattr(main_mod, "fetch_simplify", lambda: [simplify_posting(1)])
+    assert main_mod.run(config, state, bootstrap=False, dry_run=False) == 1
+    assert not state.exists()
+
+
+def test_bootstrap_refuses_partial_failure(
+    monkeypatch: pytest.MonkeyPatch, tmp_path: Path,
+) -> None:
+    config = tmp_path / "config.toml"
+    config.write_text(
+        CONFIG + '\n[sources.greenhouse]\nboards = ["broken"]\n', encoding="utf-8"
+    )
+    state = tmp_path / "seen.json"
+
+    def boom(board: str) -> list[Posting]:
+        raise FetchError("down")
+
+    monkeypatch.setattr(main_mod, "fetch_simplify", lambda: [simplify_posting(1)])
+    monkeypatch.setattr(main_mod, "fetch_greenhouse", boom)
+    assert main_mod.run(config, state, bootstrap=True, dry_run=False) == 1
+    assert not state.exists()  # half a bootstrap would flood the next run
+
+
 def test_within_run_url_dedup(
     monkeypatch: pytest.MonkeyPatch, paths: tuple[Path, Path],
     capsys: pytest.CaptureFixture[str],

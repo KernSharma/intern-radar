@@ -12,7 +12,12 @@ from pathlib import Path
 from intern_radar.config import Config, load_config
 from intern_radar.filters import apply_filters
 from intern_radar.models import Posting
-from intern_radar.notify import notify_console, notify_discord, notify_github_issue
+from intern_radar.notify import (
+    NotifyError,
+    notify_console,
+    notify_discord,
+    notify_github_issue,
+)
 from intern_radar.sources import fetch_ashby, fetch_greenhouse, fetch_lever, fetch_simplify
 from intern_radar.state import SeenStore
 
@@ -72,6 +77,12 @@ def run(config_path: Path, state_path: Path, *, bootstrap: bool, dry_run: bool) 
         return 0
 
     if bootstrap:
+        if failures:
+            # A half-bootstrap would dump the failed source's whole board as
+            # "new" on the next run — refuse instead.
+            print("error: bootstrap needs every source healthy; fix failures and retry",
+                  file=sys.stderr)
+            return 1
         for p in matched:
             store.mark(p, today)
         store.prune(today)
@@ -83,9 +94,13 @@ def run(config_path: Path, state_path: Path, *, bootstrap: bool, dry_run: bool) 
         notify_console(new_postings)
         # Remote notifiers run before state is saved: if delivery fails we exit
         # nonzero without marking anything seen, and the next run retries.
-        if config.notify.github_issues:
-            notify_github_issue(new_postings)
-        notify_discord(new_postings)
+        try:
+            if config.notify.github_issues:
+                notify_github_issue(new_postings)
+            notify_discord(new_postings)
+        except NotifyError as e:
+            print(f"error: {e}", file=sys.stderr)
+            return 1
 
     for p in matched:
         store.mark(p, today)
