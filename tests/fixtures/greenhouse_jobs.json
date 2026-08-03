@@ -1,0 +1,85 @@
+{
+  "jobs": [
+    {
+      "absolute_url": "https://stripe.com/jobs/search?gh_jid=7954688",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3453698,
+      "location": {
+        "name": "San Francisco, CA"
+      },
+      "metadata": null,
+      "id": 7954688,
+      "updated_at": "2026-07-27T11:17:30-04:00",
+      "requisition_id": "See Opening ID",
+      "title": "Account Executive, AI Sales (Grower)",
+      "company_name": "Stripe",
+      "first_published": "2026-06-02T08:58:57-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://stripe.com/jobs/search?gh_jid=8023928",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3478585,
+      "location": {
+        "name": "London"
+      },
+      "metadata": null,
+      "id": 8023928,
+      "updated_at": "2026-07-30T06:59:38-04:00",
+      "requisition_id": "See Opening ID",
+      "title": "Account Executive, Bridge",
+      "company_name": "Stripe",
+      "first_published": "2026-07-30T06:59:38-04:00",
+      "language": "en",
+      "application_deadline": null
+    },
+    {
+      "absolute_url": "https://stripe.com/jobs/search?gh_jid=8077887",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3499744,
+      "location": {
+        "name": "SF, NYC, SEA, CHI"
+      },
+      "metadata": null,
+      "id": 8077887,
+      "updated_at": "2026-07-30T15:05:36-04:00",
+      "requisition_id": "See Opening ID",
+      "title": "Account Executive, Bridge ",
+      "company_name": "Stripe",
+      "first_published": "2026-07-22T13:15:53-04:00",
+      "language": "en",
+      "application_deadline": null
+    }
+  ],
+  "meta": {
+    "total": 3
+  }
+}

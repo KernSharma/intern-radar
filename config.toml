@@ -1,0 +1,59 @@
+# intern-radar watch configuration.
+# Filters are biased toward recall: a false positive costs one extra line in a
+# notification; a false negative is a missed job.
+
+[filters]
+# Simplify listings must overlap these terms. Direct ATS boards have no term
+# metadata, so they use title_require_any instead.
+terms = ["Summer 2027"]
+# Simplify category allowlist (empty = any). Category names vary in their data.
+categories = [
+    "Software",
+    "Software Engineering",
+    "AI/ML/Data",
+    "Data Science, AI & Machine Learning",
+    "Quant",
+]
+# Pass if the listing names any of these degrees, or names none at all.
+degrees_any = ["Bachelor's"]
+# Direct ATS postings (no term metadata) must contain one of these in the
+# title. Substring match, case-insensitive.
+title_require_any = ["intern", "co-op", "coop", "co op"]
+# Reject any posting whose title contains one of these.
+title_exclude = ["senior", "staff", "principal", "unpaid", "mba intern", "phd"]
+# Reject a posting only if ALL of its listed locations match one of these
+# substrings (a multi-location posting with one acceptable site still passes).
+location_exclude = []
+
+[sources]
+# Aggregator: SimplifyJobs/Summer2027-Internships listings.json (dev branch).
+simplify = true
+
+# Direct ATS boards, polled for speed — new postings show up here before
+# aggregators pick them up. Slugs below were verified live on 2026-08-03
+# (each had active intern-cycle listings). Add your own targets.
+[sources.greenhouse]
+boards = [
+    "stripe",
+    "janestreet",
+    "cloudflare",
+    "astranis",
+    "neuralink",
+    "figureai",
+    "virtu",
+    "drweng",
+]
+
+[sources.lever]
+companies = ["palantir", "waabi", "tri"]
+
+[sources.ashby]
+orgs = ["ramp", "perplexity", "cohere", "applied", "etched", "rivianvw.tech"]
+
+[notify]
+# Opens one GitHub Issue per run listing all new matches (GitHub then emails
+# you). Needs GITHUB_TOKEN + GITHUB_REPOSITORY env vars — both are present
+# automatically in GitHub Actions.
+github_issues = true
+# Discord fires when the DISCORD_WEBHOOK_URL env var is set; nothing to
+# configure here.

@@ -1,0 +1,25 @@
+[project]
+name = "intern-radar"
+version = "0.1.0"
+description = "Zero-dependency watcher for SWE internship postings: polls SimplifyJobs + Greenhouse/Lever/Ashby boards, filters for eligibility, and alerts via GitHub Issues or Discord."
+requires-python = ">=3.11"
+dependencies = []
+
+[dependency-groups]
+dev = ["pytest>=8", "ruff>=0.6", "mypy>=1.11"]
+
+[tool.ruff]
+line-length = 100
+src = ["src", "tests"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM", "RUF"]
+
+[tool.mypy]
+strict = true
+mypy_path = "src"
+packages = ["intern_radar"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
