@@ -27,6 +27,10 @@ def simplify_posting(n: int) -> Posting:
     )
 
 
+def seed_empty_state(state: Path) -> None:
+    state.write_text('{"version": 1, "seen": {}}', encoding="utf-8")
+
+
 @pytest.fixture
 def paths(tmp_path: Path) -> tuple[Path, Path]:
     config = tmp_path / "config.toml"
@@ -96,12 +100,13 @@ def test_notify_failure_leaves_state_unsaved(
     config.write_text(CONFIG.replace("github_issues = false", "github_issues = true"),
                       encoding="utf-8")
     state = tmp_path / "seen.json"
+    seed_empty_state(state)
     monkeypatch.delenv("GITHUB_TOKEN", raising=False)
     monkeypatch.delenv("GITHUB_REPOSITORY", raising=False)
     monkeypatch.delenv("DISCORD_WEBHOOK_URL", raising=False)
     monkeypatch.setattr(main_mod, "fetch_simplify", lambda: [simplify_posting(1)])
     assert main_mod.run(config, state, bootstrap=False, dry_run=False) == 1
-    assert not state.exists()
+    assert json.loads(state.read_text(encoding="utf-8"))["seen"] == {}
 
 
 def test_bootstrap_refuses_partial_failure(
@@ -127,6 +132,7 @@ def test_within_run_url_dedup(
     capsys: pytest.CaptureFixture[str],
 ) -> None:
     config, state = paths
+    seed_empty_state(state)
     monkeypatch.delenv("DISCORD_WEBHOOK_URL", raising=False)
     duplicate = Posting(
         key="simplify:dup", source="simplify", company="Co1", title="SWE Intern",
@@ -137,3 +143,57 @@ def test_within_run_url_dedup(
     )
     assert main_mod.run(config, state, bootstrap=False, dry_run=False) == 0
     assert "new 1" in capsys.readouterr().out
+
+
+def test_first_run_auto_bootstraps(
+    monkeypatch: pytest.MonkeyPatch, paths: tuple[Path, Path],
+    capsys: pytest.CaptureFixture[str],
+) -> None:
+    # Missing state file = first run: mark everything seen, notify nothing —
+    # otherwise the first cron tick after pushing floods one giant issue.
+    config, state = paths
+    monkeypatch.setattr(main_mod, "fetch_simplify", lambda: [simplify_posting(1)])
+    assert main_mod.run(config, state, bootstrap=False, dry_run=False) == 0
+    out = capsys.readouterr().out
+    assert "bootstrap: marked 1" in out
+    assert "**Co1**" not in out
+    assert "simplify:1" in json.loads(state.read_text(encoding="utf-8"))["seen"]
+
+
+def test_discord_failure_is_best_effort_when_issue_succeeded(
+    monkeypatch: pytest.MonkeyPatch, tmp_path: Path,
+) -> None:
+    from intern_radar.notify import NotifyError
+
+    config = tmp_path / "config.toml"
+    config.write_text(CONFIG.replace("github_issues = false", "github_issues = true"),
+                      encoding="utf-8")
+    state = tmp_path / "seen.json"
+    seed_empty_state(state)
+
+    def dead_webhook(postings: list[Posting]) -> None:
+        raise NotifyError("webhook deleted")
+
+    monkeypatch.setattr(main_mod, "fetch_simplify", lambda: [simplify_posting(1)])
+    monkeypatch.setattr(main_mod, "notify_github_issue", lambda p, f=(): None)
+    monkeypatch.setattr(main_mod, "notify_discord", dead_webhook)
+    # Issue was delivered -> run succeeds, state saves, no duplicate-issue loop.
+    assert main_mod.run(config, state, bootstrap=False, dry_run=False) == 0
+    assert "simplify:1" in json.loads(state.read_text(encoding="utf-8"))["seen"]
+
+
+def test_discord_failure_is_fatal_when_it_is_the_only_channel(
+    monkeypatch: pytest.MonkeyPatch, paths: tuple[Path, Path],
+) -> None:
+    from intern_radar.notify import NotifyError
+
+    config, state = paths  # github_issues = false in CONFIG
+    seed_empty_state(state)
+
+    def dead_webhook(postings: list[Posting]) -> None:
+        raise NotifyError("webhook deleted")
+
+    monkeypatch.setattr(main_mod, "fetch_simplify", lambda: [simplify_posting(1)])
+    monkeypatch.setattr(main_mod, "notify_discord", dead_webhook)
+    assert main_mod.run(config, state, bootstrap=False, dry_run=False) == 1
+    assert json.loads(state.read_text(encoding="utf-8"))["seen"] == {}

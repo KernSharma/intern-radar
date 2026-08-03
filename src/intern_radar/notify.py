@@ -26,11 +26,15 @@ def format_lines(postings: list[Posting]) -> list[str]:
     return lines
 
 
-def format_issue_body(postings: list[Posting]) -> str:
+def format_issue_body(postings: list[Posting], failures: tuple[str, ...] = ()) -> str:
     lines = format_lines(postings)
     body = "\n".join(lines)
     if len(body) > GITHUB_ISSUE_BODY_LIMIT:
         body = body[:GITHUB_ISSUE_BODY_LIMIT] + "\n\n… truncated."
+    if failures:
+        body += "\n\n**⚠ Source failures this run** (these boards went unwatched):\n" + "\n".join(
+            f"- {f}" for f in failures
+        )
     return body + "\n\n_Found by intern-radar. Check a box once you've applied._"
 
 
@@ -39,7 +43,7 @@ def notify_console(postings: list[Posting]) -> None:
         print(line)
 
 
-def notify_github_issue(postings: list[Posting]) -> None:
+def notify_github_issue(postings: list[Posting], failures: tuple[str, ...] = ()) -> None:
     token = os.environ.get("GITHUB_TOKEN", "")
     repo = os.environ.get("GITHUB_REPOSITORY", "")
     if not token or not repo:
@@ -52,7 +56,7 @@ def notify_github_issue(postings: list[Posting]) -> None:
     now = datetime.now(tz=UTC).strftime("%Y-%m-%d %H:%M UTC")
     payload = {
         "title": f"{len(postings)} new internship posting(s) — {now}",
-        "body": format_issue_body(postings),
+        "body": format_issue_body(postings, failures),
     }
     request = urllib.request.Request(
         f"https://api.github.com/repos/{repo}/issues",

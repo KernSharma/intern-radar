@@ -76,7 +76,9 @@ def run(config_path: Path, state_path: Path, *, bootstrap: bool, dry_run: bool) 
         notify_console(new_postings)
         return 0
 
-    if bootstrap:
+    # A missing state file means this is the first run: bootstrap implicitly,
+    # otherwise the first cron tick after pushing floods one giant issue.
+    if bootstrap or not store.path.exists():
         if failures:
             # A half-bootstrap would dump the failed source's whole board as
             # "new" on the next run — refuse instead.
@@ -92,15 +94,26 @@ def run(config_path: Path, state_path: Path, *, bootstrap: bool, dry_run: bool) 
 
     if new_postings:
         notify_console(new_postings)
-        # Remote notifiers run before state is saved: if delivery fails we exit
-        # nonzero without marking anything seen, and the next run retries.
+        # The durable notifier runs before state is saved: if delivery fails we
+        # exit nonzero without marking anything seen, and the next run retries.
         try:
             if config.notify.github_issues:
-                notify_github_issue(new_postings)
-            notify_discord(new_postings)
+                notify_github_issue(new_postings, tuple(failures))
         except NotifyError as e:
             print(f"error: {e}", file=sys.stderr)
             return 1
+        try:
+            notify_discord(new_postings)
+        except NotifyError as e:
+            if config.notify.github_issues:
+                # Best-effort when an issue was already created: a dead webhook
+                # must not re-notify the same postings every run forever.
+                print(f"warn: {e}", file=sys.stderr)
+            else:
+                # Discord is the only remote channel — failing it means the
+                # notification was never delivered anywhere durable.
+                print(f"error: {e}", file=sys.stderr)
+                return 1
 
     for p in matched:
         store.mark(p, today)

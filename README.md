@@ -26,13 +26,18 @@ No database, no server, no paid APIs. Python stdlib only.
 
 ## Setup
 
-1. Fork/clone, edit `config.toml` (target terms, categories, boards to watch).
+1. Clone (or fork — note GitHub disables scheduled workflows on forks until
+   you enable Actions manually), edit `config.toml` (target terms,
+   categories, boards to watch).
 2. Push to GitHub. Actions runs `watch.yml` on a 30-minute cron.
-3. First run: trigger the workflow manually (**Actions → watch → Run
-   workflow**) with **bootstrap** checked. This marks everything currently
-   live as seen so you don't get one giant issue with 200 postings.
+3. The very first run bootstraps automatically: when `data/seen.json` doesn't
+   exist yet, everything currently live is marked seen with no notifications —
+   no giant first issue with 200 postings. You can also force this any time
+   via **Actions → watch → Run workflow** with **bootstrap** checked.
 4. Watch the repo (**Watch → All activity**) so new-posting issues hit your
-   email. Optional: add a `DISCORD_WEBHOOK_URL` repo secret for Discord pings.
+   email. When the first real issue lands, confirm the email actually arrived
+   before trusting the pipeline for months. Optional: add a
+   `DISCORD_WEBHOOK_URL` repo secret for Discord pings.
 
 ## Local usage
 
@@ -64,6 +69,12 @@ mypy
 - **Dedup across sources** by normalized URL (e.g. Lever `/apply` links from
   aggregators fold into the bare posting URL). Near-duplicate URLs that differ
   more than that may occasionally notify twice.
-- **Direct ATS boards have no term metadata**, so they gate on title keywords;
-  Simplify listings gate on term/category/degree fields.
-- Seen-state entries prune after a year to bound file growth.
+- **Direct ATS boards have no term metadata**, so they gate on the source's
+  employment-type label plus title keywords; Simplify listings gate on
+  term/category/degree fields.
+- **Discord is best-effort** when GitHub Issues are enabled: the issue is the
+  durable notification, and a dead webhook must not re-notify forever.
+- Seen-state entries prune after a year of not being observed live.
+- Known limitation: a source that fails on a run is reported in that run's
+  issue body (if one is created) and in the Actions log, but a permanently
+  dead board with no new postings elsewhere won't email you on its own.
