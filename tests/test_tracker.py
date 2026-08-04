@@ -99,6 +99,23 @@ def test_dashboard_groups_by_stage(tmp_path: Path, cache: Path) -> None:
     assert "| Beta | [SWE Intern](https://x.example/2) | 2026-08-02 | onsite 8/10 |" in md
 
 
+def test_interested_queue_stage(tmp_path: Path, cache: Path) -> None:
+    tracker = Tracker.load(tmp_path / "applications.json")
+    tracker.add(
+        "https://x.example/3", "interested", "2026-08-04", cache,
+        company="Gamma", title="SWE Intern", note="stretch",
+    )
+    tracker.add("https://jobs.lever.co/acme/123", "applied", "2026-08-04", cache)
+    md = render_dashboard(tracker)
+    assert "**2 tracked** — applied: 1 · interested: 1" in md
+    # The queue renders below the live pipeline, above dead applications.
+    assert md.index("## applied (1)") < md.index("## interested (1)")
+    # Applying promotes the queued posting and keeps the queue date.
+    app = tracker.set_status("https://x.example/3", "applied", "2026-08-05")
+    assert app.status == "applied"
+    assert app.history == {"interested": "2026-08-04", "applied": "2026-08-05"}
+
+
 def test_cli_track_round_trip(
     tmp_path: Path, cache: Path, capsys: pytest.CaptureFixture[str],
     monkeypatch: pytest.MonkeyPatch,

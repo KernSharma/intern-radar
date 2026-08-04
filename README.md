@@ -56,12 +56,16 @@ Once you apply, track the pipeline in the same repo:
 
 ```
 PYTHONPATH=src python -m intern_radar track add <posting-url>       # marks applied
+PYTHONPATH=src python -m intern_radar track add <posting-url> --status interested  # queue, not yet applied
+PYTHONPATH=src python -m intern_radar track set <posting-url> applied
 PYTHONPATH=src python -m intern_radar track set <posting-url> oa --note "HackerRank due 8/10"
 PYTHONPATH=src python -m intern_radar track set <posting-url> interview
 PYTHONPATH=src python -m intern_radar track list
 ```
 
-Stages: `applied → oa → interview → offer` (plus `rejected`/`withdrawn`).
+Stages: `interested → applied → oa → interview → offer` (plus
+`rejected`/`withdrawn`). `interested` is the pre-application queue —
+postings worth applying to that you haven't submitted yet.
 Company/title resolve automatically from `data/postings.json` (snapshotted by
 every watcher run); `APPLICATIONS.md` is regenerated as a dashboard on every
 change. Commit when convenient — it's your data.

@@ -7,9 +7,10 @@ from typing import Any
 
 from intern_radar.models import Posting, normalize_url
 
-STATUSES = ("applied", "oa", "interview", "offer", "rejected", "withdrawn")
-# Dashboard ordering: closest-to-offer first.
-DISPLAY_ORDER = ("offer", "interview", "oa", "applied", "rejected", "withdrawn")
+STATUSES = ("interested", "applied", "oa", "interview", "offer", "rejected", "withdrawn")
+# Dashboard ordering: closest-to-offer first; the interested queue sits
+# below the live pipeline but above dead applications.
+DISPLAY_ORDER = ("offer", "interview", "oa", "applied", "interested", "rejected", "withdrawn")
 
 
 class TrackerError(Exception):
