@@ -1,0 +1,154 @@
+{
+ "id": "744000140949875",
+ "name": "Summer 2027 Intern - Hardware Engineering",
+ "uuid": "7bac11b3-fc38-4967-bb41-20ccf161bc6b",
+ "jobId": "d272a8ab-b72a-49d3-a27c-ba14e7ac4f93",
+ "jobAdId": "e7ab7b6b-51ea-4168-a0b6-ac1f6397f26b",
+ "defaultJobAd": true,
+ "refNumber": "REF34107R",
+ "company": {
+  "name": "Western Digital",
+  "identifier": "WesternDigital"
+ },
+ "location": {
+  "city": "San Jose",
+  "region": "CA",
+  "country": "us",
+  "remote": false,
+  "hybrid": true,
+  "latitude": "37.33874",
+  "longitude": "-121.8852525",
+  "fullLocation": "San Jose, CA, United States"
+ },
+ "customField": [
+  {
+   "fieldId": "606f52f879838c3f1a5df578",
+   "fieldLabel": "Brands",
+   "valueId": "default",
+   "valueLabel": "Western Digital"
+  },
+  {
+   "fieldId": "61e861216796ff005736d217",
+   "fieldLabel": "Job Type (exemption status)",
+   "valueId": "f464bc93-cf91-46e3-9d02-1393d111a99c",
+   "valueLabel": "Non-Exempt position - Please see related compensation & benefits details below"
+  },
+  {
+   "fieldId": "COUNTRY",
+   "fieldLabel": "Country/Region",
+   "valueId": "us",
+   "valueLabel": "United States"
+  },
+  {
+   "fieldId": "607069e34bb1b86edc4b1150",
+   "fieldLabel": "Job Profile",
+   "valueId": "107966",
+   "valueLabel": "Intern, Technical (Undergraduate) - 107966"
+  },
+  {
+   "fieldId": "60706c0fab6dab4d36f48132",
+   "fieldLabel": "Company",
+   "valueId": "CO_WD Western Digital Technologies, Inc.",
+   "valueLabel": "US-Western Digital Technologies, Inc.--CO_WD Western Digital Technologies, Inc."
+  },
+  {
+   "fieldId": "61710328e65c003e53504dd0",
+   "fieldLabel": "Salary Range",
+   "valueId": "34.52-46.00",
+   "valueLabel": "34.52-46.00"
+  },
+  {
+   "fieldId": "69af99ee1613dbfae2c0f4d8",
+   "fieldLabel": "Division",
+   "valueId": "def505ff-6f2e-47e7-b3c2-6c6f6629ba6a",
+   "valueLabel": "United States"
+  },
+  {
+   "fieldId": "625777e42ea6bf323c991b94",
+   "fieldLabel": "Positions",
+   "valueId": "P-NP",
+   "valueLabel": "New Position--P-NP"
+  },
+  {
+   "fieldId": "60706a574748e43c47b1856e",
+   "fieldLabel": "Business Function",
+   "valueId": "Engineering Support",
+   "valueLabel": "Engineering Support"
+  },
+  {
+   "fieldId": "69af98e74cf456484ba38b06",
+   "fieldLabel": "Business Group",
+   "valueId": "d916faf0-4658-4dc0-8f0b-5a41ab67b3f3",
+   "valueLabel": "Western Digital Technologies, Inc."
+  },
+  {
+   "fieldId": "60706ba04748e43c47b18571",
+   "fieldLabel": "Work Location",
+   "valueId": "LOC_WDT_USCA23",
+   "valueLabel": "San Jose Great Oaks Headquarters--LOC_WDT_USCA23"
+  },
+  {
+   "fieldId": "607066faab6dab4d36f48130",
+   "fieldLabel": "Requisition Type",
+   "valueId": "da8a84a7-ad64-4978-b93f-93cd382f61a4",
+   "valueLabel": "Pipeline - UR"
+  }
+ ],
+ "releasedDate": "2026-07-31T15:44:17.247Z",
+ "creator": {
+  "name": "",
+  "avatarUrl": ""
+ },
+ "postingUrl": "https://jobs.smartrecruiters.com/WesternDigital/744000140949875-summer-2027-intern-hardware-engineering",
+ "applyUrl": "https://jobs.smartrecruiters.com/WesternDigital/744000140949875-summer-2027-intern-hardware-engineering?oga=true",
+ "referralUrl": "https://jobs.smartrecruiters.com/external-referrals/company/WesternDigital/publication/7bac11b3-fc38-4967-bb41-20ccf161bc6b?dcr_ci=WesternDigital",
+ "jobAd": {
+  "sections": {
+   "companyDescription": {
+    "title": "Company Description",
+    "text": "<p>WD is building the infrastructure behind the AI-driven data economy.</p><p>As AI scales, so does data. Every interaction, every model, every system generates data that must be stored, managed, and made accessible over time. That’s where we come in.</p><p>We combine deep engineering expertise with global-scale manufacturing to deliver the storage systems that make AI possible, powering hyperscale data centers, cloud platforms, and enterprise infrastructure worldwide.</p><p>This isn’t theoretical work. It’s real systems, at real scale, people solving some of the hardest challenges in technology today.</p><p>We’re looking for people who want to build, solve, and operate at that level.</p><p>Join us and let’s shape the future of data.</p>"
+   },
+   "jobDescription": {
+    "title": "Job Description",
+    "text": "<p><strong>This posting supports current and anticipated early-career hiring needs. Applying allows our recruiting team to consider you for opportunities that align with your qualifications, preferences, and availability. An immediate opening or interview is not guaranteed.</strong></p><p><strong>Where are these roles located?</strong>&#xa0;You’ll have the opportunity to work with teams in:</p><ul><li>Colorado Springs, Colorado</li><li>Irvine, California</li><li>Longmont, Colorado</li><li>Fremont, California</li><li>Rochester, Minnesota</li><li>San Jose, California</li></ul><p><strong><u>ASIC Engineering</u></strong></p><p>Design the silicon powering the future of data storage.</p><p>As an ASIC Engineer, you’ll help create the custom chips that power next-generation hard disk drives (HDDs). Working alongside experienced engineers, you’ll contribute to digital design, verification, simulation, and optimization to deliver high-performance, energy-efficient products at global scale.</p><p>What you’ll do</p><ul><li>Design and verify ASIC architectures and digital logic</li><li>Build simulations and validate complex hardware designs</li><li>Support the ASIC development lifecycle—from architecture through synthesis, place-and-route, and timing closure</li><li>Optimize performance, power, and reliability</li><li>Collaborate across hardware, firmware, and systems engineering teams</li></ul><p>Technologies you’ll use<br>\nASIC Design • RTL • Verilog/SystemVerilog • Digital Logic • Verification • Simulation • Timing Analysis • Low-Power Design</p><p>Why you’ll love this role</p><ul><li>Help build technology that stores the world’s data.</li><li>Learn from experienced semiconductor engineers.</li><li>Work on cutting-edge silicon development.</li><li>Solve challenging engineering problems with cross-functional teams.</li><li>Build highly transferable chip design skills.</li></ul><p><strong><u>Hardware Development Engineering</u></strong></p><p>Build the hardware behind the world’s data.</p><p>As a Hardware Development Engineer, you’ll help develop the technologies that make modern data storage faster, more reliable, and higher capacity. You’ll design, prototype, validate, and improve hardware while solving real engineering challenges alongside multidisciplinary teams.</p><p>What you’ll do</p><ul><li>Design and develop electronic hardware and magnetic recording systems</li><li>Create validation strategies and automated test solutions</li><li>Perform reliability, stress, and performance testing</li><li>Analyze circuit boards, processors, sensors, and other hardware components</li><li>Improve products from prototype through manufacturing</li></ul><p>Technologies you’ll use<br>\nElectronics • PCB Design • Signal Integrity • Hardware Validation • Reliability Engineering • Test Engineering • Data Analysis</p><p>Why you’ll love this role</p><ul><li>Design products used around the world.</li><li>Work with advanced recording technologies.</li><li>Gain hands-on laboratory experience.</li><li>Collaborate with experts across multiple engineering disciplines.</li><li>See your designs move from concept to production.</li></ul><p>&#xa0;</p><p>Firmware Engineering</p><p>Bring hardware to life through software.</p><p>As a Firmware Engineer, you’ll develop the embedded software that controls advanced storage devices. You’ll work at the intersection of hardware and software, building reliable, high-performance firmware that enables world-class products.</p><p>What you’ll do</p><ul><li>Design, develop, and debug embedded firmware</li><li>Write software in C, C++, Assembly, and other low-level languages</li><li>Integrate firmware with analog and digital hardware</li><li>Troubleshoot hardware-software interactions</li><li>Improve system performance, functionality, and reliability</li></ul><p>Technologies you’ll use<br>\nEmbedded Systems • C • C++ • Assembly • RTOS • Hardware Interfaces • Firmware Validation • Debugging</p><p>Why you’ll love this role</p><ul><li>Build software that directly controls hardware.</li><li>Solve complex engineering challenges.</li><li>Work closely with both hardware and software engineers.</li><li>Learn how products operate at the lowest level.</li><li>Develop highly sought-after embedded systems skills.</li></ul><p><strong><u>Systems Design &amp; Integration Engineering</u></strong></p><p>Connect hardware and software into complete products.</p><p>As a Systems Design &amp; Integration Engineer, you’ll bring together hardware, firmware, and software to create reliable, high-performing storage systems. You’ll solve integration challenges and ensure every subsystem works seamlessly together.</p><p>What you’ll do</p><ul><li>Define system requirements and technical specifications</li><li>Integrate hardware, firmware, and software components</li><li>Coordinate subsystem development across engineering teams</li><li>Troubleshoot complex system-level issues</li><li>Improve product performance, compatibility, and reliability</li></ul><p>Technologies you’ll use<br>\nSystems Engineering • Integration • Validation • Root Cause Analysis • Product Development • Cross-Functional Engineering</p><p>Why you’ll love this role</p><ul><li>Work across multiple engineering disciplines.</li><li>Understand how complete products come together.</li><li>Solve challenging integration problems.</li><li>Gain broad technical exposure.</li><li>Build systems-level engineering expertise.</li></ul><p><strong><u>Mechanical Design Engineering</u></strong></p><p>Engineer the mechanics behind breakthrough technology.</p><p>As a Mechanical Design Engineer, you’ll design the precision mechanical systems that support advanced storage products. From concept through manufacturing, you’ll help create innovative, reliable, and manufacturable solutions.</p><p>What you’ll do</p><ul><li>Design mechanical components, assemblies, and packaging</li><li>Develop prototypes and evaluate new concepts</li><li>Perform engineering analysis and design validation</li><li>Conduct testing to improve performance and reliability</li><li>Partner with manufacturing teams to prepare products for production</li></ul><p>Technologies you’ll use<br>\nCAD • Mechanical Design • Product Development • Prototype Testing • Design Validation • Manufacturing Engineering</p><p>Why you’ll love this role</p><ul><li>Turn ideas into real products.</li><li>Design precision mechanical systems.</li><li>Build and test prototypes.</li><li>Collaborate across engineering teams.</li><li>See your designs manufactured at scale.</li></ul><p><strong><u>Equipment Engineering</u></strong></p><p>Build smarter manufacturing.</p><p>As an Equipment Engineer, you’ll optimize the advanced manufacturing equipment used to build world-class storage technology. You’ll improve equipment performance, increase reliability, and help solve complex production challenges.</p><p>What you’ll do</p><ul><li>Install, upgrade, and optimize manufacturing equipment</li><li>Improve equipment uptime, reliability, and process performance</li><li>Investigate equipment failures and implement corrective actions</li><li>Develop preventive maintenance strategies</li><li>Partner with manufacturing and process engineers to drive continuous improvement</li></ul><p>Technologies you’ll use<br>\nAutomation • Manufacturing Engineering • Preventive Maintenance • Root Cause Analysis • Reliability Engineering • Continuous Improvement</p><p>Why you’ll love this role</p><ul><li>Work with advanced manufacturing technology.</li><li>Solve real-world production challenges.</li><li>Improve efficiency through engineering.</li><li>Learn automation and industrial systems.</li><li>Help build products used around the world.</li></ul><p>System-on-Chip (SoC) Engineering</p><p>Design the brains behind next-generation storage technology.</p><p>As a System-on-Chip (SoC) Engineer, you’ll help develop the intelligent controllers that power advanced storage products. Working at the intersection of hardware, firmware, and silicon, you’ll design, integrate, verify, and validate complex SoC solutions that deliver high performance, reliability, and efficiency.</p><p>What you’ll do</p><ul><li>Design, integrate, and validate SoC components and subsystems</li><li>Develop and verify digital logic, interfaces, and IP blocks</li><li>Support simulation, debugging, and hardware bring-up</li><li>Analyze system performance, power, timing, and reliability</li><li>Collaborate with ASIC, firmware, hardware, and systems engineering teams</li></ul><p>Technologies you’ll use<br>\nSoC Architecture • RTL • Verilog/SystemVerilog • FPGA • Digital Design • Verification • Embedded Systems • Hardware Validation • Performance Optimization</p><p>Why you’ll love this role</p><ul><li>Build the controllers that power modern storage technology.</li><li>Work across silicon, firmware, hardware, and systems engineering.</li><li>Experience the complete chip development lifecycle.</li><li>Solve complex semiconductor design challenges.</li><li>Develop highly marketable SoC engineering skills.</li></ul><p>&#xa0;</p><p>This role is part of WD's early career development program.&#xa0;WD's early career development program is ideal for individuals at the early stages of their professional career.&#xa0; Participants receive foundational training through structured onboarding, mentorship, and a curated development curriculum. The responsibilities of this role are typically aligned with candidates who have approximately&#xa0;0–2+ years of relevant professional experience, though candidates of all experience levels are encouraged to apply.</p>"
+   },
+   "qualifications": {
+    "title": "Qualifications",
+    "text": "<p><strong>Required:</strong></p><ul><li>Currently pursuing or recently completed a Bachelor’s, Master’s, or Ph.D. degree in Computer Science, Computer Engineering, Electrical Engineering, Mechanical Engineering, Systems Engineering, Software Engineering, Manufacturing Engineering, Industrial Engineering, Mechatronics, Materials Engineering, Data Science, or a related engineering or technical discipline.</li><li>Experience developing technical skills through coursework, internships, co-ops, research, laboratory work, capstone projects, hackathons, or personal projects in one or more areas such as software development, embedded systems, firmware, ASIC/SoC design, hardware development, systems engineering, mechanical design, manufacturing, automation, data analysis, testing, validation, or related engineering disciplines.</li><li>Familiarity with engineering fundamentals and one or more relevant technical areas, including programming (C, C++, Python, Java, Go, SQL, JavaScript, or similar), digital logic, embedded systems, computer architecture, electronics, mechanical design, CAD, manufacturing processes, automation, testing, simulation, verification, debugging, data analysis, or systems integration.</li><li>Demonstrated analytical, problem-solving, and communication skills with the ability to collaborate effectively in a cross-functional engineering environment.</li></ul><ul><li>Strong analytical, critical thinking, and problem-solving skills with a passion for learning new technologies.</li><li>Excellent written and verbal communication skills and the ability to collaborate effectively in a team environment.</li><li>Proficiency with Microsoft Office and common software development tools (such as Git, Linux, or IDEs) is a plus.</li><li>Interest in storage technologies, semiconductors, embedded systems, cloud computing, AI, data analytics, or other emerging technologies.</li></ul>"
+   },
+   "additionalInformation": {
+    "title": "Additional Information",
+    "text": "<p>WD is committed to providing equal opportunities to all applicants and employees and will not discriminate against any applicant or employee based on their race, color, ancestry, religion (including religious dress and grooming standards), sex (including pregnancy, childbirth or related medical conditions, breastfeeding or related medical conditions), gender (including a person’s gender identity, gender expression, and gender-related appearance and behavior, whether or not stereotypically associated with the person’s assigned sex at birth), age, national origin, sexual orientation, medical condition, marital status (including domestic partnership status), physical disability, mental disability, medical condition, genetic information, protected medical and family care leave, Civil Air Patrol status, military and veteran status, or other legally protected characteristics. We also prohibit harassment of any individual on any of the characteristics listed above. Our non-discrimination policy applies to all aspects of employment. We comply with the laws and regulations set forth in the \"<a href=\"https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12.pdf\" rel=\"noopener noreferrer\">Know Your Rights: Workplace Discrimination is Illegal</a>” poster. Our pay transparency policy is available <a href=\"https://www.dol.gov/agencies/wb/equal-pay-protections\" rel=\"noopener noreferrer\">here</a>.</p><p>WD thrives on the power and potential of diversity. As a global company, we believe the most effective way to embrace the diversity of our customers and communities is to mirror it from within. We believe the fusion of various perspectives results in the best outcomes for our employees, our company, our customers, and the world around us. We are committed to an inclusive environment where every individual can thrive through a sense of belonging, respect and contribution.</p><p>WD is committed to offering opportunities to applicants with disabilities and ensuring all candidates can successfully navigate our careers website and our hiring process. Please contact us at <a href=\"mailto:jobs.accommodations@wdc.com\" rel=\"noopener noreferrer\">jobs.accommodations@wdc.com</a> to advise us of your accommodation request. In your email, please include a description of the specific accommodation you are requesting as well as the job title and requisition number of the position for which you are applying.</p><p>Based on our experience, we anticipate that the application deadline will be <strong>10/31/26</strong>, although we reserve the right to close the application process sooner if we hire an applicant for this position before the application deadline. If we are not able to hire someone from this role before the application deadline, we will update this posting with a new anticipated application deadlin</p><p>#LI-MT</p><div sr-tagline=\"\"></div><p><strong>Compensation &amp; Benefits Details</strong></p><ul><li>An employee’s pay position within the salary range may be based on several factors including but not limited to (1) relevant education; qualifications; certifications; and experience; (2) skills, ability, knowledge of the job; (3) performance, contribution and results; (4) geographic location; (5) shift; (6) internal and external equity; and (7) business and organizational needs.</li><li>The&#xa0;salary&#xa0;range is what we believe to be the range of possible compensation for this role at the time of this posting.&#xa0; We may ultimately pay more or less than the posted range and this range is only applicable for jobs to be performed in California, Colorado, New York&#xa0;or remote jobs that can be performed in California, Colorado and New York.&#xa0; This range may be modified in the future.</li><li>If your position is non-exempt, you are eligible for overtime pay pursuant to company policy and applicable laws.&#xa0; You may also be eligible for shift differential pay, depending on the shift to which you are assigned.</li><li><p>You will be eligible to be considered for bonuses under&#xa0;<strong>either </strong>WD’s Short Term Incentive Plan (“STI Plan”) or the&#xa0;Sales Incentive Plan (“SIP”) which provides incentive awards based on Company and individual performance, depending on your role and your performance. You may be eligible to participate in our annual Long-Term Incentive (LTI) program, which consists of restricted stock units (RSUs) or cash equivalents, pursuant to the terms of the LTI plan. Please note that not all roles are eligible to participate in the LTI program, and not all roles are eligible for equity under the LTI plan. RSU awards are also available to eligible new hires, subject to WD'S&#xa0;Standard Terms and Conditions for Restricted Stock Unit Awards.</p></li><li>We offer a comprehensive package of benefits including paid vacation time; paid sick leave; medical/dental/vision insurance; life, accident and disability insurance; tax-advantaged flexible spending and health savings accounts; employee assistance program; other voluntary benefit programs such as supplemental life and AD&amp;D, legal plan, pet insurance, critical illness, accident and hospital indemnity; tuition reimbursement; transit; the Applause Program; employee stock purchase plan; and the WD Savings 401(k) Plan.</li><li><strong>Note:</strong> No amount of pay is considered to be wages or compensation until such amount is earned, vested, and determinable. The amount and availability of any bonus, commission, benefits, or any other form of compensation and benefits that are allocable to a particular employee remains in the Company's sole discretion unless and until paid and may be modified at the Company’s sole discretion, consistent with the law.</li></ul><p><strong>Notice To Candidates: </strong>Please be aware that WD and its subsidiaries will never request payment as a condition for applying for a position or receiving an offer of employment. Should you encounter any such requests, please report it immediately to&#xa0;<a href=\"https://secure.ethicspoint.com/domain/media/en/gui/48999/index.html\" rel=\"noopener noreferrer\">WD Ethics Helpline</a>&#xa0;or email <a href=\"mailto:compliance@wdc.com\" rel=\"noopener noreferrer\">compliance@wdc.com</a>.</p>"
+   }
+  }
+ },
+ "compensation": {
+  "min": 34,
+  "max": 47,
+  "currency": "USD",
+  "period": "HOURLY"
+ },
+ "active": true,
+ "visibility": "PUBLIC",
+ "industry": {
+  "id": "computer_hardware",
+  "label": "Computer Hardware"
+ },
+ "function": {
+  "id": "engineering",
+  "label": "Engineering"
+ },
+ "experienceLevel": {
+  "id": "internship",
+  "label": "Internship"
+ },
+ "typeOfEmployment": {
+  "id": "intern",
+  "label": "Intern"
+ },
+ "language": {
+  "code": "en",
+  "label": "English",
+  "labelNative": "English (US)"
+ }
+}

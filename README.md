@@ -73,6 +73,22 @@ change. Commit when convenient — it's your data.
 See `PROGRAMS.md` for the curated freshman/sophomore program list the
 watcher can't poll (custom career sites).
 
+## Fetching a full job description
+
+For tailoring a resume (or just reading the whole posting without the
+board's JS app), `jd` pulls the complete description as plain text from
+the same ATS APIs the watcher polls:
+
+```
+PYTHONPATH=src python -m intern_radar jd <posting-url>
+PYTHONPATH=src python -m intern_radar jd <posting-url> --out jd.md
+PYTHONPATH=src python -m intern_radar jd "https://stripe.com/jobs/search?gh_jid=123" --board stripe
+```
+
+Supported posting URLs: Greenhouse (`boards.greenhouse.io`/`job-boards.`
+paths, plus custom-domain `?gh_jid=` links with `--board`), Lever, Ashby,
+Workday (`*.myworkdayjobs.com`, locale prefixes fine), SmartRecruiters.
+
 ## Development
 
 ```

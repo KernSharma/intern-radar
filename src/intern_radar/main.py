@@ -11,6 +11,8 @@ from pathlib import Path
 
 from intern_radar.config import Config, load_config
 from intern_radar.filters import apply_filters
+from intern_radar.http import FetchError
+from intern_radar.jd import JDError, fetch_jd
 from intern_radar.models import Posting
 from intern_radar.notify import (
     NotifyError,
@@ -174,6 +176,22 @@ def run_track(args: argparse.Namespace) -> int:
     return 0
 
 
+def run_jd(args: argparse.Namespace) -> int:
+    try:
+        jd = fetch_jd(args.url, board=args.board)
+    except (JDError, FetchError) as e:
+        print(f"error: {e}", file=sys.stderr)
+        return 2
+    rendered = jd.render()
+    if args.out:
+        args.out.parent.mkdir(parents=True, exist_ok=True)
+        args.out.write_text(rendered, encoding="utf-8", newline="\n")
+        print(f"wrote {args.out} ({jd.company} — {jd.title})")
+    else:
+        print(rendered)
+    return 0
+
+
 def main(argv: list[str] | None = None) -> int:
     # Posting titles carry arbitrary Unicode; don't let a cp1252 Windows
     # console turn one odd character into a crashed run.
@@ -209,10 +227,19 @@ def main(argv: list[str] | None = None) -> int:
     set_p.add_argument("--note")
     list_p = track_sub.add_parser("list", help="list tracked applications")
     list_p.add_argument("--status", choices=STATUSES)
+    jd_p = sub.add_parser("jd", help="fetch the full job description for a posting URL")
+    jd_p.add_argument("url")
+    jd_p.add_argument("--out", type=Path, help="write to a file instead of stdout")
+    jd_p.add_argument(
+        "--board", default="",
+        help="greenhouse board slug, needed only for custom-domain ?gh_jid= URLs",
+    )
 
     args = parser.parse_args(argv)
     if args.command == "track":
         return run_track(args)
+    if args.command == "jd":
+        return run_jd(args)
     # Honor a bootstrap request coming from a workflow_dispatch input.
     bootstrap = args.bootstrap or os.environ.get("RADAR_BOOTSTRAP", "") == "true"
     return run(args.config, args.state, bootstrap=bootstrap, dry_run=args.dry_run)
