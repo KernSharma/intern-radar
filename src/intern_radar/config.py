@@ -13,6 +13,9 @@ class FilterConfig:
     degrees_any: tuple[str, ...] = ()
     title_require_any: tuple[str, ...] = ("intern",)
     title_exclude: tuple[str, ...] = ()
+    # Applied only to postings with no term metadata (direct ATS boards);
+    # term-bearing listings are already gated by `terms`.
+    untermed_title_exclude: tuple[str, ...] = ()
     location_exclude: tuple[str, ...] = ()
 
 
@@ -22,6 +25,8 @@ class SourcesConfig:
     greenhouse_boards: tuple[str, ...] = ()
     lever_companies: tuple[str, ...] = ()
     ashby_orgs: tuple[str, ...] = ()
+    workday_boards: tuple[str, ...] = ()
+    smartrecruiters_companies: tuple[str, ...] = ()
 
 
 @dataclass(frozen=True)
@@ -55,6 +60,7 @@ def load_config(path: Path) -> Config:
         degrees_any=_str_tuple(f_raw.get("degrees_any", [])),
         title_require_any=_str_tuple(f_raw.get("title_require_any", ["intern"])),
         title_exclude=_str_tuple(f_raw.get("title_exclude", [])),
+        untermed_title_exclude=_str_tuple(f_raw.get("untermed_title_exclude", [])),
         location_exclude=_str_tuple(f_raw.get("location_exclude", [])),
     )
 
@@ -64,6 +70,10 @@ def load_config(path: Path) -> Config:
         greenhouse_boards=_str_tuple(s_raw.get("greenhouse", {}).get("boards", [])),
         lever_companies=_str_tuple(s_raw.get("lever", {}).get("companies", [])),
         ashby_orgs=_str_tuple(s_raw.get("ashby", {}).get("orgs", [])),
+        workday_boards=_str_tuple(s_raw.get("workday", {}).get("boards", [])),
+        smartrecruiters_companies=_str_tuple(
+            s_raw.get("smartrecruiters", {}).get("companies", [])
+        ),
     )
 
     n_raw = data.get("notify", {})

@@ -18,7 +18,14 @@ from intern_radar.notify import (
     notify_discord,
     notify_github_issue,
 )
-from intern_radar.sources import fetch_ashby, fetch_greenhouse, fetch_lever, fetch_simplify
+from intern_radar.sources import (
+    fetch_ashby,
+    fetch_greenhouse,
+    fetch_lever,
+    fetch_simplify,
+    fetch_smartrecruiters,
+    fetch_workday,
+)
 from intern_radar.state import SeenStore
 
 FetchJob = tuple[str, Callable[[], list[Posting]]]
@@ -34,6 +41,12 @@ def build_fetch_jobs(config: Config) -> list[FetchJob]:
         jobs.append((f"lever:{company}", functools.partial(fetch_lever, company)))
     for org in config.sources.ashby_orgs:
         jobs.append((f"ashby:{org}", functools.partial(fetch_ashby, org)))
+    for board in config.sources.workday_boards:
+        jobs.append((f"workday:{board}", functools.partial(fetch_workday, board)))
+    for company in config.sources.smartrecruiters_companies:
+        jobs.append(
+            (f"smartrecruiters:{company}", functools.partial(fetch_smartrecruiters, company))
+        )
     return jobs
 
 

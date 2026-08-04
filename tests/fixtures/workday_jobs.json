@@ -1,0 +1,71 @@
+{
+  "total": 4,
+  "jobPostings": [
+    {
+      "title": "Quantitative Researcher Intern, Summer 2027",
+      "externalPath": "/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505",
+      "locationsText": "Boston",
+      "postedOn": "Posted 18 Days Ago",
+      "bulletFields": [
+        "R1505"
+      ]
+    },
+    {
+      "title": "Quantitative Developer Intern, Summer 2027",
+      "externalPath": "/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506",
+      "locationsText": "Boston",
+      "postedOn": "Posted 24 Days Ago",
+      "bulletFields": [
+        "R1506"
+      ]
+    },
+    {
+      "title": "Quantitative Researcher",
+      "externalPath": "/job/Boston/Quantitative-Researcher_R1066-5",
+      "locationsText": "Boston",
+      "postedOn": "Posted 25 Days Ago",
+      "bulletFields": [
+        "R1066"
+      ]
+    },
+    {
+      "title": "Quantitative Developer",
+      "externalPath": "/job/Boston/Quantitative-Developer_R1433",
+      "locationsText": "Boston",
+      "postedOn": "Posted 30+ Days Ago",
+      "bulletFields": [
+        "R1433"
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "facetParameter": "jobFamily",
+      "descriptor": "Department",
+      "values": [
+        {
+          "descriptor": "Research",
+          "id": "601c2ce6c49f1001efc7318be5c10000",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "facetParameter": "locationMainGroup",
+      "values": [
+        {
+          "facetParameter": "locations",
+          "descriptor": "Location",
+          "values": [
+            {
+              "descriptor": "Boston",
+              "id": "4ba3863bdfd901c2b16a21fd7beb211a",
+              "count": 4
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "userAuthenticated": false
+}

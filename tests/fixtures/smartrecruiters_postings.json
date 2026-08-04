@@ -1,0 +1,343 @@
+{
+  "offset": 0,
+  "limit": 100,
+  "totalFound": 3,
+  "content": [
+    {
+      "id": "744000141247940",
+      "name": "環境・安全衛生マネージャー (Environmental Health & Safety Manager)",
+      "uuid": "027cb8ad-cbfc-4672-88cf-ef3584c198c8",
+      "jobAdId": "9b6134b0-bb09-46d6-825a-c188deda1e77",
+      "defaultJobAd": true,
+      "refNumber": "REF33122V",
+      "company": {
+        "identifier": "WesternDigital",
+        "name": "Western Digital"
+      },
+      "releasedDate": "2026-08-03T12:14:04.401Z",
+      "location": {
+        "city": "Fujisawa",
+        "region": "Kanagawa",
+        "country": "jp",
+        "remote": false,
+        "hybrid": false,
+        "latitude": "35.3391654",
+        "longitude": "139.49014",
+        "fullLocation": "Fujisawa, Kanagawa, Japan"
+      },
+      "industry": {
+        "id": "electrical_manufacturing",
+        "label": "Electrical And Electronic Manufacturing"
+      },
+      "department": {},
+      "function": {
+        "id": "finance",
+        "label": "Finance"
+      },
+      "typeOfEmployment": {
+        "id": "permanent",
+        "label": "Full-time"
+      },
+      "experienceLevel": {
+        "id": "associate",
+        "label": "Associate"
+      },
+      "customField": [
+        {
+          "fieldId": "61e861216796ff005736d217",
+          "fieldLabel": "Job Type (exemption status)",
+          "valueId": "5f54df38-41d3-4559-9067-0b50c42e6e4f",
+          "valueLabel": "Exempt position - Please see related compensation & benefits details below"
+        },
+        {
+          "fieldId": "625777e42ea6bf323c991b94",
+          "fieldLabel": "Positions",
+          "valueId": "P-0000195275",
+          "valueLabel": "環境・安全衛生マネージャー (Environmental Health & Safety Manager) (Unfilled)--P-0000195275"
+        },
+        {
+          "fieldId": "60706a574748e43c47b1856e",
+          "fieldLabel": "Business Function",
+          "valueId": "Environmental Health & Safety",
+          "valueLabel": "Environmental Health & Safety"
+        },
+        {
+          "fieldId": "606f52f879838c3f1a5df578",
+          "fieldLabel": "Brands",
+          "valueId": "default",
+          "valueLabel": "Western Digital"
+        },
+        {
+          "fieldId": "COUNTRY",
+          "fieldLabel": "Country/Region",
+          "valueId": "jp",
+          "valueLabel": "Japan"
+        },
+        {
+          "fieldId": "607069e34bb1b86edc4b1150",
+          "fieldLabel": "Job Profile",
+          "valueId": "101641",
+          "valueLabel": "Manager, Environmental Health & Safety - 101641"
+        },
+        {
+          "fieldId": "60706c0fab6dab4d36f48132",
+          "fieldLabel": "Company",
+          "valueId": "CO_HGST Japan Ltd",
+          "valueLabel": "JP-Western Digital Technologies GK--CO_HGST Japan Ltd"
+        },
+        {
+          "fieldId": "60706ba04748e43c47b18571",
+          "fieldLabel": "Work Location",
+          "valueId": "LOC_HGST_FUJ",
+          "valueLabel": "Fujisawa Office--LOC_HGST_FUJ"
+        },
+        {
+          "fieldId": "607066faab6dab4d36f48130",
+          "fieldLabel": "Requisition Type",
+          "valueId": "f6e645f7-335d-4432-b11b-c31381d1a39f",
+          "valueLabel": "Professional"
+        },
+        {
+          "fieldId": "634d66856a77a2043e8bcc3e",
+          "fieldLabel": "Approved Job Grade",
+          "valueLabel": "M108"
+        }
+      ],
+      "visibility": "PUBLIC",
+      "ref": "https://api.smartrecruiters.com/v1/companies/WesternDigital/postings/744000141247940",
+      "language": {
+        "code": "en",
+        "label": "English",
+        "labelNative": "English (US)"
+      }
+    },
+    {
+      "id": "744000141229015",
+      "name": "Intern - Data Science",
+      "uuid": "9154fc04-80cd-4327-bd04-0f221822e840",
+      "jobAdId": "752f8c1f-a730-4887-b1f2-5f3185b06d9d",
+      "defaultJobAd": true,
+      "refNumber": "REF33875Y",
+      "company": {
+        "identifier": "WesternDigital",
+        "name": "Western Digital"
+      },
+      "releasedDate": "2026-08-03T10:34:13.038Z",
+      "location": {
+        "city": "Bayan Lepas",
+        "region": "Penang",
+        "country": "my",
+        "remote": false,
+        "hybrid": false,
+        "latitude": "5.322244",
+        "longitude": "100.2770565",
+        "fullLocation": "Bayan Lepas, Penang, Malaysia"
+      },
+      "industry": {
+        "id": "computer_hardware",
+        "label": "Computer Hardware"
+      },
+      "department": {},
+      "function": {
+        "id": "engineering",
+        "label": "Engineering"
+      },
+      "typeOfEmployment": {
+        "id": "intern",
+        "label": "Intern"
+      },
+      "experienceLevel": {
+        "id": "internship",
+        "label": "Internship"
+      },
+      "customField": [
+        {
+          "fieldId": "61e861216796ff005736d217",
+          "fieldLabel": "Job Type (exemption status)",
+          "valueId": "5f54df38-41d3-4559-9067-0b50c42e6e4f",
+          "valueLabel": "Exempt position - Please see related compensation & benefits details below"
+        },
+        {
+          "fieldId": "625777e42ea6bf323c991b94",
+          "fieldLabel": "Positions",
+          "valueId": "P-0000196141",
+          "valueLabel": "Intern - Data Science (Unfilled)--P-0000196141"
+        },
+        {
+          "fieldId": "60706a574748e43c47b1856e",
+          "fieldLabel": "Business Function",
+          "valueId": "Engineering Support",
+          "valueLabel": "Engineering Support"
+        },
+        {
+          "fieldId": "606f52f879838c3f1a5df578",
+          "fieldLabel": "Brands",
+          "valueId": "default",
+          "valueLabel": "Western Digital"
+        },
+        {
+          "fieldId": "64bab6e62b28b434523803f7",
+          "fieldLabel": "UR Fiscal Season (HR USE ONLY)",
+          "valueId": "36c59f24-b084-44cb-98eb-b7e7dced6f4e",
+          "valueLabel": "FY27"
+        },
+        {
+          "fieldId": "COUNTRY",
+          "fieldLabel": "Country/Region",
+          "valueId": "my",
+          "valueLabel": "Malaysia"
+        },
+        {
+          "fieldId": "607069e34bb1b86edc4b1150",
+          "fieldLabel": "Job Profile",
+          "valueId": "107966",
+          "valueLabel": "Intern, Technical (Undergraduate) - 107966"
+        },
+        {
+          "fieldId": "60706c0fab6dab4d36f48132",
+          "fieldLabel": "Company",
+          "valueId": "CO_WD Media (Malaysia) Sdn.",
+          "valueLabel": "MY-WD Media (Malaysia) Sdn.--CO_WD Media (Malaysia) Sdn."
+        },
+        {
+          "fieldId": "60706ba04748e43c47b18571",
+          "fieldLabel": "Work Location",
+          "valueId": "LOC_WDT_MY0703",
+          "valueLabel": "Bayan Lepas PN1--LOC_WDT_MY0703"
+        },
+        {
+          "fieldId": "607066faab6dab4d36f48130",
+          "fieldLabel": "Requisition Type",
+          "valueId": "a2311865-65a3-49cb-bc3c-708cda919836",
+          "valueLabel": "UR - Intern"
+        },
+        {
+          "fieldId": "634d66856a77a2043e8bcc3e",
+          "fieldLabel": "Approved Job Grade",
+          "valueLabel": "I301"
+        }
+      ],
+      "visibility": "PUBLIC",
+      "ref": "https://api.smartrecruiters.com/v1/companies/WesternDigital/postings/744000141229015",
+      "language": {
+        "code": "en",
+        "label": "English",
+        "labelNative": "English (US)"
+      }
+    },
+    {
+      "id": "744000141229499",
+      "name": "Intern- Firmware Engineering",
+      "uuid": "3eea5514-7efc-49bd-be10-c47b24e78619",
+      "jobAdId": "fa5faf20-8434-4b71-a705-b74f9a547532",
+      "defaultJobAd": true,
+      "refNumber": "REF33841V",
+      "company": {
+        "identifier": "WesternDigital",
+        "name": "Western Digital"
+      },
+      "releasedDate": "2026-08-03T10:30:19.190Z",
+      "location": {
+        "city": "Petaling Jaya",
+        "region": "Selangor",
+        "country": "my",
+        "remote": false,
+        "hybrid": false,
+        "latitude": "3.1291518",
+        "longitude": "101.6165247",
+        "fullLocation": "Petaling Jaya, Selangor, Malaysia"
+      },
+      "industry": {
+        "id": "computer_hardware",
+        "label": "Computer Hardware"
+      },
+      "department": {},
+      "function": {
+        "id": "engineering",
+        "label": "Engineering"
+      },
+      "typeOfEmployment": {
+        "id": "intern",
+        "label": "Intern"
+      },
+      "experienceLevel": {
+        "id": "internship",
+        "label": "Internship"
+      },
+      "customField": [
+        {
+          "fieldId": "61e861216796ff005736d217",
+          "fieldLabel": "Job Type (exemption status)",
+          "valueId": "5f54df38-41d3-4559-9067-0b50c42e6e4f",
+          "valueLabel": "Exempt position - Please see related compensation & benefits details below"
+        },
+        {
+          "fieldId": "625777e42ea6bf323c991b94",
+          "fieldLabel": "Positions",
+          "valueId": "P-0000196077",
+          "valueLabel": "Intern- Firmware Engineering (Unfilled)--P-0000196077"
+        },
+        {
+          "fieldId": "60706a574748e43c47b1856e",
+          "fieldLabel": "Business Function",
+          "valueId": "Engineering Support",
+          "valueLabel": "Engineering Support"
+        },
+        {
+          "fieldId": "606f52f879838c3f1a5df578",
+          "fieldLabel": "Brands",
+          "valueId": "default",
+          "valueLabel": "Western Digital"
+        },
+        {
+          "fieldId": "64bab6e62b28b434523803f7",
+          "fieldLabel": "UR Fiscal Season (HR USE ONLY)",
+          "valueId": "36c59f24-b084-44cb-98eb-b7e7dced6f4e",
+          "valueLabel": "FY27"
+        },
+        {
+          "fieldId": "COUNTRY",
+          "fieldLabel": "Country/Region",
+          "valueId": "my",
+          "valueLabel": "Malaysia"
+        },
+        {
+          "fieldId": "607069e34bb1b86edc4b1150",
+          "fieldLabel": "Job Profile",
+          "valueId": "107966",
+          "valueLabel": "Intern, Technical (Undergraduate) - 107966"
+        },
+        {
+          "fieldId": "60706c0fab6dab4d36f48132",
+          "fieldLabel": "Company",
+          "valueId": "CO_WD Western Digital Tech And Regional Center (M) Sdn. Bhd",
+          "valueLabel": "MY-Western Digital Tech And Regional Center (M) Sdn. Bhd.--CO_WD Western Digital Tech And Regional Center (M) Sdn. Bhd"
+        },
+        {
+          "fieldId": "60706ba04748e43c47b18571",
+          "fieldLabel": "Work Location",
+          "valueId": "LOC_WDT_KL COE",
+          "valueLabel": "KL COE Office--LOC_WDT_KL COE"
+        },
+        {
+          "fieldId": "607066faab6dab4d36f48130",
+          "fieldLabel": "Requisition Type",
+          "valueId": "a2311865-65a3-49cb-bc3c-708cda919836",
+          "valueLabel": "UR - Intern"
+        },
+        {
+          "fieldId": "634d66856a77a2043e8bcc3e",
+          "fieldLabel": "Approved Job Grade",
+          "valueLabel": "I301"
+        }
+      ],
+      "visibility": "PUBLIC",
+      "ref": "https://api.smartrecruiters.com/v1/companies/WesternDigital/postings/744000141229499",
+      "language": {
+        "code": "en",
+        "label": "English",
+        "labelNative": "English (US)"
+      }
+    }
+  ]
+}

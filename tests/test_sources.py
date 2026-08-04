@@ -8,6 +8,8 @@ from intern_radar.sources.ashby import parse_ashby
 from intern_radar.sources.greenhouse import parse_greenhouse
 from intern_radar.sources.lever import parse_lever
 from intern_radar.sources.simplify import parse_simplify
+from intern_radar.sources.smartrecruiters import parse_smartrecruiters
+from intern_radar.sources.workday import parse_workday
 
 
 def test_greenhouse_parses_real_payload(load_fixture: Any) -> None:
@@ -73,6 +75,44 @@ def test_simplify_parses_and_drops_inactive_invisible(load_fixture: Any) -> None
     assert palantir.posted_at == "2025-12-12"  # date_posted is epoch seconds
 
 
+def test_workday_parses_real_payload(load_fixture: Any) -> None:
+    postings = parse_workday(
+        "arrowstreetcapital.wd5/Campus_Careers", load_fixture("workday_jobs.json")
+    )
+    assert len(postings) == 4
+    intern = postings[0]
+    assert intern.key == (
+        "workday:arrowstreetcapital.wd5/Campus_Careers"
+        ":/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505"
+    )
+    assert intern.company == "arrowstreetcapital"
+    assert intern.title == "Quantitative Researcher Intern, Summer 2027"
+    # Constructed URL format verified live (HTTP 200) on 2026-08-03.
+    assert intern.url == (
+        "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers"
+        "/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505"
+    )
+    assert intern.locations == ("Boston",)
+    assert intern.posted_at == ""  # Workday only exposes relative text
+
+
+def test_smartrecruiters_parses_real_payload(load_fixture: Any) -> None:
+    postings = parse_smartrecruiters(
+        "WesternDigital", load_fixture("smartrecruiters_postings.json")
+    )
+    assert len(postings) == 3
+    intern = postings[1]
+    assert intern.key == "smartrecruiters:WesternDigital:744000141229015"
+    assert intern.company == "Western Digital"  # display name, not the identifier
+    assert intern.title == "Intern - Data Science"
+    assert intern.url == "https://jobs.smartrecruiters.com/WesternDigital/744000141229015"
+    assert intern.locations == ("Bayan Lepas, Penang, Malaysia",)
+    assert intern.posted_at == "2026-08-03"
+    assert intern.employment_type == "Intern"
+    # Non-intern posting parses too (filtering is the filter layer's job).
+    assert postings[0].employment_type == "Full-time"
+
+
 @pytest.mark.parametrize(
     ("parse", "bad"),
     [
@@ -80,6 +120,8 @@ def test_simplify_parses_and_drops_inactive_invisible(load_fixture: Any) -> None
         (lambda p: parse_greenhouse("x", p), ["not a dict"]),
         (lambda p: parse_lever("x", p), {"not": "a list"}),
         (lambda p: parse_ashby("x", p), ["not a dict"]),
+        (lambda p: parse_workday("x/y", p), ["not a dict"]),
+        (lambda p: parse_smartrecruiters("x", p), ["not a dict"]),
     ],
 )
 def test_parsers_reject_wrong_shapes(parse: Any, bad: Any) -> None:

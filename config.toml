@@ -21,6 +21,10 @@ degrees_any = ["Bachelor's"]
 title_require_any = ["intern", "co-op", "coop", "co op"]
 # Reject any posting whose title contains one of these.
 title_exclude = ["senior", "staff", "principal", "unpaid", "mba intern", "phd"]
+# Extra excludes for postings WITHOUT term metadata (direct ATS boards):
+# dated non-target cycles are noise there, but term-bearing listings are
+# already gated by `terms` (a "Fall 2026 & Summer 2027" listing still passes).
+untermed_title_exclude = ["fall 2026", "spring 2026", "winter 2026", "summer 2026"]
 # Reject a posting only if ALL of its listed locations match one of these
 # substrings (a multi-location posting with one acceptable site still passes).
 location_exclude = []
@@ -49,6 +53,21 @@ companies = ["palantir", "waabi", "tri"]
 
 [sources.ashby]
 orgs = ["ramp", "perplexity", "cohere", "applied", "etched", "rivianvw.tech"]
+
+# Workday boards as "tenant.instance/site" (from the board URL:
+# https://TENANT.INSTANCE.myworkdayjobs.com/SITE/...). Queried with
+# searchText=intern server-side. Slugs verified live 2026-08-03.
+[sources.workday]
+boards = [
+    "arrowstreetcapital.wd5/Campus_Careers",
+    "paloaltonetworks.wd5/panwexternalcareers",
+    "synchronyfinancial.wd5/University",
+    "ciena.wd5/Careers",
+]
+
+# SmartRecruiters company identifiers (from jobs.smartrecruiters.com/IDENTIFIER/...).
+[sources.smartrecruiters]
+companies = ["LinkedIn3", "WesternDigital", "LLNL", "BoschGroup"]
 
 [notify]
 # Opens one GitHub Issue per run listing all new matches (GitHub then emails

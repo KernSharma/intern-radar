@@ -32,8 +32,12 @@ def matches(posting: Posting, filters: FilterConfig) -> bool:
             or bool(set(posting.degrees) & set(filters.degrees_any))
         )
 
-    # Direct ATS posting: the source's own employment-type label counts first
-    # (Ashby: "Intern", Lever: "Internship"), then the title keyword gate.
+    # Direct ATS posting: no term metadata, so dated-cycle noise ("Fall 2026")
+    # is excludable only by title.
+    if any(kw.lower() in title_lower for kw in filters.untermed_title_exclude):
+        return False
+    # The source's own employment-type label counts first (Ashby: "Intern",
+    # Lever: "Internship", SmartRecruiters: "Intern"), then the title gate.
     if "intern" in posting.employment_type.lower():
         return True
     return not filters.title_require_any or any(
