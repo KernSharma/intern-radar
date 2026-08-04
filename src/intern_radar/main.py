@@ -27,6 +27,13 @@ from intern_radar.sources import (
     fetch_workday,
 )
 from intern_radar.state import SeenStore
+from intern_radar.tracker import (
+    STATUSES,
+    Tracker,
+    TrackerError,
+    render_dashboard,
+    write_postings_cache,
+)
 
 FetchJob = tuple[str, Callable[[], list[Posting]]]
 
@@ -89,6 +96,9 @@ def run(config_path: Path, state_path: Path, *, bootstrap: bool, dry_run: bool) 
         notify_console(new_postings)
         return 0
 
+    # Snapshot matched postings so `track add <url>` can resolve metadata.
+    write_postings_cache(state_path.parent / "postings.json", matched)
+
     # A missing state file means this is the first run: bootstrap implicitly,
     # otherwise the first cron tick after pushing floods one giant issue.
     if bootstrap or not store.path.exists():
@@ -135,6 +145,35 @@ def run(config_path: Path, state_path: Path, *, bootstrap: bool, dry_run: bool) 
     return 0
 
 
+def run_track(args: argparse.Namespace) -> int:
+    data_dir: Path = args.state.parent
+    tracker = Tracker.load(data_dir / "applications.json")
+    today = datetime.now(tz=UTC).date().isoformat()
+    try:
+        if args.action == "add":
+            app = tracker.add(
+                args.url, args.status, today, data_dir / "postings.json",
+                company=args.company or "", title=args.title or "", note=args.note or "",
+            )
+            print(f"tracked: {app.company} — {app.title} [{app.status}]")
+        elif args.action == "set":
+            app = tracker.set_status(args.url, args.status, today, note=args.note or "")
+            print(f"updated: {app.company} — {app.title} [{app.status}]")
+        else:  # list
+            for key in sorted(tracker.apps):
+                app = tracker.apps[key]
+                if args.status and app.status != args.status:
+                    continue
+                print(f"[{app.status:9}] {app.company} — {app.title}  {app.url}")
+            return 0
+    except TrackerError as e:
+        print(f"error: {e}", file=sys.stderr)
+        return 2
+    tracker.save()
+    args.dashboard.write_text(render_dashboard(tracker), encoding="utf-8", newline="\n")
+    return 0
+
+
 def main(argv: list[str] | None = None) -> int:
     # Posting titles carry arbitrary Unicode; don't let a cp1252 Windows
     # console turn one odd character into a crashed run.
@@ -154,7 +193,26 @@ def main(argv: list[str] | None = None) -> int:
         action="store_true",
         help="fetch, filter, and print; no notifications, no state writes",
     )
+    sub = parser.add_subparsers(dest="command")
+    track = sub.add_parser("track", help="track application pipeline state")
+    track.add_argument("--dashboard", type=Path, default=Path("APPLICATIONS.md"))
+    track_sub = track.add_subparsers(dest="action", required=True)
+    add_p = track_sub.add_parser("add", help="start tracking a posting you applied to")
+    add_p.add_argument("url")
+    add_p.add_argument("--status", choices=STATUSES, default="applied")
+    add_p.add_argument("--company")
+    add_p.add_argument("--title")
+    add_p.add_argument("--note")
+    set_p = track_sub.add_parser("set", help="move an application to a new stage")
+    set_p.add_argument("url")
+    set_p.add_argument("status", choices=STATUSES)
+    set_p.add_argument("--note")
+    list_p = track_sub.add_parser("list", help="list tracked applications")
+    list_p.add_argument("--status", choices=STATUSES)
+
     args = parser.parse_args(argv)
+    if args.command == "track":
+        return run_track(args)
     # Honor a bootstrap request coming from a workflow_dispatch input.
     bootstrap = args.bootstrap or os.environ.get("RADAR_BOOTSTRAP", "") == "true"
     return run(args.config, args.state, bootstrap=bootstrap, dry_run=args.dry_run)

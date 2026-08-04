@@ -14,11 +14,12 @@ and for the big early-cycle programs, applying in the first day matters.
 
 ```
 SimplifyJobs listings.json ─┐
-Greenhouse boards API       ├─> normalize ─> filter (term/degree/title/location)
-Lever postings API          │        │
-Ashby job-board API ────────┘        v
-                    diff vs data/seen.json ─> new? ─> GitHub Issue + Discord
-                                     │                 (you review, you apply)
+Greenhouse boards API       │
+Lever postings API          ├─> normalize ─> filter (term/degree/title/location)
+Ashby job-board API         │        │
+Workday CXS API             │        v
+SmartRecruiters API ────────┘  diff vs data/seen.json ─> new? ─> Issue + Discord
+                                     │                     (you review, you apply)
                                      └──── state committed back by the Action
 ```
 
@@ -48,6 +49,25 @@ PYTHONPATH=src python -m intern_radar --dry-run
 # first run: mark everything currently live as seen
 PYTHONPATH=src python -m intern_radar --bootstrap
 ```
+
+## Tracking applications
+
+Once you apply, track the pipeline in the same repo:
+
+```
+PYTHONPATH=src python -m intern_radar track add <posting-url>       # marks applied
+PYTHONPATH=src python -m intern_radar track set <posting-url> oa --note "HackerRank due 8/10"
+PYTHONPATH=src python -m intern_radar track set <posting-url> interview
+PYTHONPATH=src python -m intern_radar track list
+```
+
+Stages: `applied → oa → interview → offer` (plus `rejected`/`withdrawn`).
+Company/title resolve automatically from `data/postings.json` (snapshotted by
+every watcher run); `APPLICATIONS.md` is regenerated as a dashboard on every
+change. Commit when convenient — it's your data.
+
+See `PROGRAMS.md` for the curated freshman/sophomore program list the
+watcher can't poll (custom career sites).
 
 ## Development
 
