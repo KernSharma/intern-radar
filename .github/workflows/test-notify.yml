@@ -1,0 +1,30 @@
+name: test-notify
+
+# One-shot smoke test for the alerting chain: creates a dummy issue exactly
+# the way the watcher does (github-actions[bot] author + owner assigned +
+# cc mention) so the owner can confirm the EMAIL actually lands. Close the
+# issue after confirming; delete this workflow once trusted.
+
+on:
+  workflow_dispatch:
+
+permissions:
+  issues: write
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Create test issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          owner="${GITHUB_REPOSITORY%%/*}"
+          gh issue create \
+            --repo "$GITHUB_REPOSITORY" \
+            --title "🔔 Notification smoke test — did this email you?" \
+            --assignee "$owner" \
+            --body "If this issue produced an email (or phone notification), the alerting chain works — close this issue. If not, check Settings → Notifications → 'Participating, @mentions and custom' has Email enabled.
+
+          cc @$owner"

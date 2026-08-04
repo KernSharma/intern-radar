@@ -78,6 +78,10 @@ def test_github_issue_posts_expected_payload(monkeypatch: pytest.MonkeyPatch) ->
     payload = json.loads(req.data.decode("utf-8"))
     assert "1 new internship posting(s)" in payload["title"]
     assert "**Acme**" in payload["body"]
+    # Assign + mention: the only reliable email triggers since GitHub sunset
+    # auto-watching of own repos (May 2025).
+    assert payload["assignees"] == ["KernSharma"]
+    assert "cc @KernSharma" in payload["body"]
 
 
 def test_github_issue_raises_without_token(monkeypatch: pytest.MonkeyPatch) -> None:

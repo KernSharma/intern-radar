@@ -54,9 +54,17 @@ def notify_github_issue(postings: list[Posting], failures: tuple[str, ...] = ())
             "(disable notify.github_issues in config.toml for local runs)"
         )
     now = datetime.now(tz=UTC).strftime("%Y-%m-%d %H:%M UTC")
+    owner = repo.split("/")[0]
+    # GitHub sunset auto-watching of your own repos (May 2025), so a bare
+    # bot-created issue notifies NOBODY. Assigning the owner is a documented
+    # subscription trigger that emails regardless of watch state, and an
+    # individual @mention by github-actions[bot] delivers too. Both only work
+    # because GITHUB_TOKEN (not the owner's own PAT) authors the issue —
+    # own-activity notifications are suppressed.
     payload = {
         "title": f"{len(postings)} new internship posting(s) — {now}",
-        "body": format_issue_body(postings, failures),
+        "body": format_issue_body(postings, failures) + f"\n\ncc @{owner}",
+        "assignees": [owner],
     }
     request = urllib.request.Request(
         f"https://api.github.com/repos/{repo}/issues",
