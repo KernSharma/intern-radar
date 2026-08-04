@@ -3,6 +3,7 @@ from __future__ import annotations
 import json
 from dataclasses import asdict, dataclass, field
 from pathlib import Path
+from typing import Any
 
 from intern_radar.models import Posting, normalize_url
 
@@ -26,9 +27,20 @@ class Application:
 
 
 def write_postings_cache(path: Path, postings: list[Posting]) -> None:
-    """Snapshot matched postings so `track add <url>` can resolve metadata."""
-    payload = {
-        p.url_key: {
+    """Snapshot matched postings so `track add <url>` can resolve metadata.
+
+    Merges into the existing cache rather than replacing it: a partial-failure
+    run must not evict a healthy source's metadata, and a posting you applied
+    to stays resolvable after it closes.
+    """
+    payload: dict[str, Any] = {}
+    if path.exists():
+        with path.open("r", encoding="utf-8") as f:
+            existing = json.load(f)
+        if isinstance(existing, dict):
+            payload = existing
+    for p in postings:
+        payload[p.url_key] = {
             "company": p.company,
             "title": p.title,
             "url": p.url,
@@ -36,8 +48,6 @@ def write_postings_cache(path: Path, postings: list[Posting]) -> None:
             "posted_at": p.posted_at,
             "source": p.source,
         }
-        for p in postings
-    }
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open("w", encoding="utf-8", newline="\n") as f:
         json.dump(dict(sorted(payload.items())), f, indent=1, ensure_ascii=False)
@@ -131,6 +141,11 @@ def _cache_lookup(postings_cache: Path, key: str) -> dict[str, str] | None:
     return {"company": str(entry.get("company", "")), "title": str(entry.get("title", ""))}
 
 
+def _cell(text: str) -> str:
+    """Titles and notes carry arbitrary text; keep the markdown table intact."""
+    return " ".join(text.split()).replace("|", "\\|")
+
+
 def render_dashboard(tracker: Tracker) -> str:
     apps = list(tracker.apps.values())
     counts = {s: sum(1 for a in apps if a.status == s) for s in DISPLAY_ORDER}
@@ -152,9 +167,9 @@ def render_dashboard(tracker: Tracker) -> str:
         lines += [f"## {status} ({len(group)})", ""]
         lines += ["| Company | Role | Since | Notes |", "|---|---|---|---|"]
         for a in group:
-            notes = "; ".join(a.notes)
+            notes = _cell("; ".join(a.notes))
             lines.append(
-                f"| {a.company} | [{a.title}]({a.url}) "
+                f"| {_cell(a.company)} | [{_cell(a.title)}]({a.url}) "
                 f"| {a.history.get(a.status, '')} | {notes} |"
             )
         lines.append("")

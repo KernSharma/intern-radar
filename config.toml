@@ -22,9 +22,15 @@ title_require_any = ["intern", "co-op", "coop", "co op"]
 # Reject any posting whose title contains one of these.
 title_exclude = ["senior", "staff", "principal", "unpaid", "mba intern", "phd"]
 # Extra excludes for postings WITHOUT term metadata (direct ATS boards):
-# dated non-target cycles are noise there, but term-bearing listings are
-# already gated by `terms` (a "Fall 2026 & Summer 2027" listing still passes).
-untermed_title_exclude = ["fall 2026", "spring 2026", "winter 2026", "summer 2026"]
+# dated non-target cycles and clearly-non-SWE functions are noise there, but
+# term-bearing listings are already gated by `terms` (a "Fall 2026 & Summer
+# 2027" listing still passes). "internal" kills the "Internal Audit"/"Linux
+# Internals" substring false-positives of the recall-biased "intern" gate.
+untermed_title_exclude = [
+    "fall 2026", "spring 2026", "winter 2026", "summer 2026",
+    "internal", "sales", "legal", "marketing", "accounting",
+    "human resources", "recruiting",
+]
 # Reject a posting only if ALL of its listed locations match one of these
 # substrings (a multi-location posting with one acceptable site still passes).
 location_exclude = []

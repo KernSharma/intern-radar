@@ -63,6 +63,28 @@ def test_set_untracked_rejected(tmp_path: Path) -> None:
         tracker.set_status("https://x.example/1", "oa", "2026-08-03")
 
 
+def test_cache_merge_survives_partial_runs(tmp_path: Path) -> None:
+    # A run where one source failed must not evict metadata cached earlier,
+    # and a closed posting stays resolvable after the fact.
+    path = tmp_path / "postings.json"
+    write_postings_cache(path, [posting("Acme", "SWE Intern", "https://a.example/1")])
+    write_postings_cache(path, [posting("Beta", "Data Intern", "https://b.example/2")])
+    tracker = Tracker.load(tmp_path / "applications.json")
+    assert tracker.add("https://a.example/1", "applied", "2026-08-03", path).company == "Acme"
+    assert tracker.add("https://b.example/2", "applied", "2026-08-03", path).company == "Beta"
+
+
+def test_dashboard_escapes_pipes_and_newlines(tmp_path: Path, cache: Path) -> None:
+    tracker = Tracker.load(tmp_path / "applications.json")
+    tracker.add(
+        "https://x.example/9", "applied", "2026-08-03", cache,
+        company="Pipe|Co", title="Intern | Summer 2027", note="line1\nline2",
+    )
+    md = render_dashboard(tracker)
+    assert "| Pipe\\|Co | [Intern \\| Summer 2027](https://x.example/9)" in md
+    assert "line1 line2" in md
+
+
 def test_dashboard_groups_by_stage(tmp_path: Path, cache: Path) -> None:
     tracker = Tracker.load(tmp_path / "applications.json")
     tracker.add("https://jobs.lever.co/acme/123", "applied", "2026-08-01", cache)

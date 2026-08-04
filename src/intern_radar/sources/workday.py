@@ -6,7 +6,22 @@ from intern_radar.http import post_json
 from intern_radar.models import Posting
 
 PAGE_SIZE = 20
-MAX_RESULTS = 200  # searchText narrows server-side; this is a runaway guard
+# searchText=intern is FUZZY (matches "internal", "international", ...) and
+# results are newest-first, so a small cap silently hides older intern
+# postings on big boards (measured: 25/26 intern roles beyond offset 200 on
+# paloaltonetworks). Paginate to the full match count; this cap is only a
+# runaway guard.
+MAX_RESULTS = 1000
+
+
+def _split_board(board: str) -> tuple[str, str, str]:
+    if board.count("/") != 1:
+        raise ValueError(f"workday board must be 'tenant.instance/site', got {board!r}")
+    host_part, _, site = board.partition("/")
+    tenant = host_part.split(".")[0]
+    if not host_part or not site or not tenant:
+        raise ValueError(f"workday board must be 'tenant.instance/site', got {board!r}")
+    return host_part, tenant, site
 
 
 def parse_workday(board: str, payload: Any) -> list[Posting]:
@@ -16,17 +31,16 @@ def parse_workday(board: str, payload: Any) -> list[Posting]:
     """
     if not isinstance(payload, dict) or not isinstance(payload.get("jobPostings"), list):
         raise ValueError(f"workday:{board}: expected a dict with a 'jobPostings' list")
-    host_part, _, site = board.partition("/")
-    tenant = host_part.split(".")[0]
+    host_part, tenant, site = _split_board(board)
     postings: list[Posting] = []
     for job in payload["jobPostings"]:
         if not isinstance(job, dict):
             continue
-        title = str(job.get("title", "")).strip()
-        external_path = str(job.get("externalPath", "")).strip()
+        title = str(job.get("title") or "").strip()
+        external_path = str(job.get("externalPath") or "").strip()
         if not title or not external_path:
             continue
-        location = str(job.get("locationsText", "")).strip()
+        location = str(job.get("locationsText") or "").strip()
         postings.append(
             Posting(
                 key=f"workday:{board}:{external_path}",
@@ -42,8 +56,7 @@ def parse_workday(board: str, payload: Any) -> list[Posting]:
 
 
 def fetch_workday(board: str) -> list[Posting]:
-    host_part, _, site = board.partition("/")
-    tenant = host_part.split(".")[0]
+    host_part, tenant, site = _split_board(board)
     api = f"https://{host_part}.myworkdayjobs.com/wday/cxs/{tenant}/{site}/jobs"
     postings: list[Posting] = []
     offset = 0
@@ -52,10 +65,12 @@ def fetch_workday(board: str) -> list[Posting]:
             api, {"appliedFacets": {}, "limit": PAGE_SIZE, "offset": offset,
                   "searchText": "intern"},
         )
-        page = parse_workday(board, payload)
-        postings.extend(page)
-        total = payload.get("total", 0) if isinstance(payload, dict) else 0
+        postings.extend(parse_workday(board, payload))
+        raw_count = len(payload["jobPostings"])
+        total = int(payload.get("total") or 0)
         offset += PAGE_SIZE
-        if offset >= int(total) or not page:
+        # Stop on the server's raw page, not the parsed count — a page of
+        # unparseable entries must not end pagination early.
+        if offset >= total or raw_count == 0:
             break
     return postings

@@ -89,6 +89,30 @@ def test_dry_run_writes_nothing(
     assert main_mod.run(config, state, bootstrap=False, dry_run=True) == 0
     assert "**Co1**" in capsys.readouterr().out
     assert not state.exists()
+    assert not (state.parent / "postings.json").exists()
+
+
+def test_all_failed_run_skips_postings_cache(
+    monkeypatch: pytest.MonkeyPatch, paths: tuple[Path, Path],
+) -> None:
+    config, state = paths
+
+    def boom() -> list[Posting]:
+        raise FetchError("down")
+
+    monkeypatch.setattr(main_mod, "fetch_simplify", boom)
+    assert main_mod.run(config, state, bootstrap=False, dry_run=False) == 1
+    assert not (state.parent / "postings.json").exists()
+
+
+def test_successful_run_writes_postings_cache(
+    monkeypatch: pytest.MonkeyPatch, paths: tuple[Path, Path],
+) -> None:
+    config, state = paths
+    monkeypatch.setattr(main_mod, "fetch_simplify", lambda: [simplify_posting(1)])
+    assert main_mod.run(config, state, bootstrap=True, dry_run=False) == 0
+    cache = json.loads((state.parent / "postings.json").read_text(encoding="utf-8"))
+    assert any(entry["company"] == "Co1" for entry in cache.values())
 
 
 def test_notify_failure_leaves_state_unsaved(
