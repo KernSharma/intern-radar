@@ -50,13 +50,14 @@ def parse_smartrecruiters(company: str, payload: Any) -> list[Posting]:
     return postings
 
 
-def fetch_smartrecruiters(company: str) -> list[Posting]:
+def fetch_smartrecruiters(company: str, country: str = "") -> list[Posting]:
     postings: list[Posting] = []
+    country_param = f"&country={country}" if country else ""
     offset = 0
     while offset < MAX_RESULTS:
         payload = get_json(
             "https://api.smartrecruiters.com/v1/companies/"
-            f"{company}/postings?q=intern&limit={PAGE_SIZE}&offset={offset}"
+            f"{company}/postings?q=intern&limit={PAGE_SIZE}&offset={offset}{country_param}"
         )
         postings.extend(parse_smartrecruiters(company, payload))
         raw_count = len(payload["content"])

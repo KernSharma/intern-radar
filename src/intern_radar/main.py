@@ -54,7 +54,12 @@ def build_fetch_jobs(config: Config) -> list[FetchJob]:
         jobs.append((f"workday:{board}", functools.partial(fetch_workday, board)))
     for company in config.sources.smartrecruiters_companies:
         jobs.append(
-            (f"smartrecruiters:{company}", functools.partial(fetch_smartrecruiters, company))
+            (
+                f"smartrecruiters:{company}",
+                functools.partial(
+                    fetch_smartrecruiters, company, config.sources.smartrecruiters_country
+                ),
+            )
         )
     return jobs
 

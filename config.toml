@@ -74,6 +74,9 @@ boards = [
 # SmartRecruiters company identifiers (from jobs.smartrecruiters.com/IDENTIFIER/...).
 [sources.smartrecruiters]
 companies = ["LinkedIn3", "WesternDigital", "LLNL", "BoschGroup"]
+# US-only: global boards like BoschGroup are ~90% international otherwise
+# (verified live 2026-08-05: 1230 -> 104 postings with country=us).
+country = "us"
 
 [notify]
 # Opens one GitHub Issue per run listing all new matches (GitHub then emails

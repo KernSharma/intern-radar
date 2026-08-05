@@ -27,6 +27,9 @@ class SourcesConfig:
     ashby_orgs: tuple[str, ...] = ()
     workday_boards: tuple[str, ...] = ()
     smartrecruiters_companies: tuple[str, ...] = ()
+    # ISO country code filter for SmartRecruiters queries ("" = worldwide).
+    # Global boards like BoschGroup are ~90% non-US postings otherwise.
+    smartrecruiters_country: str = ""
 
 
 @dataclass(frozen=True)
@@ -74,6 +77,7 @@ def load_config(path: Path) -> Config:
         smartrecruiters_companies=_str_tuple(
             s_raw.get("smartrecruiters", {}).get("companies", [])
         ),
+        smartrecruiters_country=str(s_raw.get("smartrecruiters", {}).get("country", "")),
     )
 
     n_raw = data.get("notify", {})

@@ -109,3 +109,18 @@ def test_smartrecruiters_paginates_to_full_total(monkeypatch: pytest.MonkeyPatch
     postings = sr_mod.fetch_smartrecruiters("Acme")
     assert offsets == [0, 100, 200]
     assert len(postings) == 250
+
+
+def test_smartrecruiters_country_filter_in_query(monkeypatch: pytest.MonkeyPatch) -> None:
+    urls: list[str] = []
+
+    def fake_get(url: str) -> dict[str, Any]:
+        urls.append(url)
+        return {"totalFound": 0, "content": []}
+
+    monkeypatch.setattr(sr_mod, "get_json", fake_get)
+    sr_mod.fetch_smartrecruiters("Acme", "us")
+    assert urls[0].endswith("&country=us")
+    urls.clear()
+    sr_mod.fetch_smartrecruiters("Acme")  # default stays worldwide
+    assert "country" not in urls[0]

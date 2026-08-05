@@ -1,13 +1,14 @@
 # Applications
 
-**9 tracked** — interested: 8 · withdrawn: 1
+**10 tracked** — interested: 9 · withdrawn: 1
 
-## interested (8)
+## interested (9)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
 | Bosch Group | [[Internship] Facility Operations Intern](https://jobs.smartrecruiters.com/BoschGroup/744000141642669) | 2026-08-05 | scaffolded via new_application.py |
 | Bosch Group | [Praktikum im Business Digital Office - IT-Kostenmanagement und Interne Kommunikation](https://jobs.smartrecruiters.com/BoschGroup/744000141648779) | 2026-08-05 | scaffolded via new_application.py |
+| TikTok | [Data Science Intern (TikTok Product) - 2027 Summer](https://lifeattiktok.com/search/7669683639101884725) | 2026-08-05 | STRONG FIT; max 2 TikTok apps globally; manual-fetch host |
 | Western Digital | [Summer 2027 Intern - Hardware Engineering (San Jose, CA)](https://jobs.smartrecruiters.com/WesternDigital/744000140949875) | 2026-08-04 | explicit Summer 2027 + sophomore-eligible; hardware off-focus; pipeline req, apply by 10/31/26 |
 | Palo Alto Networks | [Intern - GRC Engineer (Santa Clara, CA)](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---GRC-Engineer_JR-013678) | 2026-08-04 | no eligibility bar in JD; GRC/security-compliance off-focus; cycle unconfirmed |
 | Palo Alto Networks | [Intern - Software Engineer (Santa Clara, CA)](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011570) | 2026-08-04 | undergrad req (also JR-011589/011590; other 6 reqs MS/PhD); STALE-CYCLE RISK posted Jan 2026 - watch for fall repost of 2027 cycle |
