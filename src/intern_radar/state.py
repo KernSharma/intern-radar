@@ -63,7 +63,9 @@ def append_inbox(path: Path, postings: list[Posting], today: str) -> int:
     """
     entries: list[dict[str, str]] = []
     if path.exists():
-        with path.open("r", encoding="utf-8") as f:
+        # utf-8-sig: a BOM from a Windows editor must not kill the watcher
+        # mid-run (post-notify, pre-state-save => duplicate notifications).
+        with path.open("r", encoding="utf-8-sig") as f:
             raw = json.load(f)
         if isinstance(raw, list):
             entries = [

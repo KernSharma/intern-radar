@@ -113,3 +113,15 @@ def test_inbox_survives_consumer_rewrite(tmp_path: Path) -> None:
                 url="https://jobs.lever.co/acme/1")
     assert append_inbox(path, [p], "2026-08-04") == 1
     assert append_inbox(path, [], "2026-08-04") == 0  # no-op writes nothing new
+
+
+def test_inbox_tolerates_utf8_bom(tmp_path: Path) -> None:
+    # A BOM from a Windows editor crashed the watcher post-notify (duplicate
+    # notifications every run) on 2026-08-05 — never again.
+    from intern_radar.state import append_inbox
+
+    path = tmp_path / "inbox.json"
+    path.write_bytes(b"\xef\xbb\xbf[]")
+    p = Posting(key="a:1", source="lever", company="Acme", title="T",
+                url="https://jobs.lever.co/acme/1")
+    assert append_inbox(path, [p], "2026-08-05") == 1
