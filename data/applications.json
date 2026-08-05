@@ -19,24 +19,28 @@
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000141642669",
    "company": "Bosch Group",
    "title": "[Internship] Facility Operations Intern",
-   "status": "interested",
+   "status": "withdrawn",
    "history": {
-    "interested": "2026-08-05"
+    "interested": "2026-08-05",
+    "withdrawn": "2026-08-05"
    },
    "notes": [
-    "scaffolded via new_application.py"
+    "scaffolded via new_application.py",
+    "Kern: off-target (facility ops); function screen added to agent"
    ]
   },
   "url:https://jobs.smartrecruiters.com/boschgroup/744000141648779": {
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000141648779",
    "company": "Bosch Group",
    "title": "Praktikum im Business Digital Office - IT-Kostenmanagement und Interne Kommunikation",
-   "status": "interested",
+   "status": "withdrawn",
    "history": {
-    "interested": "2026-08-05"
+    "interested": "2026-08-05",
+    "withdrawn": "2026-08-05"
    },
    "notes": [
-    "scaffolded via new_application.py"
+    "scaffolded via new_application.py",
+    "Kern: off-target (German-language BDO role); function screen added to agent"
    ]
   },
   "url:https://jobs.smartrecruiters.com/westerndigital/744000140949875": {
