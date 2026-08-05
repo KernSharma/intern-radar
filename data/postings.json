@@ -461,6 +461,16 @@
   "posted_at": "",
   "source": "workday"
  },
+ "url:https://ciena.wd5.myworkdayjobs.com/careers/job/ottawa/hardware-engineering-co-op--4-8-months-_r031451": {
+  "company": "ciena",
+  "title": "Hardware Engineering Co-op (4-8 Months)",
+  "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Engineering-Co-op--4-8-Months-_R031451",
+  "locations": [
+   "Ottawa"
+  ],
+  "posted_at": "",
+  "source": "workday"
+ },
  "url:https://ciena.wd5.myworkdayjobs.com/careers/job/ottawa/photonic-hardware-intern--4-12-months-_r031366": {
   "company": "ciena",
   "title": "Photonic Hardware Intern (4-12 Months)",
@@ -745,6 +755,26 @@
    "London, UK"
   ],
   "posted_at": "2026-07-23",
+  "source": "simplify"
+ },
+ "url:https://haier.wd3.myworkdayjobs.com/ge_appliances/job/usa-lafayette-ga/engineering-co-op-summer-2027_req-26431": {
+  "company": "GE Appliances",
+  "title": "Engineering Co-op",
+  "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-LaFayette-GA/Engineering-Co-op-Summer-2027_REQ-26431",
+  "locations": [
+   "LaFayette, GA"
+  ],
+  "posted_at": "2026-08-05",
+  "source": "simplify"
+ },
+ "url:https://haier.wd3.myworkdayjobs.com/ge_appliances/job/usa-louisville-ky/software-engineering-co-op-summer-2027_req-26427": {
+  "company": "GE Appliances",
+  "title": "Software Engineer Co-op - Software Engineering",
+  "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Summer-2027_REQ-26427",
+  "locations": [
+   "Louisville, KY"
+  ],
+  "posted_at": "2026-08-05",
   "source": "simplify"
  },
  "url:https://job-boards.eu.greenhouse.io/imc/jobs/4823923101": {
@@ -1070,6 +1100,16 @@
   "posted_at": "2026-08-04",
   "source": "simplify"
  },
+ "url:https://job-boards.greenhouse.io/emergingtalent/jobs/8051938": {
+  "company": "Maven Securities",
+  "title": "Trader Intern",
+  "url": "https://job-boards.greenhouse.io/emergingtalent/jobs/8051938",
+  "locations": [
+   "Chicago, IL"
+  ],
+  "posted_at": "2026-08-05",
+  "source": "simplify"
+ },
  "url:https://job-boards.greenhouse.io/eventsandinterns/jobs/7820942003": {
   "company": "GoDaddy",
   "title": "Software Development Engineer Intern",
@@ -1108,6 +1148,16 @@
    "London, UK"
   ],
   "posted_at": "2026-07-31",
+  "source": "simplify"
+ },
+ "url:https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051937": {
+  "company": "Maven Securities",
+  "title": "Trader Intern - Summer",
+  "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051937",
+  "locations": [
+   "Chicago, IL"
+  ],
+  "posted_at": "2026-08-05",
   "source": "simplify"
  },
  "url:https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8598324002": {
@@ -2278,6 +2328,156 @@
   "posted_at": "2025-12-18",
   "source": "lever"
  },
+ "url:https://jobs.smartrecruiters.com/boschgroup/744000082485386": {
+  "company": "Bosch Group",
+  "title": "MFG Test Technician Intern",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000082485386",
+  "locations": [
+   "Fort Lauderdale, FL, United States"
+  ],
+  "posted_at": "2025-09-17",
+  "source": "smartrecruiters"
+ },
+ "url:https://jobs.smartrecruiters.com/boschgroup/744000121016953": {
+  "company": "Bosch Group",
+  "title": "2026 Mechanical Engineering International Intern PS-DC/ENP1-NA",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000121016953",
+  "locations": [
+   "Charleston, SC, United States"
+  ],
+  "posted_at": "2026-04-15",
+  "source": "smartrecruiters"
+ },
+ "url:https://jobs.smartrecruiters.com/boschgroup/744000123480220": {
+  "company": "Bosch Group",
+  "title": "Human Resouces Intern",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000123480220",
+  "locations": [
+   "Fort Lauderdale, FL, United States"
+  ],
+  "posted_at": "2026-04-28",
+  "source": "smartrecruiters"
+ },
+ "url:https://jobs.smartrecruiters.com/boschgroup/744000123481879": {
+  "company": "Bosch Group",
+  "title": "Mechanical Design Engineering Intern",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000123481879",
+  "locations": [
+   "Fort Lauderdale, FL, United States"
+  ],
+  "posted_at": "2026-04-28",
+  "source": "smartrecruiters"
+ },
+ "url:https://jobs.smartrecruiters.com/boschgroup/744000126065755": {
+  "company": "Bosch Group",
+  "title": "Mechanical Engineering Intern",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000126065755",
+  "locations": [
+   "Fort Lauderdale, FL, United States"
+  ],
+  "posted_at": "2026-05-12",
+  "source": "smartrecruiters"
+ },
+ "url:https://jobs.smartrecruiters.com/boschgroup/744000126066306": {
+  "company": "Bosch Group",
+  "title": "Electronics Engineering Intern",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000126066306",
+  "locations": [
+   "Fort Lauderdale, FL, United States"
+  ],
+  "posted_at": "2026-05-12",
+  "source": "smartrecruiters"
+ },
+ "url:https://jobs.smartrecruiters.com/boschgroup/744000127510818": {
+  "company": "Bosch Group",
+  "title": "Chassis Control Intern - Kettering University Co-Op Section A",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000127510818",
+  "locations": [
+   "Plymouth, MI, United States"
+  ],
+  "posted_at": "2026-05-20",
+  "source": "smartrecruiters"
+ },
+ "url:https://jobs.smartrecruiters.com/boschgroup/744000129558149": {
+  "company": "Bosch Group",
+  "title": "Industrial Engineering Intern",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000129558149",
+  "locations": [
+   "Fort Lauderdale, FL, United States"
+  ],
+  "posted_at": "2026-06-01",
+  "source": "smartrecruiters"
+ },
+ "url:https://jobs.smartrecruiters.com/boschgroup/744000129558629": {
+  "company": "Bosch Group",
+  "title": "Purchasing Intern",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000129558629",
+  "locations": [
+   "Fort Lauderdale, FL, United States"
+  ],
+  "posted_at": "2026-06-01",
+  "source": "smartrecruiters"
+ },
+ "url:https://jobs.smartrecruiters.com/boschgroup/744000131662039": {
+  "company": "Bosch Group",
+  "title": "Mechanical Design Engineering Intern",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000131662039",
+  "locations": [
+   "Fort Lauderdale, FL, United States"
+  ],
+  "posted_at": "2026-06-11",
+  "source": "smartrecruiters"
+ },
+ "url:https://jobs.smartrecruiters.com/boschgroup/744000131901149": {
+  "company": "Bosch Group",
+  "title": "3D-CFD Simulation Intern",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000131901149",
+  "locations": [
+   "Farmington Hills, MI, United States"
+  ],
+  "posted_at": "2026-06-12",
+  "source": "smartrecruiters"
+ },
+ "url:https://jobs.smartrecruiters.com/boschgroup/744000132662239": {
+  "company": "Bosch Group",
+  "title": "Training Technology Digital Solutions Intern",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000132662239",
+  "locations": [
+   "Watertown, MA, United States"
+  ],
+  "posted_at": "2026-06-17",
+  "source": "smartrecruiters"
+ },
+ "url:https://jobs.smartrecruiters.com/boschgroup/744000133495010": {
+  "company": "Bosch Group",
+  "title": "Manager - International Trade",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000133495010",
+  "locations": [
+   "Oakbrook Terrace, IL, United States"
+  ],
+  "posted_at": "2026-06-23",
+  "source": "smartrecruiters"
+ },
+ "url:https://jobs.smartrecruiters.com/boschgroup/744000134840254": {
+  "company": "Bosch Group",
+  "title": "A.I. Integration Intern",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000134840254",
+  "locations": [
+   "Albion, IN, United States"
+  ],
+  "posted_at": "2026-06-29",
+  "source": "smartrecruiters"
+ },
+ "url:https://jobs.smartrecruiters.com/boschgroup/744000135502399": {
+  "company": "Bosch Group",
+  "title": "Sr. HR Service Intern (July 2026/Year Round)",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000135502399",
+  "locations": [
+   "Farmington Hills, MI, United States"
+  ],
+  "posted_at": "2026-07-02",
+  "source": "smartrecruiters"
+ },
  "url:https://jobs.smartrecruiters.com/boschgroup/744000135674088": {
   "company": "Bosch Group",
   "title": "Internship AI Lighthouse & Data engineering",
@@ -3278,6 +3478,16 @@
   "posted_at": "2026-08-05",
   "source": "smartrecruiters"
  },
+ "url:https://jobs.smartrecruiters.com/boschgroup/744000141722235": {
+  "company": "Bosch Group",
+  "title": "Logistics/Supply Chain Intern",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000141722235",
+  "locations": [
+   "Grand Rapids, MI, United States"
+  ],
+  "posted_at": "2026-08-05",
+  "source": "smartrecruiters"
+ },
  "url:https://jobs.smartrecruiters.com/llnl/3743990013424486": {
   "company": "LLNL",
   "title": "Machine Learning Physics Graduate Student",
@@ -3286,6 +3496,16 @@
    "Livermore, CA, United States"
   ],
   "posted_at": "2026-06-02",
+  "source": "smartrecruiters"
+ },
+ "url:https://jobs.smartrecruiters.com/llnl/3743990014460826": {
+  "company": "LLNL",
+  "title": "International Security Analyst",
+  "url": "https://jobs.smartrecruiters.com/LLNL/3743990014460826",
+  "locations": [
+   "Livermore, CA, United States"
+  ],
+  "posted_at": "2026-08-05",
   "source": "smartrecruiters"
  },
  "url:https://jobs.smartrecruiters.com/westerndigital/744000134391649": {
@@ -3980,6 +4200,16 @@
   "posted_at": "2026-08-04",
   "source": "simplify"
  },
+ "url:https://lifeattiktok.com/search/7668396597746862341": {
+  "company": "TikTok",
+  "title": "Machine Learning Engineer Intern - Search",
+  "url": "https://lifeattiktok.com/search/7668396597746862341",
+  "locations": [
+   "Seattle, WA"
+  ],
+  "posted_at": "2026-08-05",
+  "source": "simplify"
+ },
  "url:https://lifeattiktok.com/search/7668445566565321013": {
   "company": "TikTok",
   "title": "Software Engineer Intern - Agentic Creation-Effect Platform",
@@ -3988,6 +4218,16 @@
    "San Jose, CA"
   ],
   "posted_at": "2026-08-03",
+  "source": "simplify"
+ },
+ "url:https://lifeattiktok.com/search/7668533140146817333": {
+  "company": "TikTok",
+  "title": "Data Engineer Intern - Ads Targeting",
+  "url": "https://lifeattiktok.com/search/7668533140146817333",
+  "locations": [
+   "San Jose, CA"
+  ],
+  "posted_at": "2026-08-05",
   "source": "simplify"
  },
  "url:https://lifeattiktok.com/search/7668581636242016565": {
@@ -4268,6 +4508,26 @@
    "San Jose, CA"
   ],
   "posted_at": "2026-08-04",
+  "source": "simplify"
+ },
+ "url:https://lifeattiktok.com/search/7670287013157095733": {
+  "company": "TikTok",
+  "title": "Data Scientist Intern - VOD Data",
+  "url": "https://lifeattiktok.com/search/7670287013157095733",
+  "locations": [
+   "San Jose, CA"
+  ],
+  "posted_at": "2026-08-05",
+  "source": "simplify"
+ },
+ "url:https://lifeattiktok.com/search/7670289874020993285": {
+  "company": "TikTok",
+  "title": "Backend Software Engineer Intern - Creation Platform",
+  "url": "https://lifeattiktok.com/search/7670289874020993285",
+  "locations": [
+   "San Jose, CA"
+  ],
+  "posted_at": "2026-08-05",
   "source": "simplify"
  },
  "url:https://marmon.wd501.myworkdayjobs.com/marmon_careers/job/milwaukee-wi/data-engineering-intern-or-student-co-op_jr0000037453-1": {
