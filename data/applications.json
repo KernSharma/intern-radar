@@ -1,6 +1,60 @@
 {
  "version": 1,
  "applications": {
+  "url:https://haier.wd3.myworkdayjobs.com/ge_appliances/job/usa-lafayette-ga/engineering-co-op-summer-2027_req-26431": {
+   "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-LaFayette-GA/Engineering-Co-op-Summer-2027_REQ-26431",
+   "company": "GE Appliances",
+   "title": "Engineering Co-op",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-05",
+    "withdrawn": "2026-08-05"
+   },
+   "notes": [
+    "scaffolded via new_application.py",
+    "auto-screen: ME/EE majors only, no CS path"
+   ]
+  },
+  "url:https://haier.wd3.myworkdayjobs.com/ge_appliances/job/usa-louisville-ky/software-engineering-co-op-summer-2027_req-26427": {
+   "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Summer-2027_REQ-26427",
+   "company": "GE Appliances",
+   "title": "Software Engineer Co-op - Software Engineering",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-05"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
+  "url:https://job-boards.greenhouse.io/emergingtalent/jobs/8051938": {
+   "url": "https://job-boards.greenhouse.io/emergingtalent/jobs/8051938",
+   "company": "Maven Securities",
+   "title": "Trader Intern",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-05",
+    "withdrawn": "2026-08-05"
+   },
+   "notes": [
+    "scaffolded via new_application.py",
+    "auto-screen: penultimate-year bar excludes May 2029 grads"
+   ]
+  },
+  "url:https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051937": {
+   "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051937",
+   "company": "Maven Securities",
+   "title": "Trader Intern - Summer",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-05",
+    "withdrawn": "2026-08-05"
+   },
+   "notes": [
+    "scaffolded via new_application.py",
+    "auto-screen: penultimate-year bar excludes May 2029 grads"
+   ]
+  },
   "url:https://jobs.smartrecruiters.com/boschgroup/744000141628359": {
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000141628359",
    "company": "Bosch Group",
@@ -41,6 +95,20 @@
    "notes": [
     "scaffolded via new_application.py",
     "Kern: off-target (German-language BDO role); function screen added to agent"
+   ]
+  },
+  "url:https://jobs.smartrecruiters.com/llnl/3743990014460826": {
+   "url": "https://jobs.smartrecruiters.com/LLNL/3743990014460826",
+   "company": "LLNL",
+   "title": "International Security Analyst",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-05",
+    "withdrawn": "2026-08-05"
+   },
+   "notes": [
+    "scaffolded via new_application.py",
+    "auto-screen: career Master's-level policy role, not an internship"
    ]
   },
   "url:https://jobs.smartrecruiters.com/westerndigital/744000140949875": {
