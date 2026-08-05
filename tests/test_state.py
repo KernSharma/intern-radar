@@ -80,3 +80,36 @@ def test_mark_refreshes_last_seen_date(tmp_path: Path) -> None:
     store.mark(p, "2026-08-03")
     assert store.seen["a:1"] == "2026-08-03"
     assert store.prune("2026-08-03") == 0
+
+
+def test_inbox_appends_and_dedups(tmp_path: Path) -> None:
+    import json
+
+    from intern_radar.state import append_inbox
+
+    path = tmp_path / "inbox.json"
+    a = Posting(key="a:1", source="lever", company="Acme", title="SWE Intern",
+                url="https://jobs.lever.co/acme/1", locations=("NYC", "Remote"))
+    b = Posting(key="b:2", source="ashby", company="Bcorp", title="ML Intern",
+                url="https://jobs.ashbyhq.com/bcorp/2")
+    assert append_inbox(path, [a], "2026-08-04") == 1
+    # Re-notifying a still-queued URL must not double it; new ones append.
+    assert append_inbox(path, [a, b], "2026-08-05") == 1
+
+    entries = json.loads(path.read_text(encoding="utf-8"))
+    assert [e["url"] for e in entries] == [a.url, b.url]
+    assert entries[0] == {"url": a.url, "company": "Acme", "title": "SWE Intern",
+                          "locations": "NYC, Remote", "source": "lever",
+                          "added": "2026-08-04"}
+
+
+def test_inbox_survives_consumer_rewrite(tmp_path: Path) -> None:
+    from intern_radar.state import append_inbox
+
+    path = tmp_path / "inbox.json"
+    # The consumer empties the file to [] after processing.
+    path.write_text("[]", encoding="utf-8")
+    p = Posting(key="a:1", source="lever", company="Acme", title="T",
+                url="https://jobs.lever.co/acme/1")
+    assert append_inbox(path, [p], "2026-08-04") == 1
+    assert append_inbox(path, [], "2026-08-04") == 0  # no-op writes nothing new

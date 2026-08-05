@@ -28,7 +28,7 @@ from intern_radar.sources import (
     fetch_smartrecruiters,
     fetch_workday,
 )
-from intern_radar.state import SeenStore
+from intern_radar.state import SeenStore, append_inbox
 from intern_radar.tracker import (
     STATUSES,
     Tracker,
@@ -139,6 +139,12 @@ def run(config_path: Path, state_path: Path, *, bootstrap: bool, dry_run: bool) 
                 # notification was never delivered anywhere durable.
                 print(f"error: {e}", file=sys.stderr)
                 return 1
+
+    if new_postings:
+        # Notifications delivered — queue for the auto-tailor agent. Runs
+        # before state save so a crash here re-delivers rather than drops.
+        queued = append_inbox(state_path.parent / "inbox.json", new_postings, today)
+        print(f"inbox: queued {queued} for auto-tailor")
 
     for p in matched:
         store.mark(p, today)

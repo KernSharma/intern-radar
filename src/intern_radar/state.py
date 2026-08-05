@@ -52,3 +52,42 @@ class SeenStore:
         with self.path.open("w", encoding="utf-8", newline="\n") as f:
             json.dump(payload, f, indent=1, ensure_ascii=False)
             f.write("\n")
+
+
+def append_inbox(path: Path, postings: list[Posting], today: str) -> int:
+    """Queue notified postings for the downstream auto-tailor agent.
+
+    The inbox is a committed JSON list; the consumer removes entries it has
+    processed and commits the shrunken file. Deduped by URL so a posting
+    re-notified while still queued isn't doubled. Returns entries added.
+    """
+    entries: list[dict[str, str]] = []
+    if path.exists():
+        with path.open("r", encoding="utf-8") as f:
+            raw = json.load(f)
+        if isinstance(raw, list):
+            entries = [
+                {str(k): str(v) for k, v in e.items()} for e in raw if isinstance(e, dict)
+            ]
+    known = {e.get("url", "") for e in entries}
+    added = 0
+    for p in postings:
+        if p.url in known:
+            continue
+        entries.append(
+            {
+                "url": p.url,
+                "company": p.company,
+                "title": p.title,
+                "locations": ", ".join(p.locations),
+                "source": p.source,
+                "added": today,
+            }
+        )
+        added += 1
+    if added:
+        path.parent.mkdir(parents=True, exist_ok=True)
+        with path.open("w", encoding="utf-8", newline="\n") as f:
+            json.dump(entries, f, indent=1, ensure_ascii=False)
+            f.write("\n")
+    return added
