@@ -1,6 +1,44 @@
 {
  "version": 1,
  "applications": {
+  "url:https://jobs.smartrecruiters.com/boschgroup/744000141628359": {
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000141628359",
+   "company": "Bosch Group",
+   "title": "[BD] SAP MM Intern (AI Assistant Projects)",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-05",
+    "withdrawn": "2026-08-05"
+   },
+   "notes": [
+    "scaffolded via new_application.py",
+    "auto-screen: 6-month full-time term cannot be Summer 2027; majors list excludes CS"
+   ]
+  },
+  "url:https://jobs.smartrecruiters.com/boschgroup/744000141642669": {
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000141642669",
+   "company": "Bosch Group",
+   "title": "[Internship] Facility Operations Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-05"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
+  "url:https://jobs.smartrecruiters.com/boschgroup/744000141648779": {
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000141648779",
+   "company": "Bosch Group",
+   "title": "Praktikum im Business Digital Office - IT-Kostenmanagement und Interne Kommunikation",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-05"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
   "url:https://jobs.smartrecruiters.com/westerndigital/744000140949875": {
    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000140949875",
    "company": "Western Digital",
