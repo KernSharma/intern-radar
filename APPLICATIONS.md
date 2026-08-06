@@ -1,20 +1,28 @@
 # Applications
 
-**56 tracked** — interested: 45 · withdrawn: 11
+**56 tracked** — applied: 6 · interested: 39 · withdrawn: 11
 
-## interested (45)
+## applied (6)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
 | Anduril | [Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5148079007) | 2026-08-06 | fit 5/5 · backend SWE / full-stack (defense software, Lattice OS) |
+| Appian | [Software Engineer Intern](https://job-boards.greenhouse.io/appian/jobs/8041237) | 2026-08-06 | fit 5/5 · full-stack SWE (enterprise platform) |
+| Axon | [Software Engineering Intern](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003) | 2026-08-06 | fit 5/5 · backend/full-stack SWE |
+| Virtu Financial | [2027 Internship - Software Engineer](https://job-boards.greenhouse.io/virtu/jobs/8624410002) | 2026-08-06 | fit 5/5 · backend / low-latency systems SWE |
+| Circleback | [Software Engineer Intern](https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f/application?embed=true) | 2026-08-06 | fit 4/5 · full-stack SWE (AI meeting-notes product) |
+| CTGT | [Software Engineer Intern](https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application) | 2026-08-06 | fit 5/5 · backend / full-stack SWE (LLM governance platform) |
+
+## interested (39)
+
+| Company | Role | Since | Notes |
+|---|---|---|---|
 | SpaceX | [Software Engineering Intern/Co-op](https://boards.greenhouse.io/spacex/jobs/8621757002) | 2026-08-06 | fit 5/5 · backend/general SWE (embedded, satellite, vehicle software) |
 | The Boeing Company | [Data Analytics Intern](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1) | 2026-08-06 | fit 4/5 · data science / data analytics / ML / software |
 | CNO Financial Group | [Artificial Intelligence Information Technology Intern - AI](https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/Artificial-Intelligence--AI--IT-Intern-2027---REMOTE_JR170389) | 2026-08-06 | fit 2/5 · AI/IT business analyst (requirements + research, AI-adjacent) |
 | GE Vernova | [Digital Technology Intern](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Atlanta/GE-Vernova-Digital-Technology-Internship---Summer-2027_R5049176-3) | 2026-08-06 | fit 3/5 · IT / digital technology rotational (cyber, cloud, data & analytics, data science, AI) |
 | RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Intern--Summer-2027-_01864033) | 2026-08-06 | fit 3/5 · embedded / avionics SWE (simulation and modeling) |
 | Genworth Financial | [IT Development Program Intern - IT Development Program](https://gnw.wd1.myworkdayjobs.com/GNW/job/Richmond-Virginia/Genworth-IT-Development-Program-Intern---Summer-2027_REQ-260269-1) | 2026-08-06 | fit 3/5 · IT development program / application development (backend, web, data science, system integration) |
-| Appian | [Software Engineer Intern](https://job-boards.greenhouse.io/appian/jobs/8041237) | 2026-08-06 | fit 5/5 · full-stack SWE (enterprise platform) |
-| Axon | [Software Engineering Intern](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003) | 2026-08-06 | fit 5/5 · backend/full-stack SWE |
 | GoDaddy | [Software Development Engineer Intern](https://job-boards.greenhouse.io/eventsandinterns/jobs/7820942003) | 2026-08-06 | fit 5/5 · backend / full-stack SWE (cloud services, also DS and AI/ML tracks in the same req) |
 | Flow Traders | [Quantitative Trading Intern](https://job-boards.greenhouse.io/flowtraders/jobs/8047166) | 2026-08-06 | fit 2/5 · quantitative trading (trading desk, not software engineering) |
 | HPR (Hyannis Port Research) | [Software Engineer Intern](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003) | 2026-08-06 | fit 3/5 · systems SWE — low-latency C/Linux electronic trading infrastructure |
@@ -22,10 +30,7 @@
 | PDT Partners | [Software Engineer Intern](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) | 2026-08-06 | fit 5/5 · backend SWE / data + trading infrastructure |
 | Virtu Financial | [2027 Internship - Quantitative Researcher (Undergrad)](https://job-boards.greenhouse.io/virtu/jobs/8142539002) | 2026-08-06 | fit 3/5 · quantitative research / data science |
 | Virtu Financial | [2027 Internship - Quantitative Trading](https://job-boards.greenhouse.io/virtu/jobs/8624408002) | 2026-08-06 | fit 2/5 · quantitative trading (technical/algorithmic) |
-| Virtu Financial | [2027 Internship - Software Engineer](https://job-boards.greenhouse.io/virtu/jobs/8624410002) | 2026-08-06 | fit 5/5 · backend / low-latency systems SWE |
 | Virtu Financial | [2027 Internship - Frontend Engineer (UI)](https://job-boards.greenhouse.io/virtu/jobs/8657500002) | 2026-08-06 | fit 3/5 · frontend SWE (UI / trading tools) |
-| Circleback | [Software Engineer Intern](https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f/application?embed=true) | 2026-08-06 | fit 4/5 · full-stack SWE (AI meeting-notes product) |
-| CTGT | [Software Engineer Intern](https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application) | 2026-08-06 | fit 5/5 · backend / full-stack SWE (LLM governance platform) |
 | Ellipsis Labs | [Software Engineer](https://jobs.ashbyhq.com/ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849/application) | 2026-08-06 | fit 5/5 · generalist/backend SWE (full-stack, infra, on-chain) |
 | Heliux | [Software Engineer Intern](https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef/application?embed=true) | 2026-08-06 | fit 4/5 · full-stack / product SWE at an early-stage AI-native manufacturing OS startup |
 | Melius | [Software Engineer Intern](https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280/application?embed=true) | 2026-08-06 | fit 4/5 · full-stack SWE / agent + LLM product engineering (early-stage startup) |
