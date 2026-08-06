@@ -34,6 +34,15 @@ untermed_title_exclude = [
 # Reject a posting only if ALL of its listed locations match one of these
 # substrings (a multi-location posting with one acceptable site still passes).
 location_exclude = []
+# Companies whose postings can never become an application. Case-insensitive
+# substring match on the company name, applied before every other filter.
+# TikTok/ByteDance: they post ~60 roles per sweep, every one of them on
+# lifeattiktok.com (which no JD fetcher supports, so each needs a manual
+# fetch) — and TikTok caps you at 2 applications for life, one of which is
+# already spent on the Data Science role tailored 2026-08-05. Sixty postings
+# competing for one remaining slot is churn, not signal. Delete the entry to
+# see them again.
+company_exclude = ["TikTok", "ByteDance"]
 
 [sources]
 # Aggregator: SimplifyJobs/Summer2027-Internships listings.json (dev branch).

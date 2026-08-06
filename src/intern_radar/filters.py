@@ -7,6 +7,12 @@ from intern_radar.models import Posting
 def matches(posting: Posting, filters: FilterConfig) -> bool:
     title_lower = posting.title.lower()
 
+    # Company gate runs first and applies to every source: these postings can
+    # never become an application, so they should not reach the inbox at all.
+    company_lower = posting.company.lower()
+    if any(kw.lower() in company_lower for kw in filters.company_exclude):
+        return False
+
     if any(kw.lower() in title_lower for kw in filters.title_exclude):
         return False
 

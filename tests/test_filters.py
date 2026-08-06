@@ -92,3 +92,35 @@ def test_empty_filter_lists_mean_any() -> None:
         url="https://x.example/2", terms=("Fall 2099",), category="Underwater Basketweaving",
     )
     assert matches(simplify_posting, f)
+
+
+def _at(company: str, *, terms: tuple[str, ...] = ()) -> Posting:
+    """A posting from `company` that would otherwise match DEFAULT."""
+    return Posting(
+        key=f"c:{company}", source="simplify", company=company,
+        title="Software Engineer Intern", url="https://x.example/2",
+        terms=terms, category="Software", degrees=("Bachelor's",),
+    )
+
+
+def test_company_exclude_drops_untermed_ats_posting() -> None:
+    filters = FilterConfig(**{**vars(DEFAULT), "company_exclude": ("TikTok",)})
+    assert matches(_at("Stripe"), filters) is True
+    assert matches(_at("TikTok"), filters) is False
+
+
+def test_company_exclude_drops_termed_simplify_listing() -> None:
+    """The gate runs before the term/category branch, so it applies to both."""
+    filters = FilterConfig(**{**vars(DEFAULT), "company_exclude": ("ByteDance",)})
+    assert matches(_at("ByteDance", terms=("Summer 2027",)), filters) is False
+    assert matches(_at("Palantir", terms=("Summer 2027",)), filters) is True
+
+
+def test_company_exclude_is_case_insensitive_substring() -> None:
+    filters = FilterConfig(**{**vars(DEFAULT), "company_exclude": ("tiktok",)})
+    assert matches(_at("TikTok Inc."), filters) is False
+
+
+def test_company_exclude_empty_by_default_changes_nothing() -> None:
+    assert DEFAULT.company_exclude == ()
+    assert matches(_at("TikTok"), DEFAULT) is True

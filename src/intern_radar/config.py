@@ -17,6 +17,10 @@ class FilterConfig:
     # term-bearing listings are already gated by `terms`.
     untermed_title_exclude: tuple[str, ...] = ()
     location_exclude: tuple[str, ...] = ()
+    # Companies to drop outright, whatever they post. For employers whose
+    # postings can never become an application: an unreachable apply flow, or
+    # a lifetime cap on applications you have already spent.
+    company_exclude: tuple[str, ...] = ()
 
 
 @dataclass(frozen=True)
@@ -65,6 +69,7 @@ def load_config(path: Path) -> Config:
         title_exclude=_str_tuple(f_raw.get("title_exclude", [])),
         untermed_title_exclude=_str_tuple(f_raw.get("untermed_title_exclude", [])),
         location_exclude=_str_tuple(f_raw.get("location_exclude", [])),
+        company_exclude=_str_tuple(f_raw.get("company_exclude", [])),
     )
 
     s_raw = data.get("sources", {})
