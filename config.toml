@@ -52,6 +52,11 @@ simplify = true
 # aggregators pick them up. Slugs below were verified live on 2026-08-03
 # (each had active intern-cycle listings). Add your own targets.
 [sources.greenhouse]
+# Slugs below were each probed live against boards-api.greenhouse.io. Several
+# companies whose public careers page looks like a bespoke site (optiver.com,
+# careers.roblox.com, tower-research.com) are actually Greenhouse underneath —
+# adding the slug is all it takes, no new parser. Intern counts at the
+# 2026-08-06 probe are noted where the board carries a real intern pipeline.
 boards = [
     "stripe",
     "janestreet",
@@ -61,6 +66,22 @@ boards = [
     "figureai",
     "virtu",
     "drweng",
+    # added 2026-08-06 after live probing (intern postings on the board)
+    "jumptrading",           # 29 intern reqs
+    "imc",                   # 14 intern reqs
+    "databricks",            # 11 intern reqs
+    "akunacapital",          #  8 intern reqs, all titled 2027
+    "towerresearchcapital",  #  6 intern reqs
+    "anthropic",
+    "scaleai",
+    "flowtraders",
+    "oldmissioncapital",
+    "pdtpartners",
+    "figma",
+    "roblox",
+    "vercel",
+    "marshallwace",
+    "aqr",
 ]
 
 [sources.lever]
