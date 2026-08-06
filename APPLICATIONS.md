@@ -1,6 +1,6 @@
 # Applications
 
-**52 tracked** — interested: 45 · withdrawn: 7
+**56 tracked** — interested: 45 · withdrawn: 11
 
 ## interested (45)
 
@@ -21,6 +21,7 @@
 | Marshall Wace | [Technology Intern](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8606238002) | 2026-08-06 | fit 5/5 · backend / full-stack SWE (hedge fund technology platform, trading systems, AI automation) |
 | PDT Partners | [Software Engineer Intern](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) | 2026-08-06 | fit 5/5 · backend SWE / data + trading infrastructure |
 | Virtu Financial | [2027 Internship - Quantitative Researcher (Undergrad)](https://job-boards.greenhouse.io/virtu/jobs/8142539002) | 2026-08-06 | fit 3/5 · quantitative research / data science |
+| Virtu Financial | [2027 Internship - Quantitative Trading](https://job-boards.greenhouse.io/virtu/jobs/8624408002) | 2026-08-06 | fit 2/5 · quantitative trading (technical/algorithmic) |
 | Virtu Financial | [2027 Internship - Software Engineer](https://job-boards.greenhouse.io/virtu/jobs/8624410002) | 2026-08-06 | fit 5/5 · backend / low-latency systems SWE |
 | Virtu Financial | [2027 Internship - Frontend Engineer (UI)](https://job-boards.greenhouse.io/virtu/jobs/8657500002) | 2026-08-06 | fit 3/5 · frontend SWE (UI / trading tools) |
 | Circleback | [Software Engineer Intern](https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f/application?embed=true) | 2026-08-06 | fit 4/5 · full-stack SWE (AI meeting-notes product) |
@@ -42,7 +43,6 @@
 | Uline | [Database Administrator Intern](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Database-Administrator-Internship---Summer-2027_R265687) | 2026-08-06 | fit 3/5 · database administration / data infrastructure |
 | Uline | [Operations Analyst Intern](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Operations-Analyst-Internship---Summer-2027_R265822) | 2026-08-06 | fit 2/5 · business operations analysis (SQL, Power BI reporting) |
 | Uline | [Software Development Intern](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R265684) | 2026-08-06 | fit 4/5 · full-stack SWE |
-| Virtu Financial | [2027 Internship - Quantitative Trading](https://job-boards.greenhouse.io/virtu/jobs/8624408002) | 2026-08-06 | fit 2/5 · quantitative trading (technical/algorithmic) |
 | GE Appliances | [Software Engineer Co-op - Software Engineering](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Summer-2027_REQ-26427) | 2026-08-05 | scaffolded via new_application.py |
 | TikTok | [Data Science Intern (TikTok Product) - 2027 Summer](https://lifeattiktok.com/search/7669683639101884725) | 2026-08-05 | STRONG FIT; max 2 TikTok apps globally; manual-fetch host |
 | Western Digital | [Summer 2027 Intern - Hardware Engineering (San Jose, CA)](https://jobs.smartrecruiters.com/WesternDigital/744000140949875) | 2026-08-04 | explicit Summer 2027 + sophomore-eligible; hardware off-focus; pipeline req, apply by 10/31/26 |
@@ -52,10 +52,14 @@
 | Synchrony Financial | [BLP Intern - Data Analytics (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Data-Analytics_2601688) | 2026-08-04 | same intake as Tech sibling; analytics not SWE; verifier confirmed plausible 2027 cycle |
 | Synchrony Financial | [BLP Intern - Technology (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Technology_2601695-1) | 2026-08-04 | BEST BET: bachelor's-pursuing, no class-year bar, 10-wk Jun-Aug; likely 2027 intake (screened 8/4) |
 
-## withdrawn (7)
+## withdrawn (11)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
+| RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01863012) | 2026-08-06 | hard bar: Must be pursuing Bachelor’s or Advanced degree in Mechanical or Aerospace Engineering and actively enrolled through the completion of the internship/c |
+| Marmon Holdings | [Data Engineering Intern Co-op](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453-1) | 2026-08-06 | hard bar: Currently pursuing an undergraduate degree in Computer/Software Engineering |
+| Marmon Holdings | [Digital Production Engineering Intern OR Student Co-Op](https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Milwaukee-WI/Digital-Production-Engineering-Intern-OR-Student-Co-Op_JR0000037451) | 2026-08-06 | hard bar: Currently pursuing an undergraduate degree in Computer/Software Engineering |
+| Uline | [Financial Data Analyst Intern](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Financial-Data-Analyst-Internship---Summer-2027_R265665) | 2026-08-06 | hard bar: This full-time, 12-week internship is open to Junior-status college students only. Pursuing a bachelor's degree in finance, IT or analytics. |
 | GE Appliances | [Engineering Co-op](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-LaFayette-GA/Engineering-Co-op-Summer-2027_REQ-26431) | 2026-08-05 | scaffolded via new_application.py; auto-screen: ME/EE majors only, no CS path |
 | Maven Securities | [Trader Intern](https://job-boards.greenhouse.io/emergingtalent/jobs/8051938) | 2026-08-05 | scaffolded via new_application.py; auto-screen: penultimate-year bar excludes May 2029 grads |
 | Maven Securities | [Trader Intern - Summer](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051937) | 2026-08-05 | scaffolded via new_application.py; auto-screen: penultimate-year bar excludes May 2029 grads |
