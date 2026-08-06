@@ -1,6 +1,90 @@
 {
  "version": 1,
  "applications": {
+  "url:https://boards.greenhouse.io/andurilindustries/jobs/5148079007": {
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007",
+   "company": "Anduril",
+   "title": "Software Engineer Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-06"
+   },
+   "notes": [
+    "fit 5/5 · backend SWE / full-stack (defense software, Lattice OS)"
+   ]
+  },
+  "url:https://boards.greenhouse.io/spacex/jobs/8621757002": {
+   "url": "https://boards.greenhouse.io/spacex/jobs/8621757002",
+   "company": "SpaceX",
+   "title": "Software Engineering Intern/Co-op",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-06"
+   },
+   "notes": [
+    "fit 5/5 · backend/general SWE (embedded, satellite, vehicle software)"
+   ]
+  },
+  "url:https://boeing.wd1.myworkdayjobs.com/external_careers/job/usa---everett-wa/boeing-summer-2027-internship-program--paid----data-analytics-intern_jr2026520976-1": {
+   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1",
+   "company": "The Boeing Company",
+   "title": "Data Analytics Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-06"
+   },
+   "notes": [
+    "fit 4/5 · data science / data analytics / ML / software"
+   ]
+  },
+  "url:https://cnoinc.wd5.myworkdayjobs.com/careers/job/carmel-in/artificial-intelligence--ai--it-intern-2027---remote_jr170389": {
+   "url": "https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/Artificial-Intelligence--AI--IT-Intern-2027---REMOTE_JR170389",
+   "company": "CNO Financial Group",
+   "title": "Artificial Intelligence Information Technology Intern - AI",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-06"
+   },
+   "notes": [
+    "fit 2/5 · AI/IT business analyst (requirements + research, AI-adjacent)"
+   ]
+  },
+  "url:https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/atlanta/ge-vernova-digital-technology-internship---summer-2027_r5049176-3": {
+   "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Atlanta/GE-Vernova-Digital-Technology-Internship---Summer-2027_R5049176-3",
+   "company": "GE Vernova",
+   "title": "Digital Technology Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-06"
+   },
+   "notes": [
+    "fit 3/5 · IT / digital technology rotational (cyber, cloud, data & analytics, data science, AI)"
+   ]
+  },
+  "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ia-cedar-rapids-182--1100-cimmie-ave-ne--bldg-182/software-engineering-intern--summer-2027-_01864033": {
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Intern--Summer-2027-_01864033",
+   "company": "RTX",
+   "title": "Software Engineer Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-06"
+   },
+   "notes": [
+    "fit 3/5 · embedded / avionics SWE (simulation and modeling)"
+   ]
+  },
+  "url:https://gnw.wd1.myworkdayjobs.com/gnw/job/richmond-virginia/genworth-it-development-program-intern---summer-2027_req-260269-1": {
+   "url": "https://gnw.wd1.myworkdayjobs.com/GNW/job/Richmond-Virginia/Genworth-IT-Development-Program-Intern---Summer-2027_REQ-260269-1",
+   "company": "Genworth Financial",
+   "title": "IT Development Program Intern - IT Development Program",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-06"
+   },
+   "notes": [
+    "fit 3/5 · IT development program / application development (backend, web, data science, system integration)"
+   ]
+  },
   "url:https://haier.wd3.myworkdayjobs.com/ge_appliances/job/usa-lafayette-ga/engineering-co-op-summer-2027_req-26431": {
    "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-LaFayette-GA/Engineering-Co-op-Summer-2027_REQ-26431",
    "company": "GE Appliances",
@@ -27,6 +111,30 @@
     "scaffolded via new_application.py"
    ]
   },
+  "url:https://job-boards.greenhouse.io/appian/jobs/8041237": {
+   "url": "https://job-boards.greenhouse.io/appian/jobs/8041237",
+   "company": "Appian",
+   "title": "Software Engineer Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-06"
+   },
+   "notes": [
+    "fit 5/5 · full-stack SWE (enterprise platform)"
+   ]
+  },
+  "url:https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003": {
+   "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003",
+   "company": "Axon",
+   "title": "Software Engineering Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-06"
+   },
+   "notes": [
+    "fit 5/5 · backend/full-stack SWE"
+   ]
+  },
   "url:https://job-boards.greenhouse.io/emergingtalent/jobs/8051938": {
    "url": "https://job-boards.greenhouse.io/emergingtalent/jobs/8051938",
    "company": "Maven Securities",
@@ -41,6 +149,42 @@
     "auto-screen: penultimate-year bar excludes May 2029 grads"
    ]
   },
+  "url:https://job-boards.greenhouse.io/eventsandinterns/jobs/7820942003": {
+   "url": "https://job-boards.greenhouse.io/eventsandinterns/jobs/7820942003",
+   "company": "GoDaddy",
+   "title": "Software Development Engineer Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-06"
+   },
+   "notes": [
+    "fit 5/5 · backend / full-stack SWE (cloud services, also DS and AI/ML tracks in the same req)"
+   ]
+  },
+  "url:https://job-boards.greenhouse.io/flowtraders/jobs/8047166": {
+   "url": "https://job-boards.greenhouse.io/flowtraders/jobs/8047166",
+   "company": "Flow Traders",
+   "title": "Quantitative Trading Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-06"
+   },
+   "notes": [
+    "fit 2/5 · quantitative trading (trading desk, not software engineering)"
+   ]
+  },
+  "url:https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003": {
+   "url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003",
+   "company": "HPR (Hyannis Port Research)",
+   "title": "Software Engineer Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-06"
+   },
+   "notes": [
+    "fit 3/5 · systems SWE — low-latency C/Linux electronic trading infrastructure"
+   ]
+  },
   "url:https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051937": {
    "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051937",
    "company": "Maven Securities",
@@ -53,6 +197,210 @@
    "notes": [
     "scaffolded via new_application.py",
     "auto-screen: penultimate-year bar excludes May 2029 grads"
+   ]
+  },
+  "url:https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8606238002": {
+   "url": "https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8606238002",
+   "company": "Marshall Wace",
+   "title": "Technology Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-06"
+   },
+   "notes": [
+    "fit 5/5 · backend / full-stack SWE (hedge fund technology platform, trading systems, AI automation)"
+   ]
+  },
+  "url:https://job-boards.greenhouse.io/pdtpartners/jobs/8077685": {
+   "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685",
+   "company": "PDT Partners",
+   "title": "Software Engineer Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-06"
+   },
+   "notes": [
+    "fit 5/5 · backend SWE / data + trading infrastructure"
+   ]
+  },
+  "url:https://job-boards.greenhouse.io/virtu/jobs/8142539002": {
+   "url": "https://job-boards.greenhouse.io/virtu/jobs/8142539002",
+   "company": "Virtu Financial",
+   "title": "2027 Internship - Quantitative Researcher (Undergrad)",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-06"
+   },
+   "notes": [
+    "fit 3/5 · quantitative research / data science"
+   ]
+  },
+  "url:https://job-boards.greenhouse.io/virtu/jobs/8624408002": {
+   "url": "https://job-boards.greenhouse.io/virtu/jobs/8624408002",
+   "company": "Virtu Financial",
+   "title": "2027 Internship - Quantitative Trading",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-06"
+   },
+   "notes": [
+    "fit 2/5 · quantitative trading (technical/algorithmic)"
+   ]
+  },
+  "url:https://job-boards.greenhouse.io/virtu/jobs/8624410002": {
+   "url": "https://job-boards.greenhouse.io/virtu/jobs/8624410002",
+   "company": "Virtu Financial",
+   "title": "2027 Internship - Software Engineer",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-06"
+   },
+   "notes": [
+    "fit 5/5 · backend / low-latency systems SWE"
+   ]
+  },
+  "url:https://job-boards.greenhouse.io/virtu/jobs/8657500002": {
+   "url": "https://job-boards.greenhouse.io/virtu/jobs/8657500002",
+   "company": "Virtu Financial",
+   "title": "2027 Internship - Frontend Engineer (UI)",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-06"
+   },
+   "notes": [
+    "fit 3/5 · frontend SWE (UI / trading tools)"
+   ]
+  },
+  "url:https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f": {
+   "url": "https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f/application?embed=true",
+   "company": "Circleback",
+   "title": "Software Engineer Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-06"
+   },
+   "notes": [
+    "fit 4/5 · full-stack SWE (AI meeting-notes product)"
+   ]
+  },
+  "url:https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155": {
+   "url": "https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application",
+   "company": "CTGT",
+   "title": "Software Engineer Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-06"
+   },
+   "notes": [
+    "fit 5/5 · backend / full-stack SWE (LLM governance platform)"
+   ]
+  },
+  "url:https://jobs.ashbyhq.com/ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849": {
+   "url": "https://jobs.ashbyhq.com/ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849/application",
+   "company": "Ellipsis Labs",
+   "title": "Software Engineer",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-06"
+   },
+   "notes": [
+    "fit 5/5 · generalist/backend SWE (full-stack, infra, on-chain)"
+   ]
+  },
+  "url:https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef": {
+   "url": "https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef/application?embed=true",
+   "company": "Heliux",
+   "title": "Software Engineer Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-06"
+   },
+   "notes": [
+    "fit 4/5 · full-stack / product SWE at an early-stage AI-native manufacturing OS startup"
+   ]
+  },
+  "url:https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280": {
+   "url": "https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280/application?embed=true",
+   "company": "Melius",
+   "title": "Software Engineer Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-06"
+   },
+   "notes": [
+    "fit 4/5 · full-stack SWE / agent + LLM product engineering (early-stage startup)"
+   ]
+  },
+  "url:https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7": {
+   "url": "https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7/application?embed=true",
+   "company": "Cybernetic Labs",
+   "title": "Software Engineer Intern - Agent Platform",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-06"
+   },
+   "notes": [
+    "fit 5/5 · backend SWE / agent infrastructure (Python, LLM orchestration)"
+   ]
+  },
+  "url:https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef": {
+   "url": "https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef/application?embed=true",
+   "company": "Cybernetic Labs",
+   "title": "Full-Stack Software Engineer Intern - Product",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-06"
+   },
+   "notes": [
+    "fit 4/5 · full-stack SWE (React/TypeScript + Python, product)"
+   ]
+  },
+  "url:https://jobs.ashbyhq.com/netic/ffd6af1a-cebb-41f5-ac1d-e695adfd067c": {
+   "url": "https://jobs.ashbyhq.com/netic/ffd6af1a-cebb-41f5-ac1d-e695adfd067c/application?embed=true",
+   "company": "Cybernetic Labs",
+   "title": "Forward Deployed Engineer Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-06"
+   },
+   "notes": [
+    "fit 4/5 · forward-deployed / applied AI engineer (Python backend + LLM agents)"
+   ]
+  },
+  "url:https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05": {
+   "url": "https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05/application?embed=true",
+   "company": "Quadrillion",
+   "title": "Software Engineering Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-06"
+   },
+   "notes": [
+    "fit 5/5 · backend SWE / agent infrastructure (AI research platform)"
+   ]
+  },
+  "url:https://jobs.smartrecruiters.com/boschgroup/744000132662239": {
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000132662239",
+   "company": "Bosch Group",
+   "title": "Training Technology Digital Solutions Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-06"
+   },
+   "notes": [
+    "fit 2/5 · training/L&D operations + LMS administration (non-engineering)"
+   ]
+  },
+  "url:https://jobs.smartrecruiters.com/boschgroup/744000134840254": {
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000134840254",
+   "company": "Bosch Group",
+   "title": "A.I. Integration Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-06"
+   },
+   "notes": [
+    "fit 3/5 · applied AI/ML integration (manufacturing)"
    ]
   },
   "url:https://jobs.smartrecruiters.com/boschgroup/744000141628359": {
@@ -111,6 +459,18 @@
     "auto-screen: career Master's-level policy role, not an internship"
    ]
   },
+  "url:https://jobs.smartrecruiters.com/westerndigital/744000138727213": {
+   "url": "https://jobs.smartrecruiters.com/WesternDigital/744000138727213",
+   "company": "Western Digital",
+   "title": "Summer 2027 - Software Engineering Internship",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-06"
+   },
+   "notes": [
+    "fit 4/5 · backend/systems SWE, applications SWE, data analytics (multi-track req)"
+   ]
+  },
   "url:https://jobs.smartrecruiters.com/westerndigital/744000140949875": {
    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000140949875",
    "company": "Western Digital",
@@ -133,6 +493,42 @@
    },
    "notes": [
     "STRONG FIT; max 2 TikTok apps globally; manual-fetch host"
+   ]
+  },
+  "url:https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/fridley-minnesota-united-states-of-america/software-engineering-intern---summer-2027_r73630": {
+   "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630",
+   "company": "Medtronic",
+   "title": "Software Engineer Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-06"
+   },
+   "notes": [
+    "fit 4/5 · backend / cloud / AI-data-science SWE (medical device technology)"
+   ]
+  },
+  "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-florida-melbourne/xmlname-2027-intern-software-engineer_r10243573": {
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573",
+   "company": "Northrop Grumman",
+   "title": "Software Engineer Intern - Aeronautics Systems",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-06"
+   },
+   "notes": [
+    "fit 3/5 · backend/embedded SWE (defense aerospace software)"
+   ]
+  },
+  "url:https://ntst.wd1.myworkdayjobs.com/careers/job/overland-park-ks/software-engineer-intern--summer-2027-internship-_r015667": {
+   "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667",
+   "company": "Netsmart",
+   "title": "Software Engineer Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-06"
+   },
+   "notes": [
+    "fit 4/5 · backend SWE / analytics tooling (healthcare technology)"
    ]
   },
   "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/office---usa---ca---headquarters/intern---grc-engineer_jr-013678": {
@@ -193,6 +589,54 @@
    },
    "notes": [
     "BEST BET: bachelor's-pursuing, no class-year bar, 10-wk Jun-Aug; likely 2027 intake (screened 8/4)"
+   ]
+  },
+  "url:https://uline.wd1.myworkdayjobs.com/en-us/uline_careers/job/pleasant-prairie-wi/business-intelligence-developer-internship---summer-2027_r265685": {
+   "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Business-Intelligence-Developer-Internship---Summer-2027_R265685",
+   "company": "Uline",
+   "title": "Business Intelligence Developer Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-06"
+   },
+   "notes": [
+    "fit 3/5 · BI / data engineering (Python, SQL, Informatica, MS BI stack)"
+   ]
+  },
+  "url:https://uline.wd1.myworkdayjobs.com/en-us/uline_careers/job/pleasant-prairie-wi/database-administrator-internship---summer-2027_r265687": {
+   "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Database-Administrator-Internship---Summer-2027_R265687",
+   "company": "Uline",
+   "title": "Database Administrator Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-06"
+   },
+   "notes": [
+    "fit 3/5 · database administration / data infrastructure"
+   ]
+  },
+  "url:https://uline.wd1.myworkdayjobs.com/en-us/uline_careers/job/pleasant-prairie-wi/operations-analyst-internship---summer-2027_r265822": {
+   "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Operations-Analyst-Internship---Summer-2027_R265822",
+   "company": "Uline",
+   "title": "Operations Analyst Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-06"
+   },
+   "notes": [
+    "fit 2/5 · business operations analysis (SQL, Power BI reporting)"
+   ]
+  },
+  "url:https://uline.wd1.myworkdayjobs.com/en-us/uline_careers/job/pleasant-prairie-wi/software-development-internship---summer-2027_r265684": {
+   "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R265684",
+   "company": "Uline",
+   "title": "Software Development Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-06"
+   },
+   "notes": [
+    "fit 4/5 · full-stack SWE"
    ]
   }
  }
