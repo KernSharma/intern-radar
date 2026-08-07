@@ -54,6 +54,16 @@
   "posted_at": "2026-06-11",
   "source": "simplify"
  },
+ "url:https://boards.greenhouse.io/figma/jobs/6004606004?gh_jid=6004606004": {
+  "company": "Figma",
+  "title": "Manager, Figma for Education (International)",
+  "url": "https://boards.greenhouse.io/figma/jobs/6004606004?gh_jid=6004606004",
+  "locations": [
+   "San Francisco, CA • New York, NY • United States"
+  ],
+  "posted_at": "2026-05-27",
+  "source": "greenhouse"
+ },
  "url:https://boards.greenhouse.io/neuralink/jobs/5469298003?gh_jid=5469298003": {
   "company": "Neuralink",
   "title": "Software Engineer Intern, Infrastructure",
@@ -341,6 +351,16 @@
   "posted_at": "2026-08-06",
   "source": "simplify"
  },
+ "url:https://careers-sargentlundy.icims.com/jobs/25889/job?mobile=true&needsRedirect=false": {
+  "company": "Sargent & Lundy",
+  "title": "Software Engineer Intern",
+  "url": "https://careers-sargentlundy.icims.com/jobs/25889/job?mobile=true&needsRedirect=false",
+  "locations": [
+   "Chicago, IL"
+  ],
+  "posted_at": "2026-08-06",
+  "source": "simplify"
+ },
  "url:https://careers-sig.icims.com/jobs/10626/job?mobile=true&needsRedirect=false": {
   "company": "Susquehanna International Group (SIG)",
   "title": "Derivatives Sales Trader Intern - Summer 2027",
@@ -453,13 +473,13 @@
  },
  "url:https://careers.roblox.com/jobs/8072713?gh_jid=8072713": {
   "company": "Roblox",
-  "title": "Software Engineer Intern",
+  "title": "[Summer 2027] Software Engineer Intern",
   "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
   "locations": [
-   "San Mateo, CA"
+   "San Mateo, CA, United States"
   ],
   "posted_at": "2026-08-05",
-  "source": "simplify"
+  "source": "greenhouse"
  },
  "url:https://ciena.wd5.myworkdayjobs.com/careers/job/germany--braunschweig/braunschweig---bonding-2026-applications_r031174": {
   "company": "ciena",
@@ -621,6 +641,26 @@
   "posted_at": "2026-08-01",
   "source": "simplify"
  },
+ "url:https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002": {
+  "company": "Databricks",
+  "title": "Product Management Intern (Summer 2027)",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002",
+  "locations": [
+   "Bellevue, Washington; Mountain View, California; San Francisco, California"
+  ],
+  "posted_at": "2023-08-17",
+  "source": "greenhouse"
+ },
+ "url:https://databricks.com/company/careers/open-positions/job?gh_jid=8632282002": {
+  "company": "Databricks",
+  "title": "Director, International Communications",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8632282002",
+  "locations": [
+   "London, United Kingdom"
+  ],
+  "posted_at": "2026-07-21",
+  "source": "greenhouse"
+ },
  "url:https://egug.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/26011984": {
   "company": "American Express",
   "title": "Campus Undergraduate Summer Internship - Strategy & Analytics - Credit & Fraud Risk",
@@ -691,6 +731,26 @@
    "Atlanta, GA"
   ],
   "posted_at": "2026-07-27",
+  "source": "simplify"
+ },
+ "url:https://gdit.wd5.myworkdayjobs.com/external_career_site/job/usa-md-annapolis-junction/summer-2027-software-developer-internship_rq225456-1": {
+  "company": "General Dynamics Information Technology",
+  "title": "Software Developer Intern",
+  "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225456-1",
+  "locations": [
+   "Annapolis Junction, MD"
+  ],
+  "posted_at": "2026-08-06",
+  "source": "simplify"
+ },
+ "url:https://gdit.wd5.myworkdayjobs.com/external_career_site/job/usa-md-annapolis-junction/summer-2027-software-developer-internship_rq225469-1": {
+  "company": "General Dynamics Information Technology",
+  "title": "Software Developer Intern",
+  "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225469-1",
+  "locations": [
+   "Annapolis Junction, MD"
+  ],
+  "posted_at": "2026-08-06",
   "source": "simplify"
  },
  "url:https://gdit.wd5.myworkdayjobs.com/external_career_site/job/usa-md-annapolis-junction/summer-2027-software-developer-internship_rq225717-1": {
@@ -827,25 +887,145 @@
   "posted_at": "2026-08-05",
   "source": "simplify"
  },
+ "url:https://job-boards.eu.greenhouse.io/imc/jobs/4667854101": {
+  "company": "IMC",
+  "title": "Software Engineer Intern",
+  "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4667854101",
+  "locations": [
+   "Amsterdam, Netherlands"
+  ],
+  "posted_at": "2026-05-07",
+  "source": "greenhouse"
+ },
  "url:https://job-boards.eu.greenhouse.io/imc/jobs/4823923101": {
-  "company": "IMC Trading",
-  "title": "Quantitative Trader Intern",
+  "company": "IMC",
+  "title": "Quantitative Trader Intern - Summer 2027",
   "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823923101",
   "locations": [
-   "Chicago, IL"
+   "Chicago, United States"
   ],
   "posted_at": "2026-07-01",
-  "source": "simplify"
+  "source": "greenhouse"
+ },
+ "url:https://job-boards.eu.greenhouse.io/imc/jobs/4823924101": {
+  "company": "IMC",
+  "title": "Software Engineer Intern - Summer 2027",
+  "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823924101",
+  "locations": [
+   "Chicago, United States"
+  ],
+  "posted_at": "2026-07-01",
+  "source": "greenhouse"
+ },
+ "url:https://job-boards.eu.greenhouse.io/imc/jobs/4823945101": {
+  "company": "IMC",
+  "title": "Hardware Engineer Intern - Summer 2027",
+  "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823945101",
+  "locations": [
+   "Chicago, United States"
+  ],
+  "posted_at": "2026-07-01",
+  "source": "greenhouse"
  },
  "url:https://job-boards.eu.greenhouse.io/imc/jobs/4907399101": {
-  "company": "IMC Trading",
-  "title": "Quantitative Research Intern",
+  "company": "IMC",
+  "title": "Quantitative Research Intern (BS/MS) - Summer 2027",
   "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907399101",
   "locations": [
-   "Chicago, IL"
+   "Chicago, United States"
   ],
   "posted_at": "2026-07-01",
-  "source": "simplify"
+  "source": "greenhouse"
+ },
+ "url:https://job-boards.eu.greenhouse.io/imc/jobs/4907430101": {
+  "company": "IMC",
+  "title": "Machine Learning Research Intern - Summer 2027 - Chicago",
+  "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907430101",
+  "locations": [
+   "Chicago, United States"
+  ],
+  "posted_at": "2026-07-01",
+  "source": "greenhouse"
+ },
+ "url:https://job-boards.eu.greenhouse.io/imc/jobs/4912874101": {
+  "company": "IMC",
+  "title": "Machine Learning Research Intern - Summer 2027 - Amsterdam",
+  "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4912874101",
+  "locations": [
+   "Amsterdam, Netherlands"
+  ],
+  "posted_at": "2026-07-06",
+  "source": "greenhouse"
+ },
+ "url:https://job-boards.eu.greenhouse.io/imc/jobs/4927149101": {
+  "company": "IMC",
+  "title": "Hardware Engineer Intern",
+  "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4927149101",
+  "locations": [
+   "Amsterdam, Netherlands"
+  ],
+  "posted_at": "2026-07-31",
+  "source": "greenhouse"
+ },
+ "url:https://job-boards.eu.greenhouse.io/imc/jobs/4936262101": {
+  "company": "IMC",
+  "title": "Quantitative Trader Intern",
+  "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4936262101",
+  "locations": [
+   "Amsterdam, Netherlands"
+  ],
+  "posted_at": "2026-07-31",
+  "source": "greenhouse"
+ },
+ "url:https://job-boards.eu.greenhouse.io/imc/jobs/4939846101": {
+  "company": "IMC",
+  "title": "Trader Intern",
+  "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4939846101",
+  "locations": [
+   "Amsterdam, Netherlands"
+  ],
+  "posted_at": "2026-07-31",
+  "source": "greenhouse"
+ },
+ "url:https://job-boards.eu.greenhouse.io/imc/jobs/4941380101": {
+  "company": "IMC",
+  "title": "Macro Analyst Intern",
+  "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4941380101",
+  "locations": [
+   "Amsterdam, Netherlands"
+  ],
+  "posted_at": "2026-07-31",
+  "source": "greenhouse"
+ },
+ "url:https://job-boards.greenhouse.io/anthropic/jobs/5197551008": {
+  "company": "Anthropic",
+  "title": "Head of International Order-to-Cash",
+  "url": "https://job-boards.greenhouse.io/anthropic/jobs/5197551008",
+  "locations": [
+   "Dublin, IE"
+  ],
+  "posted_at": "2026-06-10",
+  "source": "greenhouse"
+ },
+ "url:https://job-boards.greenhouse.io/anthropic/jobs/5358100008": {
+  "company": "Anthropic",
+  "title": "Head of Deal Desk - International",
+  "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358100008",
+  "locations": [
+   "Dublin, IE"
+  ],
+  "posted_at": "2026-07-24",
+  "source": "greenhouse"
+ },
+ "url:https://job-boards.greenhouse.io/anthropic/jobs/5369755008": {
+  "company": "Anthropic",
+  "title": "Head of Deal Desk - International",
+  "url": "https://job-boards.greenhouse.io/anthropic/jobs/5369755008",
+  "locations": [
+   "London, UK"
+  ],
+  "posted_at": "2026-07-24",
+  "source": "greenhouse"
  },
  "url:https://job-boards.greenhouse.io/appian/jobs/8041237": {
   "company": "Appian",
@@ -1172,13 +1352,23 @@
  },
  "url:https://job-boards.greenhouse.io/flowtraders/jobs/8047166": {
   "company": "Flow Traders",
-  "title": "Quantitative Trading Intern",
+  "title": "Quantitative Trading Intern Summer 2027",
   "url": "https://job-boards.greenhouse.io/flowtraders/jobs/8047166",
   "locations": [
-   "NYC"
+   "New York"
   ],
   "posted_at": "2026-07-08",
-  "source": "simplify"
+  "source": "greenhouse"
+ },
+ "url:https://job-boards.greenhouse.io/flowtraders/jobs/8102618": {
+  "company": "Flow Traders",
+  "title": "Trading Intern",
+  "url": "https://job-boards.greenhouse.io/flowtraders/jobs/8102618",
+  "locations": [
+   "Hong Kong"
+  ],
+  "posted_at": "2026-08-04",
+  "source": "greenhouse"
  },
  "url:https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003": {
   "company": "HPR (Hyannis Port Research)",
@@ -1242,13 +1432,53 @@
  },
  "url:https://job-boards.greenhouse.io/pdtpartners/jobs/8077685": {
   "company": "PDT Partners",
-  "title": "Software Engineer Intern",
+  "title": "Summer 2027 Software Engineering Intern",
   "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685",
   "locations": [
-   "NYC"
+   "New York, NY"
   ],
   "posted_at": "2026-07-24",
-  "source": "simplify"
+  "source": "greenhouse"
+ },
+ "url:https://job-boards.greenhouse.io/pdtpartners/jobs/8083292": {
+  "company": "PDT Partners",
+  "title": "Summer 2027 Systems Engineering Intern",
+  "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8083292",
+  "locations": [
+   "New York, NY"
+  ],
+  "posted_at": "2026-07-24",
+  "source": "greenhouse"
+ },
+ "url:https://job-boards.greenhouse.io/scaleai/jobs/4611533005": {
+  "company": "Scale AI",
+  "title": "Technical Advisor Specialist (Part-Time Internship)",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4611533005",
+  "locations": [
+   "San Francisco, CA"
+  ],
+  "posted_at": "2025-09-22",
+  "source": "greenhouse"
+ },
+ "url:https://job-boards.greenhouse.io/scaleai/jobs/4703343005": {
+  "company": "Scale AI",
+  "title": "AI Builder Intern",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4703343005",
+  "locations": [
+   "San Francisco, CA; New York, NY"
+  ],
+  "posted_at": "2026-06-06",
+  "source": "greenhouse"
+ },
+ "url:https://job-boards.greenhouse.io/scaleai/jobs/4712321005": {
+  "company": "Scale AI",
+  "title": "Head of International Security",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4712321005",
+  "locations": [
+   "London, UK"
+  ],
+  "posted_at": "2026-07-15",
+  "source": "greenhouse"
  },
  "url:https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007?gh_jid=5151569007": {
   "company": "TransMarket Group",
@@ -1522,7 +1752,7 @@
  },
  "url:https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b": {
   "company": "cohere",
-  "title": "Machine Learning Intern/Co-op  (Fall, 2026)",
+  "title": "Machine Learning Intern/Co-op  (Winter 2027)",
   "url": "https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b",
   "locations": [
    "Canada",
@@ -4710,6 +4940,16 @@
   "posted_at": "2026-07-15",
   "source": "simplify"
  },
+ "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-florida-melbourne/xmlname-2027-intern-software-engineer_r10242395": {
+  "company": "Northrop Grumman",
+  "title": "Software Engineer Intern - Aeronautics Systems",
+  "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395",
+  "locations": [
+   "Melbourne, FL"
+  ],
+  "posted_at": "2026-08-06",
+  "source": "simplify"
+ },
  "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-florida-melbourne/xmlname-2027-intern-software-engineer_r10243573": {
   "company": "Northrop Grumman",
   "title": "Software Engineer Intern - Aeronautics Systems",
@@ -5229,6 +5469,86 @@
   "posted_at": "2026-08-03",
   "source": "simplify"
  },
+ "url:https://www.akunacapital.com/careers/job/8018847?gh_jid=8018847": {
+  "company": "Akuna Capital",
+  "title": "Software Engineer Intern - C++, Summer 2027",
+  "url": "https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847",
+  "locations": [
+   "Chicago, IL"
+  ],
+  "posted_at": "2026-07-13",
+  "source": "greenhouse"
+ },
+ "url:https://www.akunacapital.com/careers/job/8018853?gh_jid=8018853": {
+  "company": "Akuna Capital",
+  "title": "Software Engineer Intern - Python, Summer 2027",
+  "url": "https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853",
+  "locations": [
+   "Chicago, IL"
+  ],
+  "posted_at": "2026-07-13",
+  "source": "greenhouse"
+ },
+ "url:https://www.akunacapital.com/careers/job/8018856?gh_jid=8018856": {
+  "company": "Akuna Capital",
+  "title": "Platform Engineer Intern, Summer 2027",
+  "url": "https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856",
+  "locations": [
+   "Chicago, IL"
+  ],
+  "posted_at": "2026-07-13",
+  "source": "greenhouse"
+ },
+ "url:https://www.akunacapital.com/careers/job/8018880?gh_jid=8018880": {
+  "company": "Akuna Capital",
+  "title": "Hardware Engineer Intern, Summer 2027",
+  "url": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
+  "locations": [
+   "Chicago, IL"
+  ],
+  "posted_at": "2026-07-13",
+  "source": "greenhouse"
+ },
+ "url:https://www.akunacapital.com/careers/job/8018886?gh_jid=8018886": {
+  "company": "Akuna Capital",
+  "title": "Software Engineer Intern - C# .NET Desktop, Summer 2027",
+  "url": "https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886",
+  "locations": [
+   "Chicago, IL"
+  ],
+  "posted_at": "2026-07-13",
+  "source": "greenhouse"
+ },
+ "url:https://www.akunacapital.com/careers/job/8018893?gh_jid=8018893": {
+  "company": "Akuna Capital",
+  "title": "Software Engineer Intern - Full Stack Web, Summer 2027",
+  "url": "https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893",
+  "locations": [
+   "Chicago, IL"
+  ],
+  "posted_at": "2026-07-13",
+  "source": "greenhouse"
+ },
+ "url:https://www.akunacapital.com/careers/job/8021481?gh_jid=8021481": {
+  "company": "Akuna Capital",
+  "title": "Quantitative Development & Strategy Intern, Summer 2027",
+  "url": "https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481",
+  "locations": [
+   "Chicago, IL"
+  ],
+  "posted_at": "2026-07-13",
+  "source": "greenhouse"
+ },
+ "url:https://www.akunacapital.com/careers/job/8036614?gh_jid=8036614": {
+  "company": "Akuna Capital",
+  "title": "Quantitative Research Intern, Summer 2027",
+  "url": "https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614",
+  "locations": [
+   "Chicago, IL"
+  ],
+  "posted_at": "2026-07-13",
+  "source": "greenhouse"
+ },
  "url:https://www.hudsonrivertrading.com/careers/job?gh_jid=7964062": {
   "company": "Hudson River Trading",
   "title": "Algorithm Development Intern - Quant Research",
@@ -5260,6 +5580,296 @@
   ],
   "posted_at": "2026-08-03",
   "source": "simplify"
+ },
+ "url:https://www.jumptrading.com/hr/job?gh_jid=7362318": {
+  "company": "Jump Trading",
+  "title": "Campus Crypto Researcher (Intern)",
+  "url": "https://www.jumptrading.com/hr/job?gh_jid=7362318",
+  "locations": [
+   "London"
+  ],
+  "posted_at": "2025-10-29",
+  "source": "greenhouse"
+ },
+ "url:https://www.jumptrading.com/hr/job?gh_jid=7565728": {
+  "company": "Jump Trading",
+  "title": "Campus Trading Team Software Engineer  (Intern)",
+  "url": "https://www.jumptrading.com/hr/job?gh_jid=7565728",
+  "locations": [
+   "Hong Kong"
+  ],
+  "posted_at": "2026-02-05",
+  "source": "greenhouse"
+ },
+ "url:https://www.jumptrading.com/hr/job?gh_jid=7848371": {
+  "company": "Jump Trading",
+  "title": "Campus Quantitative Trader (Intern)",
+  "url": "https://www.jumptrading.com/hr/job?gh_jid=7848371",
+  "locations": [
+   "Chicago; New York"
+  ],
+  "posted_at": "2026-07-08",
+  "source": "greenhouse"
+ },
+ "url:https://www.jumptrading.com/hr/job?gh_jid=7974391": {
+  "company": "Jump Trading",
+  "title": "Campus FPGA Engineer (Intern)",
+  "url": "https://www.jumptrading.com/hr/job?gh_jid=7974391",
+  "locations": [
+   "London"
+  ],
+  "posted_at": "2026-07-13",
+  "source": "greenhouse"
+ },
+ "url:https://www.jumptrading.com/hr/job?gh_jid=7974837": {
+  "company": "Jump Trading",
+  "title": "Campus ASIC Engineer (Intern)",
+  "url": "https://www.jumptrading.com/hr/job?gh_jid=7974837",
+  "locations": [
+   "Bristol"
+  ],
+  "posted_at": "2026-07-13",
+  "source": "greenhouse"
+ },
+ "url:https://www.jumptrading.com/hr/job?gh_jid=7974943": {
+  "company": "Jump Trading",
+  "title": "Campus UI Software Engineer (Intern)",
+  "url": "https://www.jumptrading.com/hr/job?gh_jid=7974943",
+  "locations": [
+   "London"
+  ],
+  "posted_at": "2026-07-13",
+  "source": "greenhouse"
+ },
+ "url:https://www.jumptrading.com/hr/job?gh_jid=7975008": {
+  "company": "Jump Trading",
+  "title": "Campus Data Engineer (Intern)",
+  "url": "https://www.jumptrading.com/hr/job?gh_jid=7975008",
+  "locations": [
+   "London"
+  ],
+  "posted_at": "2026-07-13",
+  "source": "greenhouse"
+ },
+ "url:https://www.jumptrading.com/hr/job?gh_jid=7975026": {
+  "company": "Jump Trading",
+  "title": "Campus Software Engineer (Intern)",
+  "url": "https://www.jumptrading.com/hr/job?gh_jid=7975026",
+  "locations": [
+   "London"
+  ],
+  "posted_at": "2026-07-13",
+  "source": "greenhouse"
+ },
+ "url:https://www.jumptrading.com/hr/job?gh_jid=7977145": {
+  "company": "Jump Trading",
+  "title": "Campus ML Research Engineer (Intern)",
+  "url": "https://www.jumptrading.com/hr/job?gh_jid=7977145",
+  "locations": [
+   "London"
+  ],
+  "posted_at": "2026-07-13",
+  "source": "greenhouse"
+ },
+ "url:https://www.jumptrading.com/hr/job?gh_jid=7982648": {
+  "company": "Jump Trading",
+  "title": "Campus Quantitative Researcher, UG/MS (Intern)",
+  "url": "https://www.jumptrading.com/hr/job?gh_jid=7982648",
+  "locations": [
+   "Chicago; New York"
+  ],
+  "posted_at": "2026-07-08",
+  "source": "greenhouse"
+ },
+ "url:https://www.jumptrading.com/hr/job?gh_jid=8000323": {
+  "company": "Jump Trading",
+  "title": "Campus Systems Engineer (Intern)",
+  "url": "https://www.jumptrading.com/hr/job?gh_jid=8000323",
+  "locations": [
+   "London; Amsterdam"
+  ],
+  "posted_at": "2026-07-13",
+  "source": "greenhouse"
+ },
+ "url:https://www.jumptrading.com/hr/job?gh_jid=8002989": {
+  "company": "Jump Trading",
+  "title": "Campus Software Engineer (Intern)",
+  "url": "https://www.jumptrading.com/hr/job?gh_jid=8002989",
+  "locations": [
+   "Chicago"
+  ],
+  "posted_at": "2026-07-08",
+  "source": "greenhouse"
+ },
+ "url:https://www.jumptrading.com/hr/job?gh_jid=8002998": {
+  "company": "Jump Trading",
+  "title": "Campus Data Engineer (Intern)",
+  "url": "https://www.jumptrading.com/hr/job?gh_jid=8002998",
+  "locations": [
+   "Chicago"
+  ],
+  "posted_at": "2026-07-08",
+  "source": "greenhouse"
+ },
+ "url:https://www.jumptrading.com/hr/job?gh_jid=8003013": {
+  "company": "Jump Trading",
+  "title": "Campus FPGA Engineer (Intern)",
+  "url": "https://www.jumptrading.com/hr/job?gh_jid=8003013",
+  "locations": [
+   "Chicago"
+  ],
+  "posted_at": "2026-07-08",
+  "source": "greenhouse"
+ },
+ "url:https://www.jumptrading.com/hr/job?gh_jid=8003019": {
+  "company": "Jump Trading",
+  "title": "Campus UI Software Engineer (Intern)",
+  "url": "https://www.jumptrading.com/hr/job?gh_jid=8003019",
+  "locations": [
+   "Chicago"
+  ],
+  "posted_at": "2026-07-08",
+  "source": "greenhouse"
+ },
+ "url:https://www.jumptrading.com/hr/job?gh_jid=8007788": {
+  "company": "Jump Trading",
+  "title": "Campus Systems Engineer (Intern)",
+  "url": "https://www.jumptrading.com/hr/job?gh_jid=8007788",
+  "locations": [
+   "Chicago"
+  ],
+  "posted_at": "2026-07-08",
+  "source": "greenhouse"
+ },
+ "url:https://www.jumptrading.com/hr/job?gh_jid=8010307": {
+  "company": "Jump Trading",
+  "title": "Campus Quantitative Researcher (Intern)",
+  "url": "https://www.jumptrading.com/hr/job?gh_jid=8010307",
+  "locations": [
+   "London; Amsterdam"
+  ],
+  "posted_at": "2026-07-13",
+  "source": "greenhouse"
+ },
+ "url:https://www.jumptrading.com/hr/job?gh_jid=8027939": {
+  "company": "Jump Trading",
+  "title": "Campus Quantitative Researcher (Intern)",
+  "url": "https://www.jumptrading.com/hr/job?gh_jid=8027939",
+  "locations": [
+   "Singapore"
+  ],
+  "posted_at": "2026-08-03",
+  "source": "greenhouse"
+ },
+ "url:https://www.jumptrading.com/hr/job?gh_jid=8027941": {
+  "company": "Jump Trading",
+  "title": "Campus Quantitative Trader (Intern)",
+  "url": "https://www.jumptrading.com/hr/job?gh_jid=8027941",
+  "locations": [
+   "Singapore"
+  ],
+  "posted_at": "2026-08-03",
+  "source": "greenhouse"
+ },
+ "url:https://www.jumptrading.com/hr/job?gh_jid=8027946": {
+  "company": "Jump Trading",
+  "title": "Campus C++ Software Engineer (Intern)",
+  "url": "https://www.jumptrading.com/hr/job?gh_jid=8027946",
+  "locations": [
+   "Singapore"
+  ],
+  "posted_at": "2026-08-03",
+  "source": "greenhouse"
+ },
+ "url:https://www.jumptrading.com/hr/job?gh_jid=8027952": {
+  "company": "Jump Trading",
+  "title": "Campus Systems Engineer (Intern)",
+  "url": "https://www.jumptrading.com/hr/job?gh_jid=8027952",
+  "locations": [
+   "Singapore"
+  ],
+  "posted_at": "2026-08-03",
+  "source": "greenhouse"
+ },
+ "url:https://www.jumptrading.com/hr/job?gh_jid=8027955": {
+  "company": "Jump Trading",
+  "title": "Campus Python Software Engineer (Intern)",
+  "url": "https://www.jumptrading.com/hr/job?gh_jid=8027955",
+  "locations": [
+   "Singapore"
+  ],
+  "posted_at": "2026-08-03",
+  "source": "greenhouse"
+ },
+ "url:https://www.jumptrading.com/hr/job?gh_jid=8050772": {
+  "company": "Jump Trading",
+  "title": "Campus Quantitative Trader (Intern)",
+  "url": "https://www.jumptrading.com/hr/job?gh_jid=8050772",
+  "locations": [
+   "London; Amsterdam"
+  ],
+  "posted_at": "2026-07-13",
+  "source": "greenhouse"
+ },
+ "url:https://www.jumptrading.com/hr/job?gh_jid=8052281": {
+  "company": "Jump Trading",
+  "title": "Campus AI Research Engineer (Intern)",
+  "url": "https://www.jumptrading.com/hr/job?gh_jid=8052281",
+  "locations": [
+   "Chicago; New York"
+  ],
+  "posted_at": "2026-07-08",
+  "source": "greenhouse"
+ },
+ "url:https://www.jumptrading.com/hr/job?gh_jid=8052338": {
+  "company": "Jump Trading",
+  "title": "Campus AI Research Engineer - Deep Learning (Intern)",
+  "url": "https://www.jumptrading.com/hr/job?gh_jid=8052338",
+  "locations": [
+   "Chicago; New York"
+  ],
+  "posted_at": "2026-07-08",
+  "source": "greenhouse"
+ },
+ "url:https://www.jumptrading.com/hr/job?gh_jid=8052351": {
+  "company": "Jump Trading",
+  "title": "Campus AI Research Engineer – Research Automation (Intern)",
+  "url": "https://www.jumptrading.com/hr/job?gh_jid=8052351",
+  "locations": [
+   "Chicago; New York"
+  ],
+  "posted_at": "2026-07-08",
+  "source": "greenhouse"
+ },
+ "url:https://www.jumptrading.com/hr/job?gh_jid=8059384": {
+  "company": "Jump Trading",
+  "title": "Campus Quantitative Researcher (M1/M2 Intern)",
+  "url": "https://www.jumptrading.com/hr/job?gh_jid=8059384",
+  "locations": [
+   "London; Paris"
+  ],
+  "posted_at": "2026-07-13",
+  "source": "greenhouse"
+ },
+ "url:https://www.oldmissioncapital.com/careers?gh_jid=7796180003": {
+  "company": "Old Mission",
+  "title": "Software Engineer – 2027 Internship Program (June Start)",
+  "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7796180003",
+  "locations": [
+   "Chicago, IL, United States"
+  ],
+  "posted_at": "2026-07-15",
+  "source": "greenhouse"
+ },
+ "url:https://www.oldmissioncapital.com/careers?gh_jid=7828063003": {
+  "company": "Old Mission",
+  "title": "Compliance Analyst Co-Op",
+  "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7828063003",
+  "locations": [
+   "Chicago, IL, United States"
+  ],
+  "posted_at": "2026-08-05",
+  "source": "greenhouse"
  },
  "url:https://www.optiver.com/join-us/jobs/8401052002?gh_jid=8401052002": {
   "company": "Optiver",
@@ -5302,16 +5912,55 @@
   "posted_at": "2026-08-05",
   "source": "simplify"
  },
- "url:https://www.tower-research.com/open-positions?gh_jid=8044334": {
+ "url:https://www.tower-research.com/open-positions?gh_jid=7789933": {
   "company": "Tower Research Capital",
-  "title": "Quantitative Developer Intern",
-  "url": "https://www.tower-research.com/open-positions/?gh_jid=8044334",
+  "title": "Risk Intern - 6 Month Internship Opportunity",
+  "url": "https://www.tower-research.com/open-positions/?gh_jid=7789933",
   "locations": [
-   "Chicago, IL",
-   "NYC"
+   "Singapore"
+  ],
+  "posted_at": "2026-04-08",
+  "source": "greenhouse"
+ },
+ "url:https://www.tower-research.com/open-positions?gh_jid=8024128": {
+  "company": "Tower Research Capital",
+  "title": "Quantitative Trader Intern - Summer 2027",
+  "url": "https://www.tower-research.com/open-positions/?gh_jid=8024128",
+  "locations": [
+   "New York, Chicago"
   ],
   "posted_at": "2026-07-05",
-  "source": "simplify"
+  "source": "greenhouse"
+ },
+ "url:https://www.tower-research.com/open-positions?gh_jid=8041512": {
+  "company": "Tower Research Capital",
+  "title": "Business Analytics Intern - 6 Month Internship Opportunity",
+  "url": "https://www.tower-research.com/open-positions/?gh_jid=8041512",
+  "locations": [
+   "Amsterdam"
+  ],
+  "posted_at": "2026-07-03",
+  "source": "greenhouse"
+ },
+ "url:https://www.tower-research.com/open-positions?gh_jid=8044334": {
+  "company": "Tower Research Capital",
+  "title": "Quantitative Developer Intern - Summer 2027",
+  "url": "https://www.tower-research.com/open-positions/?gh_jid=8044334",
+  "locations": [
+   "New York, Chicago"
+  ],
+  "posted_at": "2026-07-05",
+  "source": "greenhouse"
+ },
+ "url:https://www.tower-research.com/open-positions?gh_jid=8091833": {
+  "company": "Tower Research Capital",
+  "title": "Junior Execution Trader Intern",
+  "url": "https://www.tower-research.com/open-positions/?gh_jid=8091833",
+  "locations": [
+   "Gift City"
+  ],
+  "posted_at": "2026-07-29",
+  "source": "greenhouse"
  },
  "url:https://www.trlm.com/apply/5076003007?gh_jid=5076003007": {
   "company": "Trillium",
