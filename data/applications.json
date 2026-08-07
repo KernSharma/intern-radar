@@ -62,6 +62,20 @@
     "fit 2/5 · AI/IT business analyst (requirements + research, AI-adjacent)"
    ]
   },
+  "url:https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002": {
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002",
+   "company": "Databricks",
+   "title": "Product Management Intern (Summer 2027)",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-07",
+    "withdrawn": "2026-08-07"
+   },
+   "notes": [
+    "scaffolded via new_application.py",
+    "auto-screen: class-year bar, graduating Fall 2027 or Spring 2028"
+   ]
+  },
   "url:https://gdit.wd5.myworkdayjobs.com/external_career_site/job/usa-md-annapolis-junction/summer-2027-software-developer-internship_rq225456-1": {
    "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225456-1",
    "company": "General Dynamics Information Technology",
@@ -158,6 +172,42 @@
    },
    "notes": [
     "scaffolded via new_application.py"
+   ]
+  },
+  "url:https://job-boards.eu.greenhouse.io/imc/jobs/4823924101": {
+   "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823924101",
+   "company": "IMC",
+   "title": "Software Engineer Intern - Summer 2027",
+   "status": "withdrawn",
+   "history": {
+    "withdrawn": "2026-08-07"
+   },
+   "notes": [
+    "auto-screen: class-year bar, graduating Sep 2027-Jul 2028"
+   ]
+  },
+  "url:https://job-boards.eu.greenhouse.io/imc/jobs/4823945101": {
+   "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823945101",
+   "company": "IMC",
+   "title": "Hardware Engineer Intern - Summer 2027",
+   "status": "withdrawn",
+   "history": {
+    "withdrawn": "2026-08-07"
+   },
+   "notes": [
+    "auto-screen: class-year bar, graduating Sep 2027-Jul 2028; also FPGA/RTL function"
+   ]
+  },
+  "url:https://job-boards.eu.greenhouse.io/imc/jobs/4907430101": {
+   "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907430101",
+   "company": "IMC",
+   "title": "Machine Learning Research Intern - Summer 2027 - Chicago",
+   "status": "withdrawn",
+   "history": {
+    "withdrawn": "2026-08-07"
+   },
+   "notes": [
+    "auto-screen: PhD-only + class-year bar, graduating Sep 2027-Jul 2028"
    ]
   },
   "url:https://job-boards.greenhouse.io/appian/jobs/8041237": {
@@ -741,6 +791,56 @@
     "fit 4/5 · full-stack SWE"
    ]
   },
+  "url:https://www.akunacapital.com/careers/job/8018880?gh_jid=8018880": {
+   "url": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
+   "company": "Akuna Capital",
+   "title": "Hardware Engineer Intern, Summer 2027",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-07",
+    "withdrawn": "2026-08-07"
+   },
+   "notes": [
+    "scaffolded via new_application.py",
+    "auto-screen: FPGA/digital-logic hardware function, no RTL evidence in master"
+   ]
+  },
+  "url:https://www.jumptrading.com/hr/job?gh_jid=7848371": {
+   "url": "https://www.jumptrading.com/hr/job?gh_jid=7848371",
+   "company": "Jump Trading",
+   "title": "Campus Quantitative Trader (Intern)",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-07"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
+  "url:https://www.jumptrading.com/hr/job?gh_jid=7982648": {
+   "url": "https://www.jumptrading.com/hr/job?gh_jid=7982648",
+   "company": "Jump Trading",
+   "title": "Campus Quantitative Researcher, UG/MS (Intern)",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-07"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
+  "url:https://www.jumptrading.com/hr/job?gh_jid=8002989": {
+   "url": "https://www.jumptrading.com/hr/job?gh_jid=8002989",
+   "company": "Jump Trading",
+   "title": "Campus Software Engineer (Intern)",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-07"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
   "url:https://www.jumptrading.com/hr/job?gh_jid=8002998": {
    "url": "https://www.jumptrading.com/hr/job?gh_jid=8002998",
    "company": "Jump Trading",
@@ -765,6 +865,30 @@
    "notes": [
     "scaffolded via new_application.py",
     "auto-screen: FPGA/RTL hardware function - no evidence in master resume"
+   ]
+  },
+  "url:https://www.jumptrading.com/hr/job?gh_jid=8003019": {
+   "url": "https://www.jumptrading.com/hr/job?gh_jid=8003019",
+   "company": "Jump Trading",
+   "title": "Campus UI Software Engineer (Intern)",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-07"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
+  "url:https://www.jumptrading.com/hr/job?gh_jid=8007788": {
+   "url": "https://www.jumptrading.com/hr/job?gh_jid=8007788",
+   "company": "Jump Trading",
+   "title": "Campus Systems Engineer (Intern)",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-07"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
    ]
   },
   "url:https://www.jumptrading.com/hr/job?gh_jid=8052281": {
