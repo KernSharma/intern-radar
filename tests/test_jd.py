@@ -1,5 +1,6 @@
 """JD fetcher: parsers against real captured per-job payloads, plus URL routing."""
 
+import json
 from pathlib import Path
 from typing import Any
 
@@ -7,6 +8,7 @@ import pytest
 
 import intern_radar.jd as jd_mod
 import intern_radar.main as main_mod
+from intern_radar.http import FetchError
 from intern_radar.jd import (
     JDError,
     JobDescription,
@@ -14,7 +16,9 @@ from intern_radar.jd import (
     html_to_text,
     parse_ashby_jd,
     parse_greenhouse_jd,
+    parse_icims_jd,
     parse_lever_jd,
+    parse_oracle_jd,
     parse_smartrecruiters_jd,
     parse_workday_jd,
 )
@@ -22,6 +26,15 @@ from intern_radar.jd import (
 WD_URL = (
     "https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/"
     "Stamford-Hub/BLP-Intern---Technology_2601695-1"
+)
+ICIMS_URL = "https://careers-sig.icims.com/jobs/11169/job?mobile=true&needsRedirect=false"
+ICIMS_API = "https://careers-sig.icims.com/jobs/11169/job?mobile=true&needsRedirect=false"
+ORACLE_URL = (
+    "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011990"
+)
+ORACLE_API = (
+    "https://egug.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/"
+    'recruitingCEJobRequisitionDetails?expand=all&finder=ById;Id="26011990",siteNumber="CX_1"'
 )
 
 
@@ -121,6 +134,191 @@ def test_smartrecruiters_parses_real_payload(load_fixture: Any) -> None:
     assert "Job Description" in jd.text and "Qualifications" in jd.text
 
 
+def test_oracle_parses_real_payload(load_fixture: Any) -> None:
+    jd = parse_oracle_jd(ORACLE_URL, "egug", load_fixture("jd_oracle_job.json"))
+    assert jd.source == "oracle"
+    assert jd.company == "egug"  # Oracle ships no company name; tenant stands in
+    assert jd.title == (
+        "Campus Undergraduate Summer Internship Program - 2027 Strategy & Analytics, "
+        "Credit & Fraud Risk - Phoenix, AZ"
+    )
+    assert jd.location == "Phoenix, AZ, United States"
+    # This tenant splits the posting across three fields — all must land.
+    assert "Credit and Fraud Risk" in jd.text  # ExternalDescriptionStr
+    assert "Qualifications" in jd.text or "Bachelor" in jd.text  # Qualifications field
+    assert "<" not in jd.text
+
+
+def test_oracle_concatenates_split_body_fields(load_fixture: Any) -> None:
+    payload = load_fixture("jd_oracle_job.json")
+    item = payload["items"][0]
+    item["ExternalDescriptionStr"] = "<p>DESC_MARKER</p>"
+    item["ExternalResponsibilitiesStr"] = "<p>RESP_MARKER</p>"
+    item["ExternalQualificationsStr"] = "<p>QUAL_MARKER</p>"
+    text = parse_oracle_jd(ORACLE_URL, "egug", payload).text
+    assert "DESC_MARKER" in text and "RESP_MARKER" in text and "QUAL_MARKER" in text
+    assert text.index("DESC_MARKER") < text.index("RESP_MARKER") < text.index("QUAL_MARKER")
+
+
+def test_oracle_excludes_boilerplate_when_body_present(load_fixture: Any) -> None:
+    payload = load_fixture("jd_oracle_job.json")
+    payload["items"][0]["CorporateDescriptionStr"] = "<p>MARKETING_FLUFF</p>"
+    assert "MARKETING_FLUFF" not in parse_oracle_jd(ORACLE_URL, "egug", payload).text
+
+
+def test_oracle_falls_back_to_boilerplate_when_body_empty(load_fixture: Any) -> None:
+    # A boilerplate-only JD beats raising on a tenant that files the posting there.
+    payload = load_fixture("jd_oracle_job.json")
+    for field in (
+        "ShortDescriptionStr",
+        "ExternalDescriptionStr",
+        "ExternalResponsibilitiesStr",
+        "ExternalQualificationsStr",
+    ):
+        payload["items"][0][field] = ""
+    payload["items"][0]["CorporateDescriptionStr"] = "<p>THE WHOLE POSTING</p>"
+    assert "THE WHOLE POSTING" in parse_oracle_jd(ORACLE_URL, "egug", payload).text
+
+
+def test_oracle_empty_items_raises_not_silent(load_fixture: Any) -> None:
+    # A retired requisition is HTTP 200 with items: [] — never a header-only file.
+    payload = load_fixture("jd_oracle_job.json")
+    payload["items"] = []
+    with pytest.raises(JDError, match="no requisition matched"):
+        parse_oracle_jd(ORACLE_URL, "egug", payload)
+
+
+def test_oracle_all_empty_fields_raises(load_fixture: Any) -> None:
+    payload = load_fixture("jd_oracle_job.json")
+    payload["items"][0] = {"Title": "Intern", "PrimaryLocation": "NY"}
+    with pytest.raises(JDError, match="empty job description"):
+        parse_oracle_jd(ORACLE_URL, "egug", payload)
+
+
+def test_oracle_dedupes_and_merges_locations(load_fixture: Any) -> None:
+    payload = load_fixture("jd_oracle_job.json")
+    item = payload["items"][0]
+    item["PrimaryLocation"] = "Chicago, IL"
+    item["secondaryLocations"] = [{"Name": "New York, NY"}, {"Name": "Chicago, IL"}]
+    item["otherWorkLocations"] = [{"Name": "Houston, TX"}]
+    assert parse_oracle_jd(ORACLE_URL, "egug", payload).location == (
+        "Chicago, IL; New York, NY; Houston, TX"
+    )
+
+
+def test_icims_parses_real_page(load_text_fixture: Any) -> None:
+    jd = parse_icims_jd(ICIMS_URL, "sig", load_text_fixture("jd_icims_job.html"))
+    assert jd.source == "icims"
+    assert jd.company == "Susquehanna International Group, LLP"
+    assert jd.title == "Trading System Engineering Internship: Summer 2027"
+    # Real payload: addressRegion is the literal "UNAVAILABLE" and must be dropped.
+    assert jd.location == "Hong Kong, HK"
+    assert "Susquehanna" in jd.text
+    assert "<" not in jd.text  # ld+json ships raw HTML in `description`
+
+
+def test_icims_drops_unavailable_address_parts() -> None:
+    # iCIMS writes the literal "UNAVAILABLE" into address fields it has no value for.
+    page = _icims_page(
+        jobLocation=[
+            {
+                "@type": "Place",
+                "address": {
+                    "addressLocality": "UNAVAILABLE",
+                    "addressRegion": "PA",
+                    "addressCountry": "US",
+                    "postalCode": "UNAVAILABLE",
+                },
+            }
+        ]
+    )
+    assert parse_icims_jd(ICIMS_URL, "sig", page).location == "PA, US"
+
+
+def test_icims_accepts_single_joblocation_object() -> None:
+    page = _icims_page(
+        jobLocation={
+            "@type": "Place",
+            "address": {"addressLocality": "Austin", "addressRegion": "TX"},
+        }
+    )
+    assert parse_icims_jd(ICIMS_URL, "sig", page).location == "Austin, TX"
+
+
+def test_icims_page_without_jobposting_raises() -> None:
+    # The redirect shim answers HTTP 200 with no ld+json — must not look like success.
+    with pytest.raises(JDError, match="no JobPosting metadata"):
+        parse_icims_jd(ICIMS_URL, "sig", "<html><body>redirecting…</body></html>")
+
+
+def test_icims_skips_non_jobposting_ld_blocks() -> None:
+    page = (
+        '<script type="application/ld+json">{"@type": "BreadcrumbList"}</script>'
+        '<script type="application/ld+json">not json at all</script>'
+        + _icims_page()
+    )
+    assert parse_icims_jd(ICIMS_URL, "sig", page).title == "Intern"
+
+
+def test_icims_empty_description_raises() -> None:
+    with pytest.raises(JDError, match="empty job description"):
+        parse_icims_jd(ICIMS_URL, "sig", _icims_page(description=""))
+
+
+def test_icims_falls_back_to_tenant_when_org_missing() -> None:
+    page = _icims_page(hiringOrganization=None)
+    assert parse_icims_jd(ICIMS_URL, "sig", page).company == "sig"
+
+
+def _icims_page(**overrides: Any) -> str:
+    posting: dict[str, Any] = {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "title": "Intern",
+        "description": "<p>Body text</p>",
+        "hiringOrganization": {"@type": "Organization", "name": "Acme"},
+        "jobLocation": [],
+    }
+    posting.update(overrides)
+    return (
+        '<html><head><script type="application/ld+json">'
+        + json.dumps(posting)
+        + "</script></head><body></body></html>"
+    )
+
+
+def test_fetch_jd_routes_icims_and_forces_mobile_params(monkeypatch: pytest.MonkeyPatch) -> None:
+    called: list[str] = []
+
+    def fake_get_text(api_url: str, **kwargs: Any) -> str:
+        called.append(api_url)
+        return _icims_page()
+
+    monkeypatch.setattr(jd_mod, "get_text", fake_get_text)
+    # Slug in the path and a query that lacks the params: both must normalize.
+    jd = fetch_jd("https://careers-sig.icims.com/jobs/11169/trading-system-eng/job")
+    assert called == [ICIMS_API]
+    assert jd.title == "Intern"
+
+
+def test_fetch_jd_icims_410_reports_closed_posting(monkeypatch: pytest.MonkeyPatch) -> None:
+    def fake_get_text(api_url: str, **kwargs: Any) -> str:
+        raise FetchError("GET ... -> HTTP 410", status=410)
+
+    monkeypatch.setattr(jd_mod, "get_text", fake_get_text)
+    with pytest.raises(JDError, match="is closed"):
+        fetch_jd(ICIMS_URL)
+
+
+def test_fetch_jd_icims_other_http_errors_propagate(monkeypatch: pytest.MonkeyPatch) -> None:
+    def fake_get_text(api_url: str, **kwargs: Any) -> str:
+        raise FetchError("GET ... -> HTTP 503", status=503)
+
+    monkeypatch.setattr(jd_mod, "get_text", fake_get_text)
+    with pytest.raises(FetchError):
+        fetch_jd(ICIMS_URL)
+
+
 ROUTES = [
     (
         "https://boards.greenhouse.io/stripe/jobs/8026689",
@@ -176,6 +374,16 @@ ROUTES = [
         "https://api.smartrecruiters.com/v1/companies/WesternDigital/postings/744000140949875",
         "jd_smartrecruiters_posting.json",
     ),
+    (ORACLE_URL, "", ORACLE_API, "jd_oracle_job.json"),
+    (
+        # Apply-page copy: the id is found by scanning for the "job" segment,
+        # so trailing segments and a different locale must not shift it.
+        "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en-US/"
+        "sites/CX_1/job/26011990/apply",
+        "",
+        ORACLE_API,
+        "jd_oracle_job.json",
+    ),
 ]
 
 
@@ -211,6 +419,12 @@ def test_fetch_jd_routes_to_the_right_api(
         (
             "https://jobs.smartrecruiters.com/oneclick-ui/company/Acme/publication/uuid",
             "use the posting link",
+        ),
+        ("https://careers-sig.icims.com/search?q=intern", "unrecognized icims"),
+        ("https://careers-sig.icims.com/jobs/not-a-number/job", "unrecognized icims"),
+        (
+            "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+            "unrecognized oracle",
         ),
     ],
 )

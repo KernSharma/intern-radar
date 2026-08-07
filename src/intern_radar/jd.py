@@ -10,21 +10,29 @@ Supported URL shapes:
     https://jobs.ashbyhq.com/{org}/{uuid}
     https://{tenant}.{inst}.myworkdayjobs.com/[{locale}/]{site}/job/.../{slug}
     https://jobs.smartrecruiters.com/{company}/{id}[-{slug}]
+    https://{tenant}.icims.com/jobs/{id}/[{slug}/]job
+    https://{tenant}.fa.{region}.oraclecloud.com/hcmUI/CandidateExperience/
+        {locale}/sites/{site}/job/{id}
 """
 
 from __future__ import annotations
 
 import html as html_mod
+import json
 import re
 from dataclasses import dataclass
 from html.parser import HTMLParser
 from typing import Any
 from urllib.parse import parse_qs, urlparse
 
-from intern_radar.http import get_json
+from intern_radar.http import FetchError, get_json, get_text
 
 _LOCALE_RE = re.compile(r"^[a-z]{2}(-[A-Z]{2})?$")
 _SR_ID_RE = re.compile(r"^(\d+)")
+_LD_JSON_RE = re.compile(
+    r"<script[^>]*type=[\"']application/ld\+json[\"'][^>]*>(.*?)</script>",
+    re.DOTALL | re.IGNORECASE,
+)
 
 
 class JDError(Exception):
@@ -98,6 +106,14 @@ def html_to_text(fragment: str) -> str:
     # </li>-then-<li> leaves a blank line between bullets — keep lists tight.
     text = re.sub(r"\n{2,}(?=- )", "\n", text)
     return text.strip()
+
+
+def _segment_after(parts: list[str], marker: str) -> str:
+    """The path segment following `marker`, or "" — locale prefixes move it."""
+    for i, part in enumerate(parts[:-1]):
+        if part.lower() == marker:
+            return parts[i + 1]
+    return ""
 
 
 def _require_text(source: str, url: str, text: str) -> str:
@@ -248,6 +264,117 @@ def parse_smartrecruiters_jd(url: str, payload: Any) -> JobDescription:
     )
 
 
+# Substance first, then the boilerplate blocks. Oracle tenants disagree about
+# which field the body lands in: some ship one ExternalDescriptionStr, others
+# split it across responsibilities/qualifications, so every one is concatenated.
+_ORACLE_BODY_FIELDS = (
+    "ShortDescriptionStr",
+    "ExternalDescriptionStr",
+    "ExternalResponsibilitiesStr",
+    "ExternalQualificationsStr",
+)
+# Company marketing and benefits copy. Excluded from the JD text — it dilutes
+# the tailoring input — unless a tenant put the whole posting in there, in
+# which case an empty body is worse than a boilerplate one.
+_ORACLE_BOILERPLATE_FIELDS = ("CorporateDescriptionStr", "OrganizationDescriptionStr")
+
+
+def parse_oracle_jd(url: str, tenant: str, payload: Any) -> JobDescription:
+    if not isinstance(payload, dict) or not isinstance(payload.get("items"), list):
+        raise JDError(f"oracle: expected a dict with an 'items' list: {url}")
+    items = payload["items"]
+    if not items or not isinstance(items[0], dict):
+        # A wrong or retired requisition id is HTTP 200 with items: [].
+        raise JDError(f"oracle: no requisition matched that id (closed or wrong site): {url}")
+    item = items[0]
+
+    def body(fields: tuple[str, ...]) -> str:
+        chunks = [html_to_text(str(item.get(f) or "")) for f in fields]
+        return "\n\n".join(c for c in chunks if c)
+
+    text = body(_ORACLE_BODY_FIELDS) or body(_ORACLE_BOILERPLATE_FIELDS)
+
+    locations = [str(item.get("PrimaryLocation") or "").strip()]
+    for key in ("secondaryLocations", "otherWorkLocations"):
+        extra = item.get(key)
+        if isinstance(extra, list):
+            locations.extend(
+                str(e.get("Name") or "").strip() for e in extra if isinstance(e, dict)
+            )
+    # Oracle ships no company name anywhere in the requisition payload (its
+    # LegalEmployer/Organization fields come back null), and the tenant is an
+    # opaque code for all but a few employers — so `egug` stands in for
+    # American Express. The JD body is what tailoring reads; this is a header.
+    return JobDescription(
+        source="oracle",
+        company=tenant,
+        title=str(item.get("Title") or "").strip(),
+        location="; ".join(dict.fromkeys(x for x in locations if x)),
+        url=url,
+        text=_require_text("oracle", url, text),
+    )
+
+
+def parse_icims_jd(url: str, tenant: str, page: str) -> JobDescription:
+    """Pull the schema.org JobPosting block out of a rendered iCIMS job page.
+
+    iCIMS has no public per-job JSON API, but every job page embeds a
+    JobPosting ld+json block whose `description` is the complete posting
+    (verified against the rendered body: it adds no text the block lacks).
+    """
+    posting: dict[str, Any] | None = None
+    for block in _LD_JSON_RE.findall(page):
+        try:
+            data = json.loads(block.strip())
+        except json.JSONDecodeError:
+            continue
+        if isinstance(data, dict) and data.get("@type") == "JobPosting":
+            posting = data
+            break
+    if posting is None:
+        raise JDError(
+            f"icims: no JobPosting metadata on the page — the posting may be "
+            f"closed, or behind a login: {url}"
+        )
+
+    org = posting.get("hiringOrganization")
+    company = ""
+    if isinstance(org, dict):
+        company = str(org.get("name", "")).strip()
+
+    raw_locations = posting.get("jobLocation")
+    if isinstance(raw_locations, dict):
+        raw_locations = [raw_locations]
+    locations: list[str] = []
+    if isinstance(raw_locations, list):
+        for place in raw_locations:
+            if not isinstance(place, dict):
+                continue
+            address = place.get("address")
+            if not isinstance(address, dict):
+                continue
+            # iCIMS writes the literal string "UNAVAILABLE" into address
+            # fields it has no value for; those must not reach the header.
+            parts = [
+                str(address.get(k, "")).strip()
+                for k in ("addressLocality", "addressRegion", "addressCountry")
+            ]
+            pretty = ", ".join(p for p in parts if p and p.upper() != "UNAVAILABLE")
+            if pretty:
+                locations.append(pretty)
+
+    return JobDescription(
+        source="icims",
+        company=company or tenant,
+        title=str(posting.get("title") or "").strip(),
+        location="; ".join(dict.fromkeys(locations)),
+        url=url,
+        text=_require_text(
+            "icims", url, html_to_text(str(posting.get("description") or ""))
+        ),
+    )
+
+
 def fetch_jd(url: str, *, board: str = "") -> JobDescription:
     """Resolve the ATS from a posting URL and fetch its full job description.
 
@@ -328,7 +455,41 @@ def fetch_jd(url: str, *, board: str = "") -> JobDescription:
         )
         return parse_smartrecruiters_jd(url, get_json(api))
 
+    if host.endswith(".icims.com"):
+        # /jobs/{id}[/{slug}]/job — the id is the only stable segment.
+        if len(parts) < 2 or parts[0] != "jobs" or not parts[1].isdigit():
+            raise JDError(f"unrecognized icims URL (want /jobs/<id>/job): {url}")
+        tenant = host.split(".")[0].removeprefix("careers-")
+        # Without these two params iCIMS serves a redirect shim: HTTP 200 with
+        # no ld+json at all. They are forced on, not inherited from the URL.
+        api = f"https://{host}/jobs/{parts[1]}/job?mobile=true&needsRedirect=false"
+        try:
+            page = get_text(api)
+        except FetchError as e:
+            if e.status == 410:
+                raise JDError(
+                    f"icims: posting {parts[1]} is closed — iCIMS returns HTTP 410 "
+                    f"once a req is filled or expired: {url}"
+                ) from e
+            raise
+        return parse_icims_jd(url, tenant, page)
+
+    if host.endswith(".oraclecloud.com"):
+        # /hcmUI/CandidateExperience/{locale}/sites/{site}/job/{id}[/apply]
+        site = _segment_after(parts, "sites")
+        job_id = _segment_after(parts, "job")
+        if not site or not job_id:
+            raise JDError(
+                f"unrecognized oracle URL (want .../sites/<site>/job/<id>): {url}"
+            )
+        tenant = host.split(".")[0]
+        api = (
+            f"https://{host}/hcmRestApi/resources/latest/recruitingCEJobRequisitionDetails"
+            f'?expand=all&finder=ById;Id="{job_id}",siteNumber="{site}"'
+        )
+        return parse_oracle_jd(url, tenant, get_json(api))
+
     raise JDError(
         f"unsupported job board host {host!r} — supported: greenhouse, lever, "
-        f"ashby, workday, smartrecruiters"
+        f"ashby, workday, smartrecruiters, icims, oracle"
     )

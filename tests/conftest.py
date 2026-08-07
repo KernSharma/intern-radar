@@ -14,3 +14,13 @@ def load_fixture() -> Any:
             return json.load(f)
 
     return _load
+
+
+@pytest.fixture
+def load_text_fixture() -> Any:
+    """Load a fixture verbatim — for boards served as HTML rather than JSON."""
+
+    def _load(name: str) -> str:
+        return (FIXTURES / name).read_text(encoding="utf-8")
+
+    return _load

@@ -87,7 +87,16 @@ PYTHONPATH=src python -m intern_radar jd "https://stripe.com/jobs/search?gh_jid=
 
 Supported posting URLs: Greenhouse (`boards.greenhouse.io`/`job-boards.`
 paths, plus custom-domain `?gh_jid=` links with `--board`), Lever, Ashby,
-Workday (`*.myworkdayjobs.com`, locale prefixes fine), SmartRecruiters.
+Workday (`*.myworkdayjobs.com`, locale prefixes fine), SmartRecruiters,
+iCIMS (`*.icims.com/jobs/<id>/job`), and Oracle Recruiting Cloud
+(`*.oraclecloud.com/hcmUI/CandidateExperience/.../job/<id>`).
+
+Two notes on the last two. iCIMS publishes no per-job API, so `jd` reads the
+schema.org `JobPosting` block embedded in the job page — and answers HTTP 410
+for a filled or expired req, which `jd` reports as a closed posting rather
+than a fetch failure. Oracle returns no company name anywhere in its
+requisition payload, so the header shows the tenant code (`egug`, `ehzq`) for
+employers whose subdomain isn't their name; the description itself is complete.
 
 ## Development
 
