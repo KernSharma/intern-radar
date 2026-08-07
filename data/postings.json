@@ -1,4 +1,25 @@
 {
+ "url:https://ameren.wd1.myworkdayjobs.com/external/job/st-louis-mo/derms-co-op-intern_033809-1": {
+  "company": "Ameren",
+  "title": "DERMS Co-op/Intern",
+  "url": "https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/DERMS-Co-Op-Intern_033809-1",
+  "locations": [
+   "St. Louis, MO",
+   "Illinois"
+  ],
+  "posted_at": "2026-08-07",
+  "source": "simplify"
+ },
+ "url:https://ameren.wd1.myworkdayjobs.com/external/job/st-louis-mo/digital-co-op_033841-1": {
+  "company": "Ameren",
+  "title": "Digital Co-op",
+  "url": "https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Digital-Co-op_033841-1",
+  "locations": [
+   "St. Louis, MO"
+  ],
+  "posted_at": "2026-08-07",
+  "source": "simplify"
+ },
  "url:https://apply.careers.microsoft.com/careers/job/1970393556951950": {
   "company": "Microsoft",
   "title": "Software Engineer Intern - CoreAI",
@@ -773,6 +794,16 @@
   "posted_at": "2026-08-04",
   "source": "simplify"
  },
+ "url:https://gdit.wd5.myworkdayjobs.com/external_career_site/job/usa-va-falls-church/summer-2027-ai-machine-learning-internship--dc-metro-area_rq225912": {
+  "company": "General Dynamics Information Technology",
+  "title": "Artificial Intelligence/Machine Learning Intern",
+  "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-AI-Machine-Learning-Internship--DC-Metro-Area_RQ225912",
+  "locations": [
+   "Falls Church, VA"
+  ],
+  "posted_at": "2026-08-07",
+  "source": "simplify"
+ },
  "url:https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/atlanta/ge-vernova-digital-technology-internship---summer-2027_r5049176-2": {
   "company": "GE Vernova",
   "title": "Digital Technology Intern",
@@ -1090,6 +1121,17 @@
   "posted_at": "2026-07-21",
   "source": "simplify"
  },
+ "url:https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003": {
+  "company": "Axon",
+  "title": "Software Engineer Intern",
+  "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003",
+  "locations": [
+   "Boston, MA",
+   "Seattle, WA"
+  ],
+  "posted_at": "2026-08-07",
+  "source": "simplify"
+ },
  "url:https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716930005": {
   "company": "Chicago Trading Company",
   "title": "Quantitative Trading Intern",
@@ -1118,6 +1160,40 @@
    "London, UK"
   ],
   "posted_at": "2026-08-03",
+  "source": "simplify"
+ },
+ "url:https://job-boards.greenhouse.io/cssmerge/jobs/8687896002": {
+  "company": "Atoms",
+  "title": "Software Engineer Intern - Summer 2027",
+  "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002",
+  "locations": [
+   "Seattle, WA",
+   "SF",
+   "LA",
+   "NYC",
+   "Mountain View, CA"
+  ],
+  "posted_at": "2026-08-07",
+  "source": "simplify"
+ },
+ "url:https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005": {
+  "company": "Chicago Trading Company",
+  "title": "Quant Trading Intern",
+  "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005",
+  "locations": [
+   "Chicago, IL"
+  ],
+  "posted_at": "2026-07-20",
+  "source": "simplify"
+ },
+ "url:https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005": {
+  "company": "Chicago Trading Company",
+  "title": "Software Engineering Intern",
+  "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005",
+  "locations": [
+   "Chicago, IL"
+  ],
+  "posted_at": "2026-07-20",
   "source": "simplify"
  },
  "url:https://job-boards.greenhouse.io/ctccampusboard/jobs/4709545005": {
@@ -1499,6 +1575,36 @@
   ],
   "posted_at": "2026-07-15",
   "source": "greenhouse"
+ },
+ "url:https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383231008": {
+  "company": "The Nuclear Company",
+  "title": "AI/ML Engineer Intern",
+  "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383231008",
+  "locations": [
+   "Washington, DC"
+  ],
+  "posted_at": "2026-08-07",
+  "source": "simplify"
+ },
+ "url:https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008": {
+  "company": "The Nuclear Company",
+  "title": "Software Engineering Intern - Product - Platform",
+  "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008",
+  "locations": [
+   "Washington, DC"
+  ],
+  "posted_at": "2026-08-07",
+  "source": "simplify"
+ },
+ "url:https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383244008": {
+  "company": "The Nuclear Company",
+  "title": "Data Science Intern",
+  "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383244008",
+  "locations": [
+   "Washington, DC"
+  ],
+  "posted_at": "2026-08-07",
+  "source": "simplify"
  },
  "url:https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007?gh_jid=5151569007": {
   "company": "TransMarket Group",
@@ -2224,6 +2330,26 @@
    "San Jose, CA"
   ],
   "posted_at": "2026-08-06",
+  "source": "simplify"
+ },
+ "url:https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0": {
+  "company": "Belvedere Trading",
+  "title": "Software Engineer Intern - Summer 2027",
+  "url": "https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0/apply",
+  "locations": [
+   "Chicago, IL"
+  ],
+  "posted_at": "2026-08-07",
+  "source": "simplify"
+ },
+ "url:https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab": {
+  "company": "Belvedere Trading",
+  "title": "Quantitative Trading Intern - Summer 2027",
+  "url": "https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab/apply",
+  "locations": [
+   "Chicago, IL"
+  ],
+  "posted_at": "2026-08-07",
   "source": "simplify"
  },
  "url:https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b": {
@@ -5277,6 +5403,36 @@
   "posted_at": "2026-07-19",
   "source": "simplify"
  },
+ "url:https://rbc.wd3.myworkdayjobs.com/externalprivatepostingstudents/job/new-york-new-york-united-states-of-america/xmlname-2027-capital-markets--global-markets-quantitative-trading-summer-analyst_r-0000183468": {
+  "company": "Royal Bank of Canada",
+  "title": "Global Markets Quantitative Trading Summer Analyst - Capital Markets",
+  "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Global-Markets-Quantitative-Trading-Summer-Analyst_R-0000183468",
+  "locations": [
+   "NYC"
+  ],
+  "posted_at": "2026-08-07",
+  "source": "simplify"
+ },
+ "url:https://rbc.wd3.myworkdayjobs.com/externalprivatepostingstudents/job/new-york-new-york-united-states-of-america/xmlname-2027-capital-markets--global-markets-sales---trading-summer-analyst_r-0000147305-2": {
+  "company": "Royal Bank of Canada",
+  "title": "Global Markets Sales & Trading Summer Analyst - Capital Markets",
+  "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Global-Markets-Sales---Trading-Summer-Analyst_R-0000147305-2",
+  "locations": [
+   "NYC"
+  ],
+  "posted_at": "2026-08-07",
+  "source": "simplify"
+ },
+ "url:https://rbc.wd3.myworkdayjobs.com/externalprivatepostingstudents/job/new-york-new-york-united-states-of-america/xmlname-2027-capital-markets--quants-summer-associate--quantitative-technology-services_r-0000183482": {
+  "company": "Royal Bank of Canada",
+  "title": "Capital Markets Quant Summer Associate - Quantitative Technology Services",
+  "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Quants-Summer-Associate--Quantitative-Technology-Services_R-0000183482",
+  "locations": [
+   "NYC"
+  ],
+  "posted_at": "2026-08-07",
+  "source": "simplify"
+ },
  "url:https://simoncomputing.applicantpro.com/jobs/4115690": {
   "company": "SimonComputing",
   "title": "Software Development Internship",
@@ -6022,6 +6178,16 @@
    "Miami, FL"
   ],
   "posted_at": "2026-07-24",
+  "source": "simplify"
+ },
+ "url:https://www.trlm.com/apply/5207089007?gh_jid=5207089007": {
+  "company": "Trillium",
+  "title": "Software Engineer Intern - Summer 2027",
+  "url": "https://www.trlm.com/apply/5207089007?gh_jid=5207089007",
+  "locations": [
+   "NYC"
+  ],
+  "posted_at": "2026-08-07",
   "source": "simplify"
  }
 }
