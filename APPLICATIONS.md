@@ -1,6 +1,6 @@
 # Applications
 
-**83 tracked** — applied: 6 · interested: 53 · withdrawn: 24
+**90 tracked** — applied: 6 · interested: 57 · withdrawn: 27
 
 ## applied (6)
 
@@ -13,13 +13,16 @@
 | Circleback | [Software Engineer Intern](https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f/application?embed=true) | 2026-08-06 | fit 4/5 · full-stack SWE (AI meeting-notes product) |
 | CTGT | [Software Engineer Intern](https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application) | 2026-08-06 | fit 5/5 · backend / full-stack SWE (LLM governance platform) |
 
-## interested (53)
+## interested (57)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
 | Roblox | [[Summer 2027] Software Engineer Intern](https://careers.roblox.com/jobs/8072713?gh_jid=8072713) | 2026-08-07 | scaffolded via new_application.py |
 | General Dynamics Information Technology | [Software Developer Intern](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225456-1) | 2026-08-07 | scaffolded via new_application.py |
 | General Dynamics Information Technology | [Software Developer Intern](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225469-1) | 2026-08-07 | scaffolded via new_application.py |
+| PDT Partners | [Summer 2027 Systems Engineering Intern](https://job-boards.greenhouse.io/pdtpartners/jobs/8083292) | 2026-08-07 | scaffolded via new_application.py |
+| Scale AI | [Technical Advisor Specialist (Part-Time Internship)](https://job-boards.greenhouse.io/scaleai/jobs/4611533005) | 2026-08-07 | scaffolded via new_application.py |
+| Scale AI | [AI Builder Intern](https://job-boards.greenhouse.io/scaleai/jobs/4703343005) | 2026-08-07 | scaffolded via new_application.py |
 | Northrop Grumman | [Software Engineer Intern - Aeronautics Systems](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395) | 2026-08-07 | scaffolded via new_application.py |
 | Jump Trading | [Campus Quantitative Trader (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7848371) | 2026-08-07 | scaffolded via new_application.py |
 | Jump Trading | [Campus Quantitative Researcher, UG/MS (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7982648) | 2026-08-07 | scaffolded via new_application.py |
@@ -31,6 +34,7 @@
 | Jump Trading | [Campus AI Research Engineer - Deep Learning (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8052338) | 2026-08-07 | scaffolded via new_application.py |
 | Jump Trading | [Campus AI Research Engineer – Research Automation (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8052351) | 2026-08-07 | scaffolded via new_application.py |
 | Optiver | [Quantitative Intern - Summer 2027](https://www.optiver.com/join-us/jobs/8682750002/?gh_jid=8682750002) | 2026-08-07 | scaffolded via new_application.py |
+| Tower Research Capital | [Quantitative Trader Intern - Summer 2027](https://www.tower-research.com/open-positions/?gh_jid=8024128) | 2026-08-07 | scaffolded via new_application.py |
 | SpaceX | [Software Engineering Intern/Co-op](https://boards.greenhouse.io/spacex/jobs/8621757002) | 2026-08-06 | fit 5/5 · backend/general SWE (embedded, satellite, vehicle software) |
 | The Boeing Company | [Data Analytics Intern](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1) | 2026-08-06 | fit 4/5 · data science / data analytics / ML / software |
 | CNO Financial Group | [Artificial Intelligence Information Technology Intern - AI](https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/Artificial-Intelligence--AI--IT-Intern-2027---REMOTE_JR170389) | 2026-08-06 | fit 2/5 · AI/IT business analyst (requirements + research, AI-adjacent) |
@@ -71,10 +75,11 @@
 | Synchrony Financial | [BLP Intern - Data Analytics (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Data-Analytics_2601688) | 2026-08-04 | same intake as Tech sibling; analytics not SWE; verifier confirmed plausible 2027 cycle |
 | Synchrony Financial | [BLP Intern - Technology (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Technology_2601695-1) | 2026-08-04 | BEST BET: bachelor's-pursuing, no class-year bar, 10-wk Jun-Aug; likely 2027 intake (screened 8/4) |
 
-## withdrawn (24)
+## withdrawn (27)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
+| Figma | [Manager, Figma for Education (International)](https://boards.greenhouse.io/figma/jobs/6004606004?gh_jid=6004606004) | 2026-08-07 | scaffolded via new_application.py; auto-screen: function - full-time manager role, 5+ years GTM/education-sales experience, not an internship |
 | Databricks | [Product Management Intern (Summer 2027)](https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002) | 2026-08-07 | scaffolded via new_application.py; auto-screen: class-year bar, graduating Fall 2027 or Spring 2028 |
 | IMC | [Software Engineer Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4823924101) | 2026-08-07 | auto-screen: class-year bar, graduating Sep 2027-Jul 2028 |
 | IMC | [Hardware Engineer Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) | 2026-08-07 | auto-screen: class-year bar, graduating Sep 2027-Jul 2028; also FPGA/RTL function |
@@ -88,6 +93,8 @@
 | Akuna Capital | [Quantitative Development & Strategy Intern, Summer 2027](https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481) | 2026-08-07 | scaffolded via new_application.py; auto-screen: class-year bar, graduate by August 2028; Kern graduates May 2029 |
 | Akuna Capital | [Quantitative Research Intern, Summer 2027](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614) | 2026-08-07 | scaffolded via new_application.py; auto-screen: class-year bar, graduate by August 2028; Kern graduates May 2029 |
 | Jump Trading | [Campus FPGA Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8003013) | 2026-08-07 | scaffolded via new_application.py; auto-screen: FPGA/RTL hardware function - no evidence in master resume |
+| Old Mission | [Software Engineer – 2027 Internship Program (June Start)](https://www.oldmissioncapital.com/careers/?gh_jid=7796180003) | 2026-08-07 | scaffolded via new_application.py; auto-screen: class-year - graduation date of December 2027 or May 2028; Kern graduates May 2029 |
+| Old Mission | [Compliance Analyst Co-Op](https://www.oldmissioncapital.com/careers/?gh_jid=7828063003) | 2026-08-07 | scaffolded via new_application.py; auto-screen: class-year+function - rising senior in Chicago studying business/finance/economics; term-time 15-25 hr co-op |
 | RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01863012) | 2026-08-06 | hard bar: Must be pursuing Bachelor’s or Advanced degree in Mechanical or Aerospace Engineering and actively enrolled through the completion of the internship/c |
 | Marmon Holdings | [Data Engineering Intern Co-op](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453-1) | 2026-08-06 | hard bar: Currently pursuing an undergraduate degree in Computer/Software Engineering |
 | Marmon Holdings | [Digital Production Engineering Intern OR Student Co-Op](https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Milwaukee-WI/Digital-Production-Engineering-Intern-OR-Student-Co-Op_JR0000037451) | 2026-08-06 | hard bar: Currently pursuing an undergraduate degree in Computer/Software Engineering |

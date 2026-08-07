@@ -14,6 +14,20 @@
     "fit 5/5 · backend SWE / full-stack (defense software, Lattice OS)"
    ]
   },
+  "url:https://boards.greenhouse.io/figma/jobs/6004606004?gh_jid=6004606004": {
+   "url": "https://boards.greenhouse.io/figma/jobs/6004606004?gh_jid=6004606004",
+   "company": "Figma",
+   "title": "Manager, Figma for Education (International)",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-07",
+    "withdrawn": "2026-08-07"
+   },
+   "notes": [
+    "scaffolded via new_application.py",
+    "auto-screen: function - full-time manager role, 5+ years GTM/education-sales experience, not an internship"
+   ]
+  },
   "url:https://boards.greenhouse.io/spacex/jobs/8621757002": {
    "url": "https://boards.greenhouse.io/spacex/jobs/8621757002",
    "company": "SpaceX",
@@ -322,6 +336,42 @@
    },
    "notes": [
     "fit 5/5 · backend SWE / data + trading infrastructure"
+   ]
+  },
+  "url:https://job-boards.greenhouse.io/pdtpartners/jobs/8083292": {
+   "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8083292",
+   "company": "PDT Partners",
+   "title": "Summer 2027 Systems Engineering Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-07"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
+  "url:https://job-boards.greenhouse.io/scaleai/jobs/4611533005": {
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4611533005",
+   "company": "Scale AI",
+   "title": "Technical Advisor Specialist (Part-Time Internship)",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-07"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
+  "url:https://job-boards.greenhouse.io/scaleai/jobs/4703343005": {
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4703343005",
+   "company": "Scale AI",
+   "title": "AI Builder Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-07"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
    ]
   },
   "url:https://job-boards.greenhouse.io/virtu/jobs/8142539002": {
@@ -1025,10 +1075,50 @@
     "scaffolded via new_application.py"
    ]
   },
+  "url:https://www.oldmissioncapital.com/careers?gh_jid=7796180003": {
+   "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7796180003",
+   "company": "Old Mission",
+   "title": "Software Engineer – 2027 Internship Program (June Start)",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-07",
+    "withdrawn": "2026-08-07"
+   },
+   "notes": [
+    "scaffolded via new_application.py",
+    "auto-screen: class-year - graduation date of December 2027 or May 2028; Kern graduates May 2029"
+   ]
+  },
+  "url:https://www.oldmissioncapital.com/careers?gh_jid=7828063003": {
+   "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7828063003",
+   "company": "Old Mission",
+   "title": "Compliance Analyst Co-Op",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-07",
+    "withdrawn": "2026-08-07"
+   },
+   "notes": [
+    "scaffolded via new_application.py",
+    "auto-screen: class-year+function - rising senior in Chicago studying business/finance/economics; term-time 15-25 hr co-op"
+   ]
+  },
   "url:https://www.optiver.com/join-us/jobs/8682750002?gh_jid=8682750002": {
    "url": "https://www.optiver.com/join-us/jobs/8682750002/?gh_jid=8682750002",
    "company": "Optiver",
    "title": "Quantitative Intern - Summer 2027",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-07"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
+  "url:https://www.tower-research.com/open-positions?gh_jid=8024128": {
+   "url": "https://www.tower-research.com/open-positions/?gh_jid=8024128",
+   "company": "Tower Research Capital",
+   "title": "Quantitative Trader Intern - Summer 2027",
    "status": "interested",
    "history": {
     "interested": "2026-08-07"
