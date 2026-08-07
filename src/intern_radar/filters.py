@@ -1,7 +1,36 @@
 from __future__ import annotations
 
+import re
+from collections.abc import Sequence
+from functools import lru_cache
+
 from intern_radar.config import FilterConfig
 from intern_radar.models import Posting
+
+
+@lru_cache(maxsize=256)
+def _keyword_re(keyword: str) -> re.Pattern[str]:
+    """Match `keyword` as a whole word, tolerating the plural/`-ship` endings.
+
+    The gate that admits untermed ATS postings is a bare `"intern" in title`,
+    and substrings betray it in both directions:
+      * "INTERNational Strategy Lead" and "Interne Kommunikation" match "intern"
+      * "COOPerative AI" matches "coop"
+    Adding notable boards on 2026-08-07 turned that from a trickle into five
+    junk Waymo titles and five OpenAI ones in a single sweep.
+
+    The boundary is on LETTERS, not `\\b`. `\\b` counts an underscore as a word
+    character, which would drop the real "EHS Intern_Shenzhen" posting; and it
+    would still admit "International", since a boundary exists before it.
+    """
+    return re.compile(
+        r"(?<![a-z])" + re.escape(keyword) + r"(?:s|ship|ships)?(?![a-z])",
+        re.IGNORECASE,
+    )
+
+
+def _matches_keyword(text: str, keywords: Sequence[str]) -> bool:
+    return any(_keyword_re(k).search(text) for k in keywords if k)
 
 
 def matches(posting: Posting, filters: FilterConfig) -> bool:
@@ -44,10 +73,10 @@ def matches(posting: Posting, filters: FilterConfig) -> bool:
         return False
     # The source's own employment-type label counts first (Ashby: "Intern",
     # Lever: "Internship", SmartRecruiters: "Intern"), then the title gate.
-    if "intern" in posting.employment_type.lower():
+    if _keyword_re("intern").search(posting.employment_type):
         return True
-    return not filters.title_require_any or any(
-        kw.lower() in title_lower for kw in filters.title_require_any
+    return not filters.title_require_any or _matches_keyword(
+        posting.title, filters.title_require_any
     )
 
 

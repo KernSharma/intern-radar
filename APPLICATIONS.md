@@ -1,11 +1,12 @@
 # Applications
 
-**90 tracked** — applied: 6 · interested: 57 · withdrawn: 27
+**90 tracked** — applied: 7 · interested: 56 · withdrawn: 27
 
-## applied (6)
+## applied (7)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
+| Cybernetic Labs | [Forward Deployed Engineer Intern](https://jobs.ashbyhq.com/netic/ffd6af1a-cebb-41f5-ac1d-e695adfd067c/application?embed=true) | 2026-08-07 | fit 4/5 · forward-deployed / applied AI engineer (Python backend + LLM agents) |
 | Anduril | [Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5148079007) | 2026-08-06 | fit 5/5 · backend SWE / full-stack (defense software, Lattice OS) |
 | Appian | [Software Engineer Intern](https://job-boards.greenhouse.io/appian/jobs/8041237) | 2026-08-06 | fit 5/5 · full-stack SWE (enterprise platform) |
 | Axon | [Software Engineering Intern](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003) | 2026-08-06 | fit 5/5 · backend/full-stack SWE |
@@ -13,7 +14,7 @@
 | Circleback | [Software Engineer Intern](https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f/application?embed=true) | 2026-08-06 | fit 4/5 · full-stack SWE (AI meeting-notes product) |
 | CTGT | [Software Engineer Intern](https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application) | 2026-08-06 | fit 5/5 · backend / full-stack SWE (LLM governance platform) |
 
-## interested (57)
+## interested (56)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
@@ -54,7 +55,6 @@
 | Melius | [Software Engineer Intern](https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280/application?embed=true) | 2026-08-06 | fit 4/5 · full-stack SWE / agent + LLM product engineering (early-stage startup) |
 | Cybernetic Labs | [Software Engineer Intern - Agent Platform](https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7/application?embed=true) | 2026-08-06 | fit 5/5 · backend SWE / agent infrastructure (Python, LLM orchestration) |
 | Cybernetic Labs | [Full-Stack Software Engineer Intern - Product](https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef/application?embed=true) | 2026-08-06 | fit 4/5 · full-stack SWE (React/TypeScript + Python, product) |
-| Cybernetic Labs | [Forward Deployed Engineer Intern](https://jobs.ashbyhq.com/netic/ffd6af1a-cebb-41f5-ac1d-e695adfd067c/application?embed=true) | 2026-08-06 | fit 4/5 · forward-deployed / applied AI engineer (Python backend + LLM agents) |
 | Quadrillion | [Software Engineering Intern](https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05/application?embed=true) | 2026-08-06 | fit 5/5 · backend SWE / agent infrastructure (AI research platform) |
 | Bosch Group | [Training Technology Digital Solutions Intern](https://jobs.smartrecruiters.com/BoschGroup/744000132662239) | 2026-08-06 | fit 2/5 · training/L&D operations + LMS administration (non-engineering) |
 | Bosch Group | [A.I. Integration Intern](https://jobs.smartrecruiters.com/BoschGroup/744000134840254) | 2026-08-06 | fit 3/5 · applied AI/ML integration (manufacturing) |

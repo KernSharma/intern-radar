@@ -513,9 +513,10 @@
    "url": "https://jobs.ashbyhq.com/netic/ffd6af1a-cebb-41f5-ac1d-e695adfd067c/application?embed=true",
    "company": "Cybernetic Labs",
    "title": "Forward Deployed Engineer Intern",
-   "status": "interested",
+   "status": "applied",
    "history": {
-    "interested": "2026-08-06"
+    "interested": "2026-08-06",
+    "applied": "2026-08-07"
    },
    "notes": [
     "fit 4/5 · forward-deployed / applied AI engineer (Python backend + LLM agents)"

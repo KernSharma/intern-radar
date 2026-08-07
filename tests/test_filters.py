@@ -1,5 +1,7 @@
 from typing import Any
 
+import pytest
+
 from intern_radar.config import FilterConfig
 from intern_radar.filters import apply_filters, matches
 from intern_radar.models import Posting
@@ -124,3 +126,48 @@ def test_company_exclude_is_case_insensitive_substring() -> None:
 def test_company_exclude_empty_by_default_changes_nothing() -> None:
     assert DEFAULT.company_exclude == ()
     assert matches(_at("TikTok"), DEFAULT) is True
+
+
+# --- keyword gate matches words, not substrings ------------------------------
+
+def _untermed(title: str, employment_type: str = "") -> Posting:
+    return Posting(
+        key=f"greenhouse:acme:{abs(hash(title))}",
+        source="greenhouse", company="Acme", title=title,
+        url=f"https://x.example/{abs(hash(title))}", locations=("New York, NY",),
+        terms=(), category="", degrees=(), employment_type=employment_type,
+    )
+
+
+@pytest.mark.parametrize("title", [
+    "Director, US International Tax",
+    "Strategic Partnerships Development Manager - International",
+    "Head of International Order-to-Cash",
+    "Software Engineer, Backend (Cooperative AI)",
+    "Engineering Manager, Cooperative Systems",
+    "SAP CO/FI Specialist - Internes Rechnungswesen",
+])
+def test_substring_lookalikes_are_rejected(title: str) -> None:
+    """'INTERNational' and 'COOPerative' are not internships."""
+    filters = FilterConfig(title_require_any=("intern", "co-op", "coop", "co op"))
+    assert not matches(_untermed(title), filters)
+
+
+@pytest.mark.parametrize("title", [
+    "[Summer 2027] Software Engineer Intern",
+    "Software Engineering Internship - San Francisco",
+    "2027 Summer Interns - Platform",
+    "Software Engineering Co-Op - Summer 2027",
+    "Data Science Co-ops",
+    # Underscore is a word character, so \b would wrongly reject this one.
+    "EHS Intern_Shenzhen",
+])
+def test_real_intern_titles_still_pass(title: str) -> None:
+    filters = FilterConfig(title_require_any=("intern", "co-op", "coop", "co op"))
+    assert matches(_untermed(title), filters)
+
+
+def test_employment_type_label_still_admits_an_untitled_intern_role() -> None:
+    filters = FilterConfig(title_require_any=("intern",))
+    assert matches(_untermed("Software Engineer, Platform", "Internship"), filters)
+    assert not matches(_untermed("Software Engineer, Platform", "Full-time"), filters)

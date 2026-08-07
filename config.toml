@@ -82,23 +82,94 @@ boards = [
     "vercel",
     "marshallwace",
     "aqr",
+    # Notable / big-name boards, each probed live 2026-08-07 (a slug is listed
+    # only if boards-api returned a real board). MOST OF THESE HAVE NO INTERN
+    # REQ OPEN TODAY — of ~120 boards probed, exactly three carried a 2027
+    # intern posting. Big-name Summer 2027 hiring opens ~Sept–Jan, so these are
+    # here to catch the opening on the first 30-minute poll rather than to add
+    # postings now. A board with no matching req costs one request per run.
+    "airbnb",
+    "coinbase",
+    "dropbox",
+    "instacart",
+    "reddit",
+    "discord",
+    "robinhood",          # intern reqs live at probe
+    # DoorDash is deliberately absent: boards-api 404s for every slug tried
+    # (doordash, doordashessentials) — they are not on a public Greenhouse
+    # board, so they can only arrive via the Simplify aggregator.
+    "lyft",
+    "pinterest",
+    "duolingo",
+    "gitlab",
+    "datadog",
+    "mongodb",
+    "elastic",
+    "twilio",
+    "asana",
+    "okta",
+    "affirm",
+    "chime",
+    "sofi",
+    "brex",
+    "flexport",
+    "gusto",
+    "checkr",
+    "faire",              # intern reqs live at probe
+    "airtable",
+    "webflow",
+    "amplitude",
+    "clickhouse",
+    "cockroachlabs",
+    "temporaltechnologies",
+    "squarespace",
+    "verkada",
+    "samsara",            # intern reqs live at probe
+    "nuro",               # intern reqs live at probe
+    "waymo",
+    "lucidmotors",        # intern reqs live at probe
+    "epicgames",          # intern reqs live at probe
+    "riotgames",          # intern reqs live at probe
 ]
 
 [sources.lever]
 companies = ["palantir", "waabi", "tri"]
 
 [sources.ashby]
-orgs = ["ramp", "perplexity", "cohere", "applied", "etched", "rivianvw.tech"]
+orgs = [
+    "ramp", "perplexity", "cohere", "applied", "etched", "rivianvw.tech",
+    # Probed live 2026-08-07. openai/notion/modal/pika had intern reqs open;
+    # the rest are frontier-lab and notable-startup boards worth watching for
+    # when their 2027 cycle opens. One request each per run.
+    "openai", "notion", "linear", "replit", "sierra", "decagon", "harvey",
+    "mercor", "modal", "baseten", "langchain", "gamma", "elevenlabs", "suno",
+    "runway", "pika", "abridge",
+]
 
 # Workday boards as "tenant.instance/site" (from the board URL:
 # https://TENANT.INSTANCE.myworkdayjobs.com/SITE/...). Queried with
 # searchText=intern server-side. Slugs verified live 2026-08-03.
 [sources.workday]
+# COST NOTE: Workday is the expensive source. searchText is fuzzy, so a board
+# returns mostly non-intern hits (measured 2026-08-07: of NVIDIA's first 200
+# hits only 10 were real intern titles, Adobe 1, Micron 12, Mastercard 4), and
+# the fetcher pages to MAX_RESULTS=1000 — roughly 50 requests per board per
+# run. Greenhouse/Ashby return a whole board in ONE request, so prefer them.
+# That is why this list is curated to big names with a real CS-undergrad
+# pipeline rather than every tenant that resolved. All probed live 2026-08-07.
 boards = [
     "arrowstreetcapital.wd5/Campus_Careers",
     "paloaltonetworks.wd5/panwexternalcareers",
     "synchronyfinancial.wd5/University",
     "ciena.wd5/Careers",
+    "nvidia.wd5/NVIDIAExternalCareerSite",
+    "salesforce.wd12/External_Career_Site",
+    "capitalone.wd12/Capital_One",
+    "mastercard.wd1/CorporateCareers",
+    "blackrock.wd1/BlackRock_Professional",
+    "adobe.wd5/external_experienced",
+    "target.wd5/targetcareers",
+    "comcast.wd5/Comcast_Careers",
 ]
 
 # SmartRecruiters company identifiers (from jobs.smartrecruiters.com/IDENTIFIER/...).
