@@ -1,6 +1,20 @@
 {
  "version": 1,
  "applications": {
+  "url:https://ameren.wd1.myworkdayjobs.com/external/job/st-louis-mo/derms-co-op-intern_033809-1": {
+   "url": "https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/DERMS-Co-Op-Intern_033809-1",
+   "company": "Ameren",
+   "title": "DERMS Co-op/Intern",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-07",
+    "withdrawn": "2026-08-07"
+   },
+   "notes": [
+    "scaffolded via new_application.py",
+    "auto-screen: only term offered is May-December 2027 Fall Co-Op, not a Summer 2027 internship"
+   ]
+  },
   "url:https://boards.greenhouse.io/andurilindustries/jobs/5148079007": {
    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007",
    "company": "Anduril",
@@ -64,6 +78,20 @@
     "scaffolded via new_application.py"
    ]
   },
+  "url:https://ciena.wd5.myworkdayjobs.com/careers/job/ottawa/software-developer-in-test-automation-intern_r031467": {
+   "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-in-Test-Automation-Intern_R031467",
+   "company": "ciena",
+   "title": "Software Developer in Test Automation Intern",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-07",
+    "withdrawn": "2026-08-07"
+   },
+   "notes": [
+    "scaffolded via new_application.py",
+    "auto-screen: work terms all start September 2026 (4/8/12/16 months), cannot be Summer 2027"
+   ]
+  },
   "url:https://cnoinc.wd5.myworkdayjobs.com/careers/job/carmel-in/artificial-intelligence--ai--it-intern-2027---remote_jr170389": {
    "url": "https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/Artificial-Intelligence--AI--IT-Intern-2027---REMOTE_JR170389",
    "company": "CNO Financial Group",
@@ -106,6 +134,18 @@
    "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225469-1",
    "company": "General Dynamics Information Technology",
    "title": "Software Developer Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-07"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
+  "url:https://gdit.wd5.myworkdayjobs.com/external_career_site/job/usa-va-falls-church/summer-2027-ai-machine-learning-internship--dc-metro-area_rq225912": {
+   "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-AI-Machine-Learning-Internship--DC-Metro-Area_RQ225912",
+   "company": "General Dynamics Information Technology",
+   "title": "Artificial Intelligence/Machine Learning Intern",
    "status": "interested",
    "history": {
     "interested": "2026-08-07"
@@ -224,6 +264,20 @@
     "auto-screen: PhD-only + class-year bar, graduating Sep 2027-Jul 2028"
    ]
   },
+  "url:https://job-boards.greenhouse.io/anthropic/jobs/5358120008": {
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358120008",
+   "company": "Anthropic",
+   "title": "Director, US International Tax",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-07",
+    "withdrawn": "2026-08-07"
+   },
+   "notes": [
+    "scaffolded via new_application.py",
+    "auto-screen: senior corporate tax role (CPA/JD required, Big 4 + in-house experience), not an internship or engineering function"
+   ]
+  },
   "url:https://job-boards.greenhouse.io/appian/jobs/8041237": {
    "url": "https://job-boards.greenhouse.io/appian/jobs/8041237",
    "company": "Appian",
@@ -248,6 +302,34 @@
    },
    "notes": [
     "fit 5/5 · backend/full-stack SWE"
+   ]
+  },
+  "url:https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005": {
+   "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005",
+   "company": "Chicago Trading Company",
+   "title": "Quant Trading Intern",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-07",
+    "withdrawn": "2026-08-07"
+   },
+   "notes": [
+    "scaffolded via new_application.py",
+    "auto-screen: graduation window December 2027-June 2028 excludes May 2029"
+   ]
+  },
+  "url:https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005": {
+   "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005",
+   "company": "Chicago Trading Company",
+   "title": "Software Engineering Intern",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-07",
+    "withdrawn": "2026-08-07"
+   },
+   "notes": [
+    "scaffolded via new_application.py",
+    "auto-screen: graduation window December 2027-June 2028 excludes May 2029"
    ]
   },
   "url:https://job-boards.greenhouse.io/emergingtalent/jobs/8051938": {
@@ -598,6 +680,20 @@
    "notes": [
     "scaffolded via new_application.py",
     "Kern: off-target (German-language BDO role); function screen added to agent"
+   ]
+  },
+  "url:https://jobs.smartrecruiters.com/boschgroup/744000142173185": {
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000142173185",
+   "company": "Bosch Group",
+   "title": "Internship Vehicle Thermal Systems Engineering",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-07",
+    "withdrawn": "2026-08-07"
+   },
+   "notes": [
+    "scaffolded via new_application.py",
+    "auto-screen: mechanical/electrical engineering major required (Mechatronics/ME/EE), CS not listed; requires prior automotive electrification internship"
    ]
   },
   "url:https://jobs.smartrecruiters.com/llnl/3743990014460826": {

@@ -1,6 +1,6 @@
 # Applications
 
-**90 tracked** — applied: 7 · interested: 56 · withdrawn: 27
+**97 tracked** — applied: 7 · interested: 57 · withdrawn: 33
 
 ## applied (7)
 
@@ -14,13 +14,14 @@
 | Circleback | [Software Engineer Intern](https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f/application?embed=true) | 2026-08-06 | fit 4/5 · full-stack SWE (AI meeting-notes product) |
 | CTGT | [Software Engineer Intern](https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application) | 2026-08-06 | fit 5/5 · backend / full-stack SWE (LLM governance platform) |
 
-## interested (56)
+## interested (57)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
 | Roblox | [[Summer 2027] Software Engineer Intern](https://careers.roblox.com/jobs/8072713?gh_jid=8072713) | 2026-08-07 | scaffolded via new_application.py |
 | General Dynamics Information Technology | [Software Developer Intern](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225456-1) | 2026-08-07 | scaffolded via new_application.py |
 | General Dynamics Information Technology | [Software Developer Intern](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225469-1) | 2026-08-07 | scaffolded via new_application.py |
+| General Dynamics Information Technology | [Artificial Intelligence/Machine Learning Intern](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-AI-Machine-Learning-Internship--DC-Metro-Area_RQ225912) | 2026-08-07 | scaffolded via new_application.py |
 | PDT Partners | [Summer 2027 Systems Engineering Intern](https://job-boards.greenhouse.io/pdtpartners/jobs/8083292) | 2026-08-07 | scaffolded via new_application.py |
 | Scale AI | [Technical Advisor Specialist (Part-Time Internship)](https://job-boards.greenhouse.io/scaleai/jobs/4611533005) | 2026-08-07 | scaffolded via new_application.py |
 | Scale AI | [AI Builder Intern](https://job-boards.greenhouse.io/scaleai/jobs/4703343005) | 2026-08-07 | scaffolded via new_application.py |
@@ -75,15 +76,21 @@
 | Synchrony Financial | [BLP Intern - Data Analytics (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Data-Analytics_2601688) | 2026-08-04 | same intake as Tech sibling; analytics not SWE; verifier confirmed plausible 2027 cycle |
 | Synchrony Financial | [BLP Intern - Technology (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Technology_2601695-1) | 2026-08-04 | BEST BET: bachelor's-pursuing, no class-year bar, 10-wk Jun-Aug; likely 2027 intake (screened 8/4) |
 
-## withdrawn (27)
+## withdrawn (33)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
+| Ameren | [DERMS Co-op/Intern](https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/DERMS-Co-Op-Intern_033809-1) | 2026-08-07 | scaffolded via new_application.py; auto-screen: only term offered is May-December 2027 Fall Co-Op, not a Summer 2027 internship |
 | Figma | [Manager, Figma for Education (International)](https://boards.greenhouse.io/figma/jobs/6004606004?gh_jid=6004606004) | 2026-08-07 | scaffolded via new_application.py; auto-screen: function - full-time manager role, 5+ years GTM/education-sales experience, not an internship |
+| ciena | [Software Developer in Test Automation Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-in-Test-Automation-Intern_R031467) | 2026-08-07 | scaffolded via new_application.py; auto-screen: work terms all start September 2026 (4/8/12/16 months), cannot be Summer 2027 |
 | Databricks | [Product Management Intern (Summer 2027)](https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002) | 2026-08-07 | scaffolded via new_application.py; auto-screen: class-year bar, graduating Fall 2027 or Spring 2028 |
 | IMC | [Software Engineer Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4823924101) | 2026-08-07 | auto-screen: class-year bar, graduating Sep 2027-Jul 2028 |
 | IMC | [Hardware Engineer Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) | 2026-08-07 | auto-screen: class-year bar, graduating Sep 2027-Jul 2028; also FPGA/RTL function |
 | IMC | [Machine Learning Research Intern - Summer 2027 - Chicago](https://job-boards.eu.greenhouse.io/imc/jobs/4907430101) | 2026-08-07 | auto-screen: PhD-only + class-year bar, graduating Sep 2027-Jul 2028 |
+| Anthropic | [Director, US International Tax](https://job-boards.greenhouse.io/anthropic/jobs/5358120008) | 2026-08-07 | scaffolded via new_application.py; auto-screen: senior corporate tax role (CPA/JD required, Big 4 + in-house experience), not an internship or engineering function |
+| Chicago Trading Company | [Quant Trading Intern](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005) | 2026-08-07 | scaffolded via new_application.py; auto-screen: graduation window December 2027-June 2028 excludes May 2029 |
+| Chicago Trading Company | [Software Engineering Intern](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005) | 2026-08-07 | scaffolded via new_application.py; auto-screen: graduation window December 2027-June 2028 excludes May 2029 |
+| Bosch Group | [Internship Vehicle Thermal Systems Engineering](https://jobs.smartrecruiters.com/BoschGroup/744000142173185) | 2026-08-07 | scaffolded via new_application.py; auto-screen: mechanical/electrical engineering major required (Mechatronics/ME/EE), CS not listed; requires prior automotive electrification internship |
 | Akuna Capital | [Software Engineer Intern - C++, Summer 2027](https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847) | 2026-08-07 | scaffolded via new_application.py; auto-screen: class-year bar, graduate by August 2028; Kern graduates May 2029 |
 | Akuna Capital | [Software Engineer Intern - Python, Summer 2027](https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853) | 2026-08-07 | scaffolded via new_application.py; auto-screen: class-year bar, graduate by August 2028; Kern graduates May 2029 |
 | Akuna Capital | [Platform Engineer Intern, Summer 2027](https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856) | 2026-08-07 | scaffolded via new_application.py; auto-screen: class-year bar, graduate by August 2028; Kern graduates May 2029 |
