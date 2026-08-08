@@ -146,6 +146,20 @@
     "auto-screen: class-year bar, graduating Fall 2027 or Spring 2028"
    ]
   },
+  "url:https://epicgames.com/careers/jobs/6138134004?gh_jid=6138134004": {
+   "url": "https://epicgames.com/careers/jobs/6138134004?gh_jid=6138134004",
+   "company": "Epic Games",
+   "title": "Machine Learning Intern",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-08",
+    "withdrawn": "2026-08-08"
+   },
+   "notes": [
+    "scaffolded via new_application.py",
+    "auto-screen: current PhD students and recent PhD/MSc graduates only, no undergraduate path; 6-12 month duration"
+   ]
+  },
   "url:https://gdit.wd5.myworkdayjobs.com/external_career_site/job/usa-md-annapolis-junction/summer-2027-software-developer-internship_rq225456-1": {
    "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225456-1",
    "company": "General Dynamics Information Technology",
@@ -438,6 +452,34 @@
     "fit 3/5 · systems SWE — low-latency C/Linux electronic trading infrastructure"
    ]
   },
+  "url:https://job-boards.greenhouse.io/lucidmotors/jobs/5185317007": {
+   "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5185317007",
+   "company": "Lucid Motors",
+   "title": "IT Asset Management Intern",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-08",
+    "withdrawn": "2026-08-08"
+   },
+   "notes": [
+    "scaffolded via new_application.py",
+    "auto-screen: Amsterdam, Netherlands site (in-person, EU region, MBO/HBO/WO) + IT asset management function, not software"
+   ]
+  },
+  "url:https://job-boards.greenhouse.io/lucidmotors/jobs/5187382007": {
+   "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5187382007",
+   "company": "Lucid Motors",
+   "title": "Retail Design & Development Intern",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-08",
+    "withdrawn": "2026-08-08"
+   },
+   "notes": [
+    "scaffolded via new_application.py",
+    "auto-screen: Architecture/Interior Design/Construction Management majors, EMEA retail development, Amsterdam NL, 5-6 month term"
+   ]
+  },
   "url:https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051937": {
    "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051937",
    "company": "Maven Securities",
@@ -663,6 +705,18 @@
    },
    "notes": [
     "fit 4/5 · full-stack SWE / agent + LLM product engineering (early-stage startup)"
+   ]
+  },
+  "url:https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a": {
+   "url": "https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a",
+   "company": "modal",
+   "title": "ML Research Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-08"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
    ]
   },
   "url:https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7": {

@@ -1,6 +1,6 @@
 # Applications
 
-**112 tracked** — applied: 12 · interested: 53 · withdrawn: 47
+**116 tracked** — applied: 12 · interested: 54 · withdrawn: 50
 
 ## applied (12)
 
@@ -19,13 +19,14 @@
 | Circleback | [Software Engineer Intern](https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f/application?embed=true) | 2026-08-06 | fit 4/5 · full-stack SWE (AI meeting-notes product) |
 | CTGT | [Software Engineer Intern](https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application) | 2026-08-06 | fit 5/5 · backend / full-stack SWE (LLM governance platform) |
 
-## interested (53)
+## interested (54)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
 | Axon | [Software Engineer Intern](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003) | 2026-08-08 | scaffolded via new_application.py |
 | The Nuclear Company | [AI/ML Engineer Intern](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383231008) | 2026-08-08 | scaffolded via new_application.py |
 | The Nuclear Company | [Software Engineering Intern - Product - Platform](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008) | 2026-08-08 | scaffolded via new_application.py |
+| modal | [ML Research Intern](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a) | 2026-08-08 | scaffolded via new_application.py |
 | Nuro | [Software Engineer, AI Platform - Intern](https://nuro.ai/careersitem?gh_jid=7351061) | 2026-08-08 | scaffolded via new_application.py |
 | Trillium | [Software Engineer Intern - Summer 2027](https://www.trlm.com/apply/5207089007?gh_jid=5207089007) | 2026-08-08 | scaffolded via new_application.py |
 | Roblox | [[Summer 2027] Software Engineer Intern](https://careers.roblox.com/jobs/8072713?gh_jid=8072713) | 2026-08-07 | scaffolded via new_application.py |
@@ -77,13 +78,16 @@
 | Synchrony Financial | [BLP Intern - Data Analytics (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Data-Analytics_2601688) | 2026-08-04 | same intake as Tech sibling; analytics not SWE; verifier confirmed plausible 2027 cycle |
 | Synchrony Financial | [BLP Intern - Technology (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Technology_2601695-1) | 2026-08-04 | BEST BET: bachelor's-pursuing, no class-year bar, 10-wk Jun-Aug; likely 2027 intake (screened 8/4) |
 
-## withdrawn (47)
+## withdrawn (50)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
 | Ameren | [Digital Co-op](https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Digital-Co-op_033841-1) | 2026-08-08 | scaffolded via new_application.py; auto-screen: term — only Jan-Aug 2027 and May-Dec 2027 eight-month co-ops offered, neither is Summer 2027 |
 | Faire | [Data Science Intern](https://boards.greenhouse.io/faire/jobs/8376377002?gh_jid=8376377002) | 2026-08-08 | scaffolded via new_application.py; auto-screen: Masters/PhD only, Fall 2026 term, publications expected |
+| Epic Games | [Machine Learning Intern](https://epicgames.com/careers/jobs/6138134004?gh_jid=6138134004) | 2026-08-08 | scaffolded via new_application.py; auto-screen: current PhD students and recent PhD/MSc graduates only, no undergraduate path; 6-12 month duration |
 | Atoms | [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/cssmerge/jobs/8687896002) | 2026-08-08 | scaffolded via new_application.py; auto-screen: class-year — 'Graduating in Fall-Winter 2027 or Spring/Summer 2028'; Kern graduates May 2029 |
+| Lucid Motors | [IT Asset Management Intern](https://job-boards.greenhouse.io/lucidmotors/jobs/5185317007) | 2026-08-08 | scaffolded via new_application.py; auto-screen: Amsterdam, Netherlands site (in-person, EU region, MBO/HBO/WO) + IT asset management function, not software |
+| Lucid Motors | [Retail Design & Development Intern](https://job-boards.greenhouse.io/lucidmotors/jobs/5187382007) | 2026-08-08 | scaffolded via new_application.py; auto-screen: Architecture/Interior Design/Construction Management majors, EMEA retail development, Amsterdam NL, 5-6 month term |
 | The Nuclear Company | [Data Science Intern](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383244008) | 2026-08-08 | scaffolded via new_application.py; auto-screen: graduation window Dec 2027-June 2028 excludes May 2029 |
 | Belvedere Trading | [Software Engineer Intern - Summer 2027](https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0/apply) | 2026-08-08 | scaffolded via new_application.py; auto-screen: class-year — 'Graduation date of December 2027/Spring 2028'; Kern graduates May 2029 |
 | Belvedere Trading | [Quantitative Trading Intern - Summer 2027](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab/apply) | 2026-08-08 | scaffolded via new_application.py; auto-screen: class-year — 'Graduation date of December 2027/Spring 2028'; Kern graduates May 2029 |
