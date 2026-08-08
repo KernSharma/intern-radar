@@ -1,12 +1,17 @@
 # Applications
 
-**97 tracked** — applied: 7 · interested: 57 · withdrawn: 33
+**104 tracked** — applied: 12 · interested: 51 · withdrawn: 41
 
-## applied (7)
+## applied (12)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
+| Scale AI | [AI Builder Intern](https://job-boards.greenhouse.io/scaleai/jobs/4703343005) | 2026-08-07 | scaffolded via new_application.py |
+| Heliux | [Software Engineer Intern](https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef/application?embed=true) | 2026-08-07 | fit 4/5 · full-stack / product SWE at an early-stage AI-native manufacturing OS startup |
+| Cybernetic Labs | [Software Engineer Intern - Agent Platform](https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7/application?embed=true) | 2026-08-07 | fit 5/5 · backend SWE / agent infrastructure (Python, LLM orchestration) |
+| Cybernetic Labs | [Full-Stack Software Engineer Intern - Product](https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef/application?embed=true) | 2026-08-07 | fit 4/5 · full-stack SWE (React/TypeScript + Python, product) |
 | Cybernetic Labs | [Forward Deployed Engineer Intern](https://jobs.ashbyhq.com/netic/ffd6af1a-cebb-41f5-ac1d-e695adfd067c/application?embed=true) | 2026-08-07 | fit 4/5 · forward-deployed / applied AI engineer (Python backend + LLM agents) |
+| Quadrillion | [Software Engineering Intern](https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05/application?embed=true) | 2026-08-07 | fit 5/5 · backend SWE / agent infrastructure (AI research platform) |
 | Anduril | [Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5148079007) | 2026-08-06 | fit 5/5 · backend SWE / full-stack (defense software, Lattice OS) |
 | Appian | [Software Engineer Intern](https://job-boards.greenhouse.io/appian/jobs/8041237) | 2026-08-06 | fit 5/5 · full-stack SWE (enterprise platform) |
 | Axon | [Software Engineering Intern](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003) | 2026-08-06 | fit 5/5 · backend/full-stack SWE |
@@ -14,17 +19,18 @@
 | Circleback | [Software Engineer Intern](https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f/application?embed=true) | 2026-08-06 | fit 4/5 · full-stack SWE (AI meeting-notes product) |
 | CTGT | [Software Engineer Intern](https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application) | 2026-08-06 | fit 5/5 · backend / full-stack SWE (LLM governance platform) |
 
-## interested (57)
+## interested (51)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
+| Axon | [Software Engineer Intern](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003) | 2026-08-08 | scaffolded via new_application.py |
+| The Nuclear Company | [AI/ML Engineer Intern](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383231008) | 2026-08-08 | scaffolded via new_application.py |
+| Trillium | [Software Engineer Intern - Summer 2027](https://www.trlm.com/apply/5207089007?gh_jid=5207089007) | 2026-08-08 | scaffolded via new_application.py |
 | Roblox | [[Summer 2027] Software Engineer Intern](https://careers.roblox.com/jobs/8072713?gh_jid=8072713) | 2026-08-07 | scaffolded via new_application.py |
 | General Dynamics Information Technology | [Software Developer Intern](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225456-1) | 2026-08-07 | scaffolded via new_application.py |
 | General Dynamics Information Technology | [Software Developer Intern](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225469-1) | 2026-08-07 | scaffolded via new_application.py |
 | General Dynamics Information Technology | [Artificial Intelligence/Machine Learning Intern](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-AI-Machine-Learning-Internship--DC-Metro-Area_RQ225912) | 2026-08-07 | scaffolded via new_application.py |
 | PDT Partners | [Summer 2027 Systems Engineering Intern](https://job-boards.greenhouse.io/pdtpartners/jobs/8083292) | 2026-08-07 | scaffolded via new_application.py |
-| Scale AI | [Technical Advisor Specialist (Part-Time Internship)](https://job-boards.greenhouse.io/scaleai/jobs/4611533005) | 2026-08-07 | scaffolded via new_application.py |
-| Scale AI | [AI Builder Intern](https://job-boards.greenhouse.io/scaleai/jobs/4703343005) | 2026-08-07 | scaffolded via new_application.py |
 | Northrop Grumman | [Software Engineer Intern - Aeronautics Systems](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395) | 2026-08-07 | scaffolded via new_application.py |
 | Jump Trading | [Campus Quantitative Trader (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7848371) | 2026-08-07 | scaffolded via new_application.py |
 | Jump Trading | [Campus Quantitative Researcher, UG/MS (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7982648) | 2026-08-07 | scaffolded via new_application.py |
@@ -43,20 +49,13 @@
 | GE Vernova | [Digital Technology Intern](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Atlanta/GE-Vernova-Digital-Technology-Internship---Summer-2027_R5049176-3) | 2026-08-06 | fit 3/5 · IT / digital technology rotational (cyber, cloud, data & analytics, data science, AI) |
 | RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Intern--Summer-2027-_01864033) | 2026-08-06 | fit 3/5 · embedded / avionics SWE (simulation and modeling) |
 | Genworth Financial | [IT Development Program Intern - IT Development Program](https://gnw.wd1.myworkdayjobs.com/GNW/job/Richmond-Virginia/Genworth-IT-Development-Program-Intern---Summer-2027_REQ-260269-1) | 2026-08-06 | fit 3/5 · IT development program / application development (backend, web, data science, system integration) |
-| GoDaddy | [Software Development Engineer Intern](https://job-boards.greenhouse.io/eventsandinterns/jobs/7820942003) | 2026-08-06 | fit 5/5 · backend / full-stack SWE (cloud services, also DS and AI/ML tracks in the same req) |
-| Flow Traders | [Quantitative Trading Intern](https://job-boards.greenhouse.io/flowtraders/jobs/8047166) | 2026-08-06 | fit 2/5 · quantitative trading (trading desk, not software engineering) |
 | HPR (Hyannis Port Research) | [Software Engineer Intern](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003) | 2026-08-06 | fit 3/5 · systems SWE — low-latency C/Linux electronic trading infrastructure |
 | Marshall Wace | [Technology Intern](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8606238002) | 2026-08-06 | fit 5/5 · backend / full-stack SWE (hedge fund technology platform, trading systems, AI automation) |
 | PDT Partners | [Software Engineer Intern](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) | 2026-08-06 | fit 5/5 · backend SWE / data + trading infrastructure |
 | Virtu Financial | [2027 Internship - Quantitative Researcher (Undergrad)](https://job-boards.greenhouse.io/virtu/jobs/8142539002) | 2026-08-06 | fit 3/5 · quantitative research / data science |
 | Virtu Financial | [2027 Internship - Quantitative Trading](https://job-boards.greenhouse.io/virtu/jobs/8624408002) | 2026-08-06 | fit 2/5 · quantitative trading (technical/algorithmic) |
 | Virtu Financial | [2027 Internship - Frontend Engineer (UI)](https://job-boards.greenhouse.io/virtu/jobs/8657500002) | 2026-08-06 | fit 3/5 · frontend SWE (UI / trading tools) |
-| Ellipsis Labs | [Software Engineer](https://jobs.ashbyhq.com/ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849/application) | 2026-08-06 | fit 5/5 · generalist/backend SWE (full-stack, infra, on-chain) |
-| Heliux | [Software Engineer Intern](https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef/application?embed=true) | 2026-08-06 | fit 4/5 · full-stack / product SWE at an early-stage AI-native manufacturing OS startup |
 | Melius | [Software Engineer Intern](https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280/application?embed=true) | 2026-08-06 | fit 4/5 · full-stack SWE / agent + LLM product engineering (early-stage startup) |
-| Cybernetic Labs | [Software Engineer Intern - Agent Platform](https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7/application?embed=true) | 2026-08-06 | fit 5/5 · backend SWE / agent infrastructure (Python, LLM orchestration) |
-| Cybernetic Labs | [Full-Stack Software Engineer Intern - Product](https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef/application?embed=true) | 2026-08-06 | fit 4/5 · full-stack SWE (React/TypeScript + Python, product) |
-| Quadrillion | [Software Engineering Intern](https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05/application?embed=true) | 2026-08-06 | fit 5/5 · backend SWE / agent infrastructure (AI research platform) |
 | Bosch Group | [Training Technology Digital Solutions Intern](https://jobs.smartrecruiters.com/BoschGroup/744000132662239) | 2026-08-06 | fit 2/5 · training/L&D operations + LMS administration (non-engineering) |
 | Bosch Group | [A.I. Integration Intern](https://jobs.smartrecruiters.com/BoschGroup/744000134840254) | 2026-08-06 | fit 3/5 · applied AI/ML integration (manufacturing) |
 | Western Digital | [Summer 2027 - Software Engineering Internship](https://jobs.smartrecruiters.com/WesternDigital/744000138727213) | 2026-08-06 | fit 4/5 · backend/systems SWE, applications SWE, data analytics (multi-track req) |
@@ -76,10 +75,14 @@
 | Synchrony Financial | [BLP Intern - Data Analytics (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Data-Analytics_2601688) | 2026-08-04 | same intake as Tech sibling; analytics not SWE; verifier confirmed plausible 2027 cycle |
 | Synchrony Financial | [BLP Intern - Technology (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Technology_2601695-1) | 2026-08-04 | BEST BET: bachelor's-pursuing, no class-year bar, 10-wk Jun-Aug; likely 2027 intake (screened 8/4) |
 
-## withdrawn (33)
+## withdrawn (41)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
+| Ameren | [Digital Co-op](https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Digital-Co-op_033841-1) | 2026-08-08 | scaffolded via new_application.py; auto-screen: term — only Jan-Aug 2027 and May-Dec 2027 eight-month co-ops offered, neither is Summer 2027 |
+| Atoms | [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/cssmerge/jobs/8687896002) | 2026-08-08 | scaffolded via new_application.py; auto-screen: class-year — 'Graduating in Fall-Winter 2027 or Spring/Summer 2028'; Kern graduates May 2029 |
+| Belvedere Trading | [Software Engineer Intern - Summer 2027](https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0/apply) | 2026-08-08 | scaffolded via new_application.py; auto-screen: class-year — 'Graduation date of December 2027/Spring 2028'; Kern graduates May 2029 |
+| Belvedere Trading | [Quantitative Trading Intern - Summer 2027](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab/apply) | 2026-08-08 | scaffolded via new_application.py; auto-screen: class-year — 'Graduation date of December 2027/Spring 2028'; Kern graduates May 2029 |
 | Ameren | [DERMS Co-op/Intern](https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/DERMS-Co-Op-Intern_033809-1) | 2026-08-07 | scaffolded via new_application.py; auto-screen: only term offered is May-December 2027 Fall Co-Op, not a Summer 2027 internship |
 | Figma | [Manager, Figma for Education (International)](https://boards.greenhouse.io/figma/jobs/6004606004?gh_jid=6004606004) | 2026-08-07 | scaffolded via new_application.py; auto-screen: function - full-time manager role, 5+ years GTM/education-sales experience, not an internship |
 | ciena | [Software Developer in Test Automation Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-in-Test-Automation-Intern_R031467) | 2026-08-07 | scaffolded via new_application.py; auto-screen: work terms all start September 2026 (4/8/12/16 months), cannot be Summer 2027 |
@@ -90,6 +93,10 @@
 | Anthropic | [Director, US International Tax](https://job-boards.greenhouse.io/anthropic/jobs/5358120008) | 2026-08-07 | scaffolded via new_application.py; auto-screen: senior corporate tax role (CPA/JD required, Big 4 + in-house experience), not an internship or engineering function |
 | Chicago Trading Company | [Quant Trading Intern](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005) | 2026-08-07 | scaffolded via new_application.py; auto-screen: graduation window December 2027-June 2028 excludes May 2029 |
 | Chicago Trading Company | [Software Engineering Intern](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005) | 2026-08-07 | scaffolded via new_application.py; auto-screen: graduation window December 2027-June 2028 excludes May 2029 |
+| GoDaddy | [Software Development Engineer Intern](https://job-boards.greenhouse.io/eventsandinterns/jobs/7820942003) | 2026-08-07 | fit 5/5 · backend / full-stack SWE (cloud services, also DS and AI/ML tracks in the same req) |
+| Flow Traders | [Quantitative Trading Intern](https://job-boards.greenhouse.io/flowtraders/jobs/8047166) | 2026-08-07 | fit 2/5 · quantitative trading (trading desk, not software engineering) |
+| Scale AI | [Technical Advisor Specialist (Part-Time Internship)](https://job-boards.greenhouse.io/scaleai/jobs/4611533005) | 2026-08-07 | scaffolded via new_application.py |
+| Ellipsis Labs | [Software Engineer](https://jobs.ashbyhq.com/ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849/application) | 2026-08-07 | fit 5/5 · generalist/backend SWE (full-stack, infra, on-chain) |
 | Bosch Group | [Internship Vehicle Thermal Systems Engineering](https://jobs.smartrecruiters.com/BoschGroup/744000142173185) | 2026-08-07 | scaffolded via new_application.py; auto-screen: mechanical/electrical engineering major required (Mechatronics/ME/EE), CS not listed; requires prior automotive electrification internship |
 | Akuna Capital | [Software Engineer Intern - C++, Summer 2027](https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847) | 2026-08-07 | scaffolded via new_application.py; auto-screen: class-year bar, graduate by August 2028; Kern graduates May 2029 |
 | Akuna Capital | [Software Engineer Intern - Python, Summer 2027](https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853) | 2026-08-07 | scaffolded via new_application.py; auto-screen: class-year bar, graduate by August 2028; Kern graduates May 2029 |

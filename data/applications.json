@@ -15,6 +15,20 @@
     "auto-screen: only term offered is May-December 2027 Fall Co-Op, not a Summer 2027 internship"
    ]
   },
+  "url:https://ameren.wd1.myworkdayjobs.com/external/job/st-louis-mo/digital-co-op_033841-1": {
+   "url": "https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Digital-Co-op_033841-1",
+   "company": "Ameren",
+   "title": "Digital Co-op",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-08",
+    "withdrawn": "2026-08-08"
+   },
+   "notes": [
+    "scaffolded via new_application.py",
+    "auto-screen: term — only Jan-Aug 2027 and May-Dec 2027 eight-month co-ops offered, neither is Summer 2027"
+   ]
+  },
   "url:https://boards.greenhouse.io/andurilindustries/jobs/5148079007": {
    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007",
    "company": "Anduril",
@@ -304,6 +318,32 @@
     "fit 5/5 · backend/full-stack SWE"
    ]
   },
+  "url:https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003": {
+   "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003",
+   "company": "Axon",
+   "title": "Software Engineer Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-08"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
+  "url:https://job-boards.greenhouse.io/cssmerge/jobs/8687896002": {
+   "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002",
+   "company": "Atoms",
+   "title": "Software Engineer Intern - Summer 2027",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-08",
+    "withdrawn": "2026-08-08"
+   },
+   "notes": [
+    "scaffolded via new_application.py",
+    "auto-screen: class-year — 'Graduating in Fall-Winter 2027 or Spring/Summer 2028'; Kern graduates May 2029"
+   ]
+  },
   "url:https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005": {
    "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005",
    "company": "Chicago Trading Company",
@@ -350,9 +390,10 @@
    "url": "https://job-boards.greenhouse.io/eventsandinterns/jobs/7820942003",
    "company": "GoDaddy",
    "title": "Software Development Engineer Intern",
-   "status": "interested",
+   "status": "withdrawn",
    "history": {
-    "interested": "2026-08-06"
+    "interested": "2026-08-06",
+    "withdrawn": "2026-08-07"
    },
    "notes": [
     "fit 5/5 · backend / full-stack SWE (cloud services, also DS and AI/ML tracks in the same req)"
@@ -362,9 +403,10 @@
    "url": "https://job-boards.greenhouse.io/flowtraders/jobs/8047166",
    "company": "Flow Traders",
    "title": "Quantitative Trading Intern",
-   "status": "interested",
+   "status": "withdrawn",
    "history": {
-    "interested": "2026-08-06"
+    "interested": "2026-08-06",
+    "withdrawn": "2026-08-07"
    },
    "notes": [
     "fit 2/5 · quantitative trading (trading desk, not software engineering)"
@@ -436,9 +478,10 @@
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4611533005",
    "company": "Scale AI",
    "title": "Technical Advisor Specialist (Part-Time Internship)",
-   "status": "interested",
+   "status": "withdrawn",
    "history": {
-    "interested": "2026-08-07"
+    "interested": "2026-08-07",
+    "withdrawn": "2026-08-07"
    },
    "notes": [
     "scaffolded via new_application.py"
@@ -448,9 +491,22 @@
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4703343005",
    "company": "Scale AI",
    "title": "AI Builder Intern",
+   "status": "applied",
+   "history": {
+    "interested": "2026-08-07",
+    "applied": "2026-08-07"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
+  "url:https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383231008": {
+   "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383231008",
+   "company": "The Nuclear Company",
+   "title": "AI/ML Engineer Intern",
    "status": "interested",
    "history": {
-    "interested": "2026-08-07"
+    "interested": "2026-08-08"
    },
    "notes": [
     "scaffolded via new_application.py"
@@ -535,9 +591,10 @@
    "url": "https://jobs.ashbyhq.com/ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849/application",
    "company": "Ellipsis Labs",
    "title": "Software Engineer",
-   "status": "interested",
+   "status": "withdrawn",
    "history": {
-    "interested": "2026-08-06"
+    "interested": "2026-08-06",
+    "withdrawn": "2026-08-07"
    },
    "notes": [
     "fit 5/5 · generalist/backend SWE (full-stack, infra, on-chain)"
@@ -547,9 +604,10 @@
    "url": "https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef/application?embed=true",
    "company": "Heliux",
    "title": "Software Engineer Intern",
-   "status": "interested",
+   "status": "applied",
    "history": {
-    "interested": "2026-08-06"
+    "interested": "2026-08-06",
+    "applied": "2026-08-07"
    },
    "notes": [
     "fit 4/5 · full-stack / product SWE at an early-stage AI-native manufacturing OS startup"
@@ -571,9 +629,10 @@
    "url": "https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7/application?embed=true",
    "company": "Cybernetic Labs",
    "title": "Software Engineer Intern - Agent Platform",
-   "status": "interested",
+   "status": "applied",
    "history": {
-    "interested": "2026-08-06"
+    "interested": "2026-08-06",
+    "applied": "2026-08-07"
    },
    "notes": [
     "fit 5/5 · backend SWE / agent infrastructure (Python, LLM orchestration)"
@@ -583,9 +642,10 @@
    "url": "https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef/application?embed=true",
    "company": "Cybernetic Labs",
    "title": "Full-Stack Software Engineer Intern - Product",
-   "status": "interested",
+   "status": "applied",
    "history": {
-    "interested": "2026-08-06"
+    "interested": "2026-08-06",
+    "applied": "2026-08-07"
    },
    "notes": [
     "fit 4/5 · full-stack SWE (React/TypeScript + Python, product)"
@@ -608,12 +668,41 @@
    "url": "https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05/application?embed=true",
    "company": "Quadrillion",
    "title": "Software Engineering Intern",
-   "status": "interested",
+   "status": "applied",
    "history": {
-    "interested": "2026-08-06"
+    "interested": "2026-08-06",
+    "applied": "2026-08-07"
    },
    "notes": [
     "fit 5/5 · backend SWE / agent infrastructure (AI research platform)"
+   ]
+  },
+  "url:https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0": {
+   "url": "https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0/apply",
+   "company": "Belvedere Trading",
+   "title": "Software Engineer Intern - Summer 2027",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-08",
+    "withdrawn": "2026-08-08"
+   },
+   "notes": [
+    "scaffolded via new_application.py",
+    "auto-screen: class-year — 'Graduation date of December 2027/Spring 2028'; Kern graduates May 2029"
+   ]
+  },
+  "url:https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab": {
+   "url": "https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab/apply",
+   "company": "Belvedere Trading",
+   "title": "Quantitative Trading Intern - Summer 2027",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-08",
+    "withdrawn": "2026-08-08"
+   },
+   "notes": [
+    "scaffolded via new_application.py",
+    "auto-screen: class-year — 'Graduation date of December 2027/Spring 2028'; Kern graduates May 2029"
    ]
   },
   "url:https://jobs.smartrecruiters.com/boschgroup/744000132662239": {
@@ -1219,6 +1308,18 @@
    "status": "interested",
    "history": {
     "interested": "2026-08-07"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
+  "url:https://www.trlm.com/apply/5207089007?gh_jid=5207089007": {
+   "url": "https://www.trlm.com/apply/5207089007?gh_jid=5207089007",
+   "company": "Trillium",
+   "title": "Software Engineer Intern - Summer 2027",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-08"
    },
    "notes": [
     "scaffolded via new_application.py"
