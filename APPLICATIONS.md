@@ -1,6 +1,6 @@
 # Applications
 
-**116 tracked** — applied: 12 · interested: 54 · withdrawn: 50
+**117 tracked** — applied: 12 · interested: 54 · withdrawn: 51
 
 ## applied (12)
 
@@ -78,12 +78,13 @@
 | Synchrony Financial | [BLP Intern - Data Analytics (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Data-Analytics_2601688) | 2026-08-04 | same intake as Tech sibling; analytics not SWE; verifier confirmed plausible 2027 cycle |
 | Synchrony Financial | [BLP Intern - Technology (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Technology_2601695-1) | 2026-08-04 | BEST BET: bachelor's-pursuing, no class-year bar, 10-wk Jun-Aug; likely 2027 intake (screened 8/4) |
 
-## withdrawn (50)
+## withdrawn (51)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
 | Ameren | [Digital Co-op](https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Digital-Co-op_033841-1) | 2026-08-08 | scaffolded via new_application.py; auto-screen: term — only Jan-Aug 2027 and May-Dec 2027 eight-month co-ops offered, neither is Summer 2027 |
 | Faire | [Data Science Intern](https://boards.greenhouse.io/faire/jobs/8376377002?gh_jid=8376377002) | 2026-08-08 | scaffolded via new_application.py; auto-screen: Masters/PhD only, Fall 2026 term, publications expected |
+| capitalone | [Current Master's - Data Science Internship - Summer 2027](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Current-Master-s---Data-Science-Internship---Summer-2027_R244285-1) | 2026-08-08 | auto-screen: Master's/MBA-only, no undergraduate path; Kern is a B.S. CS student graduating May 2029 |
 | Epic Games | [Machine Learning Intern](https://epicgames.com/careers/jobs/6138134004?gh_jid=6138134004) | 2026-08-08 | scaffolded via new_application.py; auto-screen: current PhD students and recent PhD/MSc graduates only, no undergraduate path; 6-12 month duration |
 | Atoms | [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/cssmerge/jobs/8687896002) | 2026-08-08 | scaffolded via new_application.py; auto-screen: class-year — 'Graduating in Fall-Winter 2027 or Spring/Summer 2028'; Kern graduates May 2029 |
 | Lucid Motors | [IT Asset Management Intern](https://job-boards.greenhouse.io/lucidmotors/jobs/5185317007) | 2026-08-08 | scaffolded via new_application.py; auto-screen: Amsterdam, Netherlands site (in-person, EU region, MBO/HBO/WO) + IT asset management function, not software |
