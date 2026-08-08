@@ -1,6 +1,6 @@
 # Applications
 
-**104 tracked** — applied: 12 · interested: 51 · withdrawn: 41
+**112 tracked** — applied: 12 · interested: 53 · withdrawn: 47
 
 ## applied (12)
 
@@ -19,12 +19,14 @@
 | Circleback | [Software Engineer Intern](https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f/application?embed=true) | 2026-08-06 | fit 4/5 · full-stack SWE (AI meeting-notes product) |
 | CTGT | [Software Engineer Intern](https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application) | 2026-08-06 | fit 5/5 · backend / full-stack SWE (LLM governance platform) |
 
-## interested (51)
+## interested (53)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
 | Axon | [Software Engineer Intern](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003) | 2026-08-08 | scaffolded via new_application.py |
 | The Nuclear Company | [AI/ML Engineer Intern](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383231008) | 2026-08-08 | scaffolded via new_application.py |
+| The Nuclear Company | [Software Engineering Intern - Product - Platform](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008) | 2026-08-08 | scaffolded via new_application.py |
+| Nuro | [Software Engineer, AI Platform - Intern](https://nuro.ai/careersitem?gh_jid=7351061) | 2026-08-08 | scaffolded via new_application.py |
 | Trillium | [Software Engineer Intern - Summer 2027](https://www.trlm.com/apply/5207089007?gh_jid=5207089007) | 2026-08-08 | scaffolded via new_application.py |
 | Roblox | [[Summer 2027] Software Engineer Intern](https://careers.roblox.com/jobs/8072713?gh_jid=8072713) | 2026-08-07 | scaffolded via new_application.py |
 | General Dynamics Information Technology | [Software Developer Intern](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225456-1) | 2026-08-07 | scaffolded via new_application.py |
@@ -75,14 +77,20 @@
 | Synchrony Financial | [BLP Intern - Data Analytics (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Data-Analytics_2601688) | 2026-08-04 | same intake as Tech sibling; analytics not SWE; verifier confirmed plausible 2027 cycle |
 | Synchrony Financial | [BLP Intern - Technology (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Technology_2601695-1) | 2026-08-04 | BEST BET: bachelor's-pursuing, no class-year bar, 10-wk Jun-Aug; likely 2027 intake (screened 8/4) |
 
-## withdrawn (41)
+## withdrawn (47)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
 | Ameren | [Digital Co-op](https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Digital-Co-op_033841-1) | 2026-08-08 | scaffolded via new_application.py; auto-screen: term — only Jan-Aug 2027 and May-Dec 2027 eight-month co-ops offered, neither is Summer 2027 |
+| Faire | [Data Science Intern](https://boards.greenhouse.io/faire/jobs/8376377002?gh_jid=8376377002) | 2026-08-08 | scaffolded via new_application.py; auto-screen: Masters/PhD only, Fall 2026 term, publications expected |
 | Atoms | [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/cssmerge/jobs/8687896002) | 2026-08-08 | scaffolded via new_application.py; auto-screen: class-year — 'Graduating in Fall-Winter 2027 or Spring/Summer 2028'; Kern graduates May 2029 |
+| The Nuclear Company | [Data Science Intern](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383244008) | 2026-08-08 | scaffolded via new_application.py; auto-screen: graduation window Dec 2027-June 2028 excludes May 2029 |
 | Belvedere Trading | [Software Engineer Intern - Summer 2027](https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0/apply) | 2026-08-08 | scaffolded via new_application.py; auto-screen: class-year — 'Graduation date of December 2027/Spring 2028'; Kern graduates May 2029 |
 | Belvedere Trading | [Quantitative Trading Intern - Summer 2027](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab/apply) | 2026-08-08 | scaffolded via new_application.py; auto-screen: class-year — 'Graduation date of December 2027/Spring 2028'; Kern graduates May 2029 |
+| Royal Bank of Canada | [Global Markets Quantitative Trading Summer Analyst - Capital Markets](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Global-Markets-Quantitative-Trading-Summer-Analyst_R-0000183468) | 2026-08-08 | scaffolded via new_application.py; auto-screen: graduation Winter 2026 or Spring 2027 required |
+| Royal Bank of Canada | [Global Markets Sales & Trading Summer Analyst - Capital Markets](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Global-Markets-Sales---Trading-Summer-Analyst_R-0000147305-2) | 2026-08-08 | scaffolded via new_application.py; auto-screen: must be entering final year; sales and trading function |
+| Royal Bank of Canada | [Capital Markets Quant Summer Associate - Quantitative Technology Services](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Quants-Summer-Associate--Quantitative-Technology-Services_R-0000183482) | 2026-08-08 | scaffolded via new_application.py; auto-screen: Masters or PhD only, graduating Dec 2026 or May 2027 |
+| Samsara | [Software Engineering Internship - San Francisco](https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091) | 2026-08-08 | scaffolded via new_application.py; auto-screen: graduation window Spring 2028-Winter 2029 excludes May 2029 |
 | Ameren | [DERMS Co-op/Intern](https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/DERMS-Co-Op-Intern_033809-1) | 2026-08-07 | scaffolded via new_application.py; auto-screen: only term offered is May-December 2027 Fall Co-Op, not a Summer 2027 internship |
 | Figma | [Manager, Figma for Education (International)](https://boards.greenhouse.io/figma/jobs/6004606004?gh_jid=6004606004) | 2026-08-07 | scaffolded via new_application.py; auto-screen: function - full-time manager role, 5+ years GTM/education-sales experience, not an internship |
 | ciena | [Software Developer in Test Automation Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-in-Test-Automation-Intern_R031467) | 2026-08-07 | scaffolded via new_application.py; auto-screen: work terms all start September 2026 (4/8/12/16 months), cannot be Summer 2027 |

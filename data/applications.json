@@ -42,6 +42,20 @@
     "fit 5/5 · backend SWE / full-stack (defense software, Lattice OS)"
    ]
   },
+  "url:https://boards.greenhouse.io/faire/jobs/8376377002?gh_jid=8376377002": {
+   "url": "https://boards.greenhouse.io/faire/jobs/8376377002?gh_jid=8376377002",
+   "company": "Faire",
+   "title": "Data Science Intern",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-08",
+    "withdrawn": "2026-08-08"
+   },
+   "notes": [
+    "scaffolded via new_application.py",
+    "auto-screen: Masters/PhD only, Fall 2026 term, publications expected"
+   ]
+  },
   "url:https://boards.greenhouse.io/figma/jobs/6004606004?gh_jid=6004606004": {
    "url": "https://boards.greenhouse.io/figma/jobs/6004606004?gh_jid=6004606004",
    "company": "Figma",
@@ -512,6 +526,32 @@
     "scaffolded via new_application.py"
    ]
   },
+  "url:https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008": {
+   "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008",
+   "company": "The Nuclear Company",
+   "title": "Software Engineering Intern - Product - Platform",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-08"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
+  "url:https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383244008": {
+   "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383244008",
+   "company": "The Nuclear Company",
+   "title": "Data Science Intern",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-08",
+    "withdrawn": "2026-08-08"
+   },
+   "notes": [
+    "scaffolded via new_application.py",
+    "auto-screen: graduation window Dec 2027-June 2028 excludes May 2029"
+   ]
+  },
   "url:https://job-boards.greenhouse.io/virtu/jobs/8142539002": {
    "url": "https://job-boards.greenhouse.io/virtu/jobs/8142539002",
    "company": "Virtu Financial",
@@ -907,6 +947,18 @@
     "fit 4/5 · backend SWE / analytics tooling (healthcare technology)"
    ]
   },
+  "url:https://nuro.ai/careersitem?gh_jid=7351061": {
+   "url": "https://nuro.ai/careersitem?gh_jid=7351061",
+   "company": "Nuro",
+   "title": "Software Engineer, AI Platform - Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-08"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
   "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/office---usa---ca---headquarters/intern---grc-engineer_jr-013678": {
    "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---GRC-Engineer_JR-013678",
    "company": "Palo Alto Networks",
@@ -941,6 +993,48 @@
    },
    "notes": [
     "MS preferred but undergrads considered; likely citizenship preference in practice"
+   ]
+  },
+  "url:https://rbc.wd3.myworkdayjobs.com/externalprivatepostingstudents/job/new-york-new-york-united-states-of-america/xmlname-2027-capital-markets--global-markets-quantitative-trading-summer-analyst_r-0000183468": {
+   "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Global-Markets-Quantitative-Trading-Summer-Analyst_R-0000183468",
+   "company": "Royal Bank of Canada",
+   "title": "Global Markets Quantitative Trading Summer Analyst - Capital Markets",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-08",
+    "withdrawn": "2026-08-08"
+   },
+   "notes": [
+    "scaffolded via new_application.py",
+    "auto-screen: graduation Winter 2026 or Spring 2027 required"
+   ]
+  },
+  "url:https://rbc.wd3.myworkdayjobs.com/externalprivatepostingstudents/job/new-york-new-york-united-states-of-america/xmlname-2027-capital-markets--global-markets-sales---trading-summer-analyst_r-0000147305-2": {
+   "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Global-Markets-Sales---Trading-Summer-Analyst_R-0000147305-2",
+   "company": "Royal Bank of Canada",
+   "title": "Global Markets Sales & Trading Summer Analyst - Capital Markets",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-08",
+    "withdrawn": "2026-08-08"
+   },
+   "notes": [
+    "scaffolded via new_application.py",
+    "auto-screen: must be entering final year; sales and trading function"
+   ]
+  },
+  "url:https://rbc.wd3.myworkdayjobs.com/externalprivatepostingstudents/job/new-york-new-york-united-states-of-america/xmlname-2027-capital-markets--quants-summer-associate--quantitative-technology-services_r-0000183482": {
+   "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Quants-Summer-Associate--Quantitative-Technology-Services_R-0000183482",
+   "company": "Royal Bank of Canada",
+   "title": "Capital Markets Quant Summer Associate - Quantitative Technology Services",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-08",
+    "withdrawn": "2026-08-08"
+   },
+   "notes": [
+    "scaffolded via new_application.py",
+    "auto-screen: Masters or PhD only, graduating Dec 2026 or May 2027"
    ]
   },
   "url:https://synchronyfinancial.wd5.myworkdayjobs.com/university/job/stamford-hub/blp-intern---data-analytics_2601688": {
@@ -1299,6 +1393,20 @@
    },
    "notes": [
     "scaffolded via new_application.py"
+   ]
+  },
+  "url:https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091": {
+   "url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091",
+   "company": "Samsara",
+   "title": "Software Engineering Internship - San Francisco",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-08",
+    "withdrawn": "2026-08-08"
+   },
+   "notes": [
+    "scaffolded via new_application.py",
+    "auto-screen: graduation window Spring 2028-Winter 2029 excludes May 2029"
    ]
   },
   "url:https://www.tower-research.com/open-positions?gh_jid=8024128": {
