@@ -74,9 +74,10 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8621757002",
    "company": "SpaceX",
    "title": "Software Engineering Intern/Co-op",
-   "status": "interested",
+   "status": "applied",
    "history": {
-    "interested": "2026-08-06"
+    "interested": "2026-08-06",
+    "applied": "2026-08-08"
    },
    "notes": [
     "fit 5/5 · backend/general SWE (embedded, satellite, vehicle software)"
@@ -143,6 +144,20 @@
    },
    "notes": [
     "fit 2/5 · AI/IT business analyst (requirements + research, AI-adjacent)"
+   ]
+  },
+  "url:https://comcast.wd5.myworkdayjobs.com/comcast_careers/job/pa---philadelphia-3601-s-broad-st/game-presentation-intern_r442053": {
+   "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-3601-S-Broad-St/Game-Presentation-Intern_R442053",
+   "company": "comcast",
+   "title": "Game Presentation Intern",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-09",
+    "withdrawn": "2026-08-09"
+   },
+   "notes": [
+    "scaffolded via new_application.py",
+    "auto-screen: sports-entertainment/game-presentation function (broadcasting/sports mgmt degrees), not software/data/ML/security"
    ]
   },
   "url:https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002": {
@@ -363,9 +378,10 @@
    "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003",
    "company": "Axon",
    "title": "Software Engineer Intern",
-   "status": "interested",
+   "status": "withdrawn",
    "history": {
-    "interested": "2026-08-08"
+    "interested": "2026-08-08",
+    "withdrawn": "2026-08-09"
    },
    "notes": [
     "scaffolded via new_application.py"
@@ -457,9 +473,10 @@
    "url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003",
    "company": "HPR (Hyannis Port Research)",
    "title": "Software Engineer Intern",
-   "status": "interested",
+   "status": "withdrawn",
    "history": {
-    "interested": "2026-08-06"
+    "interested": "2026-08-06",
+    "withdrawn": "2026-08-08"
    },
    "notes": [
     "fit 3/5 · systems SWE — low-latency C/Linux electronic trading infrastructure"
@@ -511,9 +528,10 @@
    "url": "https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8606238002",
    "company": "Marshall Wace",
    "title": "Technology Intern",
-   "status": "interested",
+   "status": "withdrawn",
    "history": {
-    "interested": "2026-08-06"
+    "interested": "2026-08-06",
+    "withdrawn": "2026-08-08"
    },
    "notes": [
     "fit 5/5 · backend / full-stack SWE (hedge fund technology platform, trading systems, AI automation)"
@@ -523,9 +541,10 @@
    "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685",
    "company": "PDT Partners",
    "title": "Software Engineer Intern",
-   "status": "interested",
+   "status": "withdrawn",
    "history": {
-    "interested": "2026-08-06"
+    "interested": "2026-08-06",
+    "withdrawn": "2026-08-08"
    },
    "notes": [
     "fit 5/5 · backend SWE / data + trading infrastructure"
@@ -535,9 +554,10 @@
    "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8083292",
    "company": "PDT Partners",
    "title": "Summer 2027 Systems Engineering Intern",
-   "status": "interested",
+   "status": "withdrawn",
    "history": {
-    "interested": "2026-08-07"
+    "interested": "2026-08-07",
+    "withdrawn": "2026-08-08"
    },
    "notes": [
     "scaffolded via new_application.py"
@@ -573,9 +593,10 @@
    "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383231008",
    "company": "The Nuclear Company",
    "title": "AI/ML Engineer Intern",
-   "status": "interested",
+   "status": "applied",
    "history": {
-    "interested": "2026-08-08"
+    "interested": "2026-08-08",
+    "applied": "2026-08-08"
    },
    "notes": [
     "scaffolded via new_application.py"
@@ -585,9 +606,10 @@
    "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008",
    "company": "The Nuclear Company",
    "title": "Software Engineering Intern - Product - Platform",
-   "status": "interested",
+   "status": "applied",
    "history": {
-    "interested": "2026-08-08"
+    "interested": "2026-08-08",
+    "applied": "2026-08-08"
    },
    "notes": [
     "scaffolded via new_application.py"
@@ -611,9 +633,10 @@
    "url": "https://job-boards.greenhouse.io/virtu/jobs/8142539002",
    "company": "Virtu Financial",
    "title": "2027 Internship - Quantitative Researcher (Undergrad)",
-   "status": "interested",
+   "status": "applied",
    "history": {
-    "interested": "2026-08-06"
+    "interested": "2026-08-06",
+    "applied": "2026-08-09"
    },
    "notes": [
     "fit 3/5 · quantitative research / data science"
@@ -623,9 +646,10 @@
    "url": "https://job-boards.greenhouse.io/virtu/jobs/8624408002",
    "company": "Virtu Financial",
    "title": "2027 Internship - Quantitative Trading",
-   "status": "interested",
+   "status": "applied",
    "history": {
-    "interested": "2026-08-06"
+    "interested": "2026-08-06",
+    "applied": "2026-08-09"
    },
    "notes": [
     "fit 2/5 · quantitative trading (technical/algorithmic)"
@@ -648,9 +672,10 @@
    "url": "https://job-boards.greenhouse.io/virtu/jobs/8657500002",
    "company": "Virtu Financial",
    "title": "2027 Internship - Frontend Engineer (UI)",
-   "status": "interested",
+   "status": "applied",
    "history": {
-    "interested": "2026-08-06"
+    "interested": "2026-08-06",
+    "applied": "2026-08-08"
    },
    "notes": [
     "fit 3/5 · frontend SWE (UI / trading tools)"
@@ -712,9 +737,10 @@
    "url": "https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280/application?embed=true",
    "company": "Melius",
    "title": "Software Engineer Intern",
-   "status": "interested",
+   "status": "withdrawn",
    "history": {
-    "interested": "2026-08-06"
+    "interested": "2026-08-06",
+    "withdrawn": "2026-08-08"
    },
    "notes": [
     "fit 4/5 · full-stack SWE / agent + LLM product engineering (early-stage startup)"
@@ -724,9 +750,10 @@
    "url": "https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a",
    "company": "modal",
    "title": "ML Research Intern",
-   "status": "interested",
+   "status": "withdrawn",
    "history": {
-    "interested": "2026-08-08"
+    "interested": "2026-08-08",
+    "withdrawn": "2026-08-08"
    },
    "notes": [
     "scaffolded via new_application.py"
@@ -816,9 +843,10 @@
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000132662239",
    "company": "Bosch Group",
    "title": "Training Technology Digital Solutions Intern",
-   "status": "interested",
+   "status": "withdrawn",
    "history": {
-    "interested": "2026-08-06"
+    "interested": "2026-08-06",
+    "withdrawn": "2026-08-09"
    },
    "notes": [
     "fit 2/5 · training/L&D operations + LMS administration (non-engineering)"
@@ -828,9 +856,10 @@
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000134840254",
    "company": "Bosch Group",
    "title": "A.I. Integration Intern",
-   "status": "interested",
+   "status": "withdrawn",
    "history": {
-    "interested": "2026-08-06"
+    "interested": "2026-08-06",
+    "withdrawn": "2026-08-09"
    },
    "notes": [
     "fit 3/5 · applied AI/ML integration (manufacturing)"
@@ -1026,6 +1055,20 @@
     "scaffolded via new_application.py"
    ]
   },
+  "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/china-beijing/solution-architect-manager---intern-program_jr2021277": {
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/Solution-Architect-Manager---Intern-Program_JR2021277",
+   "company": "nvidia",
+   "title": "Solution Architect Manager - Intern Program",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-09",
+    "withdrawn": "2026-08-09"
+   },
+   "notes": [
+    "scaffolded via new_application.py",
+    "auto-screen: non-US (Beijing/Shanghai) and not an internship (4+ yrs experience, intern-program manager role)"
+   ]
+  },
   "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/office---usa---ca---headquarters/intern---grc-engineer_jr-013678": {
    "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---GRC-Engineer_JR-013678",
    "company": "Palo Alto Networks",
@@ -1126,6 +1169,62 @@
    },
    "notes": [
     "BEST BET: bachelor's-pursuing, no class-year bar, 10-wk Jun-Aug; likely 2027 intake (screened 8/4)"
+   ]
+  },
+  "url:https://target.wd5.myworkdayjobs.com/targetcareers/job/2310-metropolitan-pkwy-sterling-heights-mi-48310-4209/store-executive-intern--store-leadership-intern----detroit--mi--starting-summer-2027-_r0000448495": {
+   "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/2310-Metropolitan-PKWY-Sterling-Heights-MI-48310-4209/Store-Executive-Intern--Store-Leadership-Intern----Detroit--MI--Starting-Summer-2027-_R0000448495",
+   "company": "target",
+   "title": "Store Executive Intern (Store Leadership Intern) - Detroit, MI (Starting Summer 2027)",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-09",
+    "withdrawn": "2026-08-09"
+   },
+   "notes": [
+    "scaffolded via new_application.py",
+    "auto-screen: retail store-management function, not software/data/ML/security"
+   ]
+  },
+  "url:https://target.wd5.myworkdayjobs.com/targetcareers/job/2800-dublin-blvd-dublinca-94568-4589/store-executive-intern--store-leadership-intern----bay-area--ca--starting-summer-2027-_r0000448417": {
+   "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/2800-Dublin-Blvd-DublinCA-94568-4589/Store-Executive-Intern--Store-Leadership-Intern----Bay-Area--CA--Starting-Summer-2027-_R0000448417",
+   "company": "target",
+   "title": "Store Executive Intern (Store Leadership Intern) – Bay Area, CA (Starting Summer 2027)",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-09",
+    "withdrawn": "2026-08-09"
+   },
+   "notes": [
+    "scaffolded via new_application.py",
+    "auto-screen: retail store-management function, not software/data/ML/security"
+   ]
+  },
+  "url:https://target.wd5.myworkdayjobs.com/targetcareers/job/6100-paseo-del-norte-ne-albuquerquenm-87113-1512/store-executive-intern--store-leadership-intern----albuquerque--nm--starting-summer-2027-_r0000448415": {
+   "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/6100-Paseo-Del-Norte-NE-AlbuquerqueNM-87113-1512/Store-Executive-Intern--Store-Leadership-Intern----Albuquerque--NM--Starting-Summer-2027-_R0000448415",
+   "company": "target",
+   "title": "Store Executive Intern (Store Leadership Intern) – Albuquerque, NM (Starting Summer 2027)",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-09",
+    "withdrawn": "2026-08-09"
+   },
+   "notes": [
+    "scaffolded via new_application.py",
+    "auto-screen: retail store-management function, not software/data/ML/security"
+   ]
+  },
+  "url:https://target.wd5.myworkdayjobs.com/targetcareers/job/720-sw-19th-st-moore-ok-73160-2941/store-executive-intern--store-leadership-intern----oklahoma-city--ok--starting-summer-2027-_r0000448499": {
+   "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/720-SW-19TH-ST-Moore-OK-73160-2941/Store-Executive-Intern--Store-Leadership-Intern----Oklahoma-City--OK--Starting-Summer-2027-_R0000448499",
+   "company": "target",
+   "title": "Store Executive Intern (Store Leadership Intern) - Oklahoma City, OK (Starting Summer 2027)",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-09",
+    "withdrawn": "2026-08-09"
+   },
+   "notes": [
+    "scaffolded via new_application.py",
+    "auto-screen: retail store-management function, not software/data/ML/security"
    ]
   },
   "url:https://uline.wd1.myworkdayjobs.com/en-us/uline_careers/job/pleasant-prairie-wi/business-intelligence-developer-internship---summer-2027_r265685": {
@@ -1304,9 +1403,10 @@
    "url": "https://www.jumptrading.com/hr/job?gh_jid=7848371",
    "company": "Jump Trading",
    "title": "Campus Quantitative Trader (Intern)",
-   "status": "interested",
+   "status": "withdrawn",
    "history": {
-    "interested": "2026-08-07"
+    "interested": "2026-08-07",
+    "withdrawn": "2026-08-09"
    },
    "notes": [
     "scaffolded via new_application.py"
@@ -1316,9 +1416,10 @@
    "url": "https://www.jumptrading.com/hr/job?gh_jid=7982648",
    "company": "Jump Trading",
    "title": "Campus Quantitative Researcher, UG/MS (Intern)",
-   "status": "interested",
+   "status": "withdrawn",
    "history": {
-    "interested": "2026-08-07"
+    "interested": "2026-08-07",
+    "withdrawn": "2026-08-09"
    },
    "notes": [
     "scaffolded via new_application.py"
@@ -1328,9 +1429,10 @@
    "url": "https://www.jumptrading.com/hr/job?gh_jid=8002989",
    "company": "Jump Trading",
    "title": "Campus Software Engineer (Intern)",
-   "status": "interested",
+   "status": "withdrawn",
    "history": {
-    "interested": "2026-08-07"
+    "interested": "2026-08-07",
+    "withdrawn": "2026-08-09"
    },
    "notes": [
     "scaffolded via new_application.py"
@@ -1340,9 +1442,10 @@
    "url": "https://www.jumptrading.com/hr/job?gh_jid=8002998",
    "company": "Jump Trading",
    "title": "Campus Data Engineer (Intern)",
-   "status": "interested",
+   "status": "withdrawn",
    "history": {
-    "interested": "2026-08-07"
+    "interested": "2026-08-07",
+    "withdrawn": "2026-08-09"
    },
    "notes": [
     "scaffolded via new_application.py"
@@ -1378,9 +1481,10 @@
    "url": "https://www.jumptrading.com/hr/job?gh_jid=8007788",
    "company": "Jump Trading",
    "title": "Campus Systems Engineer (Intern)",
-   "status": "interested",
+   "status": "withdrawn",
    "history": {
-    "interested": "2026-08-07"
+    "interested": "2026-08-07",
+    "withdrawn": "2026-08-09"
    },
    "notes": [
     "scaffolded via new_application.py"
@@ -1390,9 +1494,10 @@
    "url": "https://www.jumptrading.com/hr/job?gh_jid=8052281",
    "company": "Jump Trading",
    "title": "Campus AI Research Engineer (Intern)",
-   "status": "interested",
+   "status": "withdrawn",
    "history": {
-    "interested": "2026-08-07"
+    "interested": "2026-08-07",
+    "withdrawn": "2026-08-09"
    },
    "notes": [
     "scaffolded via new_application.py"
@@ -1402,9 +1507,10 @@
    "url": "https://www.jumptrading.com/hr/job?gh_jid=8052338",
    "company": "Jump Trading",
    "title": "Campus AI Research Engineer - Deep Learning (Intern)",
-   "status": "interested",
+   "status": "withdrawn",
    "history": {
-    "interested": "2026-08-07"
+    "interested": "2026-08-07",
+    "withdrawn": "2026-08-09"
    },
    "notes": [
     "scaffolded via new_application.py"
@@ -1414,9 +1520,10 @@
    "url": "https://www.jumptrading.com/hr/job?gh_jid=8052351",
    "company": "Jump Trading",
    "title": "Campus AI Research Engineer – Research Automation (Intern)",
-   "status": "interested",
+   "status": "withdrawn",
    "history": {
-    "interested": "2026-08-07"
+    "interested": "2026-08-07",
+    "withdrawn": "2026-08-09"
    },
    "notes": [
     "scaffolded via new_application.py"
