@@ -1,6 +1,6 @@
 # Applications
 
-**123 tracked** — applied: 18 · interested: 31 · withdrawn: 74
+**125 tracked** — applied: 18 · interested: 31 · withdrawn: 76
 
 ## applied (18)
 
@@ -61,11 +61,13 @@
 | Synchrony Financial | [BLP Intern - Data Analytics (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Data-Analytics_2601688) | 2026-08-04 | same intake as Tech sibling; analytics not SWE; verifier confirmed plausible 2027 cycle |
 | Synchrony Financial | [BLP Intern - Technology (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Technology_2601695-1) | 2026-08-04 | BEST BET: bachelor's-pursuing, no class-year bar, 10-wk Jun-Aug; likely 2027 intake (screened 8/4) |
 
-## withdrawn (74)
+## withdrawn (76)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
 | comcast | [Game Presentation Intern](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-3601-S-Broad-St/Game-Presentation-Intern_R442053) | 2026-08-09 | scaffolded via new_application.py; auto-screen: sports-entertainment/game-presentation function (broadcasting/sports mgmt degrees), not software/data/ML/security |
+| HNTB | [Strategic Technology Intern - SED Division](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Tallahassee-FL/Strategic-Technology-Intern---Summer-2027--SED-Division--For-Current-Former-HNTB-Interns-Only-_R-31092-1) | 2026-08-09 | auto-screen: JD says 'For current/former HNTB Interns ONLY' - explicit eligibility bar |
+| HNTB | [Strategic Technology Intern - SED Division](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Tallahassee-FL/Strategic-Technology-Intern---Summer-2027--SED-Division--For-Current-Former-HNTB-Interns-Only-_R-31092) | 2026-08-09 | auto-screen: JD says 'For current/former HNTB Interns ONLY' - explicit eligibility bar |
 | Axon | [Software Engineer Intern](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003) | 2026-08-09 | scaffolded via new_application.py |
 | Bosch Group | [Training Technology Digital Solutions Intern](https://jobs.smartrecruiters.com/BoschGroup/744000132662239) | 2026-08-09 | fit 2/5 · training/L&D operations + LMS administration (non-engineering) |
 | Bosch Group | [A.I. Integration Intern](https://jobs.smartrecruiters.com/BoschGroup/744000134840254) | 2026-08-09 | fit 3/5 · applied AI/ML integration (manufacturing) |
