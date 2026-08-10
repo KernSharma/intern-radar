@@ -391,14 +391,16 @@
   "source": "workday"
  },
  "url:https://capitalone.wd12.myworkdayjobs.com/capital_one/job/mclean-va/technology-internship-program---summer-2027_r244387-1": {
-  "company": "capitalone",
-  "title": "Technology Internship Program - Summer 2027",
+  "company": "Capital One",
+  "title": "Technology Intern",
   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Technology-Internship-Program---Summer-2027_R244387-1",
   "locations": [
-   "3 Locations"
+   "Plano, TX",
+   "McLean, VA",
+   "Richmond, VA"
   ],
-  "posted_at": "",
-  "source": "workday"
+  "posted_at": "2026-08-03",
+  "source": "simplify"
  },
  "url:https://capitalone.wd12.myworkdayjobs.com/capital_one/job/toronto-on/fall-intern--financial-analyst---january-2027--4-month-_r247476": {
   "company": "capitalone",
@@ -2551,6 +2553,16 @@
    "London, United Kingdom"
   ],
   "posted_at": "2021-07-01",
+  "source": "lever"
+ },
+ "url:https://jobs.lever.co/palantir/2ad0ab10-34c3-410d-883b-8052864a95cd": {
+  "company": "palantir",
+  "title": "Forward Deployed Software Engineer, Internship - Commercial",
+  "url": "https://jobs.lever.co/palantir/2ad0ab10-34c3-410d-883b-8052864a95cd",
+  "locations": [
+   "Seoul, South Korea"
+  ],
+  "posted_at": "2026-08-10",
   "source": "lever"
  },
  "url:https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e": {
