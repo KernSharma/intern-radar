@@ -1,6 +1,6 @@
 # Applications
 
-**134 tracked** — applied: 18 · interested: 35 · withdrawn: 81
+**140 tracked** — applied: 18 · interested: 37 · withdrawn: 85
 
 ## applied (18)
 
@@ -25,14 +25,16 @@
 | Circleback | [Software Engineer Intern](https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f/application?embed=true) | 2026-08-06 | fit 4/5 · full-stack SWE (AI meeting-notes product) |
 | CTGT | [Software Engineer Intern](https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application) | 2026-08-06 | fit 5/5 · backend / full-stack SWE (LLM governance platform) |
 
-## interested (35)
+## interested (37)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
+| Sargent & Lundy | [AI & Automation Intern - Enterprise Data & Analytics](https://careers-sargentlundy.icims.com/jobs/25986/job?mobile=true&needsRedirect=false) | 2026-08-11 | scaffolded via new_application.py |
 | Montenson | [Artificial Intelligence Intern](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23339) | 2026-08-11 | scaffolded via new_application.py |
 | Montenson | [Data Analytics Intern - Insights](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23342) | 2026-08-11 | scaffolded via new_application.py |
 | RTX | [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineering-Intern--Summer-2027-_01865158) | 2026-08-11 | scaffolded via new_application.py |
 | ING | [Technology Intern - Innovation](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/New-York/Summer-2027-Internship---Tech--Innovation-_REQ-10119619) | 2026-08-11 | scaffolded via new_application.py |
+| LPL Financial Holdings | [Software Engineer Intern](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Software-Engineer_R-052921) | 2026-08-11 | scaffolded via new_application.py |
 | Nuro | [Software Engineer, AI Platform - Intern](https://nuro.ai/careersitem?gh_jid=7351061) | 2026-08-08 | scaffolded via new_application.py |
 | Trillium | [Software Engineer Intern - Summer 2027](https://www.trlm.com/apply/5207089007?gh_jid=5207089007) | 2026-08-08 | scaffolded via new_application.py |
 | Roblox | [[Summer 2027] Software Engineer Intern](https://careers.roblox.com/jobs/8072713?gh_jid=8072713) | 2026-08-07 | scaffolded via new_application.py |
@@ -65,7 +67,7 @@
 | Synchrony Financial | [BLP Intern - Data Analytics (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Data-Analytics_2601688) | 2026-08-04 | same intake as Tech sibling; analytics not SWE; verifier confirmed plausible 2027 cycle |
 | Synchrony Financial | [BLP Intern - Technology (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Technology_2601695-1) | 2026-08-04 | BEST BET: bachelor's-pursuing, no class-year bar, 10-wk Jun-Aug; likely 2027 intake (screened 8/4) |
 
-## withdrawn (81)
+## withdrawn (85)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
@@ -73,6 +75,10 @@
 | Montenson | [Investment Analyst Intern](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23362) | 2026-08-11 | scaffolded via new_application.py; auto-screen: real-estate finance function, not software |
 | Montenson | [Sustainability Engineer Intern](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23367) | 2026-08-11 | scaffolded via new_application.py; auto-screen: sustainability/environmental function, not software |
 | Montenson | [System Administrator Intern](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23368) | 2026-08-11 | scaffolded via new_application.py; auto-screen: Salesforce CRM administration, not software engineering |
+| RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineer-Intern--Summer-2027-_01864811-1) | 2026-08-11 | scaffolded via new_application.py; auto-screen: returning RTX interns only + active clearance required day 1 |
+| McKesson | [Technology Intern](https://mckesson.wd3.myworkdayjobs.com/sourcer_on_req/job/USA-OH-Columbus/CMM-Technology-Intern---Summer-2027_JR0151979) | 2026-08-11 | scaffolded via new_application.py; auto-screen: must graduate Spring 2028 or sooner; Kern is May 2029 |
+| PEAK6 | [Trading Bootcamp Micro-Internship - Summer 2027](https://peak6group.wd1.myworkdayjobs.com/CapMan/job/Chicago-IL/Trading-Bootcamp-Micro-Internship---Summer-2027_JR105057) | 2026-08-11 | scaffolded via new_application.py; auto-screen: grad window Dec 2027-June 2028 excludes May 2029 |
+| PEAK6 | [Trading Intern](https://peak6group.wd1.myworkdayjobs.com/CapMan/job/Chicago-IL/Trading-Internship-for-Women-_JR105061) | 2026-08-11 | scaffolded via new_application.py; auto-screen: grad window Dec 2027-June 2028 excludes May 2029; women+ program |
 | Truist Bank | [Technology and Operations Intern Conversion - Data](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/XMLNAME-2027-Technology--Data--and-Operations-Internship---Intern-Conversion-_R0117276) | 2026-08-11 | scaffolded via new_application.py; auto-screen: open to 2026 Truist Interns only |
 | comcast | [Game Presentation Intern](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-3601-S-Broad-St/Game-Presentation-Intern_R442053) | 2026-08-09 | scaffolded via new_application.py; auto-screen: sports-entertainment/game-presentation function (broadcasting/sports mgmt degrees), not software/data/ML/security |
 | HNTB | [Strategic Technology Intern - SED Division](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Tallahassee-FL/Strategic-Technology-Intern---Summer-2027--SED-Division--For-Current-Former-HNTB-Interns-Only-_R-31092-1) | 2026-08-09 | auto-screen: JD says 'For current/former HNTB Interns ONLY' - explicit eligibility bar |
