@@ -122,6 +122,18 @@
     "auto-screen: Master's/MBA-only, no undergraduate path; Kern is a B.S. CS student graduating May 2029"
    ]
   },
+  "url:https://careers-kimley-horn.icims.com/jobs/25761/job?mobile=true&needsRedirect=false": {
+   "url": "https://careers-kimley-horn.icims.com/jobs/25761/job?mobile=true&needsRedirect=false",
+   "company": "Kimley-Horn",
+   "title": "Software Developer Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-11"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
   "url:https://careers-sargentlundy.icims.com/jobs/25986/job?mobile=true&needsRedirect=false": {
    "url": "https://careers-sargentlundy.icims.com/jobs/25986/job?mobile=true&needsRedirect=false",
    "company": "Sargent & Lundy",
@@ -585,6 +597,20 @@
     "auto-screen: graduation window December 2027-June 2028 excludes May 2029"
    ]
   },
+  "url:https://job-boards.greenhouse.io/dvtrading/jobs/4719119005": {
+   "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719119005",
+   "company": "DV Trading",
+   "title": "Software Engineer Intern",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-11",
+    "withdrawn": "2026-08-11"
+   },
+   "notes": [
+    "scaffolded via new_application.py",
+    "auto-screen: graduation window Winter 2027-Summer 2028 excludes May 2029"
+   ]
+  },
   "url:https://job-boards.greenhouse.io/emergingtalent/jobs/8051938": {
    "url": "https://job-boards.greenhouse.io/emergingtalent/jobs/8051938",
    "company": "Maven Securities",
@@ -664,6 +690,19 @@
    "notes": [
     "scaffolded via new_application.py",
     "auto-screen: Architecture/Interior Design/Construction Management majors, EMEA retail development, Amsterdam NL, 5-6 month term"
+   ]
+  },
+  "url:https://job-boards.greenhouse.io/lucidmotors/jobs/5197324007": {
+   "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5197324007",
+   "company": "Lucid Motors",
+   "title": "Business Operations Intern",
+   "status": "withdrawn",
+   "history": {
+    "applied": "2026-08-11",
+    "withdrawn": "2026-08-11"
+   },
+   "notes": [
+    "auto-screen: Amsterdam NL (Office of the President of Europe) + business-ops/PMO function"
    ]
   },
   "url:https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051937": {
@@ -1077,6 +1116,19 @@
     "auto-screen: mechanical/electrical engineering major required (Mechatronics/ME/EE), CS not listed; requires prior automotive electrification internship"
    ]
   },
+  "url:https://jobs.smartrecruiters.com/boschgroup/744000142898574": {
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000142898574",
+   "company": "Bosch Group",
+   "title": "Powertrain Controls Software Engineering Intern (6-Months, Full-Time)",
+   "status": "withdrawn",
+   "history": {
+    "applied": "2026-08-11",
+    "withdrawn": "2026-08-11"
+   },
+   "notes": [
+    "auto-screen: 6-month full-time term cannot be Summer 2027"
+   ]
+  },
   "url:https://jobs.smartrecruiters.com/llnl/3743990014460826": {
    "url": "https://jobs.smartrecruiters.com/LLNL/3743990014460826",
    "company": "LLNL",
@@ -1089,6 +1141,19 @@
    "notes": [
     "scaffolded via new_application.py",
     "auto-screen: career Master's-level policy role, not an internship"
+   ]
+  },
+  "url:https://jobs.smartrecruiters.com/llnl/3743990014540256": {
+   "url": "https://jobs.smartrecruiters.com/LLNL/3743990014540256",
+   "company": "LLNL",
+   "title": "CGSR Undergraduate Research Associate - Spring 2027",
+   "status": "withdrawn",
+   "history": {
+    "applied": "2026-08-11",
+    "withdrawn": "2026-08-11"
+   },
+   "notes": [
+    "auto-screen: Spring 2027 term (Jan 11 - May 21, 2027), policy-research function"
    ]
   },
   "url:https://jobs.smartrecruiters.com/westerndigital/744000138727213": {
@@ -1125,6 +1190,18 @@
    },
    "notes": [
     "STRONG FIT; max 2 TikTok apps globally; manual-fetch host"
+   ]
+  },
+  "url:https://lplfinancial.wd1.myworkdayjobs.com/university/job/fort-millcharlotte/summer-intern-2027---data_r-052914": {
+   "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027---Data_R-052914",
+   "company": "LPL Financial Holdings",
+   "title": "Data Engineer Intern - Data",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-11"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
    ]
   },
   "url:https://lplfinancial.wd1.myworkdayjobs.com/university/job/fort-millcharlotte/summer-intern-2027--software-engineer_r-052921": {
@@ -1788,6 +1865,42 @@
    "status": "interested",
    "history": {
     "interested": "2026-08-07"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
+  "url:https://www.quantbot.com/careers/4299458009?gh_jid=4299458009": {
+   "url": "https://www.quantbot.com/careers/4299458009?gh_jid=4299458009",
+   "company": "Quantbot Technologies",
+   "title": "Software Engineer Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-11"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
+  "url:https://www.quantbot.com/careers/4340833009?gh_jid=4340833009": {
+   "url": "https://www.quantbot.com/careers/4340833009?gh_jid=4340833009",
+   "company": "Quantbot Technologies",
+   "title": "Machine Learning Research Engineer Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-11"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
+  "url:https://www.quantbot.com/careers/4341038009?gh_jid=4341038009": {
+   "url": "https://www.quantbot.com/careers/4341038009?gh_jid=4341038009",
+   "company": "Quantbot Technologies",
+   "title": "Quantitative Developer Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-11"
    },
    "notes": [
     "scaffolded via new_application.py"
