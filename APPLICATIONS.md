@@ -1,6 +1,6 @@
 # Applications
 
-**166 tracked** — applied: 18 · interested: 49 · withdrawn: 99
+**167 tracked** — applied: 18 · interested: 50 · withdrawn: 99
 
 ## applied (18)
 
@@ -25,7 +25,7 @@
 | Circleback | [Software Engineer Intern](https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f/application?embed=true) | 2026-08-06 | fit 4/5 · full-stack SWE (AI meeting-notes product) |
 | CTGT | [Software Engineer Intern](https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application) | 2026-08-06 | fit 5/5 · backend / full-stack SWE (LLM governance platform) |
 
-## interested (49)
+## interested (50)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
@@ -36,6 +36,7 @@
 | Royal Bank of Canada | [Quantitative Analyst Associate - Quantitative Technology Services](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Quants-Summer-Associate--Quantitative-Technology-Services_R-0000183827) | 2026-08-12 | scaffolded via new_application.py |
 | Quantbot Technologies | [Quantitative Researcher Intern](https://www.quantbot.com/careers/4299496009?gh_jid=4299496009) | 2026-08-12 | scaffolded via new_application.py |
 | Quantbot Technologies | [Data Trading Analyst Intern](https://www.quantbot.com/careers/4299767009?gh_jid=4299767009) | 2026-08-12 | scaffolded via new_application.py |
+| Sentry | [Software Engineer Intern - Summer 2027](https://jobs.ashbyhq.com/sentry/672e2a76-d8e1-49c1-b227-4a189c4e49a1/application?embed=true) | 2026-08-12 | scaffolded via new_application.py |
 | Kimley-Horn | [Software Developer Intern](https://careers-kimley-horn.icims.com/jobs/25761/job?mobile=true&needsRedirect=false) | 2026-08-11 | scaffolded via new_application.py |
 | Sargent & Lundy | [AI & Automation Intern - Enterprise Data & Analytics](https://careers-sargentlundy.icims.com/jobs/25986/job?mobile=true&needsRedirect=false) | 2026-08-11 | scaffolded via new_application.py |
 | Montenson | [Artificial Intelligence Intern](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23339) | 2026-08-11 | scaffolded via new_application.py |
