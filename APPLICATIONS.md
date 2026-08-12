@@ -1,12 +1,15 @@
 # Applications
 
-**171 tracked** — applied: 20 · interested: 50 · withdrawn: 101
+**174 tracked** — applied: 23 · interested: 49 · withdrawn: 102
 
-## applied (20)
+## applied (23)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
 | Roblox | [[Summer 2027] Software Engineer Intern](https://careers.roblox.com/jobs/8072713?gh_jid=8072713) | 2026-08-12 | scaffolded via new_application.py |
+| Nuro | [Software Engineer, AI Platform - Intern](https://nuro.ai/careersitem?gh_jid=7351061) | 2026-08-12 | scaffolded via new_application.py |
+| Jump Trading | [Campus UI Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8003019) | 2026-08-12 | scaffolded via new_application.py |
+| Quantbot Technologies | [Data Trading Analyst Intern](https://www.quantbot.com/careers/4299767009?gh_jid=4299767009) | 2026-08-12 | scaffolded via new_application.py |
 | Trillium | [Software Engineer Intern - Summer 2027](https://www.trlm.com/apply/5207089007?gh_jid=5207089007) | 2026-08-12 | scaffolded via new_application.py |
 | Virtu Financial | [2027 Internship - Quantitative Researcher (Undergrad)](https://job-boards.greenhouse.io/virtu/jobs/8142539002) | 2026-08-09 | fit 3/5 · quantitative research / data science |
 | Virtu Financial | [2027 Internship - Quantitative Trading](https://job-boards.greenhouse.io/virtu/jobs/8624408002) | 2026-08-09 | fit 2/5 · quantitative trading (technical/algorithmic) |
@@ -27,7 +30,7 @@
 | Circleback | [Software Engineer Intern](https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f/application?embed=true) | 2026-08-06 | fit 4/5 · full-stack SWE (AI meeting-notes product) |
 | CTGT | [Software Engineer Intern](https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application) | 2026-08-06 | fit 5/5 · backend / full-stack SWE (LLM governance platform) |
 
-## interested (50)
+## interested (49)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
@@ -38,10 +41,11 @@
 | RTX | [Software Development Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01865635) | 2026-08-12 | scaffolded via new_application.py |
 | RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Software-Engineering-Intern--2027-_01865474) | 2026-08-12 | scaffolded via new_application.py |
 | Sentry | [Software Engineer Intern - Summer 2027](https://jobs.ashbyhq.com/sentry/672e2a76-d8e1-49c1-b227-4a189c4e49a1/application?embed=true) | 2026-08-12 | scaffolded via new_application.py |
+| Western Digital | [Summer 2027 Intern - Software Engineering](https://jobs.smartrecruiters.com/WesternDigital/744000143171017) | 2026-08-12 | scaffolded via new_application.py |
 | Motorola | [Supply Chain Data Analyst Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-Data-Analyst-Internship-2027_R67489) | 2026-08-12 | scaffolded via new_application.py |
+| Northwestern Mutual | [Quantitative Analyst Intern - Public Investments](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Public-Investments-Quantitative-Analyst-Intern--Summer-2027_JR-45807) | 2026-08-12 | scaffolded via new_application.py |
 | Royal Bank of Canada | [Quantitative Analyst Associate - Quantitative Technology Services](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Quants-Summer-Associate--Quantitative-Technology-Services_R-0000183827) | 2026-08-12 | scaffolded via new_application.py |
 | Quantbot Technologies | [Quantitative Researcher Intern](https://www.quantbot.com/careers/4299496009?gh_jid=4299496009) | 2026-08-12 | scaffolded via new_application.py |
-| Quantbot Technologies | [Data Trading Analyst Intern](https://www.quantbot.com/careers/4299767009?gh_jid=4299767009) | 2026-08-12 | scaffolded via new_application.py |
 | Kimley-Horn | [Software Developer Intern](https://careers-kimley-horn.icims.com/jobs/25761/job?mobile=true&needsRedirect=false) | 2026-08-11 | scaffolded via new_application.py |
 | Sargent & Lundy | [AI & Automation Intern - Enterprise Data & Analytics](https://careers-sargentlundy.icims.com/jobs/25986/job?mobile=true&needsRedirect=false) | 2026-08-11 | scaffolded via new_application.py |
 | Montenson | [Artificial Intelligence Intern](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23339) | 2026-08-11 | scaffolded via new_application.py |
@@ -52,12 +56,10 @@
 | LPL Financial Holdings | [Software Engineer Intern](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Software-Engineer_R-052921) | 2026-08-11 | scaffolded via new_application.py |
 | Quantbot Technologies | [Machine Learning Research Engineer Intern](https://www.quantbot.com/careers/4340833009?gh_jid=4340833009) | 2026-08-11 | scaffolded via new_application.py |
 | Quantbot Technologies | [Quantitative Developer Intern](https://www.quantbot.com/careers/4341038009?gh_jid=4341038009) | 2026-08-11 | scaffolded via new_application.py |
-| Nuro | [Software Engineer, AI Platform - Intern](https://nuro.ai/careersitem?gh_jid=7351061) | 2026-08-08 | scaffolded via new_application.py |
 | General Dynamics Information Technology | [Software Developer Intern](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225456-1) | 2026-08-07 | scaffolded via new_application.py |
 | General Dynamics Information Technology | [Software Developer Intern](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225469-1) | 2026-08-07 | scaffolded via new_application.py |
 | General Dynamics Information Technology | [Artificial Intelligence/Machine Learning Intern](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-AI-Machine-Learning-Internship--DC-Metro-Area_RQ225912) | 2026-08-07 | scaffolded via new_application.py |
 | Northrop Grumman | [Software Engineer Intern - Aeronautics Systems](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395) | 2026-08-07 | scaffolded via new_application.py |
-| Jump Trading | [Campus UI Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8003019) | 2026-08-07 | scaffolded via new_application.py |
 | Optiver | [Quantitative Intern - Summer 2027](https://www.optiver.com/join-us/jobs/8682750002/?gh_jid=8682750002) | 2026-08-07 | scaffolded via new_application.py |
 | Tower Research Capital | [Quantitative Trader Intern - Summer 2027](https://www.tower-research.com/open-positions/?gh_jid=8024128) | 2026-08-07 | scaffolded via new_application.py |
 | The Boeing Company | [Data Analytics Intern](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1) | 2026-08-06 | fit 4/5 · data science / data analytics / ML / software |
@@ -82,10 +84,11 @@
 | Synchrony Financial | [BLP Intern - Data Analytics (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Data-Analytics_2601688) | 2026-08-04 | same intake as Tech sibling; analytics not SWE; verifier confirmed plausible 2027 cycle |
 | Synchrony Financial | [BLP Intern - Technology (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Technology_2601695-1) | 2026-08-04 | BEST BET: bachelor's-pursuing, no class-year bar, 10-wk Jun-Aug; likely 2027 intake (screened 8/4) |
 
-## withdrawn (101)
+## withdrawn (102)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
+| TMEIC Corporation Americas | [Applications Intern - AI and Machine Learning](https://apply.workable.com/tmeic-corporation-americas/j/6FDBF2FD32/apply) | 2026-08-12 | auto-screen: Workable posting title is 'Intern - Applications, AI and Machine Learning (Spring 2027) (ET26075)' — Spring 2027 term cannot be Summer 2027 |
 | Booz Allen | [AI RAN Telecommunications Engineer Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869) | 2026-08-12 | scaffolded via new_application.py; auto-screen: EE-only degree, grad window Spring 2027-Winter 2028 excludes May 2029 |
 | capitalone | [Business Analyst Intern - Summer 2027](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Business-Analyst-Intern---Summer-2027_R244322-1) | 2026-08-12 | scaffolded via new_application.py; auto-screen: degree completion by August 2028 or earlier excludes May 2029 graduation |
 | ciena | [Mechanical Design Co-op (8 Months, September 2026)](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Mechanical-Design-Co-op--8-Months--September-2026-_R031507) | 2026-08-12 | auto-screen: non-US (Ottawa, Canada); 8-month Sept 2026 term; mechanical design |

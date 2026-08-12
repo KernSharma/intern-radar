@@ -29,6 +29,19 @@
     "auto-screen: term — only Jan-Aug 2027 and May-Dec 2027 eight-month co-ops offered, neither is Summer 2027"
    ]
   },
+  "url:https://apply.workable.com/tmeic-corporation-americas/j/6fdbf2fd32/apply": {
+   "url": "https://apply.workable.com/tmeic-corporation-americas/j/6FDBF2FD32/apply",
+   "company": "TMEIC Corporation Americas",
+   "title": "Applications Intern - AI and Machine Learning",
+   "status": "withdrawn",
+   "history": {
+    "applied": "2026-08-12",
+    "withdrawn": "2026-08-12"
+   },
+   "notes": [
+    "auto-screen: Workable posting title is 'Intern - Applications, AI and Machine Learning (Spring 2027) (ET26075)' — Spring 2027 term cannot be Summer 2027"
+   ]
+  },
   "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/mclean-va/ai-ran-telecommunications-engineer-intern_r0246869": {
    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869",
    "company": "Booz Allen",
@@ -1319,6 +1332,18 @@
     "explicit Summer 2027 + sophomore-eligible; hardware off-focus; pipeline req, apply by 10/31/26"
    ]
   },
+  "url:https://jobs.smartrecruiters.com/westerndigital/744000143171017": {
+   "url": "https://jobs.smartrecruiters.com/WesternDigital/744000143171017",
+   "company": "Western Digital",
+   "title": "Summer 2027 Intern - Software Engineering",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-12"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
   "url:https://lifeattiktok.com/search/7669683639101884725": {
    "url": "https://lifeattiktok.com/search/7669683639101884725",
    "company": "TikTok",
@@ -1493,6 +1518,18 @@
     "fit 3/5 · backend/embedded SWE (defense aerospace software)"
    ]
   },
+  "url:https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/milwaukee-wi-corporate/public-investments-quantitative-analyst-intern--summer-2027_jr-45807": {
+   "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Public-Investments-Quantitative-Analyst-Intern--Summer-2027_JR-45807",
+   "company": "Northwestern Mutual",
+   "title": "Quantitative Analyst Intern - Public Investments",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-12"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
   "url:https://ntst.wd1.myworkdayjobs.com/careers/job/overland-park-ks/software-engineer-intern--summer-2027-internship-_r015667": {
    "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667",
    "company": "Netsmart",
@@ -1509,9 +1546,10 @@
    "url": "https://nuro.ai/careersitem?gh_jid=7351061",
    "company": "Nuro",
    "title": "Software Engineer, AI Platform - Intern",
-   "status": "interested",
+   "status": "applied",
    "history": {
-    "interested": "2026-08-08"
+    "interested": "2026-08-08",
+    "applied": "2026-08-12"
    },
    "notes": [
     "scaffolded via new_application.py"
@@ -2012,9 +2050,10 @@
    "url": "https://www.jumptrading.com/hr/job?gh_jid=8003019",
    "company": "Jump Trading",
    "title": "Campus UI Software Engineer (Intern)",
-   "status": "interested",
+   "status": "applied",
    "history": {
-    "interested": "2026-08-07"
+    "interested": "2026-08-07",
+    "applied": "2026-08-12"
    },
    "notes": [
     "scaffolded via new_application.py"
@@ -2142,9 +2181,10 @@
    "url": "https://www.quantbot.com/careers/4299767009?gh_jid=4299767009",
    "company": "Quantbot Technologies",
    "title": "Data Trading Analyst Intern",
-   "status": "interested",
+   "status": "applied",
    "history": {
-    "interested": "2026-08-12"
+    "interested": "2026-08-12",
+    "applied": "2026-08-12"
    },
    "notes": [
     "scaffolded via new_application.py"
