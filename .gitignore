@@ -8,3 +8,5 @@ __pycache__/
 .scratch/
 .repowise/
 .mcp.json
+.claude/
+.vscode/
