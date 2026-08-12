@@ -1,6 +1,6 @@
 # Applications
 
-**167 tracked** — applied: 18 · interested: 50 · withdrawn: 99
+**171 tracked** — applied: 18 · interested: 53 · withdrawn: 100
 
 ## applied (18)
 
@@ -25,18 +25,21 @@
 | Circleback | [Software Engineer Intern](https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f/application?embed=true) | 2026-08-06 | fit 4/5 · full-stack SWE (AI meeting-notes product) |
 | CTGT | [Software Engineer Intern](https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application) | 2026-08-06 | fit 5/5 · backend / full-stack SWE (LLM governance platform) |
 
-## interested (50)
+## interested (53)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
+| capitalone | [Analyst Early Internship Program - Summer 2027](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Analyst-Early-Internship-Program---Summer-2027_R244231) | 2026-08-12 | scaffolded via new_application.py |
 | ConocoPhillips | [Trading Analytics Intern](https://conocophillips.wd1.myworkdayjobs.com/External/job/Houston-TX/Intern--Trading-Analytics-2027_REQ-006429) | 2026-08-12 | scaffolded via new_application.py |
+| General Dynamics Information Technology | [Software Developer Intern](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1) | 2026-08-12 | scaffolded via new_application.py |
+| RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Summer-2027--Software-Intern-OnSite_01865160) | 2026-08-12 | scaffolded via new_application.py |
 | RTX | [Software Development Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01865635) | 2026-08-12 | scaffolded via new_application.py |
 | RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Software-Engineering-Intern--2027-_01865474) | 2026-08-12 | scaffolded via new_application.py |
+| Sentry | [Software Engineer Intern - Summer 2027](https://jobs.ashbyhq.com/sentry/672e2a76-d8e1-49c1-b227-4a189c4e49a1/application?embed=true) | 2026-08-12 | scaffolded via new_application.py |
 | Motorola | [Supply Chain Data Analyst Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-Data-Analyst-Internship-2027_R67489) | 2026-08-12 | scaffolded via new_application.py |
 | Royal Bank of Canada | [Quantitative Analyst Associate - Quantitative Technology Services](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Quants-Summer-Associate--Quantitative-Technology-Services_R-0000183827) | 2026-08-12 | scaffolded via new_application.py |
 | Quantbot Technologies | [Quantitative Researcher Intern](https://www.quantbot.com/careers/4299496009?gh_jid=4299496009) | 2026-08-12 | scaffolded via new_application.py |
 | Quantbot Technologies | [Data Trading Analyst Intern](https://www.quantbot.com/careers/4299767009?gh_jid=4299767009) | 2026-08-12 | scaffolded via new_application.py |
-| Sentry | [Software Engineer Intern - Summer 2027](https://jobs.ashbyhq.com/sentry/672e2a76-d8e1-49c1-b227-4a189c4e49a1/application?embed=true) | 2026-08-12 | scaffolded via new_application.py |
 | Kimley-Horn | [Software Developer Intern](https://careers-kimley-horn.icims.com/jobs/25761/job?mobile=true&needsRedirect=false) | 2026-08-11 | scaffolded via new_application.py |
 | Sargent & Lundy | [AI & Automation Intern - Enterprise Data & Analytics](https://careers-sargentlundy.icims.com/jobs/25986/job?mobile=true&needsRedirect=false) | 2026-08-11 | scaffolded via new_application.py |
 | Montenson | [Artificial Intelligence Intern](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23339) | 2026-08-11 | scaffolded via new_application.py |
@@ -80,11 +83,12 @@
 | Synchrony Financial | [BLP Intern - Data Analytics (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Data-Analytics_2601688) | 2026-08-04 | same intake as Tech sibling; analytics not SWE; verifier confirmed plausible 2027 cycle |
 | Synchrony Financial | [BLP Intern - Technology (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Technology_2601695-1) | 2026-08-04 | BEST BET: bachelor's-pursuing, no class-year bar, 10-wk Jun-Aug; likely 2027 intake (screened 8/4) |
 
-## withdrawn (99)
+## withdrawn (100)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
 | Booz Allen | [AI RAN Telecommunications Engineer Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869) | 2026-08-12 | scaffolded via new_application.py; auto-screen: EE-only degree, grad window Spring 2027-Winter 2028 excludes May 2029 |
+| capitalone | [Business Analyst Intern - Summer 2027](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Business-Analyst-Intern---Summer-2027_R244322-1) | 2026-08-12 | scaffolded via new_application.py; auto-screen: degree completion by August 2028 or earlier excludes May 2029 graduation |
 | ciena | [Mechanical Design Co-op (8 Months, September 2026)](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Mechanical-Design-Co-op--8-Months--September-2026-_R031507) | 2026-08-12 | auto-screen: non-US (Ottawa, Canada); 8-month Sept 2026 term; mechanical design |
 | LLNL | [CGSR Research Associate Graduate - Spring 2027](https://jobs.smartrecruiters.com/LLNL/3743990014540385) | 2026-08-12 | auto-screen: Spring 2027 masters/PhD term (Jan 11-May 21 2027), policy-research fields |
 | mastercard | [Associate Consultant Intern, Performance Analytics, Internship Program 2027 - San Jose, Costa Rica](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/San-Jose-Costa-Rica/Associate-Consultant-Intern--Performance-Analytics--Internship-Program-2027---San-Jose--Costa-Rica_R-287273) | 2026-08-12 | auto-screen: non-US (San Jose, Costa Rica) |
