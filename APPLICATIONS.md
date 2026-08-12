@@ -1,6 +1,6 @@
 # Applications
 
-**149 tracked** — applied: 18 · interested: 42 · withdrawn: 89
+**156 tracked** — applied: 18 · interested: 47 · withdrawn: 91
 
 ## applied (18)
 
@@ -25,10 +25,15 @@
 | Circleback | [Software Engineer Intern](https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f/application?embed=true) | 2026-08-06 | fit 4/5 · full-stack SWE (AI meeting-notes product) |
 | CTGT | [Software Engineer Intern](https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application) | 2026-08-06 | fit 5/5 · backend / full-stack SWE (LLM governance platform) |
 
-## interested (42)
+## interested (47)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
+| RTX | [Software Development Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01865635) | 2026-08-12 | scaffolded via new_application.py |
+| RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Software-Engineering-Intern--2027-_01865474) | 2026-08-12 | scaffolded via new_application.py |
+| Royal Bank of Canada | [Quantitative Analyst Associate - Quantitative Technology Services](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Quants-Summer-Associate--Quantitative-Technology-Services_R-0000183827) | 2026-08-12 | scaffolded via new_application.py |
+| Quantbot Technologies | [Quantitative Researcher Intern](https://www.quantbot.com/careers/4299496009?gh_jid=4299496009) | 2026-08-12 | scaffolded via new_application.py |
+| Quantbot Technologies | [Data Trading Analyst Intern](https://www.quantbot.com/careers/4299767009?gh_jid=4299767009) | 2026-08-12 | scaffolded via new_application.py |
 | Kimley-Horn | [Software Developer Intern](https://careers-kimley-horn.icims.com/jobs/25761/job?mobile=true&needsRedirect=false) | 2026-08-11 | scaffolded via new_application.py |
 | Sargent & Lundy | [AI & Automation Intern - Enterprise Data & Analytics](https://careers-sargentlundy.icims.com/jobs/25986/job?mobile=true&needsRedirect=false) | 2026-08-11 | scaffolded via new_application.py |
 | Montenson | [Artificial Intelligence Intern](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23339) | 2026-08-11 | scaffolded via new_application.py |
@@ -72,10 +77,12 @@
 | Synchrony Financial | [BLP Intern - Data Analytics (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Data-Analytics_2601688) | 2026-08-04 | same intake as Tech sibling; analytics not SWE; verifier confirmed plausible 2027 cycle |
 | Synchrony Financial | [BLP Intern - Technology (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Technology_2601695-1) | 2026-08-04 | BEST BET: bachelor's-pursuing, no class-year bar, 10-wk Jun-Aug; likely 2027 intake (screened 8/4) |
 
-## withdrawn (89)
+## withdrawn (91)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
+| LLNL | [CGSR Research Associate Graduate - Spring 2027](https://jobs.smartrecruiters.com/LLNL/3743990014540385) | 2026-08-12 | auto-screen: Spring 2027 masters/PhD term (Jan 11-May 21 2027), policy-research fields |
+| Regions Bank | [Technology, Operations, Digital and Data Development Program Associate - Operations - Digital](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/XMLNAME-2027-ETP-Analyst--Technology--Operations--Digital--and-Data-Regions-2026-Interns-only_R105132) | 2026-08-12 | auto-screen: 'Regions 2026 Interns only' full-time new-grad program; Kern never interned at Regions |
 | Figma | [Software Engineer Intern (Winter 2027)](https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004) | 2026-08-11 | scaffolded via new_application.py; auto-screen: Winter 2027 term, January 4 2027 start - cannot be Summer 2027 |
 | Montenson | [Investment Analyst Intern](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23362) | 2026-08-11 | scaffolded via new_application.py; auto-screen: real-estate finance function, not software |
 | Montenson | [Sustainability Engineer Intern](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23367) | 2026-08-11 | scaffolded via new_application.py; auto-screen: sustainability/environmental function, not software |
