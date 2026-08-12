@@ -2219,9 +2219,10 @@
    "url": "https://www.quantbot.com/careers/4341038009?gh_jid=4341038009",
    "company": "Quantbot Technologies",
    "title": "Quantitative Developer Intern",
-   "status": "interested",
+   "status": "applied",
    "history": {
-    "interested": "2026-08-11"
+    "interested": "2026-08-11",
+    "applied": "2026-08-12"
    },
    "notes": [
     "scaffolded via new_application.py"
