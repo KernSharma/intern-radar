@@ -190,9 +190,10 @@
    "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
    "company": "Roblox",
    "title": "[Summer 2027] Software Engineer Intern",
-   "status": "interested",
+   "status": "applied",
    "history": {
-    "interested": "2026-08-07"
+    "interested": "2026-08-07",
+    "applied": "2026-08-12"
    },
    "notes": [
     "scaffolded via new_application.py"
@@ -2115,12 +2116,14 @@
    "url": "https://www.quantbot.com/careers/4299458009?gh_jid=4299458009",
    "company": "Quantbot Technologies",
    "title": "Software Engineer Intern",
-   "status": "interested",
+   "status": "withdrawn",
    "history": {
-    "interested": "2026-08-11"
+    "interested": "2026-08-11",
+    "withdrawn": "2026-08-12"
    },
    "notes": [
-    "scaffolded via new_application.py"
+    "scaffolded via new_application.py",
+    "req 4299458009 no longer on Quantbot's Greenhouse board (closed) — verified via boards-api 2026-08-12"
    ]
   },
   "url:https://www.quantbot.com/careers/4299496009?gh_jid=4299496009": {
@@ -2214,9 +2217,10 @@
    "url": "https://www.trlm.com/apply/5207089007?gh_jid=5207089007",
    "company": "Trillium",
    "title": "Software Engineer Intern - Summer 2027",
-   "status": "interested",
+   "status": "applied",
    "history": {
-    "interested": "2026-08-08"
+    "interested": "2026-08-08",
+    "applied": "2026-08-12"
    },
    "notes": [
     "scaffolded via new_application.py"
