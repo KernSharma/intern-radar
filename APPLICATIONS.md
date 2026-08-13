@@ -1,6 +1,6 @@
 # Applications
 
-**174 tracked** — applied: 24 · interested: 48 · withdrawn: 102
+**179 tracked** — applied: 24 · interested: 50 · withdrawn: 105
 
 ## applied (24)
 
@@ -31,10 +31,12 @@
 | Circleback | [Software Engineer Intern](https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f/application?embed=true) | 2026-08-06 | fit 4/5 · full-stack SWE (AI meeting-notes product) |
 | CTGT | [Software Engineer Intern](https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application) | 2026-08-06 | fit 5/5 · backend / full-stack SWE (LLM governance platform) |
 
-## interested (48)
+## interested (50)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
+| GE Vernova | [Engineering Intern](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-2) | 2026-08-13 | scaffolded via new_application.py |
+| Northrop Grumman | [Software Engineer Intern - Aeronautics Systems](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10245255) | 2026-08-13 | scaffolded via new_application.py |
 | capitalone | [Analyst Early Internship Program - Summer 2027](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Analyst-Early-Internship-Program---Summer-2027_R244231) | 2026-08-12 | scaffolded via new_application.py |
 | ConocoPhillips | [Trading Analytics Intern](https://conocophillips.wd1.myworkdayjobs.com/External/job/Houston-TX/Intern--Trading-Analytics-2027_REQ-006429) | 2026-08-12 | scaffolded via new_application.py |
 | General Dynamics Information Technology | [Software Developer Intern](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1) | 2026-08-12 | scaffolded via new_application.py |
@@ -84,10 +86,13 @@
 | Synchrony Financial | [BLP Intern - Data Analytics (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Data-Analytics_2601688) | 2026-08-04 | same intake as Tech sibling; analytics not SWE; verifier confirmed plausible 2027 cycle |
 | Synchrony Financial | [BLP Intern - Technology (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Technology_2601695-1) | 2026-08-04 | BEST BET: bachelor's-pursuing, no class-year bar, 10-wk Jun-Aug; likely 2027 intake (screened 8/4) |
 
-## withdrawn (102)
+## withdrawn (105)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
+| GE Vernova | [Engineering Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-1) | 2026-08-13 | auto-screen: duplicate of R5049957 (tailored as ge-vernova-pcs-ai-intern via vernova_externalsite) — apply once |
+| target | [Store Executive Intern (Store Leadership Intern) – Central Coast, CA (Starting Summer 2027)](https://target.wd5.myworkdayjobs.com/targetcareers/job/11990-LOS-OSOS-VALLEY-RD-San-Luis-ObispoCA-93405-6861/Store-Executive-Intern--Store-Leadership-Intern----Central-Coast--CA--Starting-Summer-2027-_R0000449326) | 2026-08-13 | auto-screen: [function] retail store-management internship (ETL/Assistant Store Manager preview), not software/data |
+| target | [Store Executive Intern (Store Leadership Intern) – Vancouver, WA (Starting Summer 2027)](https://target.wd5.myworkdayjobs.com/targetcareers/job/8801-NE-Hazel-Dell-Ave-VancouverWA-98665-8145/Store-Executive-Intern--Store-Leadership-Intern----Vancouver--WA--Starting-Summer-2027-_R0000449337) | 2026-08-13 | auto-screen: [function] retail store-management internship (ETL/Assistant Store Manager preview), not software/data |
 | TMEIC Corporation Americas | [Applications Intern - AI and Machine Learning](https://apply.workable.com/tmeic-corporation-americas/j/6FDBF2FD32/apply) | 2026-08-12 | auto-screen: Workable posting title is 'Intern - Applications, AI and Machine Learning (Spring 2027) (ET26075)' — Spring 2027 term cannot be Summer 2027 |
 | Booz Allen | [AI RAN Telecommunications Engineer Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869) | 2026-08-12 | scaffolded via new_application.py; auto-screen: EE-only degree, grad window Spring 2027-Winter 2028 excludes May 2029 |
 | capitalone | [Business Analyst Intern - Summer 2027](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Business-Analyst-Intern---Summer-2027_R244322-1) | 2026-08-12 | scaffolded via new_application.py; auto-screen: degree completion by August 2028 or earlier excludes May 2029 graduation |
