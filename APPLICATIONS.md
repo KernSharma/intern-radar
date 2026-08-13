@@ -1,14 +1,35 @@
 # Applications
 
-**213 tracked** — applied: 27 · interested: 73 · withdrawn: 113
+**241 tracked** — applied: 48 · interested: 73 · withdrawn: 120
 
-## applied (27)
+## applied (48)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
+| Deloitte | [AI and Data Engineering Summer Scholar Intern - Government & Public Services](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-AI-and-Data-Engineering/362479) | 2026-08-13 |  |
+| Neuralink | [Embedded Software Engineer Intern, Implant Embedded Systems](https://boards.greenhouse.io/neuralink/jobs/6283663003?gh_jid=6283663003) | 2026-08-13 |  |
+| AQR Capital Management | [Trading Analyst Intern](https://careers.aqr.com/jobs?gh_jid=8077110&gh_jid=8077110) | 2026-08-13 |  |
+| Gulfstream | [Computer Science Intern - Advanced Structures and Materials](https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Advanced-Structures-and-Materials-(ASMI)-College-Associate-Intern-GA-31401/1417869000/?ats=successfactors) | 2026-08-13 |  |
 | IMC | [Quantitative Trader Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4823923101) | 2026-08-13 |  |
 | IMC | [Quantitative Research Intern (BS/MS) - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4907399101) | 2026-08-13 |  |
 | IMC | [Quantitative Research Intern (PhD) - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4907400101) | 2026-08-13 |  |
+| DRW | [Quantitative Research Intern](https://job-boards.greenhouse.io/drweng/jobs/7818540) | 2026-08-13 |  |
+| DRW | [Platform Engineer Intern](https://job-boards.greenhouse.io/drweng/jobs/7997729) | 2026-08-13 |  |
+| applied | [Research Intern - Robotic Hardware, Simulation and Data](https://jobs.ashbyhq.com/applied/5bb0567a-8d07-4cc4-be7c-c06b31361883) | 2026-08-13 |  |
+| applied | [Research Intern - Reinforcement Learning, Robotics](https://jobs.ashbyhq.com/applied/bb953f29-0059-4a40-aa9e-3a8c88733902) | 2026-08-13 |  |
+| Altamira Technologies | [Research and Development Intern](https://jobs.jobvite.com/altamiracorps/job/oHqCAfw3?nl=1&nl=1&fr=false) | 2026-08-13 |  |
+| Altamira Technologies | [Software Development Intern](https://jobs.jobvite.com/altamiracorps/job/oMqCAfw8?nl=1&nl=1&fr=false) | 2026-08-13 |  |
+| palantir | [Forward Deployed Software Engineer, Internship - Commercial](https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6) | 2026-08-13 |  |
+| palantir | [Deployment Strategist, Internship - US Government](https://jobs.lever.co/palantir/a49d4181-a289-435a-b581-7f5af0497c8e) | 2026-08-13 |  |
+| SimonComputing | [Software Development Internship](https://simoncomputing.applicantpro.com/jobs/4115690) | 2026-08-13 |  |
+| Stripe | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8031833) | 2026-08-13 |  |
+| Two Sigma | [Quantitative Researcher Intern](https://twosigma.avature.net/careers/JobDetail/13945) | 2026-08-13 |  |
+| Two Sigma | [AI Research Scientist Intern - 2027 Summer](https://twosigma.avature.net/careers/JobDetail/14096) | 2026-08-13 |  |
+| Citadel | [Sector Data Scientist Intern](https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/) | 2026-08-13 |  |
+| Hudson River Trading | [Algorithm Development Intern - Quant Research](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062) | 2026-08-13 |  |
+| Hudson River Trading | [Software Engineer Intern - C++ or Python](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083) | 2026-08-13 |  |
+| Optiver | [Software Engineer Intern](https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002) | 2026-08-13 |  |
+| Trillium | [Equity Trader Intern](https://www.trlm.com/apply/5076003007?gh_jid=5076003007) | 2026-08-13 |  |
 | Roblox | [[Summer 2027] Software Engineer Intern](https://careers.roblox.com/jobs/8072713?gh_jid=8072713) | 2026-08-12 | scaffolded via new_application.py |
 | Nuro | [Software Engineer, AI Platform - Intern](https://nuro.ai/careersitem?gh_jid=7351061) | 2026-08-12 | scaffolded via new_application.py |
 | Jump Trading | [Campus UI Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8003019) | 2026-08-12 | scaffolded via new_application.py |
@@ -112,19 +133,26 @@
 | Synchrony Financial | [BLP Intern - Data Analytics (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Data-Analytics_2601688) | 2026-08-04 | same intake as Tech sibling; analytics not SWE; verifier confirmed plausible 2027 cycle |
 | Synchrony Financial | [BLP Intern - Technology (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Technology_2601695-1) | 2026-08-04 | BEST BET: bachelor's-pursuing, no class-year bar, 10-wk Jun-Aug; likely 2027 intake (screened 8/4) |
 
-## withdrawn (113)
+## withdrawn (120)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
 | Neuralink | [Digital IC Design Engineer Intern](https://boards.greenhouse.io/neuralink/jobs/7090489003?gh_jid=7090489003) | 2026-08-13 | scaffolded via new_application.py; volume-sprint screen-out: digital IC design (EE) — off profile |
 | Neuralink | [Analog and Mixed-Signal IC Design Engineer Intern](https://boards.greenhouse.io/neuralink/jobs/7565469003?gh_jid=7565469003) | 2026-08-13 | scaffolded via new_application.py; volume-sprint screen-out: analog IC design (EE) — off CS/SWE profile, title-gate noise |
+| Neuralink | [Electrical Engineer Intern, Implant Embedded Systems](https://boards.greenhouse.io/neuralink/jobs/7702527003?gh_jid=7702527003) | 2026-08-13 | wide-sprint screen-out: EE implant hardware — off CS/SWE profile |
 | GE Vernova | [Engineering Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-1) | 2026-08-13 | auto-screen: duplicate of R5049957 (tailored as ge-vernova-pcs-ai-intern via vernova_externalsite) — apply once |
 | DRW | [FPGA Intern](https://job-boards.greenhouse.io/drweng/jobs/8038923) | 2026-08-13 | scaffolded via new_application.py; volume-sprint screen-out: FPGA hardware — off profile |
 | Virtu Financial | [2027 Internship- Hardware Engineer (FPGA)](https://job-boards.greenhouse.io/virtu/jobs/8657286002) | 2026-08-13 | scaffolded via new_application.py; volume-sprint screen-out: hardware engineering — off profile |
 | cohere | [Machine Learning Intern/Co-op (Winter 2027)](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b) | 2026-08-13 | scaffolded via new_application.py; volume-sprint screen-out: Winter co-op, wrong term (target Summer 2027) |
 | etched | [GTM Intern](https://jobs.ashbyhq.com/etched/0321523b-f0c3-44cd-9c46-cf318a1cad9e) | 2026-08-13 | scaffolded via new_application.py; volume-sprint screen-out: go-to-market — off profile |
+| etched | [Talent Intern](https://jobs.ashbyhq.com/etched/639fe410-56a4-44aa-ac93-8ee7c10c7d75) | 2026-08-13 | wide-sprint screen-out: recruiting role — off profile |
+| etched | [Finance Intern](https://jobs.ashbyhq.com/etched/a0a1671e-15d4-474c-8227-97fe16ade553) | 2026-08-13 | wide-sprint screen-out: finance role — off profile |
 | etched | [Core Ops Intern](https://jobs.ashbyhq.com/etched/f32908bd-8abc-495c-ab69-ac893b6c924d) | 2026-08-13 | scaffolded via new_application.py; volume-sprint screen-out: ops — off profile |
 | tri | [Energy & Materials Intern- XRD Advanced Analysis](https://jobs.lever.co/tri/15969a29-b217-482f-8c67-67d091b054c8) | 2026-08-13 | scaffolded via new_application.py; volume-sprint screen-out: materials science — off profile |
+| Bosch Group | [2027 Spring Logistics / Packaging Engineering Co-op / LOM](https://jobs.smartrecruiters.com/BoschGroup/744000141337803) | 2026-08-13 | wide-sprint screen-out: spring logistics co-op — wrong term + off profile |
+| Bosch Group | [Logistics/Supply Chain Intern](https://jobs.smartrecruiters.com/BoschGroup/744000141722235) | 2026-08-13 | wide-sprint screen-out: logistics — off profile |
+| LLNL | [Machine Learning Physics Graduate Student](https://jobs.smartrecruiters.com/LLNL/3743990013424486) | 2026-08-13 | wide-sprint screen-out: graduate-student req — ineligible |
+| Western Digital | [Software Engineering Co-Op - Winter 2027](https://jobs.smartrecruiters.com/WesternDigital/744000138184309) | 2026-08-13 | wide-sprint screen-out: WINTER co-op — wrong term |
 | target | [Store Executive Intern (Store Leadership Intern) – Central Coast, CA (Starting Summer 2027)](https://target.wd5.myworkdayjobs.com/targetcareers/job/11990-LOS-OSOS-VALLEY-RD-San-Luis-ObispoCA-93405-6861/Store-Executive-Intern--Store-Leadership-Intern----Central-Coast--CA--Starting-Summer-2027-_R0000449326) | 2026-08-13 | auto-screen: [function] retail store-management internship (ETL/Assistant Store Manager preview), not software/data |
 | target | [Store Executive Intern (Store Leadership Intern) – Vancouver, WA (Starting Summer 2027)](https://target.wd5.myworkdayjobs.com/targetcareers/job/8801-NE-Hazel-Dell-Ave-VancouverWA-98665-8145/Store-Executive-Intern--Store-Leadership-Intern----Vancouver--WA--Starting-Summer-2027-_R0000449337) | 2026-08-13 | auto-screen: [function] retail store-management internship (ETL/Assistant Store Manager preview), not software/data |
 | TMEIC Corporation Americas | [Applications Intern - AI and Machine Learning](https://apply.workable.com/tmeic-corporation-americas/j/6FDBF2FD32/apply) | 2026-08-12 | auto-screen: Workable posting title is 'Intern - Applications, AI and Machine Learning (Spring 2027) (ET26075)' — Spring 2027 term cannot be Summer 2027 |
