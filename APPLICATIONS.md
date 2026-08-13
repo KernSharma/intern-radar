@@ -1,6 +1,6 @@
 # Applications
 
-**249 tracked** — applied: 48 · interested: 76 · withdrawn: 125
+**256 tracked** — applied: 48 · interested: 76 · withdrawn: 132
 
 ## applied (48)
 
@@ -136,13 +136,15 @@
 | Synchrony Financial | [BLP Intern - Data Analytics (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Data-Analytics_2601688) | 2026-08-04 | same intake as Tech sibling; analytics not SWE; verifier confirmed plausible 2027 cycle |
 | Synchrony Financial | [BLP Intern - Technology (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Technology_2601695-1) | 2026-08-04 | BEST BET: bachelor's-pursuing, no class-year bar, 10-wk Jun-Aug; likely 2027 intake (screened 8/4) |
 
-## withdrawn (125)
+## withdrawn (132)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
 | Neuralink | [Digital IC Design Engineer Intern](https://boards.greenhouse.io/neuralink/jobs/7090489003?gh_jid=7090489003) | 2026-08-13 | scaffolded via new_application.py; volume-sprint screen-out: digital IC design (EE) — off profile |
 | Neuralink | [Analog and Mixed-Signal IC Design Engineer Intern](https://boards.greenhouse.io/neuralink/jobs/7565469003?gh_jid=7565469003) | 2026-08-13 | scaffolded via new_application.py; volume-sprint screen-out: analog IC design (EE) — off CS/SWE profile, title-gate noise |
 | Neuralink | [Electrical Engineer Intern, Implant Embedded Systems](https://boards.greenhouse.io/neuralink/jobs/7702527003?gh_jid=7702527003) | 2026-08-13 | wide-sprint screen-out: EE implant hardware — off CS/SWE profile |
+| comcast | [Corporate Partnerships Intern](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-3601-S-Broad-St/Corporate-Partnerships-Intern_R441998) | 2026-08-13 | auto-screen: function+term+eligibility |
+| comcast | [Premium Hospitality Intern](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-3601-S-Broad-St/Premium-Hospitality-Intern_R441965) | 2026-08-13 | auto-screen: function+term+eligibility |
 | GE Vernova | [Engineering Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-1) | 2026-08-13 | auto-screen: duplicate of R5049957 (tailored as ge-vernova-pcs-ai-intern via vernova_externalsite) — apply once |
 | DRW | [FPGA Intern](https://job-boards.greenhouse.io/drweng/jobs/8038923) | 2026-08-13 | scaffolded via new_application.py; volume-sprint screen-out: FPGA hardware — off profile |
 | Virtu Financial | [2027 Internship- Hardware Engineer (FPGA)](https://job-boards.greenhouse.io/virtu/jobs/8657286002) | 2026-08-13 | scaffolded via new_application.py; volume-sprint screen-out: hardware engineering — off profile |
@@ -154,14 +156,19 @@
 | tri | [Energy & Materials Intern- XRD Advanced Analysis](https://jobs.lever.co/tri/15969a29-b217-482f-8c67-67d091b054c8) | 2026-08-13 | scaffolded via new_application.py; volume-sprint screen-out: materials science — off profile |
 | Bosch Group | [2027 Spring Logistics / Packaging Engineering Co-op / LOM](https://jobs.smartrecruiters.com/BoschGroup/744000141337803) | 2026-08-13 | wide-sprint screen-out: spring logistics co-op — wrong term + off profile |
 | Bosch Group | [Logistics/Supply Chain Intern](https://jobs.smartrecruiters.com/BoschGroup/744000141722235) | 2026-08-13 | wide-sprint screen-out: logistics — off profile |
+| Bosch Group | [Technical Engineering Function (TEF) Winter Intern](https://jobs.smartrecruiters.com/BoschGroup/744000143360199) | 2026-08-13 | auto-screen: function+term |
 | LLNL | [Machine Learning Physics Graduate Student](https://jobs.smartrecruiters.com/LLNL/3743990013424486) | 2026-08-13 | wide-sprint screen-out: graduate-student req — ineligible |
 | RRS Group | [Investment Analyst Intern](https://jobs.smartrecruiters.com/RRSGroup/744000133857769) | 2026-08-13 | scaffolded via new_application.py; auto-screen: real-estate finance function (underwriting/acquisitions), majors list has no CS/software path |
 | RRS Group | [Software Engineer Intern - Placement Year](https://jobs.smartrecruiters.com/RRSGroup/744000142513209) | 2026-08-13 | scaffolded via new_application.py; auto-screen: 12-month placement Summer 2027-Summer 2028, penultimate-year/Summer 2028 grads only |
 | Western Digital | [Software Engineering Co-Op - Winter 2027](https://jobs.smartrecruiters.com/WesternDigital/744000138184309) | 2026-08-13 | wide-sprint screen-out: WINTER co-op — wrong term |
+| target | [Store Executive Intern (Store Leadership Intern) – St Louis, MO (Starting Summer 2027)](https://target.wd5.myworkdayjobs.com/targetcareers/job/1042-S-Kirkwood-Rd-KirkwoodMO-63122-7200/Store-Executive-Intern--Store-Leadership-Intern----St-Louis--MO--Starting-Summer-2027-_R0000449467) | 2026-08-13 | auto-screen: function |
 | target | [Store Executive Intern (Store Leadership Intern) - Jacksonville, FL (Starting Summer 2027) ​ ​](https://target.wd5.myworkdayjobs.com/targetcareers/job/10490-San-Jose-Blvd-JacksonvilleFL-32257-6207/Store-Executive-Intern--Store-Leadership-Intern----Jacksonville--FL--Starting-Summer-2027------_R0000448576) | 2026-08-13 | auto-screen: retail store-management function (Store Executive Intern) |
 | target | [Store Executive Intern (Store Leadership Intern) – Central Coast, CA (Starting Summer 2027)](https://target.wd5.myworkdayjobs.com/targetcareers/job/11990-LOS-OSOS-VALLEY-RD-San-Luis-ObispoCA-93405-6861/Store-Executive-Intern--Store-Leadership-Intern----Central-Coast--CA--Starting-Summer-2027-_R0000449326) | 2026-08-13 | auto-screen: [function] retail store-management internship (ETL/Assistant Store Manager preview), not software/data |
+| target | [Store Executive Intern (Store Leadership Intern) - Naples + Ft. Myers, FL (Starting Summer 2027) ​](https://target.wd5.myworkdayjobs.com/targetcareers/job/13711-S-Tamiami-Trl-Fort-MyersFL-33912-1649/Store-Executive-Intern--Store-Leadership-Intern----Naples---Ft-Myers--FL--Starting-Summer-2027---_R0000448569) | 2026-08-13 | auto-screen: function |
+| target | [Store Executive Intern (Store Leadership Intern) - Greensboro + Winston Salem + Durham, NC (Starting Summer 2027) ​](https://target.wd5.myworkdayjobs.com/targetcareers/job/2701-Lawndale-Dr-GreensboroNC-27408-4820/Store-Executive-Intern--Store-Leadership-Intern----Greensboro---Winston-Salem---Durham--NC--Starting-Summer-2027---_R0000449282) | 2026-08-13 | auto-screen: function |
 | target | [Store Executive Intern (Store Leadership Intern) - Wilmington + Jacksonville + New Bern + Greenville, NC (Starting Summer 2027) ​](https://target.wd5.myworkdayjobs.com/targetcareers/job/3040-S-Evans-St-GreenvilleNC-27834-3176/Store-Executive-Intern--Store-Leadership-Intern----Wilmington---Jacksonville---New-Bern---Greenville--NC--Starting-Summer-2027---_R0000449296) | 2026-08-13 | auto-screen: retail store-management function (Store Executive Intern) |
 | target | [Store Executive Intern (Store Leadership Intern) - Columbia + Greenville + Seneca, SC (Starting Summer 2027) ​](https://target.wd5.myworkdayjobs.com/targetcareers/job/6090A-Garners-Ferry-Rd-ColumbiaSC-29209-0600/Store-Executive-Intern--Store-Leadership-Intern----Columbia---Greenville---Seneca--SC--Starting-Summer-2027---_R0000449289) | 2026-08-13 | auto-screen: retail store-management function (Store Executive Intern) |
+| target | [Store Executive Intern (Store Leadership Intern) – Greater Pasadena, CA (Starting Summer 2027)](https://target.wd5.myworkdayjobs.com/targetcareers/job/777-E-Colorado-Blvd-PasadenaCA-91101-2104/Store-Executive-Intern--Store-Leadership-Intern----Greater-Pasadena--CA--Starting-Summer-2027-_R0000449492) | 2026-08-13 | auto-screen: function |
 | target | [Store Executive Intern (Store Leadership Intern) – Vancouver, WA (Starting Summer 2027)](https://target.wd5.myworkdayjobs.com/targetcareers/job/8801-NE-Hazel-Dell-Ave-VancouverWA-98665-8145/Store-Executive-Intern--Store-Leadership-Intern----Vancouver--WA--Starting-Summer-2027-_R0000449337) | 2026-08-13 | auto-screen: [function] retail store-management internship (ETL/Assistant Store Manager preview), not software/data |
 | TMEIC Corporation Americas | [Applications Intern - AI and Machine Learning](https://apply.workable.com/tmeic-corporation-americas/j/6FDBF2FD32/apply) | 2026-08-12 | auto-screen: Workable posting title is 'Intern - Applications, AI and Machine Learning (Spring 2027) (ET26075)' — Spring 2027 term cannot be Summer 2027 |
 | Booz Allen | [AI RAN Telecommunications Engineer Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869) | 2026-08-12 | scaffolded via new_application.py; auto-screen: EE-only degree, grad window Spring 2027-Winter 2028 excludes May 2029 |
