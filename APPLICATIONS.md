@@ -1,6 +1,6 @@
 # Applications
 
-**179 tracked** — applied: 24 · interested: 50 · withdrawn: 105
+**180 tracked** — applied: 24 · interested: 51 · withdrawn: 105
 
 ## applied (24)
 
@@ -31,12 +31,13 @@
 | Circleback | [Software Engineer Intern](https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f/application?embed=true) | 2026-08-06 | fit 4/5 · full-stack SWE (AI meeting-notes product) |
 | CTGT | [Software Engineer Intern](https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application) | 2026-08-06 | fit 5/5 · backend / full-stack SWE (LLM governance platform) |
 
-## interested (50)
+## interested (51)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
 | GE Vernova | [Engineering Intern](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-2) | 2026-08-13 | scaffolded via new_application.py |
 | Northrop Grumman | [Software Engineer Intern - Aeronautics Systems](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10245255) | 2026-08-13 | scaffolded via new_application.py |
+| Epic Games | [Gameplay Programmer Intern](https://epicgames.com/careers/jobs/6141180004?gh_jid=6141180004) | 2026-08-13 | scaffolded via new_application.py |
 | capitalone | [Analyst Early Internship Program - Summer 2027](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Analyst-Early-Internship-Program---Summer-2027_R244231) | 2026-08-12 | scaffolded via new_application.py |
 | ConocoPhillips | [Trading Analytics Intern](https://conocophillips.wd1.myworkdayjobs.com/External/job/Houston-TX/Intern--Trading-Analytics-2027_REQ-006429) | 2026-08-12 | scaffolded via new_application.py |
 | General Dynamics Information Technology | [Software Developer Intern](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1) | 2026-08-12 | scaffolded via new_application.py |
