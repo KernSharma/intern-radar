@@ -111,6 +111,34 @@
     "auto-screen: Winter 2027 term, January 4 2027 start - cannot be Summer 2027"
    ]
   },
+  "url:https://boards.greenhouse.io/neuralink/jobs/7090489003?gh_jid=7090489003": {
+   "url": "https://boards.greenhouse.io/neuralink/jobs/7090489003?gh_jid=7090489003",
+   "company": "Neuralink",
+   "title": "Digital IC Design Engineer Intern",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-13",
+    "withdrawn": "2026-08-13"
+   },
+   "notes": [
+    "scaffolded via new_application.py",
+    "volume-sprint screen-out: digital IC design (EE) — off profile"
+   ]
+  },
+  "url:https://boards.greenhouse.io/neuralink/jobs/7565469003?gh_jid=7565469003": {
+   "url": "https://boards.greenhouse.io/neuralink/jobs/7565469003?gh_jid=7565469003",
+   "company": "Neuralink",
+   "title": "Analog and Mixed-Signal IC Design Engineer Intern",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-13",
+    "withdrawn": "2026-08-13"
+   },
+   "notes": [
+    "scaffolded via new_application.py",
+    "volume-sprint screen-out: analog IC design (EE) — off CS/SWE profile, title-gate noise"
+   ]
+  },
   "url:https://boards.greenhouse.io/spacex/jobs/8621757002": {
    "url": "https://boards.greenhouse.io/spacex/jobs/8621757002",
    "company": "SpaceX",
@@ -630,6 +658,16 @@
     "scaffolded via new_application.py"
    ]
   },
+  "url:https://job-boards.eu.greenhouse.io/imc/jobs/4823923101": {
+   "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823923101",
+   "company": "IMC",
+   "title": "Quantitative Trader Intern - Summer 2027",
+   "status": "applied",
+   "history": {
+    "applied": "2026-08-13"
+   },
+   "notes": []
+  },
   "url:https://job-boards.eu.greenhouse.io/imc/jobs/4823924101": {
    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823924101",
    "company": "IMC",
@@ -653,6 +691,26 @@
    "notes": [
     "auto-screen: class-year bar, graduating Sep 2027-Jul 2028; also FPGA/RTL function"
    ]
+  },
+  "url:https://job-boards.eu.greenhouse.io/imc/jobs/4907399101": {
+   "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907399101",
+   "company": "IMC",
+   "title": "Quantitative Research Intern (BS/MS) - Summer 2027",
+   "status": "applied",
+   "history": {
+    "applied": "2026-08-13"
+   },
+   "notes": []
+  },
+  "url:https://job-boards.eu.greenhouse.io/imc/jobs/4907400101": {
+   "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907400101",
+   "company": "IMC",
+   "title": "Quantitative Research Intern (PhD) - Summer 2027",
+   "status": "applied",
+   "history": {
+    "applied": "2026-08-13"
+   },
+   "notes": []
   },
   "url:https://job-boards.eu.greenhouse.io/imc/jobs/4907430101": {
    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907430101",
@@ -719,6 +777,30 @@
     "scaffolded via new_application.py"
    ]
   },
+  "url:https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716930005": {
+   "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716930005",
+   "company": "Chicago Trading Company",
+   "title": "Quantitative Trading Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-13"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
+  "url:https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716932005": {
+   "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716932005",
+   "company": "Chicago Trading Company",
+   "title": "Software Engineer Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-13"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
   "url:https://job-boards.greenhouse.io/cssmerge/jobs/8687896002": {
    "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002",
    "company": "Atoms",
@@ -759,6 +841,44 @@
    "notes": [
     "scaffolded via new_application.py",
     "auto-screen: graduation window December 2027-June 2028 excludes May 2029"
+   ]
+  },
+  "url:https://job-boards.greenhouse.io/drweng/jobs/7993195": {
+   "url": "https://job-boards.greenhouse.io/drweng/jobs/7993195",
+   "company": "DRW",
+   "title": "Leadership Rotation Network Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-13"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
+  "url:https://job-boards.greenhouse.io/drweng/jobs/8038923": {
+   "url": "https://job-boards.greenhouse.io/drweng/jobs/8038923",
+   "company": "DRW",
+   "title": "FPGA Intern",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-13",
+    "withdrawn": "2026-08-13"
+   },
+   "notes": [
+    "scaffolded via new_application.py",
+    "volume-sprint screen-out: FPGA hardware — off profile"
+   ]
+  },
+  "url:https://job-boards.greenhouse.io/dvtrading/jobs/4719118005": {
+   "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719118005",
+   "company": "DV Trading",
+   "title": "Quantitative Risk Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-13"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
    ]
   },
   "url:https://job-boards.greenhouse.io/dvtrading/jobs/4719119005": {
@@ -896,6 +1016,18 @@
     "fit 5/5 · backend / full-stack SWE (hedge fund technology platform, trading systems, AI automation)"
    ]
   },
+  "url:https://job-boards.greenhouse.io/optiverprivate/jobs/8402208002": {
+   "url": "https://job-boards.greenhouse.io/optiverprivate/jobs/8402208002",
+   "company": "Optiver",
+   "title": "Institutional Trader Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-13"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
   "url:https://job-boards.greenhouse.io/pdtpartners/jobs/8077685": {
    "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685",
    "company": "PDT Partners",
@@ -988,6 +1120,30 @@
     "auto-screen: graduation window Dec 2027-June 2028 excludes May 2029"
    ]
   },
+  "url:https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007?gh_jid=5151569007": {
+   "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007?gh_jid=5151569007",
+   "company": "TransMarket Group",
+   "title": "Quantitative Trader Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-13"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
+  "url:https://job-boards.greenhouse.io/uvimco/jobs/5300713008": {
+   "url": "https://job-boards.greenhouse.io/uvimco/jobs/5300713008",
+   "company": "University of Virginia Investment Management Company (UVIMCO)",
+   "title": "Investment Analyst Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-13"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
   "url:https://job-boards.greenhouse.io/virtu/jobs/8142539002": {
    "url": "https://job-boards.greenhouse.io/virtu/jobs/8142539002",
    "company": "Virtu Financial",
@@ -1027,6 +1183,20 @@
     "fit 5/5 · backend / low-latency systems SWE"
    ]
   },
+  "url:https://job-boards.greenhouse.io/virtu/jobs/8657286002": {
+   "url": "https://job-boards.greenhouse.io/virtu/jobs/8657286002",
+   "company": "Virtu Financial",
+   "title": "2027 Internship- Hardware Engineer (FPGA)",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-13",
+    "withdrawn": "2026-08-13"
+   },
+   "notes": [
+    "scaffolded via new_application.py",
+    "volume-sprint screen-out: hardware engineering — off profile"
+   ]
+  },
   "url:https://job-boards.greenhouse.io/virtu/jobs/8657500002": {
    "url": "https://job-boards.greenhouse.io/virtu/jobs/8657500002",
    "company": "Virtu Financial",
@@ -1040,6 +1210,78 @@
     "fit 3/5 · frontend SWE (UI / trading tools)"
    ]
   },
+  "url:https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009": {
+   "url": "https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009",
+   "company": "Voloridge",
+   "title": "Quantitative Research Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-13"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
+  "url:https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006": {
+   "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006",
+   "company": "Walleye Capital",
+   "title": "Equity Volatility Quant Researcher Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-13"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
+  "url:https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006": {
+   "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
+   "company": "Walleye Capital",
+   "title": "Quantitative Developer Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-13"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
+  "url:https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96": {
+   "url": "https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96/application?embed=true",
+   "company": "Anthelion Capital",
+   "title": "Quant Developer / Quant Research Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-13"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
+  "url:https://jobs.ashbyhq.com/applied/91e0686e-272a-4780-b33d-d7860b94a7b4": {
+   "url": "https://jobs.ashbyhq.com/applied/91e0686e-272a-4780-b33d-d7860b94a7b4",
+   "company": "applied",
+   "title": "Research Intern - 3D Vision and Generation, Self-Driving",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-13"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
+  "url:https://jobs.ashbyhq.com/applied/ce58d9fd-f22b-4336-80b5-ba1e8d764526": {
+   "url": "https://jobs.ashbyhq.com/applied/ce58d9fd-f22b-4336-80b5-ba1e8d764526",
+   "company": "applied",
+   "title": "Research Intern - Reinforcement Learning, Self-Driving",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-13"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
   "url:https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f": {
    "url": "https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f/application?embed=true",
    "company": "Circleback",
@@ -1051,6 +1293,20 @@
    },
    "notes": [
     "fit 4/5 · full-stack SWE (AI meeting-notes product)"
+   ]
+  },
+  "url:https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b": {
+   "url": "https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b",
+   "company": "cohere",
+   "title": "Machine Learning Intern/Co-op  (Winter 2027)",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-13",
+    "withdrawn": "2026-08-13"
+   },
+   "notes": [
+    "scaffolded via new_application.py",
+    "volume-sprint screen-out: Winter co-op, wrong term (target Summer 2027)"
    ]
   },
   "url:https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155": {
@@ -1077,6 +1333,34 @@
    },
    "notes": [
     "fit 5/5 · generalist/backend SWE (full-stack, infra, on-chain)"
+   ]
+  },
+  "url:https://jobs.ashbyhq.com/etched/0321523b-f0c3-44cd-9c46-cf318a1cad9e": {
+   "url": "https://jobs.ashbyhq.com/etched/0321523b-f0c3-44cd-9c46-cf318a1cad9e",
+   "company": "etched",
+   "title": "GTM Intern",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-13",
+    "withdrawn": "2026-08-13"
+   },
+   "notes": [
+    "scaffolded via new_application.py",
+    "volume-sprint screen-out: go-to-market — off profile"
+   ]
+  },
+  "url:https://jobs.ashbyhq.com/etched/f32908bd-8abc-495c-ab69-ac893b6c924d": {
+   "url": "https://jobs.ashbyhq.com/etched/f32908bd-8abc-495c-ab69-ac893b6c924d",
+   "company": "etched",
+   "title": "Core Ops Intern",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-13",
+    "withdrawn": "2026-08-13"
+   },
+   "notes": [
+    "scaffolded via new_application.py",
+    "volume-sprint screen-out: ops — off profile"
    ]
   },
   "url:https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef": {
@@ -1157,6 +1441,42 @@
     "fit 4/5 · forward-deployed / applied AI engineer (Python backend + LLM agents)"
    ]
   },
+  "url:https://jobs.ashbyhq.com/perplexity/9246cf02-26fd-4ae8-90c5-639c6e85e9e2": {
+   "url": "https://jobs.ashbyhq.com/perplexity/9246cf02-26fd-4ae8-90c5-639c6e85e9e2",
+   "company": "perplexity",
+   "title": "Internship - Search Machine Learning Engineer",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-13"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
+  "url:https://jobs.ashbyhq.com/perplexity/be94e89b-89d5-4f2a-a58b-7929c8d97f92": {
+   "url": "https://jobs.ashbyhq.com/perplexity/be94e89b-89d5-4f2a-a58b-7929c8d97f92",
+   "company": "perplexity",
+   "title": "Internship - Search Backend Infra Engineer",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-13"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
+  "url:https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d": {
+   "url": "https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d/application",
+   "company": "Pylon",
+   "title": "Software Engineer Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-13"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
   "url:https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05": {
    "url": "https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05/application?embed=true",
    "company": "Quadrillion",
@@ -1168,6 +1488,42 @@
    },
    "notes": [
     "fit 5/5 · backend SWE / agent infrastructure (AI research platform)"
+   ]
+  },
+  "url:https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b": {
+   "url": "https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b",
+   "company": "ramp",
+   "title": "Software Engineer Internship, Android",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-13"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
+  "url:https://jobs.ashbyhq.com/rivianvw.tech/8cfc9852-8aa4-492f-8817-ae4bc62dd127": {
+   "url": "https://jobs.ashbyhq.com/rivianvw.tech/8cfc9852-8aa4-492f-8817-ae4bc62dd127",
+   "company": "rivianvw.tech",
+   "title": "Technical Program Management Intern (Bachelor's)",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-13"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
+  "url:https://jobs.ashbyhq.com/rivianvw.tech/986b68e0-9702-4828-9462-6adbe2984f1a": {
+   "url": "https://jobs.ashbyhq.com/rivianvw.tech/986b68e0-9702-4828-9462-6adbe2984f1a",
+   "company": "rivianvw.tech",
+   "title": "Software Integration Engineering Intern (Fall-Spring)",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-13"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
    ]
   },
   "url:https://jobs.ashbyhq.com/sentry/672e2a76-d8e1-49c1-b227-4a189c4e49a1": {
@@ -1208,6 +1564,56 @@
    "notes": [
     "scaffolded via new_application.py",
     "auto-screen: class-year — 'Graduation date of December 2027/Spring 2028'; Kern graduates May 2029"
+   ]
+  },
+  "url:https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b": {
+   "url": "https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b/apply",
+   "company": "palantir",
+   "title": "Privacy and Civil Liberties Software Engineer, Internship",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-13"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
+  "url:https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2": {
+   "url": "https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2/apply",
+   "company": "palantir",
+   "title": "Forward Deployed Software Engineer, Internship - Commercial",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-13"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
+  "url:https://jobs.lever.co/tri/15969a29-b217-482f-8c67-67d091b054c8": {
+   "url": "https://jobs.lever.co/tri/15969a29-b217-482f-8c67-67d091b054c8",
+   "company": "tri",
+   "title": "Energy & Materials Intern- XRD Advanced Analysis",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-13",
+    "withdrawn": "2026-08-13"
+   },
+   "notes": [
+    "scaffolded via new_application.py",
+    "volume-sprint screen-out: materials science — off profile"
+   ]
+  },
+  "url:https://jobs.lever.co/tri/63d61db3-ac43-4c0d-8b9b-5006e3b92149": {
+   "url": "https://jobs.lever.co/tri/63d61db3-ac43-4c0d-8b9b-5006e3b92149",
+   "company": "tri",
+   "title": "Human Interactive Driving Intern – World Models",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-13"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
    ]
   },
   "url:https://jobs.smartrecruiters.com/boschgroup/744000132662239": {
