@@ -915,6 +915,19 @@
     "scaffolded via new_application.py"
    ]
   },
+  "url:https://higher.gs.com/roles/170675?type=students": {
+   "url": "https://higher.gs.com/roles/170675?type=students",
+   "company": "Goldman Sachs",
+   "title": "Summer Analyst Intern - FICC & Equities - Sales & Trading",
+   "status": "withdrawn",
+   "history": {
+    "applied": "2026-08-16",
+    "withdrawn": "2026-08-16"
+   },
+   "notes": [
+    "auto-screen: non-US location (London, UK) - pre-screened on inbox entry"
+   ]
+  },
   "url:https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/tallahassee-fl/strategic-technology-intern---summer-2027--sed-division--for-current-former-hntb-interns-only-_r-31092-1": {
    "url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Tallahassee-FL/Strategic-Technology-Intern---Summer-2027--SED-Division--For-Current-Former-HNTB-Interns-Only-_R-31092-1",
    "company": "HNTB",
@@ -1976,6 +1989,18 @@
    "status": "interested",
    "history": {
     "interested": "2026-08-13"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
+  "url:https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1": {
+   "url": "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1",
+   "company": "replit",
+   "title": "Software Engineering Intern (Summer 2027)",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-16"
    },
    "notes": [
     "scaffolded via new_application.py"

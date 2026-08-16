@@ -1,6 +1,6 @@
 # Applications
 
-**285 tracked** — applied: 48 · interested: 83 · withdrawn: 154
+**287 tracked** — applied: 48 · interested: 84 · withdrawn: 155
 
 ## applied (48)
 
@@ -55,10 +55,11 @@
 | Circleback | [Software Engineer Intern](https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f/application?embed=true) | 2026-08-06 | fit 4/5 · full-stack SWE (AI meeting-notes product) |
 | CTGT | [Software Engineer Intern](https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application) | 2026-08-06 | fit 5/5 · backend / full-stack SWE (LLM governance platform) |
 
-## interested (83)
+## interested (84)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
+| replit | [Software Engineering Intern (Summer 2027)](https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1) | 2026-08-16 | scaffolded via new_application.py |
 | GuideWell Mutual | [Enterprise Analytics Intern](http://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41879) | 2026-08-15 | scaffolded via new_application.py |
 | BerryDunn | [Consulting Intern - Healthcare Data Management and Strategy](https://careers-berrydunn.icims.com/jobs/3973/job?mobile=true&needsRedirect=false) | 2026-08-15 | scaffolded via new_application.py |
 | Vertiv | [Operations Intern - Summer 2027](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279223) | 2026-08-14 | scaffolded via new_application.py |
@@ -143,7 +144,7 @@
 | Synchrony Financial | [BLP Intern - Data Analytics (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Data-Analytics_2601688) | 2026-08-04 | same intake as Tech sibling; analytics not SWE; verifier confirmed plausible 2027 cycle |
 | Synchrony Financial | [BLP Intern - Technology (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Technology_2601695-1) | 2026-08-04 | BEST BET: bachelor's-pursuing, no class-year bar, 10-wk Jun-Aug; likely 2027 intake (screened 8/4) |
 
-## withdrawn (154)
+## withdrawn (155)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
@@ -151,6 +152,7 @@
 | RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01867392) | 2026-08-16 | auto-screen: returning-intern-only (RTX interns returning in 2027) |
 | RTX | [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01867129) | 2026-08-16 | scaffolded via new_application.py; auto-screen: returning-intern-only (RTX interns returning in 2027) |
 | RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01865952) | 2026-08-16 | scaffolded via new_application.py; auto-screen: returning-intern-only (RTX interns returning in 2027) |
+| Goldman Sachs | [Summer Analyst Intern - FICC & Equities - Sales & Trading](https://higher.gs.com/roles/170675?type=students) | 2026-08-16 | auto-screen: non-US location (London, UK) - pre-screened on inbox entry |
 | Astranis | [Mechanical Engineer Intern (Winter 2027)](https://job-boards.greenhouse.io/astranis/jobs/4704600006) | 2026-08-16 | auto-screen: mechanical/CAD function, outside software/data/ML/security |
 | Astranis | [Mechanical Engineer Intern (Summer 2027)](https://job-boards.greenhouse.io/astranis/jobs/4704601006) | 2026-08-16 | auto-screen: mechanical/CAD function, outside software/data/ML/security |
 | Astranis | [Mechanical Engineer Intern (Spring 2027)](https://job-boards.greenhouse.io/astranis/jobs/4704602006) | 2026-08-16 | auto-screen: mechanical/CAD function, outside software/data/ML/security |
