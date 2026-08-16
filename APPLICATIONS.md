@@ -1,6 +1,6 @@
 # Applications
 
-**275 tracked** — applied: 48 · interested: 83 · withdrawn: 144
+**285 tracked** — applied: 48 · interested: 83 · withdrawn: 154
 
 ## applied (48)
 
@@ -143,10 +143,20 @@
 | Synchrony Financial | [BLP Intern - Data Analytics (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Data-Analytics_2601688) | 2026-08-04 | same intake as Tech sibling; analytics not SWE; verifier confirmed plausible 2027 cycle |
 | Synchrony Financial | [BLP Intern - Technology (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Technology_2601695-1) | 2026-08-04 | BEST BET: bachelor's-pursuing, no class-year bar, 10-wk Jun-Aug; likely 2027 intake (screened 8/4) |
 
-## withdrawn (144)
+## withdrawn (154)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
+| RTX | [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Software-Engineering-Intern--Summer-2027-_01867439) | 2026-08-16 | scaffolded via new_application.py; auto-screen: returning-intern-only (RTX interns returning in 2027) |
+| RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01867392) | 2026-08-16 | auto-screen: returning-intern-only (RTX interns returning in 2027) |
+| RTX | [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01867129) | 2026-08-16 | scaffolded via new_application.py; auto-screen: returning-intern-only (RTX interns returning in 2027) |
+| RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01865952) | 2026-08-16 | scaffolded via new_application.py; auto-screen: returning-intern-only (RTX interns returning in 2027) |
+| Astranis | [Mechanical Engineer Intern (Winter 2027)](https://job-boards.greenhouse.io/astranis/jobs/4704600006) | 2026-08-16 | auto-screen: mechanical/CAD function, outside software/data/ML/security |
+| Astranis | [Mechanical Engineer Intern (Summer 2027)](https://job-boards.greenhouse.io/astranis/jobs/4704601006) | 2026-08-16 | auto-screen: mechanical/CAD function, outside software/data/ML/security |
+| Astranis | [Mechanical Engineer Intern (Spring 2027)](https://job-boards.greenhouse.io/astranis/jobs/4704602006) | 2026-08-16 | auto-screen: mechanical/CAD function, outside software/data/ML/security |
+| Astranis | [CAD Engineer/Librarian Intern (Spring 2027)](https://job-boards.greenhouse.io/astranis/jobs/4704740006) | 2026-08-16 | auto-screen: mechanical/CAD function, outside software/data/ML/security |
+| Astranis | [CAD Engineer/Librarian Intern (Summer 2027)](https://job-boards.greenhouse.io/astranis/jobs/4704742006) | 2026-08-16 | auto-screen: mechanical/CAD function, outside software/data/ML/security |
+| Astranis | [CAD Engineer/Librarian Intern (Winter 2027)](https://job-boards.greenhouse.io/astranis/jobs/4704748006) | 2026-08-16 | auto-screen: mechanical/CAD function, outside software/data/ML/security |
 | Neuralink | [Biomedical Engineer Intern](https://boards.greenhouse.io/neuralink/jobs/7872639003?gh_jid=7872639003) | 2026-08-15 | auto-screen: biomedical/materials lab function, not software/data/ML/security |
 | abridge | [Software Engineer, Intern](https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883) | 2026-08-15 | scaffolded via new_application.py; auto-screen: Fall 2026 term, cannot be Summer 2027 |
 | notion | [Software Engineer Intern (Summer 2027)](https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c) | 2026-08-15 | auto-screen: must graduate before Summer 2028, excludes May 2029 |
