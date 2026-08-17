@@ -1,6 +1,6 @@
 # Applications
 
-**287 tracked** — applied: 48 · interested: 84 · withdrawn: 155
+**296 tracked** — applied: 48 · interested: 85 · withdrawn: 163
 
 ## applied (48)
 
@@ -55,10 +55,11 @@
 | Circleback | [Software Engineer Intern](https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f/application?embed=true) | 2026-08-06 | fit 4/5 · full-stack SWE (AI meeting-notes product) |
 | CTGT | [Software Engineer Intern](https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application) | 2026-08-06 | fit 5/5 · backend / full-stack SWE (LLM governance platform) |
 
-## interested (84)
+## interested (85)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
+| FAST Enterprises | [Implementation Intern](https://careers-fastenterprises.icims.com/jobs/1709/job) | 2026-08-17 | scaffolded from canonical iCIMS URL; watcher URL careers.fastenterprises.com/jobs/1709?icims=1 unsupported host |
 | replit | [Software Engineering Intern (Summer 2027)](https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1) | 2026-08-16 | scaffolded via new_application.py |
 | GuideWell Mutual | [Enterprise Analytics Intern](http://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41879) | 2026-08-15 | scaffolded via new_application.py |
 | BerryDunn | [Consulting Intern - Healthcare Data Management and Strategy](https://careers-berrydunn.icims.com/jobs/3973/job?mobile=true&needsRedirect=false) | 2026-08-15 | scaffolded via new_application.py |
@@ -144,10 +145,18 @@
 | Synchrony Financial | [BLP Intern - Data Analytics (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Data-Analytics_2601688) | 2026-08-04 | same intake as Tech sibling; analytics not SWE; verifier confirmed plausible 2027 cycle |
 | Synchrony Financial | [BLP Intern - Technology (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Technology_2601695-1) | 2026-08-04 | BEST BET: bachelor's-pursuing, no class-year bar, 10-wk Jun-Aug; likely 2027 intake (screened 8/4) |
 
-## withdrawn (155)
+## withdrawn (163)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
+| capitalone | [Strategy Consulting Intern - Summer 2027](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Strategy-Consulting-Intern---Summer-2027_R244315-1) | 2026-08-17 | scaffolded via new_application.py; auto-screen: class-year (degree by Aug 2028 or earlier) |
+| Capital One | [Intern, Backend Software Engineer - Team Interstellar - Winter 2027](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Team-Interstellar---Winter-2027_R249022) | 2026-08-17 | auto-screen: non-US (Toronto, ON) |
+| Capital One | [Intern, Full Stack Software Engineer - Team Integrated Sprout - Winter 2027](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Integrated-Sprout---Winter-2027_R249010) | 2026-08-17 | auto-screen: non-US (Toronto, ON) |
+| Capital One | [Intern, Full Stack Software Engineer - Team Pickle - Winter 2027](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Pickle---Winter-2027_R249013) | 2026-08-17 | auto-screen: non-US (Toronto, ON) |
+| Capital One | [Intern, Mobile Software Engineer - Team Gringotts North - Winter 2027](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Mobile-Software-Engineer---Team-Gringotts-North---Winter-2027_R249015) | 2026-08-17 | auto-screen: non-US (Toronto, ON) |
+| Datadog | [Software Engineering Intern (Winter)](https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095) | 2026-08-17 | scaffolded via new_application.py; auto-screen: Winter 2027 term (Jan 4 - Apr 23) + 2028 FT start |
+| Datadog | [Product Management Intern](https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241) | 2026-08-17 | auto-screen: class-year (2028 FT graduation/start) |
+| PIMCO | [Client Solutions & Analytics Analyst Intern](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Analyst--US_R106605) | 2026-08-17 | scaffolded via new_application.py; auto-screen: class-year (FT start Jan-Aug 2028; grad May 2029) |
 | RTX | [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Software-Engineering-Intern--Summer-2027-_01867439) | 2026-08-16 | scaffolded via new_application.py; auto-screen: returning-intern-only (RTX interns returning in 2027) |
 | RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01867392) | 2026-08-16 | auto-screen: returning-intern-only (RTX interns returning in 2027) |
 | RTX | [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01867129) | 2026-08-16 | scaffolded via new_application.py; auto-screen: returning-intern-only (RTX interns returning in 2027) |
