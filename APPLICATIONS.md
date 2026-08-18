@@ -1,6 +1,6 @@
 # Applications
 
-**321 tracked** — applied: 48 · interested: 95 · withdrawn: 178
+**332 tracked** — applied: 48 · interested: 101 · withdrawn: 183
 
 ## applied (48)
 
@@ -55,13 +55,18 @@
 | Circleback | [Software Engineer Intern](https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f/application?embed=true) | 2026-08-06 | fit 4/5 · full-stack SWE (AI meeting-notes product) |
 | CTGT | [Software Engineer Intern](https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application) | 2026-08-06 | fit 5/5 · backend / full-stack SWE (LLM governance platform) |
 
-## interested (95)
+## interested (101)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
+| Dee Zee | [Software Development Intern](https://deezee.wd108.myworkdayjobs.com/DeeZee_Careers/job/Des-Moines/Software-Development-Intern_REQ00368) | 2026-08-18 | scaffolded via new_application.py |
+| Hilton Worldwide | [Corporate Summer Internship - Technology, Software Engineering and Cyber](https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/218257) | 2026-08-18 | scaffolded via new_application.py |
 | GE Aerospace | [Digital Technology Intern - Multiple Teams](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Atlanta/Digital-Technology-Intern---US---Atlanta--GA----Summer-2027_R5038078) | 2026-08-18 | scaffolded via new_application.py |
 | GE Aerospace | [Digital Technology Intern - Multiple Teams](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Digital-Technology-Intern---US---Cincinnati--OH---Summer-2027_R5029739-1) | 2026-08-18 | scaffolded via new_application.py |
 | GE Aerospace | [Digital Technology Intern - Summer 2027](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Livonia/Digital-Technology-Intern---US---Livonia--MI---Summer-2027_R5038079-1) | 2026-08-18 | scaffolded via new_application.py |
+| RTX | [Software Engineer Intern - Intelligent Software & Systems](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineer-Intern--Onsite-_01866914) | 2026-08-18 | scaffolded via new_application.py |
+| RTX | [Software Engineering Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineering-Intern--Onsite-_01864698) | 2026-08-18 | scaffolded via new_application.py |
+| Readystate Asset Management | [Investment Intern - Summer 2027 & 2028](https://job-boards.greenhouse.io/readystate/jobs/4171077008) | 2026-08-18 | scaffolded via new_application.py |
 | Xantium | [Quantitative Developer Intern](https://job-boards.greenhouse.io/xantium/jobs/4360768009) | 2026-08-18 | scaffolded via new_application.py |
 | Xantium | [Quantitative Researcher Intern](https://job-boards.greenhouse.io/xantium/jobs/4371217009) | 2026-08-18 | scaffolded via new_application.py |
 | Ryan Companies | [Business Intelligence Intern - Mission Critical](https://ryancompanies.wd5.myworkdayjobs.com/ryancompanies/job/Minneapolis/Business-Intelligence-Intern--Mission-Critical_R-101961) | 2026-08-18 | scaffolded via new_application.py |
@@ -69,6 +74,7 @@
 | Vanguard | [Data Science Intern - College to Corporate IT](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_177682-1) | 2026-08-18 | scaffolded via new_application.py |
 | Vanguard | [Data Analysis Intern](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Analysis--PA-_177679-1) | 2026-08-18 | scaffolded via new_application.py |
 | Vanguard | [Data Science Intern - Information Technology](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_177680-1) | 2026-08-18 | scaffolded via new_application.py |
+| Arthur J. Gallagher & Co. | [Data Analytics Intern](https://jobs.ajg.com/jobs/57701?icims=1) | 2026-08-18 |  |
 | FAST Enterprises | [Implementation Intern](https://careers-fastenterprises.icims.com/jobs/1709/job) | 2026-08-17 | scaffolded from canonical iCIMS URL; watcher URL careers.fastenterprises.com/jobs/1709?icims=1 unsupported host |
 | replit | [Software Engineering Intern (Summer 2027)](https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1) | 2026-08-16 | scaffolded via new_application.py |
 | GuideWell Mutual | [Enterprise Analytics Intern](http://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41879) | 2026-08-15 | scaffolded via new_application.py |
@@ -155,10 +161,11 @@
 | Synchrony Financial | [BLP Intern - Data Analytics (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Data-Analytics_2601688) | 2026-08-04 | same intake as Tech sibling; analytics not SWE; verifier confirmed plausible 2027 cycle |
 | Synchrony Financial | [BLP Intern - Technology (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Technology_2601695-1) | 2026-08-04 | BEST BET: bachelor's-pursuing, no class-year bar, 10-wk Jun-Aug; likely 2027 intake (screened 8/4) |
 
-## withdrawn (178)
+## withdrawn (183)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
+| CACI | [GMU Scholar Program Intern](https://caci.wd1.myworkdayjobs.com/external/job/Sterling-VA-US/GMU-Scholar-Program---Summer-2027-Internship_330557) | 2026-08-18 | scaffolded via new_application.py; auto-screen: GMU-students-only (Required: enrolled at George Mason University) |
 | American Express | [Software Engineer Intern - Technology](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010970) | 2026-08-18 | scaffolded via new_application.py; auto-screen: class-year Dec2027-Jun2028 |
 | American Express | [Software Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011679) | 2026-08-18 | scaffolded via new_application.py; auto-screen: class-year Dec2027-Jun2028 |
 | American Express | [AI Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698) | 2026-08-18 | scaffolded via new_application.py; auto-screen: class-year Dec2027-Jun2028 |
@@ -169,11 +176,15 @@
 | American Express | [AI Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012375) | 2026-08-18 | auto-screen: class-year Dec2027-Jun2028 |
 | RTX | [Modeling, Simulation & Analysis Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/Modeling--Simulation---Analysis-Intern--Summer-2027-_01867118) | 2026-08-18 | auto-screen: returning-intern-only |
 | RTX | [Software Engineer Intern - Spring 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-MELBOURNE-313--1344-S-Babcock-St--BLDG-313/Software-Engineering-Intern--Spring-2027-_01864146) | 2026-08-18 | auto-screen: returning-intern-only + Spring 2027 term |
+| DV Trading | [Trading Intern - Summer 2027 - DV Commodities](https://job-boards.greenhouse.io/dvtrading/jobs/4719134005) | 2026-08-18 | auto-screen: grad window 'by Summer 2028' excludes May 2029 |
 | tri | [Robotics Research Intern - Post-Training](https://jobs.lever.co/tri/186808f9-464c-4f22-9d7d-4372ef272ff0) | 2026-08-18 | scaffolded via new_application.py; auto-screen: PhD-only (no undergrad path) |
 | KeyBank | [Data Intern - Key Technology & Services - Data Track](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Data-Track-Internship--Cleveland_R-41385) | 2026-08-18 | auto-screen: grad window May2028/Dec2027 |
+| nvidia | [Software Engineering Intern, NCCL - 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--NCCL---2026_JR2022645) | 2026-08-18 | auto-screen: non-US (Shanghai/Beijing) + PhD-only + 2026 term |
+| Stripe | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8097801) | 2026-08-18 | auto-screen: non-US (Dublin) |
 | target | [Store Executive Intern (Store Leadership Intern) – Knoxville, TN (Starting Summer 2027)](https://target.wd5.myworkdayjobs.com/targetcareers/job/1100-S-Willow-Ave-CookevilleTN-38501-4139/Store-Executive-Intern--Store-Leadership-Intern----Knoxville--TN--Starting-Summer-2027-_R0000449839) | 2026-08-18 | auto-screen: retail store-management function |
 | target | [Store Executive Intern (Store Leadership Intern) – Nashville, TN (Starting Summer 2027)](https://target.wd5.myworkdayjobs.com/targetcareers/job/1701-Galleria-Blvd-FranklinTN-37067-1602/Store-Executive-Intern--Store-Leadership-Intern----Nashville--TN--Starting-Summer-2027-_R0000449814) | 2026-08-18 | auto-screen: retail store-management function |
 | target | [Store Executive Intern (Store Leadership Intern) – Atlanta, GA (Starting Summer 2027)](https://target.wd5.myworkdayjobs.com/targetcareers/job/2539-Piedmont-Rd-NE-Atlanta-GA-30324-3006/Store-Executive-Intern--Store-Leadership-Intern----Atlanta--GA--Starting-Summer-2027-_R0000449831) | 2026-08-18 | auto-screen: retail store-management function |
+| Tower Research Capital | [Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=8138524) | 2026-08-18 | auto-screen: non-US (Singapore) |
 | capitalone | [Strategy Consulting Intern - Summer 2027](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Strategy-Consulting-Intern---Summer-2027_R244315-1) | 2026-08-17 | scaffolded via new_application.py; auto-screen: class-year (degree by Aug 2028 or earlier) |
 | Capital One | [Intern, Backend Software Engineer - Team Interstellar - Winter 2027](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Team-Interstellar---Winter-2027_R249022) | 2026-08-17 | auto-screen: non-US (Toronto, ON) |
 | Capital One | [Intern, Full Stack Software Engineer - Team Integrated Sprout - Winter 2027](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Integrated-Sprout---Winter-2027_R249010) | 2026-08-17 | auto-screen: non-US (Toronto, ON) |
