@@ -1,6 +1,6 @@
 # Applications
 
-**343 tracked** — applied: 48 · interested: 104 · withdrawn: 191
+**363 tracked** — applied: 48 · interested: 106 · withdrawn: 209
 
 ## applied (48)
 
@@ -55,11 +55,13 @@
 | Circleback | [Software Engineer Intern](https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f/application?embed=true) | 2026-08-06 | fit 4/5 · full-stack SWE (AI meeting-notes product) |
 | CTGT | [Software Engineer Intern](https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application) | 2026-08-06 | fit 5/5 · backend / full-stack SWE (LLM governance platform) |
 
-## interested (104)
+## interested (106)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
+| Continental Resources | [Data Analyst Intern](https://clr.wd5.myworkdayjobs.com/CLR_Careers/job/Oklahoma-City-OK/Data-Analyst-Intern--Summer-2027-_R02591-1) | 2026-08-19 | scaffolded via new_application.py |
 | Garda Capital Partners | [Software Engineer Intern](https://job-boards.greenhouse.io/gardacp/jobs/6146213004) | 2026-08-19 | scaffolded via new_application.py |
+| nvidia | [NVIDIA 2027 Internships: Systems Software Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492) | 2026-08-19 | scaffolded via new_application.py |
 | Truist Bank | [Technology and Operations Intern - Data](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/XMLNAME-2027-Technology--Data--and-Operations-Internship_R0118061) | 2026-08-19 | scaffolded via new_application.py |
 | Dee Zee | [Software Development Intern](https://deezee.wd108.myworkdayjobs.com/DeeZee_Careers/job/Des-Moines/Software-Development-Intern_REQ00368) | 2026-08-18 | scaffolded via new_application.py |
 | Hilton Worldwide | [Corporate Summer Internship - Technology, Software Engineering and Cyber](https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/218257) | 2026-08-18 | scaffolded via new_application.py |
@@ -164,13 +166,31 @@
 | Synchrony Financial | [BLP Intern - Data Analytics (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Data-Analytics_2601688) | 2026-08-04 | same intake as Tech sibling; analytics not SWE; verifier confirmed plausible 2027 cycle |
 | Synchrony Financial | [BLP Intern - Technology (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Technology_2601695-1) | 2026-08-04 | BEST BET: bachelor's-pursuing, no class-year bar, 10-wk Jun-Aug; likely 2027 intake (screened 8/4) |
 
-## withdrawn (191)
+## withdrawn (209)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
+| Continental Resources | [Geoscience Intern](https://clr.wd5.myworkdayjobs.com/CLR_Careers/job/Oklahoma-City-OK/Geoscience-Intern--Summer-2027-_R02592-1) | 2026-08-19 | scaffolded via new_application.py; auto-screen: hardware/EE function |
 | American Express | [Software Engineer Intern - Enterprise Technology Services (Sunrise FL)](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011015) | 2026-08-19 | auto-screen: grad window Dec 2027 - June 2028 excludes May 2029 |
 | American Express | [Data Analytics Intern - Financial Crimes Risk & Controls (NYC)](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012627) | 2026-08-19 | auto-screen: grad window Dec 2027 - June 2028 excludes May 2029 |
 | Humana | [Technology Intern](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027_R-424692-1) | 2026-08-19 | scaffolded via new_application.py; auto-screen: grad window Dec 2027 - Summer 2028 excludes May 2029 |
+| nvidia | [NVIDIA 2027 Internships: Digital Circuit Design](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Digital-Circuit-Design_JR2023504) | 2026-08-19 | auto-screen: hardware/EE function |
+| nvidia | [NVIDIA 2027 Internships: Hardware ASIC Design](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-ASIC-Design_JR2023486) | 2026-08-19 | auto-screen: hardware/EE function |
+| nvidia | [NVIDIA 2027 Internships: Hardware Design for Test (DFT)](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Design-for-Test--DFT-_JR2023487-1) | 2026-08-19 | auto-screen: MS/PhD-only |
+| nvidia | [NVIDIA 2027 Internships: Hardware Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1) | 2026-08-19 | auto-screen: hardware/EE function |
+| nvidia | [NVIDIA 2027 Internships: Hardware Physical Design / VLSI](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Physical-Design---VLSI_JR2023501) | 2026-08-19 | auto-screen: hardware/EE function |
+| nvidia | [NVIDIA 2027 Internships: Hardware Verification](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Verification_JR2023500) | 2026-08-19 | auto-screen: hardware/EE function |
+| nvidia | [NVIDIA 2027 Internships: Mixed Signal Design](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Mixed-Signal-Design_JR2023502) | 2026-08-19 | auto-screen: hardware/EE function |
+| nvidia | [NVIDIA 2027 Internships: Ph.D. Research Autonomous Vehicles](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Autonomous-Vehicles_JR2023838) | 2026-08-19 | auto-screen: PhD-only |
+| nvidia | [NVIDIA 2027 Internships: Ph.D. Research Computer Architecture and Systems](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Computer-Architecture-and-Systems_JR2023854) | 2026-08-19 | auto-screen: PhD-only |
+| nvidia | [NVIDIA 2027 Internships: Ph.D. Research Computer Vision and Deep Learning](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Computer-Vision-and-Deep-Learning_JR2023833) | 2026-08-19 | auto-screen: PhD-only |
+| nvidia | [NVIDIA 2027 Internships: Ph.D. Research Generative AI](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Generative-AI_JR2023475) | 2026-08-19 | auto-screen: PhD-only |
+| nvidia | [NVIDIA 2027 Internships: Ph.D. Research Graphics and Simulation](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Graphics-and-Simulation_JR2023835) | 2026-08-19 | auto-screen: PhD-only |
+| nvidia | [NVIDIA 2027 Internships: Ph.D. Research Hardware](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Hardware_JR2023855) | 2026-08-19 | auto-screen: PhD-only |
+| nvidia | [NVIDIA 2027 Internships: Ph.D. Research Large Language Models](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Large-Language-Models_JR2023837) | 2026-08-19 | auto-screen: PhD-only |
+| nvidia | [NVIDIA 2027 Internships: Ph.D. Research Robotics](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Robotics_JR2023847) | 2026-08-19 | auto-screen: PhD-only |
+| nvidia | [NVIDIA 2027 Summer Internships: Ph.D. Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Summer-Internships--PhD-Engineering_JR2023856) | 2026-08-19 | auto-screen: PhD-only |
+| nvidia | [NVIDIA Spring 2027 Internships: Developer and Performance Technology](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499) | 2026-08-19 | auto-screen: Spring 8-12mo term |
 | PIMCO | [2027 Summer Intern - Technology Analyst, Software Engineering (Austin)](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745) | 2026-08-19 | auto-screen: must begin FT employment Jan-Aug 2028; Kern graduates May 2029 |
 | CACI | [GMU Scholar Program Intern](https://caci.wd1.myworkdayjobs.com/external/job/Sterling-VA-US/GMU-Scholar-Program---Summer-2027-Internship_330557) | 2026-08-18 | scaffolded via new_application.py; auto-screen: GMU-students-only (Required: enrolled at George Mason University) |
 | comcast | [Video Production Intern](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-3601-S-Broad-St/Video-Production-Intern_R440161) | 2026-08-18 | auto-screen: function - Flyers video production (Comcast Spectacor), not software/data |
