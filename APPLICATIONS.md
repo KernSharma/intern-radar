@@ -1,6 +1,6 @@
 # Applications
 
-**337 tracked** — applied: 48 · interested: 102 · withdrawn: 187
+**343 tracked** — applied: 48 · interested: 104 · withdrawn: 191
 
 ## applied (48)
 
@@ -55,10 +55,12 @@
 | Circleback | [Software Engineer Intern](https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f/application?embed=true) | 2026-08-06 | fit 4/5 · full-stack SWE (AI meeting-notes product) |
 | CTGT | [Software Engineer Intern](https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application) | 2026-08-06 | fit 5/5 · backend / full-stack SWE (LLM governance platform) |
 
-## interested (102)
+## interested (104)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
+| Garda Capital Partners | [Software Engineer Intern](https://job-boards.greenhouse.io/gardacp/jobs/6146213004) | 2026-08-19 | scaffolded via new_application.py |
+| Truist Bank | [Technology and Operations Intern - Data](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/XMLNAME-2027-Technology--Data--and-Operations-Internship_R0118061) | 2026-08-19 | scaffolded via new_application.py |
 | Dee Zee | [Software Development Intern](https://deezee.wd108.myworkdayjobs.com/DeeZee_Careers/job/Des-Moines/Software-Development-Intern_REQ00368) | 2026-08-18 | scaffolded via new_application.py |
 | Hilton Worldwide | [Corporate Summer Internship - Technology, Software Engineering and Cyber](https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/218257) | 2026-08-18 | scaffolded via new_application.py |
 | GE Aerospace | [Digital Technology Intern - Multiple Teams](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Atlanta/Digital-Technology-Intern---US---Atlanta--GA----Summer-2027_R5038078) | 2026-08-18 | scaffolded via new_application.py |
@@ -162,10 +164,14 @@
 | Synchrony Financial | [BLP Intern - Data Analytics (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Data-Analytics_2601688) | 2026-08-04 | same intake as Tech sibling; analytics not SWE; verifier confirmed plausible 2027 cycle |
 | Synchrony Financial | [BLP Intern - Technology (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Technology_2601695-1) | 2026-08-04 | BEST BET: bachelor's-pursuing, no class-year bar, 10-wk Jun-Aug; likely 2027 intake (screened 8/4) |
 
-## withdrawn (187)
+## withdrawn (191)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
+| American Express | [Software Engineer Intern - Enterprise Technology Services (Sunrise FL)](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011015) | 2026-08-19 | auto-screen: grad window Dec 2027 - June 2028 excludes May 2029 |
+| American Express | [Data Analytics Intern - Financial Crimes Risk & Controls (NYC)](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012627) | 2026-08-19 | auto-screen: grad window Dec 2027 - June 2028 excludes May 2029 |
+| Humana | [Technology Intern](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027_R-424692-1) | 2026-08-19 | scaffolded via new_application.py; auto-screen: grad window Dec 2027 - Summer 2028 excludes May 2029 |
+| PIMCO | [2027 Summer Intern - Technology Analyst, Software Engineering (Austin)](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745) | 2026-08-19 | auto-screen: must begin FT employment Jan-Aug 2028; Kern graduates May 2029 |
 | CACI | [GMU Scholar Program Intern](https://caci.wd1.myworkdayjobs.com/external/job/Sterling-VA-US/GMU-Scholar-Program---Summer-2027-Internship_330557) | 2026-08-18 | scaffolded via new_application.py; auto-screen: GMU-students-only (Required: enrolled at George Mason University) |
 | comcast | [Video Production Intern](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-3601-S-Broad-St/Video-Production-Intern_R440161) | 2026-08-18 | auto-screen: function - Flyers video production (Comcast Spectacor), not software/data |
 | Dimensional Fund Advisors | [GCG Operations Intern - Data and Tools](https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Global-Client-Group---Data-and-Tools--Undergraduate---Master-s-_2026-9003) | 2026-08-18 | auto-screen: class-year - grad window Dec 2027-Jun 2028, Kern May 2029 |
