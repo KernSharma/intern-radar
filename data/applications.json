@@ -1034,6 +1034,19 @@
     "scaffolded via new_application.py"
    ]
   },
+  "url:https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/findlay-township/pcs-application-engineering-co-op-intern---summer-2027_r5050417-1": {
+   "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Findlay-Township/PCS-Application-Engineering-Co-Op-Intern---Summer-2027_R5050417-1",
+   "company": "GE Vernova",
+   "title": "PCS Application Engineering Co-Op/Intern - Summer 2027 (confidential dup)",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-20",
+    "withdrawn": "2026-08-20"
+   },
+   "notes": [
+    "auto-screen: duplicate of R5050417-2, byte-identical JD"
+   ]
+  },
   "url:https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/niskayuna/engineering-intern---power-conversion---storage-ai-tool-developer--2027_r5049957-1": {
    "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-1",
    "company": "GE Vernova",
@@ -1057,6 +1070,19 @@
    },
    "notes": [
     "fit 3/5 · IT / digital technology rotational (cyber, cloud, data & analytics, data science, AI)"
+   ]
+  },
+  "url:https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/findlay-township/pcs-application-engineering-co-op-intern---summer-2027_r5050417-2": {
+   "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Findlay-Township/PCS-Application-Engineering-Co-Op-Intern---Summer-2027_R5050417-2",
+   "company": "GE Vernova",
+   "title": "PCS Application Engineering Co-Op/Intern - Summer 2027",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-20",
+    "withdrawn": "2026-08-20"
+   },
+   "notes": [
+    "auto-screen: EE/power-systems application engineering function, not software"
    ]
   },
   "url:https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/niskayuna/engineering-intern---power-conversion---storage-ai-tool-developer--2027_r5049957-2": {
@@ -2854,6 +2880,32 @@
     "auto-screen: function+term"
    ]
   },
+  "url:https://jobs.smartrecruiters.com/boschgroup/744000144370279": {
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000144370279",
+   "company": "Bosch Group",
+   "title": "Electrochemistry Modeling Intern",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-20",
+    "withdrawn": "2026-08-20"
+   },
+   "notes": [
+    "auto-screen: graduate-degree-only, no undergrad path; electrochemistry modeling function"
+   ]
+  },
+  "url:https://jobs.smartrecruiters.com/boschgroup/744000144370429": {
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000144370429",
+   "company": "Bosch Group",
+   "title": "Engineering Intern - Proton Exchange Membrane Water Electrolysis",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-20",
+    "withdrawn": "2026-08-20"
+   },
+   "notes": [
+    "auto-screen: MS/PhD-only, no undergrad path; electrolysis lab function"
+   ]
+  },
   "url:https://jobs.smartrecruiters.com/infinitequant/744000143287594": {
    "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594",
    "company": "InfiniteQuant",
@@ -2861,6 +2913,18 @@
    "status": "interested",
    "history": {
     "interested": "2026-08-13"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
+  "url:https://jobs.smartrecruiters.com/infinitequant/744000144281579": {
+   "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000144281579",
+   "company": "InfiniteQuant",
+   "title": "Quantitative Developer Internship - Summer 2027",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-20"
    },
    "notes": [
     "scaffolded via new_application.py"
@@ -3285,6 +3349,54 @@
     "auto-screen: non-US (Shanghai/Beijing) + PhD-only + 2026 term"
    ]
   },
+  "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-internships--autonomous-vehicles-and-robotics_jr2023496": {
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Autonomous-Vehicles-and-Robotics_JR2023496",
+   "company": "nvidia",
+   "title": "NVIDIA 2027 Internships: Autonomous Vehicles and Robotics",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-20"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
+  "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-internships--computer-architecture_jr2023489": {
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Computer-Architecture_JR2023489",
+   "company": "nvidia",
+   "title": "NVIDIA 2027 Internships: Computer Architecture",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-20"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
+  "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-internships--deep-learning-computer-architecture_jr2023491": {
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491",
+   "company": "nvidia",
+   "title": "NVIDIA 2027 Internships: Deep Learning Computer Architecture",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-20"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
+  "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-internships--deep-learning_jr2023497-1": {
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1",
+   "company": "nvidia",
+   "title": "NVIDIA 2027 Internships: Deep Learning",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-20"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
   "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-internships--digital-circuit-design_jr2023504": {
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Digital-Circuit-Design_JR2023504",
    "company": "nvidia",
@@ -3478,6 +3590,18 @@
    },
    "notes": [
     "auto-screen: PhD-only"
+   ]
+  },
+  "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-internships--software-engineering_jr2023495": {
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495",
+   "company": "nvidia",
+   "title": "NVIDIA 2027 Internships: Software Engineering",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-20"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
    ]
   },
   "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-internships--systems-software-engineering_jr2023492": {

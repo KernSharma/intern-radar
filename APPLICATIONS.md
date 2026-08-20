@@ -1,6 +1,6 @@
 # Applications
 
-**363 tracked** — applied: 48 · interested: 106 · withdrawn: 209
+**373 tracked** — applied: 48 · interested: 112 · withdrawn: 213
 
 ## applied (48)
 
@@ -55,10 +55,16 @@
 | Circleback | [Software Engineer Intern](https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f/application?embed=true) | 2026-08-06 | fit 4/5 · full-stack SWE (AI meeting-notes product) |
 | CTGT | [Software Engineer Intern](https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application) | 2026-08-06 | fit 5/5 · backend / full-stack SWE (LLM governance platform) |
 
-## interested (106)
+## interested (112)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
+| InfiniteQuant | [Quantitative Developer Internship - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000144281579) | 2026-08-20 | scaffolded via new_application.py |
+| nvidia | [NVIDIA 2027 Internships: Autonomous Vehicles and Robotics](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Autonomous-Vehicles-and-Robotics_JR2023496) | 2026-08-20 | scaffolded via new_application.py |
+| nvidia | [NVIDIA 2027 Internships: Computer Architecture](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Computer-Architecture_JR2023489) | 2026-08-20 | scaffolded via new_application.py |
+| nvidia | [NVIDIA 2027 Internships: Deep Learning Computer Architecture](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491) | 2026-08-20 | scaffolded via new_application.py |
+| nvidia | [NVIDIA 2027 Internships: Deep Learning](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) | 2026-08-20 | scaffolded via new_application.py |
+| nvidia | [NVIDIA 2027 Internships: Software Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | 2026-08-20 | scaffolded via new_application.py |
 | Continental Resources | [Data Analyst Intern](https://clr.wd5.myworkdayjobs.com/CLR_Careers/job/Oklahoma-City-OK/Data-Analyst-Intern--Summer-2027-_R02591-1) | 2026-08-19 | scaffolded via new_application.py |
 | Garda Capital Partners | [Software Engineer Intern](https://job-boards.greenhouse.io/gardacp/jobs/6146213004) | 2026-08-19 | scaffolded via new_application.py |
 | nvidia | [NVIDIA 2027 Internships: Systems Software Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492) | 2026-08-19 | scaffolded via new_application.py |
@@ -166,10 +172,14 @@
 | Synchrony Financial | [BLP Intern - Data Analytics (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Data-Analytics_2601688) | 2026-08-04 | same intake as Tech sibling; analytics not SWE; verifier confirmed plausible 2027 cycle |
 | Synchrony Financial | [BLP Intern - Technology (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Technology_2601695-1) | 2026-08-04 | BEST BET: bachelor's-pursuing, no class-year bar, 10-wk Jun-Aug; likely 2027 intake (screened 8/4) |
 
-## withdrawn (209)
+## withdrawn (213)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
+| GE Vernova | [PCS Application Engineering Co-Op/Intern - Summer 2027 (confidential dup)](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Findlay-Township/PCS-Application-Engineering-Co-Op-Intern---Summer-2027_R5050417-1) | 2026-08-20 | auto-screen: duplicate of R5050417-2, byte-identical JD |
+| GE Vernova | [PCS Application Engineering Co-Op/Intern - Summer 2027](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Findlay-Township/PCS-Application-Engineering-Co-Op-Intern---Summer-2027_R5050417-2) | 2026-08-20 | auto-screen: EE/power-systems application engineering function, not software |
+| Bosch Group | [Electrochemistry Modeling Intern](https://jobs.smartrecruiters.com/BoschGroup/744000144370279) | 2026-08-20 | auto-screen: graduate-degree-only, no undergrad path; electrochemistry modeling function |
+| Bosch Group | [Engineering Intern - Proton Exchange Membrane Water Electrolysis](https://jobs.smartrecruiters.com/BoschGroup/744000144370429) | 2026-08-20 | auto-screen: MS/PhD-only, no undergrad path; electrolysis lab function |
 | Continental Resources | [Geoscience Intern](https://clr.wd5.myworkdayjobs.com/CLR_Careers/job/Oklahoma-City-OK/Geoscience-Intern--Summer-2027-_R02592-1) | 2026-08-19 | scaffolded via new_application.py; auto-screen: hardware/EE function |
 | American Express | [Software Engineer Intern - Enterprise Technology Services (Sunrise FL)](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011015) | 2026-08-19 | auto-screen: grad window Dec 2027 - June 2028 excludes May 2029 |
 | American Express | [Data Analytics Intern - Financial Crimes Risk & Controls (NYC)](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012627) | 2026-08-19 | auto-screen: grad window Dec 2027 - June 2028 excludes May 2029 |
