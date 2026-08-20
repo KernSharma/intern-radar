@@ -13,6 +13,18 @@
     "scaffolded via new_application.py"
    ]
   },
+  "url:https://alleghenycounty.bamboohr.com/careers/663": {
+   "url": "https://alleghenycounty.bamboohr.com/careers/663/",
+   "company": "Allegheny County",
+   "title": "Business Analytics Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-20"
+   },
+   "notes": [
+    "hand-scaffolded (BambooHR JSON API fetch)"
+   ]
+  },
   "url:https://ameren.wd1.myworkdayjobs.com/external/job/st-louis-mo/derms-co-op-intern_033809-1": {
    "url": "https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/DERMS-Co-Op-Intern_033809-1",
    "company": "Ameren",
@@ -1161,6 +1173,20 @@
     "auto-screen: returning-intern-only (RTX interns returning in 2027)"
    ]
   },
+  "url:https://globalhr.wd5.myworkdayjobs.com/fr-ca/private_posting_no_tmp/job/us-co-aurora-s75--16800-e-centretech-pkwy--bldg-s75/software-engineering-intern--summer-2027-_01867892": {
+   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineering-Intern--Summer-2027-_01867892",
+   "company": "RTX",
+   "title": "Software Engineer Intern - Summer 2027",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-20",
+    "withdrawn": "2026-08-20"
+   },
+   "notes": [
+    "auto-screen probe",
+    "auto-screen: returning-intern-only (Experience as an intern at Raytheon)"
+   ]
+  },
   "url:https://globalhr.wd5.myworkdayjobs.com/fr-ca/private_posting_no_tmp/job/us-ct-east-hartford-etc--400-main-st--bldg-etc/methods-intern---hot-section-engineering--summer-2027---onsite-_01864520": {
    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Methods-Intern---Hot-Section-Engineering--Summer-2027---Onsite-_01864520",
    "company": "RTX",
@@ -1275,6 +1301,18 @@
     "scaffolded via new_application.py"
    ]
   },
+  "url:https://globalhr.wd5.myworkdayjobs.com/fr-ca/private_posting_no_tmp/job/us-ma-tewksbury-tb3--50-apple-hill-dr--concord-bldg-tewksbury-tb3-300-concord/software-development-intern--summer-2027-_01867943": {
+   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01867943",
+   "company": "RTX",
+   "title": "Software Development Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-20"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
   "url:https://globalhr.wd5.myworkdayjobs.com/fr-ca/private_posting_no_tmp/job/us-ma-westford-wfd7--7-technology-park-dr--bldg-7/software-engineering-intern--summer-2027-_01867678": {
    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-WESTFORD-WFD7--7-Technology-Park-Dr--BLDG-7/Software-Engineering-Intern--Summer-2027-_01867678",
    "company": "RTX",
@@ -1337,6 +1375,20 @@
    "notes": [
     "scaffolded via new_application.py",
     "auto-screen: returning-intern-only (RTX interns returning in 2027)"
+   ]
+  },
+  "url:https://globalhr.wd5.myworkdayjobs.com/fr-ca/private_posting_no_tmp/job/us-va-sterling-291--22640-davis-dr--davis/software-engineering-intern--summer-2027-_01864691": {
+   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01864691",
+   "company": "RTX",
+   "title": "Software Engineer Intern - Summer 2027",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-20",
+    "withdrawn": "2026-08-20"
+   },
+   "notes": [
+    "auto-screen probe",
+    "auto-screen: returning-intern-only line"
    ]
   },
   "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ia-cedar-rapids-182--1100-cimmie-ave-ne--bldg-182/software-engineering-intern--summer-2027-_01864033": {
@@ -1426,6 +1478,20 @@
    },
    "notes": [
     "auto-screen: JD says 'For current/former HNTB Interns ONLY' - explicit eligibility bar"
+   ]
+  },
+  "url:https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/louisville-ky/humana-technology-internship---summer-2027--early-id-participants-_r-427451": {
+   "url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027--Early-ID-Participants-_R-427451",
+   "company": "Humana",
+   "title": "Technology Intern - Early ID Participants",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-20",
+    "withdrawn": "2026-08-20"
+   },
+   "notes": [
+    "auto-screen probe",
+    "auto-screen: Early ID Program participants only"
    ]
   },
   "url:https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/louisville-ky/humana-technology-internship---summer-2027_r-424692-1": {
@@ -1849,6 +1915,18 @@
    "status": "interested",
    "history": {
     "interested": "2026-08-19"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
+  "url:https://job-boards.greenhouse.io/generalmatter/jobs/5377118008": {
+   "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5377118008",
+   "company": "General Matter",
+   "title": "Software Engineering Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-20"
    },
    "notes": [
     "scaffolded via new_application.py"
@@ -2477,6 +2555,20 @@
    },
    "notes": [
     "auto-screen: must graduate before Summer 2028, excludes May 2029"
+   ]
+  },
+  "url:https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e": {
+   "url": "https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e",
+   "company": "notion",
+   "title": "Data Science Intern (Winter 2027)",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-20",
+    "withdrawn": "2026-08-20"
+   },
+   "notes": [
+    "auto-screen probe",
+    "auto-screen: grad before Dec 2027 + Winter term"
    ]
   },
   "url:https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8": {
@@ -3826,6 +3918,18 @@
     "auto-screen: 'Regions 2026 Interns only' full-time new-grad program; Kern never interned at Regions"
    ]
   },
+  "url:https://regions.wd5.myworkdayjobs.com/regions_careers/job/hoover-al---riverchase-operations-center-birmingham-al/xmlname-2027-etp-intern---technology--operations--digital--and-data---analytics_r105426": {
+   "url": "https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/XMLNAME-2027-ETP-Intern---Technology--Operations--Digital--and-Data---Analytics_R105426",
+   "company": "Regions Bank",
+   "title": "Technology, Operations, Digital, and Data Analytics Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-20"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
   "url:https://ryancompanies.wd5.myworkdayjobs.com/ryancompanies/job/minneapolis/business-intelligence-intern--mission-critical_r-101961": {
    "url": "https://ryancompanies.wd5.myworkdayjobs.com/ryancompanies/job/Minneapolis/Business-Intelligence-Intern--Mission-Critical_R-101961",
    "company": "Ryan Companies",
@@ -3935,6 +4039,20 @@
     "auto-screen: retail store-management function (Store Executive Intern)"
    ]
   },
+  "url:https://target.wd5.myworkdayjobs.com/targetcareers/job/10775-sw-beaverton-hillsdale-hwy-beavertonor-97005-3001/store-executive-intern--store-leadership-intern----west-portland--or--starting-summer-2027-_r0000450277": {
+   "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/10775-SW-Beaverton-Hillsdale-Hwy-BeavertonOR-97005-3001/Store-Executive-Intern--Store-Leadership-Intern----West-Portland--OR--Starting-Summer-2027-_R0000450277",
+   "company": "target",
+   "title": "Store Executive Intern (Store Leadership Intern) - West Portland, OR (R0000450277)",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-20",
+    "withdrawn": "2026-08-20"
+   },
+   "notes": [
+    "auto-screen probe",
+    "auto-screen: function: retail store-leadership program"
+   ]
+  },
   "url:https://target.wd5.myworkdayjobs.com/targetcareers/job/1100-s-willow-ave-cookevilletn-38501-4139/store-executive-intern--store-leadership-intern----knoxville--tn--starting-summer-2027-_r0000449839": {
    "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/1100-S-Willow-Ave-CookevilleTN-38501-4139/Store-Executive-Intern--Store-Leadership-Intern----Knoxville--TN--Starting-Summer-2027-_R0000449839",
    "company": "target",
@@ -3961,6 +4079,20 @@
     "auto-screen: [function] retail store-management internship (ETL/Assistant Store Manager preview), not software/data"
    ]
   },
+  "url:https://target.wd5.myworkdayjobs.com/targetcareers/job/1200-n-sepulveda-blvd-manhattan-beachca-90266-5104/store-executive-intern--store-leadership-intern----manhattan-beach--ca--starting-summer-2027-_r0000450296": {
+   "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/1200-N-Sepulveda-Blvd-Manhattan-BeachCA-90266-5104/Store-Executive-Intern--Store-Leadership-Intern----Manhattan-Beach--CA--Starting-Summer-2027-_R0000450296",
+   "company": "target",
+   "title": "Store Executive Intern (Store Leadership Intern) - Manhattan Beach, CA (R0000450296)",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-20",
+    "withdrawn": "2026-08-20"
+   },
+   "notes": [
+    "auto-screen probe",
+    "auto-screen: function: retail store-leadership program"
+   ]
+  },
   "url:https://target.wd5.myworkdayjobs.com/targetcareers/job/13711-s-tamiami-trl-fort-myersfl-33912-1649/store-executive-intern--store-leadership-intern----naples---ft-myers--fl--starting-summer-2027---_r0000448569": {
    "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/13711-S-Tamiami-Trl-Fort-MyersFL-33912-1649/Store-Executive-Intern--Store-Leadership-Intern----Naples---Ft-Myers--FL--Starting-Summer-2027---_R0000448569",
    "company": "target",
@@ -3985,6 +4117,48 @@
    },
    "notes": [
     "auto-screen: retail store-management function"
+   ]
+  },
+  "url:https://target.wd5.myworkdayjobs.com/targetcareers/job/205-s-clovis-ave-fresnoca-93727-4223/store-executive-intern--store-leadership-intern----fresno--ca--starting-summer-2027-_r0000450280": {
+   "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/205-S-Clovis-Ave-FresnoCA-93727-4223/Store-Executive-Intern--Store-Leadership-Intern----Fresno--CA--Starting-Summer-2027-_R0000450280",
+   "company": "target",
+   "title": "Store Executive Intern (Store Leadership Intern) - Fresno, CA (R0000450280)",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-20",
+    "withdrawn": "2026-08-20"
+   },
+   "notes": [
+    "auto-screen probe",
+    "auto-screen: function: retail store-leadership program"
+   ]
+  },
+  "url:https://target.wd5.myworkdayjobs.com/targetcareers/job/2255-s-el-camino-real-oceansideca-92054-6318/store-executive-intern--store-leadership-intern----san-diego-north-county--ca--starting-summer-2027-_r0000450297": {
+   "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/2255-S-El-Camino-Real-OceansideCA-92054-6318/Store-Executive-Intern--Store-Leadership-Intern----San-Diego-North-County--CA--Starting-Summer-2027-_R0000450297",
+   "company": "target",
+   "title": "Store Executive Intern (Store Leadership Intern) - San Diego North County, CA (R0000450297)",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-20",
+    "withdrawn": "2026-08-20"
+   },
+   "notes": [
+    "auto-screen probe",
+    "auto-screen: function: retail store-leadership program"
+   ]
+  },
+  "url:https://target.wd5.myworkdayjobs.com/targetcareers/job/2270-n-bellflower-blvd-long-beachca-90815-2017/store-executive-intern--store-leadership-intern----long-beach--ca--starting-summer-2027-_r0000450291": {
+   "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/2270-N-Bellflower-Blvd-Long-BeachCA-90815-2017/Store-Executive-Intern--Store-Leadership-Intern----Long-Beach--CA--Starting-Summer-2027-_R0000450291",
+   "company": "target",
+   "title": "Store Executive Intern (Store Leadership Intern) - Greater Long Beach, CA (R0000450291)",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-20",
+    "withdrawn": "2026-08-20"
+   },
+   "notes": [
+    "auto-screen probe",
+    "auto-screen: function: retail store-leadership program"
    ]
   },
   "url:https://target.wd5.myworkdayjobs.com/targetcareers/job/2310-metropolitan-pkwy-sterling-heights-mi-48310-4209/store-executive-intern--store-leadership-intern----detroit--mi--starting-summer-2027-_r0000448495": {
@@ -4052,6 +4226,62 @@
    },
    "notes": [
     "auto-screen: retail store-management function (Store Executive Intern)"
+   ]
+  },
+  "url:https://target.wd5.myworkdayjobs.com/targetcareers/job/3060-plaza-bonita-rd-national-city-ca-91950-8004/store-executive-intern--store-leadership-intern----southern-san-diego--ca--starting-summer-2027-_r0000450290": {
+   "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/3060-Plaza-Bonita-Rd-National-City-CA-91950-8004/Store-Executive-Intern--Store-Leadership-Intern----Southern-San-Diego--CA--Starting-Summer-2027-_R0000450290",
+   "company": "target",
+   "title": "Store Executive Intern (Store Leadership Intern) - Southern San Diego, CA (R0000450290)",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-20",
+    "withdrawn": "2026-08-20"
+   },
+   "notes": [
+    "auto-screen probe",
+    "auto-screen: function: retail store-leadership program"
+   ]
+  },
+  "url:https://target.wd5.myworkdayjobs.com/targetcareers/job/3471-w-century-blvd-inglewoodca-90301-1218/store-executive-intern--store-leadership-intern----south-west-of-los-angeles--ca--starting-summer-2027-_r0000450289": {
+   "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/3471-W-Century-Blvd-InglewoodCA-90301-1218/Store-Executive-Intern--Store-Leadership-Intern----South-West-of-Los-Angeles--CA--Starting-Summer-2027-_R0000450289",
+   "company": "target",
+   "title": "Store Executive Intern (Store Leadership Intern) - South/West of Los Angeles, CA (R0000450289)",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-20",
+    "withdrawn": "2026-08-20"
+   },
+   "notes": [
+    "auto-screen probe",
+    "auto-screen: function: retail store-leadership program"
+   ]
+  },
+  "url:https://target.wd5.myworkdayjobs.com/targetcareers/job/4575-w-11th-ave-eugeneor-97402-5442/store-executive-intern--store-leadership-intern----eugene--or--starting-summer-2027-_r0000450275": {
+   "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/4575-W-11th-Ave-EugeneOR-97402-5442/Store-Executive-Intern--Store-Leadership-Intern----Eugene--OR--Starting-Summer-2027-_R0000450275",
+   "company": "target",
+   "title": "Store Executive Intern (Store Leadership Intern) - Eugene, OR (R0000450275)",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-20",
+    "withdrawn": "2026-08-20"
+   },
+   "notes": [
+    "auto-screen probe",
+    "auto-screen: function: retail store-leadership program"
+   ]
+  },
+  "url:https://target.wd5.myworkdayjobs.com/targetcareers/job/4601-2nd-st-davisca-95618-9446/store-executive-intern--store-leadership-intern----north---west-sacramento--ca--starting-summer-2027-_r0000450285": {
+   "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/4601-2nd-St-DavisCA-95618-9446/Store-Executive-Intern--Store-Leadership-Intern----North---West-Sacramento--CA--Starting-Summer-2027-_R0000450285",
+   "company": "target",
+   "title": "Store Executive Intern (Store Leadership Intern) - North/West of Sacramento, CA (R0000450285)",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-20",
+    "withdrawn": "2026-08-20"
+   },
+   "notes": [
+    "auto-screen probe",
+    "auto-screen: function: retail store-leadership program"
    ]
   },
   "url:https://target.wd5.myworkdayjobs.com/targetcareers/job/6090a-garners-ferry-rd-columbiasc-29209-0600/store-executive-intern--store-leadership-intern----columbia---greenville---seneca--sc--starting-summer-2027---_r0000449289": {
@@ -4732,6 +4962,30 @@
    "history": {
     "interested": "2026-08-08",
     "applied": "2026-08-12"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
+  "url:https://www.verition.com/open-positions?gh_jid=5214784007": {
+   "url": "https://www.verition.com/open-positions?gh_jid=5214784007",
+   "company": "Verition Fund Management",
+   "title": "Technology Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-20"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
+  "url:https://www.zipline.com/open-roles?gh_jid=7904720003": {
+   "url": "https://www.zipline.com/open-roles?gh_jid=7904720003",
+   "company": "Zipline",
+   "title": "Computational Physics Intern - Summer 2027",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-20"
    },
    "notes": [
     "scaffolded via new_application.py"

@@ -1,6 +1,6 @@
 # Applications
 
-**373 tracked** — applied: 48 · interested: 112 · withdrawn: 213
+**392 tracked** — applied: 48 · interested: 118 · withdrawn: 226
 
 ## applied (48)
 
@@ -55,16 +55,22 @@
 | Circleback | [Software Engineer Intern](https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f/application?embed=true) | 2026-08-06 | fit 4/5 · full-stack SWE (AI meeting-notes product) |
 | CTGT | [Software Engineer Intern](https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application) | 2026-08-06 | fit 5/5 · backend / full-stack SWE (LLM governance platform) |
 
-## interested (112)
+## interested (118)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
+| Allegheny County | [Business Analytics Intern](https://alleghenycounty.bamboohr.com/careers/663/) | 2026-08-20 | hand-scaffolded (BambooHR JSON API fetch) |
+| RTX | [Software Development Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01867943) | 2026-08-20 | scaffolded via new_application.py |
+| General Matter | [Software Engineering Intern](https://job-boards.greenhouse.io/generalmatter/jobs/5377118008) | 2026-08-20 | scaffolded via new_application.py |
 | InfiniteQuant | [Quantitative Developer Internship - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000144281579) | 2026-08-20 | scaffolded via new_application.py |
 | nvidia | [NVIDIA 2027 Internships: Autonomous Vehicles and Robotics](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Autonomous-Vehicles-and-Robotics_JR2023496) | 2026-08-20 | scaffolded via new_application.py |
 | nvidia | [NVIDIA 2027 Internships: Computer Architecture](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Computer-Architecture_JR2023489) | 2026-08-20 | scaffolded via new_application.py |
 | nvidia | [NVIDIA 2027 Internships: Deep Learning Computer Architecture](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491) | 2026-08-20 | scaffolded via new_application.py |
 | nvidia | [NVIDIA 2027 Internships: Deep Learning](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) | 2026-08-20 | scaffolded via new_application.py |
 | nvidia | [NVIDIA 2027 Internships: Software Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | 2026-08-20 | scaffolded via new_application.py |
+| Regions Bank | [Technology, Operations, Digital, and Data Analytics Intern](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/XMLNAME-2027-ETP-Intern---Technology--Operations--Digital--and-Data---Analytics_R105426) | 2026-08-20 | scaffolded via new_application.py |
+| Verition Fund Management | [Technology Intern](https://www.verition.com/open-positions?gh_jid=5214784007) | 2026-08-20 | scaffolded via new_application.py |
+| Zipline | [Computational Physics Intern - Summer 2027](https://www.zipline.com/open-roles?gh_jid=7904720003) | 2026-08-20 | scaffolded via new_application.py |
 | Continental Resources | [Data Analyst Intern](https://clr.wd5.myworkdayjobs.com/CLR_Careers/job/Oklahoma-City-OK/Data-Analyst-Intern--Summer-2027-_R02591-1) | 2026-08-19 | scaffolded via new_application.py |
 | Garda Capital Partners | [Software Engineer Intern](https://job-boards.greenhouse.io/gardacp/jobs/6146213004) | 2026-08-19 | scaffolded via new_application.py |
 | nvidia | [NVIDIA 2027 Internships: Systems Software Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492) | 2026-08-19 | scaffolded via new_application.py |
@@ -172,14 +178,27 @@
 | Synchrony Financial | [BLP Intern - Data Analytics (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Data-Analytics_2601688) | 2026-08-04 | same intake as Tech sibling; analytics not SWE; verifier confirmed plausible 2027 cycle |
 | Synchrony Financial | [BLP Intern - Technology (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Technology_2601695-1) | 2026-08-04 | BEST BET: bachelor's-pursuing, no class-year bar, 10-wk Jun-Aug; likely 2027 intake (screened 8/4) |
 
-## withdrawn (213)
+## withdrawn (226)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
 | GE Vernova | [PCS Application Engineering Co-Op/Intern - Summer 2027 (confidential dup)](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Findlay-Township/PCS-Application-Engineering-Co-Op-Intern---Summer-2027_R5050417-1) | 2026-08-20 | auto-screen: duplicate of R5050417-2, byte-identical JD |
 | GE Vernova | [PCS Application Engineering Co-Op/Intern - Summer 2027](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Findlay-Township/PCS-Application-Engineering-Co-Op-Intern---Summer-2027_R5050417-2) | 2026-08-20 | auto-screen: EE/power-systems application engineering function, not software |
+| RTX | [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineering-Intern--Summer-2027-_01867892) | 2026-08-20 | auto-screen probe; auto-screen: returning-intern-only (Experience as an intern at Raytheon) |
+| RTX | [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01864691) | 2026-08-20 | auto-screen probe; auto-screen: returning-intern-only line |
+| Humana | [Technology Intern - Early ID Participants](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027--Early-ID-Participants-_R-427451) | 2026-08-20 | auto-screen probe; auto-screen: Early ID Program participants only |
+| notion | [Data Science Intern (Winter 2027)](https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e) | 2026-08-20 | auto-screen probe; auto-screen: grad before Dec 2027 + Winter term |
 | Bosch Group | [Electrochemistry Modeling Intern](https://jobs.smartrecruiters.com/BoschGroup/744000144370279) | 2026-08-20 | auto-screen: graduate-degree-only, no undergrad path; electrochemistry modeling function |
 | Bosch Group | [Engineering Intern - Proton Exchange Membrane Water Electrolysis](https://jobs.smartrecruiters.com/BoschGroup/744000144370429) | 2026-08-20 | auto-screen: MS/PhD-only, no undergrad path; electrolysis lab function |
+| target | [Store Executive Intern (Store Leadership Intern) - West Portland, OR (R0000450277)](https://target.wd5.myworkdayjobs.com/targetcareers/job/10775-SW-Beaverton-Hillsdale-Hwy-BeavertonOR-97005-3001/Store-Executive-Intern--Store-Leadership-Intern----West-Portland--OR--Starting-Summer-2027-_R0000450277) | 2026-08-20 | auto-screen probe; auto-screen: function: retail store-leadership program |
+| target | [Store Executive Intern (Store Leadership Intern) - Manhattan Beach, CA (R0000450296)](https://target.wd5.myworkdayjobs.com/targetcareers/job/1200-N-Sepulveda-Blvd-Manhattan-BeachCA-90266-5104/Store-Executive-Intern--Store-Leadership-Intern----Manhattan-Beach--CA--Starting-Summer-2027-_R0000450296) | 2026-08-20 | auto-screen probe; auto-screen: function: retail store-leadership program |
+| target | [Store Executive Intern (Store Leadership Intern) - Fresno, CA (R0000450280)](https://target.wd5.myworkdayjobs.com/targetcareers/job/205-S-Clovis-Ave-FresnoCA-93727-4223/Store-Executive-Intern--Store-Leadership-Intern----Fresno--CA--Starting-Summer-2027-_R0000450280) | 2026-08-20 | auto-screen probe; auto-screen: function: retail store-leadership program |
+| target | [Store Executive Intern (Store Leadership Intern) - San Diego North County, CA (R0000450297)](https://target.wd5.myworkdayjobs.com/targetcareers/job/2255-S-El-Camino-Real-OceansideCA-92054-6318/Store-Executive-Intern--Store-Leadership-Intern----San-Diego-North-County--CA--Starting-Summer-2027-_R0000450297) | 2026-08-20 | auto-screen probe; auto-screen: function: retail store-leadership program |
+| target | [Store Executive Intern (Store Leadership Intern) - Greater Long Beach, CA (R0000450291)](https://target.wd5.myworkdayjobs.com/targetcareers/job/2270-N-Bellflower-Blvd-Long-BeachCA-90815-2017/Store-Executive-Intern--Store-Leadership-Intern----Long-Beach--CA--Starting-Summer-2027-_R0000450291) | 2026-08-20 | auto-screen probe; auto-screen: function: retail store-leadership program |
+| target | [Store Executive Intern (Store Leadership Intern) - Southern San Diego, CA (R0000450290)](https://target.wd5.myworkdayjobs.com/targetcareers/job/3060-Plaza-Bonita-Rd-National-City-CA-91950-8004/Store-Executive-Intern--Store-Leadership-Intern----Southern-San-Diego--CA--Starting-Summer-2027-_R0000450290) | 2026-08-20 | auto-screen probe; auto-screen: function: retail store-leadership program |
+| target | [Store Executive Intern (Store Leadership Intern) - South/West of Los Angeles, CA (R0000450289)](https://target.wd5.myworkdayjobs.com/targetcareers/job/3471-W-Century-Blvd-InglewoodCA-90301-1218/Store-Executive-Intern--Store-Leadership-Intern----South-West-of-Los-Angeles--CA--Starting-Summer-2027-_R0000450289) | 2026-08-20 | auto-screen probe; auto-screen: function: retail store-leadership program |
+| target | [Store Executive Intern (Store Leadership Intern) - Eugene, OR (R0000450275)](https://target.wd5.myworkdayjobs.com/targetcareers/job/4575-W-11th-Ave-EugeneOR-97402-5442/Store-Executive-Intern--Store-Leadership-Intern----Eugene--OR--Starting-Summer-2027-_R0000450275) | 2026-08-20 | auto-screen probe; auto-screen: function: retail store-leadership program |
+| target | [Store Executive Intern (Store Leadership Intern) - North/West of Sacramento, CA (R0000450285)](https://target.wd5.myworkdayjobs.com/targetcareers/job/4601-2nd-St-DavisCA-95618-9446/Store-Executive-Intern--Store-Leadership-Intern----North---West-Sacramento--CA--Starting-Summer-2027-_R0000450285) | 2026-08-20 | auto-screen probe; auto-screen: function: retail store-leadership program |
 | Continental Resources | [Geoscience Intern](https://clr.wd5.myworkdayjobs.com/CLR_Careers/job/Oklahoma-City-OK/Geoscience-Intern--Summer-2027-_R02592-1) | 2026-08-19 | scaffolded via new_application.py; auto-screen: hardware/EE function |
 | American Express | [Software Engineer Intern - Enterprise Technology Services (Sunrise FL)](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011015) | 2026-08-19 | auto-screen: grad window Dec 2027 - June 2028 excludes May 2029 |
 | American Express | [Data Analytics Intern - Financial Crimes Risk & Controls (NYC)](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012627) | 2026-08-19 | auto-screen: grad window Dec 2027 - June 2028 excludes May 2029 |
