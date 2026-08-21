@@ -1,6 +1,6 @@
 # Applications
 
-**439 tracked** — applied: 48 · interested: 140 · withdrawn: 251
+**440 tracked** — applied: 48 · interested: 140 · withdrawn: 252
 
 ## applied (48)
 
@@ -200,7 +200,7 @@
 | Synchrony Financial | [BLP Intern - Data Analytics (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Data-Analytics_2601688) | 2026-08-04 | same intake as Tech sibling; analytics not SWE; verifier confirmed plausible 2027 cycle |
 | Synchrony Financial | [BLP Intern - Technology (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Technology_2601695-1) | 2026-08-04 | BEST BET: bachelor's-pursuing, no class-year bar, 10-wk Jun-Aug; likely 2027 intake (screened 8/4) |
 
-## withdrawn (251)
+## withdrawn (252)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
@@ -213,6 +213,7 @@
 | LLNL | [Computational Engineering Division Graduate Intern - Summer 2027](https://jobs.smartrecruiters.com/LLNL/3743990014730886) | 2026-08-21 | auto-screen: grad-only, no undergrad path |
 | LLNL | [Materials Science Division Graduate Intern - Winter/Spring 2027](https://jobs.smartrecruiters.com/LLNL/3743990014731026) | 2026-08-21 | auto-screen: grad-only + Winter/Spring term |
 | LLNL | [NSED Graduate Intern - Summer 2027](https://jobs.smartrecruiters.com/LLNL/3743990014731646) | 2026-08-21 | auto-screen: grad-only, no undergrad path |
+| Marsh | [Government Health Consulting Informatics Intern - College Program](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Phoenix---E-Camelback/Government-Health-Consulting-Informatics-Summer-Intern---College-Program-2027_R_362073) | 2026-08-21 | auto-screen: grad window 'December 2027 or Spring 2028' excludes May 2029 |
 | target | [Financial Analyst Intern - Minneapolis MN](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Financial-Analyst-Intern----Minneapolis--MN--Starting-Summer--2027-_R0000450574) | 2026-08-21 | auto-screen: finance function - Finance or Accounting degree |
 | target | [Store Executive Intern - Northern Seattle WA](https://target.wd5.myworkdayjobs.com/targetcareers/job/13950-NE-178th-PlSte-100-WoodinvilleWA-98072-3523/Store-Executive-Intern--Store-Leadership-Intern----Northern-Seattle--WA--Starting-Summer-2027-_R0000450583) | 2026-08-21 | auto-screen: retail store-leadership function |
 | target | [Store Executive Intern - Greater Phoenix AZ](https://target.wd5.myworkdayjobs.com/targetcareers/job/1625-E-Camelback-Rd-PhoenixAZ-85016-3901/Store-Executive-Intern--Store-Leadership-Intern----Greater-Phoenix--AZ--Starting-Summer-2027-_R0000450585) | 2026-08-21 | auto-screen: retail store-leadership function |
