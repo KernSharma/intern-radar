@@ -1,6 +1,6 @@
 # Applications
 
-**403 tracked** — applied: 48 · interested: 122 · withdrawn: 233
+**406 tracked** — applied: 48 · interested: 124 · withdrawn: 234
 
 ## applied (48)
 
@@ -55,10 +55,12 @@
 | Circleback | [Software Engineer Intern](https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f/application?embed=true) | 2026-08-06 | fit 4/5 · full-stack SWE (AI meeting-notes product) |
 | CTGT | [Software Engineer Intern](https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application) | 2026-08-06 | fit 5/5 · backend / full-stack SWE (LLM governance platform) |
 
-## interested (122)
+## interested (124)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
+| CNO Financial Group | [Reporting Analyst Intern](https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/Summer-2027-Reporting-Analyst-Intern-2027---REMOTE-from-any-US-based-location_JR170455) | 2026-08-21 | scaffolded via new_application.py |
+| Zipline | [Perception Intern - Summer 2027](https://www.zipline.com/open-roles?gh_jid=7909570003) | 2026-08-21 | scaffolded via new_application.py |
 | Allegheny County | [Business Analytics Intern](https://alleghenycounty.bamboohr.com/careers/663/) | 2026-08-20 | hand-scaffolded (BambooHR JSON API fetch) |
 | Epic Games | [Tools Programmer Intern](https://epicgames.com/careers/jobs/6147167004?gh_jid=6147167004) | 2026-08-20 | scaffolded via new_application.py |
 | Fifth Third Bank | [Software Engineer Co-op - Enterprise Finance Applications - Summer 2027](https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Summer-2027_R71588) | 2026-08-20 | scaffolded via new_application.py |
@@ -72,9 +74,9 @@
 | nvidia | [NVIDIA 2027 Internships: Deep Learning](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) | 2026-08-20 | scaffolded via new_application.py |
 | nvidia | [NVIDIA 2027 Internships: Software Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | 2026-08-20 | scaffolded via new_application.py |
 | Regions Bank | [Technology, Operations, Digital, and Data Analytics Intern](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/XMLNAME-2027-ETP-Intern---Technology--Operations--Digital--and-Data---Analytics_R105426) | 2026-08-20 | scaffolded via new_application.py |
+| Devon Energy | [Technology Intern - Data Engineering](https://wd5.myworkdaysite.com/en-US/recruiting/devonenergy/Careers/job/Oklahoma-City-OK/Technology-Summer-Intern-2027_R26264-1) | 2026-08-20 |  |
 | Verition Fund Management | [Technology Intern](https://www.verition.com/open-positions?gh_jid=5214784007) | 2026-08-20 | scaffolded via new_application.py |
 | Zipline | [Computational Physics Intern - Summer 2027](https://www.zipline.com/open-roles?gh_jid=7904720003) | 2026-08-20 | scaffolded via new_application.py |
-| Devon Energy | [Technology Intern - Data Engineering](https://wd5.myworkdaysite.com/en-US/recruiting/devonenergy/Careers/job/Oklahoma-City-OK/Technology-Summer-Intern-2027_R26264-1) | 2026-08-20 |  |
 | Continental Resources | [Data Analyst Intern](https://clr.wd5.myworkdayjobs.com/CLR_Careers/job/Oklahoma-City-OK/Data-Analyst-Intern--Summer-2027-_R02591-1) | 2026-08-19 | scaffolded via new_application.py |
 | Garda Capital Partners | [Software Engineer Intern](https://job-boards.greenhouse.io/gardacp/jobs/6146213004) | 2026-08-19 | scaffolded via new_application.py |
 | nvidia | [NVIDIA 2027 Internships: Systems Software Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492) | 2026-08-19 | scaffolded via new_application.py |
@@ -182,10 +184,11 @@
 | Synchrony Financial | [BLP Intern - Data Analytics (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Data-Analytics_2601688) | 2026-08-04 | same intake as Tech sibling; analytics not SWE; verifier confirmed plausible 2027 cycle |
 | Synchrony Financial | [BLP Intern - Technology (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Technology_2601695-1) | 2026-08-04 | BEST BET: bachelor's-pursuing, no class-year bar, 10-wk Jun-Aug; likely 2027 intake (screened 8/4) |
 
-## withdrawn (233)
+## withdrawn (234)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
+| Databricks | [Software Engineering Intern (2027 Start) - Winter](https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002) | 2026-08-21 | auto-screen: Winter-2027-only term + fall 2027/spring 2028 grad window |
 | Epic Games | [Tech Art Intern](https://epicgames.com/careers/jobs/6147154004?gh_jid=6147154004) | 2026-08-20 | auto-screen: technical-art function, DCC/portfolio must-haves unmet |
 | Fannie Mae | [Data Science Intern - Analytics & Modeling Program](https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Data-Science-Intern--Analytics---Modeling-Program-_JR2815) | 2026-08-20 | auto-screen: grad window Spring 2028 excludes May 2029 |
 | GE Vernova | [PCS Application Engineering Co-Op/Intern - Summer 2027 (confidential dup)](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Findlay-Township/PCS-Application-Engineering-Co-Op-Intern---Summer-2027_R5050417-1) | 2026-08-20 | auto-screen: duplicate of R5050417-2, byte-identical JD |
