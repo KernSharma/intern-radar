@@ -1,6 +1,6 @@
 # Applications
 
-**415 tracked** — applied: 48 · interested: 130 · withdrawn: 237
+**422 tracked** — applied: 48 · interested: 137 · withdrawn: 237
 
 ## applied (48)
 
@@ -55,18 +55,25 @@
 | Circleback | [Software Engineer Intern](https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f/application?embed=true) | 2026-08-06 | fit 4/5 · full-stack SWE (AI meeting-notes product) |
 | CTGT | [Software Engineer Intern](https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application) | 2026-08-06 | fit 5/5 · backend / full-stack SWE (LLM governance platform) |
 
-## interested (130)
+## interested (137)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
 | Auto-Owners Insurance | [Predictive Modeler Intern - Summer 2027](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Predictive-Modeler-Intern---Summer-2022_R_3833) | 2026-08-21 | scaffolded via new_application.py |
+| AMD | [Software Engineer Intern/Co-op](https://careers.amd.com/jobs/90891?icims=1) | 2026-08-21 | scaffolded manually (careers.amd.com unsupported host; JD via page JSON-LD) |
+| AMD | [Machine Learning Intern/Co-op - Machine Learning - Artificial Intelligence](https://careers.amd.com/jobs/90892?icims=1) | 2026-08-21 | scaffolded manually (careers.amd.com unsupported host; JD via page JSON-LD) |
+| AMD | [Data Analyst Intern/Co-op](https://careers.amd.com/jobs/90895?icims=1) | 2026-08-21 | scaffolded manually (careers.amd.com unsupported host; JD via page JSON-LD) |
+| AMD | [Software Engineer Intern/Co-op](https://careers.amd.com/jobs/90947?icims=1) | 2026-08-21 | scaffolded manually (careers.amd.com unsupported host; JD via page JSON-LD) |
+| AMD | [Machine Learning Intern/Co-op - Multiple Teams](https://careers.amd.com/jobs/91170?icims=1) | 2026-08-21 | scaffolded manually (careers.amd.com unsupported host; JD via page JSON-LD) |
+| AMD | [Data Analyst Intern/Co-op](https://careers.amd.com/jobs/91175?icims=1) | 2026-08-21 | scaffolded manually (careers.amd.com unsupported host; JD via page JSON-LD) |
 | CNO Financial Group | [Reporting Analyst Intern](https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/Summer-2027-Reporting-Analyst-Intern-2027---REMOTE-from-any-US-based-location_JR170455) | 2026-08-21 | scaffolded via new_application.py |
 | LLNL | [National Security Engineering Division (NSED) Undergraduate Intern - Summer 2027](https://jobs.smartrecruiters.com/LLNL/3743990014731656) | 2026-08-21 | scaffolded via new_application.py |
 | Vanguard | [Data Analyst Intern - College to Corporate IT](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Analyst--NC-_181767) | 2026-08-21 | scaffolded via new_application.py |
 | Vanguard | [Data Science Intern - College to Corporate IT](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_181765) | 2026-08-21 | scaffolded via new_application.py |
 | Vanguard | [Data Science Intern - Information Technology](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_181766) | 2026-08-21 | scaffolded via new_application.py |
-| Zipline | [Perception Intern - Summer 2027](https://www.zipline.com/open-roles?gh_jid=7909570003) | 2026-08-21 | scaffolded via new_application.py |
 | IMEG | [Innovation Services Intern](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/St-Louis-MO/Innovation-Services-Intern---St-Louis--MO_R-16449-1) | 2026-08-21 |  |
+| Zipline | [Perception Intern - Summer 2027](https://www.zipline.com/open-roles?gh_jid=7909570003) | 2026-08-21 | scaffolded via new_application.py |
+| AMD | [Product Development Engineer Intern/Co-op](https://careers.amd.com/jobs/91227?icims=1) | 2026-08-21 | scaffolded manually (careers.amd.com unsupported host; JD via page JSON-LD) |
 | Allegheny County | [Business Analytics Intern](https://alleghenycounty.bamboohr.com/careers/663/) | 2026-08-20 | hand-scaffolded (BambooHR JSON API fetch) |
 | Epic Games | [Tools Programmer Intern](https://epicgames.com/careers/jobs/6147167004?gh_jid=6147167004) | 2026-08-20 | scaffolded via new_application.py |
 | Fifth Third Bank | [Software Engineer Co-op - Enterprise Finance Applications - Summer 2027](https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Summer-2027_R71588) | 2026-08-20 | scaffolded via new_application.py |
