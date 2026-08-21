@@ -53,6 +53,18 @@
     "auto-screen: term — only Jan-Aug 2027 and May-Dec 2027 eight-month co-ops offered, neither is Summer 2027"
    ]
   },
+  "url:https://aoins.wd5.myworkdayjobs.com/autoowners/job/lansing-mi/predictive-modeler-intern---summer-2022_r_3833": {
+   "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Predictive-Modeler-Intern---Summer-2022_R_3833",
+   "company": "Auto-Owners Insurance",
+   "title": "Predictive Modeler Intern - Summer 2027",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-21"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
   "url:https://apply.deloitte.com/en_us/careers/jobdetail/consultative-offerings-government-public-services-summer-scholar-ai-and-data-engineering/362479": {
    "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-AI-and-Data-Engineering/362479",
    "company": "Deloitte",
@@ -3214,6 +3226,57 @@
     "auto-screen: Spring 2027 masters/PhD term (Jan 11-May 21 2027), policy-research fields"
    ]
   },
+  "url:https://jobs.smartrecruiters.com/llnl/3743990014730886": {
+   "url": "https://jobs.smartrecruiters.com/LLNL/3743990014730886",
+   "company": "LLNL",
+   "title": "Computational Engineering Division Graduate Intern - Summer 2027",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-21",
+    "withdrawn": "2026-08-21"
+   },
+   "notes": [
+    "auto-screen: grad-only, no undergrad path"
+   ]
+  },
+  "url:https://jobs.smartrecruiters.com/llnl/3743990014731026": {
+   "url": "https://jobs.smartrecruiters.com/LLNL/3743990014731026",
+   "company": "LLNL",
+   "title": "Materials Science Division Graduate Intern - Winter/Spring 2027",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-21",
+    "withdrawn": "2026-08-21"
+   },
+   "notes": [
+    "auto-screen: grad-only + Winter/Spring term"
+   ]
+  },
+  "url:https://jobs.smartrecruiters.com/llnl/3743990014731646": {
+   "url": "https://jobs.smartrecruiters.com/LLNL/3743990014731646",
+   "company": "LLNL",
+   "title": "NSED Graduate Intern - Summer 2027",
+   "status": "withdrawn",
+   "history": {
+    "interested": "2026-08-21",
+    "withdrawn": "2026-08-21"
+   },
+   "notes": [
+    "auto-screen: grad-only, no undergrad path"
+   ]
+  },
+  "url:https://jobs.smartrecruiters.com/llnl/3743990014731656": {
+   "url": "https://jobs.smartrecruiters.com/LLNL/3743990014731656",
+   "company": "LLNL",
+   "title": "National Security Engineering Division (NSED) Undergraduate Intern - Summer 2027",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-21"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
   "url:https://jobs.smartrecruiters.com/rrsgroup/744000133857769": {
    "url": "https://jobs.smartrecruiters.com/RRSGroup/744000133857769",
    "company": "RRS Group",
@@ -4621,6 +4684,18 @@
     "scaffolded via new_application.py"
    ]
   },
+  "url:https://vanguard.wd5.myworkdayjobs.com/en-us/vanguard_external/job/charlotte-nc/college-to-corporate-it-internship---data-analyst--nc-_181767": {
+   "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Analyst--NC-_181767",
+   "company": "Vanguard",
+   "title": "Data Analyst Intern - College to Corporate IT",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-21"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
   "url:https://vanguard.wd5.myworkdayjobs.com/en-us/vanguard_external/job/charlotte-nc/college-to-corporate-it-internship---data-science--nc-_177682-1": {
    "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_177682-1",
    "company": "Vanguard",
@@ -4628,6 +4703,18 @@
    "status": "interested",
    "history": {
     "interested": "2026-08-18"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
+  "url:https://vanguard.wd5.myworkdayjobs.com/en-us/vanguard_external/job/charlotte-nc/college-to-corporate-it-internship---data-science--nc-_181765": {
+   "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_181765",
+   "company": "Vanguard",
+   "title": "Data Science Intern - College to Corporate IT",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-21"
    },
    "notes": [
     "scaffolded via new_application.py"
@@ -4656,6 +4743,28 @@
    "notes": [
     "scaffolded via new_application.py"
    ]
+  },
+  "url:https://vanguard.wd5.myworkdayjobs.com/en-us/vanguard_external/job/malvern-pa/college-to-corporate-it-internship---data-science--pa-_181766": {
+   "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_181766",
+   "company": "Vanguard",
+   "title": "Data Science Intern - Information Technology",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-21"
+   },
+   "notes": [
+    "scaffolded via new_application.py"
+   ]
+  },
+  "url:https://wd1.myworkdaysite.com/recruiting/imeg/imeg_careers/job/st-louis-mo/innovation-services-intern---st-louis--mo_r-16449-1": {
+   "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/St-Louis-MO/Innovation-Services-Intern---St-Louis--MO_R-16449-1",
+   "company": "IMEG",
+   "title": "Innovation Services Intern",
+   "status": "interested",
+   "history": {
+    "interested": "2026-08-21"
+   },
+   "notes": []
   },
   "url:https://wd5.myworkdaysite.com/en-us/recruiting/devonenergy/careers/job/oklahoma-city-ok/technology-summer-intern-2027_r26264-1": {
    "url": "https://wd5.myworkdaysite.com/en-US/recruiting/devonenergy/Careers/job/Oklahoma-City-OK/Technology-Summer-Intern-2027_R26264-1",
