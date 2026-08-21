@@ -1,6 +1,6 @@
 # Applications
 
-**422 tracked** — applied: 48 · interested: 137 · withdrawn: 237
+**439 tracked** — applied: 48 · interested: 140 · withdrawn: 251
 
 ## applied (48)
 
@@ -55,7 +55,7 @@
 | Circleback | [Software Engineer Intern](https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f/application?embed=true) | 2026-08-06 | fit 4/5 · full-stack SWE (AI meeting-notes product) |
 | CTGT | [Software Engineer Intern](https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application) | 2026-08-06 | fit 5/5 · backend / full-stack SWE (LLM governance platform) |
 
-## interested (137)
+## interested (140)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
@@ -66,14 +66,17 @@
 | AMD | [Software Engineer Intern/Co-op](https://careers.amd.com/jobs/90947?icims=1) | 2026-08-21 | scaffolded manually (careers.amd.com unsupported host; JD via page JSON-LD) |
 | AMD | [Machine Learning Intern/Co-op - Multiple Teams](https://careers.amd.com/jobs/91170?icims=1) | 2026-08-21 | scaffolded manually (careers.amd.com unsupported host; JD via page JSON-LD) |
 | AMD | [Data Analyst Intern/Co-op](https://careers.amd.com/jobs/91175?icims=1) | 2026-08-21 | scaffolded manually (careers.amd.com unsupported host; JD via page JSON-LD) |
+| AMD | [Product Development Engineer Intern/Co-op](https://careers.amd.com/jobs/91227?icims=1) | 2026-08-21 | scaffolded manually (careers.amd.com unsupported host; JD via page JSON-LD) |
 | CNO Financial Group | [Reporting Analyst Intern](https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/Summer-2027-Reporting-Analyst-Intern-2027---REMOTE-from-any-US-based-location_JR170455) | 2026-08-21 | scaffolded via new_application.py |
 | LLNL | [National Security Engineering Division (NSED) Undergraduate Intern - Summer 2027](https://jobs.smartrecruiters.com/LLNL/3743990014731656) | 2026-08-21 | scaffolded via new_application.py |
+| LPL Financial Holdings | [Data Analytics Intern - FAR Program](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Intern-2027---FAR-Program---Data-Analytics_R-052053) | 2026-08-21 | scaffolded via new_application.py |
+| LPL Financial Holdings | [Internal Audit Intern - Multiple Teams](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Intern-2027---FAR-Program---Internal-Audit---Data-Analytics_R-053198) | 2026-08-21 | scaffolded via new_application.py |
 | Vanguard | [Data Analyst Intern - College to Corporate IT](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Analyst--NC-_181767) | 2026-08-21 | scaffolded via new_application.py |
 | Vanguard | [Data Science Intern - College to Corporate IT](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_181765) | 2026-08-21 | scaffolded via new_application.py |
 | Vanguard | [Data Science Intern - Information Technology](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_181766) | 2026-08-21 | scaffolded via new_application.py |
 | IMEG | [Innovation Services Intern](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/St-Louis-MO/Innovation-Services-Intern---St-Louis--MO_R-16449-1) | 2026-08-21 |  |
 | Zipline | [Perception Intern - Summer 2027](https://www.zipline.com/open-roles?gh_jid=7909570003) | 2026-08-21 | scaffolded via new_application.py |
-| AMD | [Product Development Engineer Intern/Co-op](https://careers.amd.com/jobs/91227?icims=1) | 2026-08-21 | scaffolded manually (careers.amd.com unsupported host; JD via page JSON-LD) |
+| Zipline | [Software Engineer Intern - Summer 2027](https://www.zipline.com/open-roles?gh_jid=7929236003) | 2026-08-21 | scaffolded via new_application.py |
 | Allegheny County | [Business Analytics Intern](https://alleghenycounty.bamboohr.com/careers/663/) | 2026-08-20 | hand-scaffolded (BambooHR JSON API fetch) |
 | Epic Games | [Tools Programmer Intern](https://epicgames.com/careers/jobs/6147167004?gh_jid=6147167004) | 2026-08-20 | scaffolded via new_application.py |
 | Fifth Third Bank | [Software Engineer Co-op - Enterprise Finance Applications - Summer 2027](https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Summer-2027_R71588) | 2026-08-20 | scaffolded via new_application.py |
@@ -197,14 +200,28 @@
 | Synchrony Financial | [BLP Intern - Data Analytics (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Data-Analytics_2601688) | 2026-08-04 | same intake as Tech sibling; analytics not SWE; verifier confirmed plausible 2027 cycle |
 | Synchrony Financial | [BLP Intern - Technology (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Technology_2601695-1) | 2026-08-04 | BEST BET: bachelor's-pursuing, no class-year bar, 10-wk Jun-Aug; likely 2027 intake (screened 8/4) |
 
-## withdrawn (237)
+## withdrawn (251)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
+| Blackstone | [Software Engineer Summer Analyst - Blackstone Technology & Innovations](https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/Miami/XMLNAME-2027-Blackstone-Software-Engineer-Summer-Analyst_45021) | 2026-08-21 | scaffolded via new_application.py; auto-screen: grad window Fall 2027 - Spring 2028 excludes May 2029 |
+| Blackstone | [Data Engineer Summer Analyst - Blackstone Technology & Innovations](https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/Miami/XMLNAME-2027-Blackstone-Technology-and-Innovations--Data-Engineer-Summer-Analyst_45022) | 2026-08-21 | scaffolded via new_application.py; auto-screen: grad window Fall 2027 - Spring 2028 excludes May 2029 |
+| Blackstone | [Data Science Summer Analyst](https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/New-York/XMLNAME-2027-Data-Science-Summer-Analyst_44862) | 2026-08-21 | scaffolded via new_application.py; auto-screen: grad window Fall 2027 - Spring 2028 excludes May 2029 |
+| Neuralink | [Electrical Engineer Intern Robotics and Surgery](https://boards.greenhouse.io/neuralink/jobs/6607398003?gh_jid=6607398003) | 2026-08-21 | auto-screen: EE hardware function - board design |
 | Databricks | [Software Engineering Intern (2027 Start) - Winter](https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002) | 2026-08-21 | auto-screen: Winter-2027-only term + fall 2027/spring 2028 grad window |
+| Diamondback Energy | [Geoscience Intern](https://diamondbackenergy.wd12.myworkdayjobs.com/DBE/job/Midland-TX/Summer-2027-Geoscience-Intern_R100829) | 2026-08-21 | auto-screen: geoscience function |
 | LLNL | [Computational Engineering Division Graduate Intern - Summer 2027](https://jobs.smartrecruiters.com/LLNL/3743990014730886) | 2026-08-21 | auto-screen: grad-only, no undergrad path |
 | LLNL | [Materials Science Division Graduate Intern - Winter/Spring 2027](https://jobs.smartrecruiters.com/LLNL/3743990014731026) | 2026-08-21 | auto-screen: grad-only + Winter/Spring term |
 | LLNL | [NSED Graduate Intern - Summer 2027](https://jobs.smartrecruiters.com/LLNL/3743990014731646) | 2026-08-21 | auto-screen: grad-only, no undergrad path |
+| target | [Financial Analyst Intern - Minneapolis MN](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Financial-Analyst-Intern----Minneapolis--MN--Starting-Summer--2027-_R0000450574) | 2026-08-21 | auto-screen: finance function - Finance or Accounting degree |
+| target | [Store Executive Intern - Northern Seattle WA](https://target.wd5.myworkdayjobs.com/targetcareers/job/13950-NE-178th-PlSte-100-WoodinvilleWA-98072-3523/Store-Executive-Intern--Store-Leadership-Intern----Northern-Seattle--WA--Starting-Summer-2027-_R0000450583) | 2026-08-21 | auto-screen: retail store-leadership function |
+| target | [Store Executive Intern - Greater Phoenix AZ](https://target.wd5.myworkdayjobs.com/targetcareers/job/1625-E-Camelback-Rd-PhoenixAZ-85016-3901/Store-Executive-Intern--Store-Leadership-Intern----Greater-Phoenix--AZ--Starting-Summer-2027-_R0000450585) | 2026-08-21 | auto-screen: retail store-leadership function |
+| target | [Store Executive Intern - Orange County CA](https://target.wd5.myworkdayjobs.com/targetcareers/job/200-W-Orangethorpe-Ave-FullertonCA-92832-2900/Store-Executive-Intern--Store-Leadership-Intern----Orange-County--CA--Starting-Summer-2027-_R0000450599) | 2026-08-21 | auto-screen: retail store-leadership function |
+| target | [Store Executive Intern - Moreno Valley CA](https://target.wd5.myworkdayjobs.com/targetcareers/job/27100-Eucalyptus-Ave-Moreno-ValleyCA-92555-4522/Store-Executive-Intern--Store-Leadership-Intern----Moreno-Valley---Inland-Empire--CA--CA--Starting-Summer-2027-_R0000450602) | 2026-08-21 | auto-screen: retail store-leadership function |
+| target | [Store Executive Intern - Tucson AZ](https://target.wd5.myworkdayjobs.com/targetcareers/job/4040-N-Oracle-Rd-TucsonAZ-85705-2720/Store-Executive-Intern--Store-Leadership-Intern----Tucson--AZ--Starting-Summer-2027-_R0000450589) | 2026-08-21 | auto-screen: retail store-leadership function |
+| target | [Store Executive Intern - Eastern LA County CA](https://target.wd5.myworkdayjobs.com/targetcareers/job/747-Grand-Ave-Diamond-Bar-CA-91765-8400/Store-Executive-Intern--Store-Leadership-Intern----Eastern-Los-Angeles-County--CA--Starting-Summer-2027-_R0000450592) | 2026-08-21 | auto-screen: retail store-leadership function |
+| Samsara | [ADR Intern - Phoenix](https://www.samsara.com/company/careers/roles/8099799?gh_jid=8099799) | 2026-08-21 | auto-screen: SaaS sales function |
+| Samsara | [ADR Intern - Atlanta](https://www.samsara.com/company/careers/roles/8103119?gh_jid=8103119) | 2026-08-21 | auto-screen: SaaS sales function |
 | Epic Games | [Tech Art Intern](https://epicgames.com/careers/jobs/6147154004?gh_jid=6147154004) | 2026-08-20 | auto-screen: technical-art function, DCC/portfolio must-haves unmet |
 | Fannie Mae | [Data Science Intern - Analytics & Modeling Program](https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Data-Science-Intern--Analytics---Modeling-Program-_JR2815) | 2026-08-20 | auto-screen: grad window Spring 2028 excludes May 2029 |
 | GE Vernova | [PCS Application Engineering Co-Op/Intern - Summer 2027 (confidential dup)](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Findlay-Township/PCS-Application-Engineering-Co-Op-Intern---Summer-2027_R5050417-1) | 2026-08-20 | auto-screen: duplicate of R5050417-2, byte-identical JD |
