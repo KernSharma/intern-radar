@@ -1,6 +1,6 @@
 # Applications
 
-**440 tracked** — applied: 48 · interested: 140 · withdrawn: 252
+**441 tracked** — applied: 48 · interested: 140 · withdrawn: 253
 
 ## applied (48)
 
@@ -200,10 +200,11 @@
 | Synchrony Financial | [BLP Intern - Data Analytics (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Data-Analytics_2601688) | 2026-08-04 | same intake as Tech sibling; analytics not SWE; verifier confirmed plausible 2027 cycle |
 | Synchrony Financial | [BLP Intern - Technology (Stamford, CT)](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Technology_2601695-1) | 2026-08-04 | BEST BET: bachelor's-pursuing, no class-year bar, 10-wk Jun-Aug; likely 2027 intake (screened 8/4) |
 
-## withdrawn (252)
+## withdrawn (253)
 
 | Company | Role | Since | Notes |
 |---|---|---|---|
+| Ecolab | [Digital & AI Technology Intern](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Saint-Paul/Digital---AI-Technology-Intern_R00303249) | 2026-08-22 | scaffolded via new_application.py; auto-screen: grad window Dec 2027 or May/June 2028 excludes May 2029 |
 | Blackstone | [Software Engineer Summer Analyst - Blackstone Technology & Innovations](https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/Miami/XMLNAME-2027-Blackstone-Software-Engineer-Summer-Analyst_45021) | 2026-08-21 | scaffolded via new_application.py; auto-screen: grad window Fall 2027 - Spring 2028 excludes May 2029 |
 | Blackstone | [Data Engineer Summer Analyst - Blackstone Technology & Innovations](https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/Miami/XMLNAME-2027-Blackstone-Technology-and-Innovations--Data-Engineer-Summer-Analyst_45022) | 2026-08-21 | scaffolded via new_application.py; auto-screen: grad window Fall 2027 - Spring 2028 excludes May 2029 |
 | Blackstone | [Data Science Summer Analyst](https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/New-York/XMLNAME-2027-Data-Science-Summer-Analyst_44862) | 2026-08-21 | scaffolded via new_application.py; auto-screen: grad window Fall 2027 - Spring 2028 excludes May 2029 |
