@@ -5382,6 +5382,26 @@
   "posted_at": "2026-08-13",
   "source": "simplify"
  },
+ "url:https://egup.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx/job/20280126": {
+  "company": "Vertiv",
+  "title": "Innovation Lab Intern",
+  "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280126",
+  "locations": [
+   "Delaware, OH"
+  ],
+  "posted_at": "2026-09-11",
+  "source": "simplify"
+ },
+ "url:https://egup.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx/job/20280129": {
+  "company": "Vertiv",
+  "title": "Innovation Lab Engineering Intern 2",
+  "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280129",
+  "locations": [
+   "Delaware, OH"
+  ],
+  "posted_at": "2026-09-11",
+  "source": "simplify"
+ },
  "url:https://egup.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx/job/20280588": {
   "company": "Vertiv",
   "title": "Data and Analytics Intern - Summer 2027",
@@ -7472,6 +7492,16 @@
    "Mahwah, NJ"
   ],
   "posted_at": "2026-08-31",
+  "source": "simplify"
+ },
+ "url:https://hdjq.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/26010738": {
+  "company": "Emerson Electric",
+  "title": "Software Engineer Co-op",
+  "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010738",
+  "locations": [
+   "Eden Prairie, MN"
+  ],
+  "posted_at": "2026-09-11",
   "source": "simplify"
  },
  "url:https://higher.gs.com/roles/170637?type=students": {
@@ -9565,6 +9595,17 @@
   "posted_at": "2026-09-04",
   "source": "simplify"
  },
+ "url:https://job-boards.greenhouse.io/tanium/jobs/8181017": {
+  "company": "Tanium",
+  "title": "Software Engineer Intern - Summer 2027",
+  "url": "https://job-boards.greenhouse.io/tanium/jobs/8181017",
+  "locations": [
+   "Emeryville, CA",
+   "Durham, NC"
+  ],
+  "posted_at": "2026-09-11",
+  "source": "simplify"
+ },
  "url:https://job-boards.greenhouse.io/testnisc/jobs/8167883": {
   "company": "National Information Solutions Cooperative",
   "title": "Data Engineer Intern",
@@ -10013,6 +10054,26 @@
   ],
   "posted_at": "2026-08-26",
   "source": "greenhouse"
+ },
+ "url:https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4711071006": {
+  "company": "Visier Solutions",
+  "title": "Software Developer Co-op",
+  "url": "https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4711071006",
+  "locations": [
+   "Vancouver, BC, Canada"
+  ],
+  "posted_at": "2026-09-11",
+  "source": "simplify"
+ },
+ "url:https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4711073006": {
+  "company": "Visier Solutions",
+  "title": "Test Developer Co-op",
+  "url": "https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4711073006",
+  "locations": [
+   "Vancouver, BC, Canada"
+  ],
+  "posted_at": "2026-09-11",
+  "source": "simplify"
  },
  "url:https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009": {
   "company": "Voloridge",
@@ -16477,6 +16538,16 @@
   "posted_at": "",
   "source": "workday"
  },
+ "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/taiwan-taipei/system-application-engineer--rdss-intern-_jr2025314": {
+  "company": "nvidia",
+  "title": "System Application Engineer (RDSS Intern)",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Application-Engineer--RDSS-Intern-_JR2025314",
+  "locations": [
+   "Taiwan, Taipei"
+  ],
+  "posted_at": "",
+  "source": "workday"
+ },
  "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/taiwan-taipei/system-design-engineer---lde--rdss-intern-_jr2021878": {
   "company": "nvidia",
   "title": "System Design Engineer - LDE (RDSS Intern)",
@@ -20426,6 +20497,18 @@
   "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Data-Science-III_R-2630030",
   "locations": [
    "Bentonville, AR"
+  ],
+  "posted_at": "2026-09-10",
+  "source": "simplify"
+ },
+ "url:https://walmart.wd504.myworkdayjobs.com/walmartexternal/job/usa-isd-office---dgtc-ar-bentonville-home-office/summer-2027-intern---software-engineer-ii_r-2630029-1": {
+  "company": "Walmart",
+  "title": "Software Engineer 2 Intern",
+  "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Software-Engineer-II_R-2630029-1",
+  "locations": [
+   "Bentonville, AR",
+   "Bellevue, WA",
+   "Sunnyvale, CA"
   ],
   "posted_at": "2026-09-10",
   "source": "simplify"
