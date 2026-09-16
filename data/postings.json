@@ -5240,6 +5240,16 @@
   "posted_at": "",
   "source": "workday"
  },
+ "url:https://ciena.wd5.myworkdayjobs.com/careers/job/ottawa/ai---automation-intern---gcn-services-business-operations_r031664": {
+  "company": "ciena",
+  "title": "AI & Automation Intern - GCN Services Business Operations",
+  "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/AI---Automation-Intern---GCN-Services-Business-Operations_R031664",
+  "locations": [
+   "Ottawa"
+  ],
+  "posted_at": "",
+  "source": "workday"
+ },
  "url:https://ciena.wd5.myworkdayjobs.com/careers/job/ottawa/embedded-software-engineer---intern_r031146": {
   "company": "ciena",
   "title": "Embedded Software Engineer – Intern",
@@ -11963,6 +11973,16 @@
   "posted_at": "2026-06-02",
   "source": "simplify"
  },
+ "url:https://job-boards.greenhouse.io/twilio/jobs/8190889": {
+  "company": "Twilio",
+  "title": "Software Engineer Intern (January 12th start, 23 weeks)",
+  "url": "https://job-boards.greenhouse.io/twilio/jobs/8190889",
+  "locations": [
+   "Remote - India"
+  ],
+  "posted_at": "2026-09-16",
+  "source": "greenhouse"
+ },
  "url:https://job-boards.greenhouse.io/uvimco/jobs/5300713008": {
   "company": "University of Virginia Investment Management Company (UVIMCO)",
   "title": "Investment Analyst Intern",
@@ -12580,7 +12600,10 @@
   "title": "Early Careers & Interns Specialist",
   "url": "https://jobs.ashbyhq.com/cohere/80d4af6c-202e-4132-83a4-fd698b3602d4",
   "locations": [
-   "United States"
+   "San Francisco",
+   "Seattle",
+   "New York",
+   "Toronto"
   ],
   "posted_at": "2026-09-02",
   "source": "ashby"
@@ -19481,7 +19504,7 @@
  },
  "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/germany-munich/software-engineering-intern---replay-tooling---test-automation--autonomous-driving_jr2022086": {
   "company": "nvidia",
-  "title": "Software Engineering Intern — Replay Tooling & Test Automation, Autonomous Driving",
+  "title": "Software Engineering Intern — Replay Tooling and Test Automation - Autonomous Driving",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---Replay-Tooling---Test-Automation--Autonomous-Driving_JR2022086",
   "locations": [
    "Germany, Munich"
