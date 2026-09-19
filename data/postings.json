@@ -91,24 +91,35 @@
   "source": "workday"
  },
  "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/san-jose/xmlname-2027-intern---machine-learning-engineer_r171519": {
-  "company": "adobe",
-  "title": "2027 Intern - Machine Learning Engineer",
+  "company": "Adobe",
+  "title": "Machine Learning Engineer Intern",
   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519",
   "locations": [
-   "6 Locations"
+   "Seattle, WA",
+   "SF",
+   "Austin, TX",
+   "San Jose, CA",
+   "NYC",
+   "Lehi, UT"
   ],
-  "posted_at": "",
-  "source": "workday"
+  "posted_at": "2026-08-31",
+  "source": "simplify"
  },
  "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/san-jose/xmlname-2027-intern---software-engineer_r171666": {
-  "company": "adobe",
-  "title": "2027 Intern - Software Engineer",
+  "company": "Adobe",
+  "title": "Software Engineer Intern",
   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666",
   "locations": [
-   "7 Locations"
+   "Seattle, WA",
+   "SF",
+   "Austin, TX",
+   "San Jose, CA",
+   "Waltham, MA",
+   "NYC",
+   "Lehi, UT"
   ],
-  "posted_at": "",
-  "source": "workday"
+  "posted_at": "2026-09-03",
+  "source": "simplify"
  },
  "url:https://aerotech.applytojob.com/apply/ofiyspo0hw/software-engineering-internship-or-coop-2027": {
   "company": "Aerotech",
@@ -939,24 +950,24 @@
   "source": "simplify"
  },
  "url:https://arrowstreetcapital.wd5.myworkdayjobs.com/campus_careers/job/boston/quantitative-developer-intern--summer-2027_r1506": {
-  "company": "arrowstreetcapital",
-  "title": "Quantitative Developer Intern, Summer 2027",
+  "company": "Arrowstreet Capital",
+  "title": "Quantitative Developer Intern",
   "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506",
   "locations": [
-   "Boston"
+   "Boston, MA"
   ],
-  "posted_at": "",
-  "source": "workday"
+  "posted_at": "2026-07-10",
+  "source": "simplify"
  },
  "url:https://arrowstreetcapital.wd5.myworkdayjobs.com/campus_careers/job/boston/quantitative-researcher-intern--summer-2027_r1505": {
-  "company": "arrowstreetcapital",
-  "title": "Quantitative Researcher Intern, Summer 2027",
+  "company": "Arrowstreet Capital",
+  "title": "Quantitative Researcher Intern",
   "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505",
   "locations": [
-   "Boston"
+   "Boston, MA"
   ],
-  "posted_at": "",
-  "source": "workday"
+  "posted_at": "2026-07-10",
+  "source": "simplify"
  },
  "url:https://aspentech.wd5.myworkdayjobs.com/aspentech/job/medina-minnesota/project-engineering-intern---digital-grid-management---summer-2027_r9457": {
   "company": "AspenTech",
@@ -8171,6 +8182,16 @@
   "posted_at": "2026-09-17",
   "source": "simplify"
  },
+ "url:https://flextronics.wd1.myworkdayjobs.com/careers/job/usa-il-libertyville/manufacturing-data---analytics-co-op---spring-2027_wd229700": {
+  "company": "Flex",
+  "title": "Manufacturing Data & Analytics Co-op",
+  "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-IL-Libertyville/Manufacturing-Data---Analytics-Co-Op---Spring-2027_WD229700",
+  "locations": [
+   "Libertyville, IL"
+  ],
+  "posted_at": "2026-09-18",
+  "source": "simplify"
+ },
  "url:https://flir.wd1.myworkdayjobs.com/flircareers/job/us---huntsville-al/eadsim-mbse-intern--summer-2027-_req36670-1": {
   "company": "Teledyne",
   "title": "Systems Engineering Intern - Summer 2027",
@@ -9602,6 +9623,16 @@
    "Richardson, TX"
   ],
   "posted_at": "2026-09-08",
+  "source": "simplify"
+ },
+ "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-va-sterling-291--22640-davis-dr--davis/software-engineering-intern--summer-2027-_01875780": {
+  "company": "RTX",
+  "title": "Software Engineering Intern",
+  "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01875780",
+  "locations": [
+   "Sterling, VA"
+  ],
+  "posted_at": "2026-09-18",
   "source": "simplify"
  },
  "url:https://gnw.wd1.myworkdayjobs.com/enact_mi/job/raleigh-north-carolina/commercial-analytics-and-optimization-team-intern_req-260363": {
@@ -20675,14 +20706,14 @@
   "source": "workday"
  },
  "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-internships--deep-learning-computer-architecture_jr2023491": {
-  "company": "nvidia",
-  "title": "NVIDIA 2027 Internships: Deep Learning Computer Architecture",
+  "company": "NVIDIA",
+  "title": "Deep Learning Computer Architecture Intern",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491",
   "locations": [
-   "US, CA, Santa Clara"
+   "Santa Clara, CA"
   ],
-  "posted_at": "",
-  "source": "workday"
+  "posted_at": "2026-08-19",
+  "source": "simplify"
  },
  "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-internships--deep-learning_jr2023497-1": {
   "company": "nvidia",
@@ -20845,14 +20876,15 @@
   "source": "workday"
  },
  "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-internships--software-engineering_jr2023495": {
-  "company": "nvidia",
-  "title": "NVIDIA 2027 Internships: Software Engineering",
+  "company": "NVIDIA",
+  "title": "Software Engineering Intern",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495",
   "locations": [
-   "US, CA, Santa Clara"
+   "Canada",
+   "Santa Clara, CA"
   ],
-  "posted_at": "",
-  "source": "workday"
+  "posted_at": "2026-08-19",
+  "source": "simplify"
  },
  "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-internships--systems-software-engineering_jr2023492": {
   "company": "nvidia",
