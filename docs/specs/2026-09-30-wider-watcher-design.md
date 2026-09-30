@@ -1,9 +1,11 @@
 # Wider watcher: design
 
-Status: rev 5 (2026-09-30). Round 4: 1 blocker (the ntfy rate-limit field) and 3 should-fixes, resolved here. Round 3 found 3 blockers (postings cache, git ownership, issue numbers) plus completeness of the change set; all are resolved here. Round 2's 2 blockers were resolved in rev 3. Earlier history:
+Status: rev 5 (2026-09-30).
+- Round 5: 1 timing gap, fixed here using the reviewer's exact wording. Council converged.
+- Round 4: 1 blocker (the ntfy rate-limit field) and 3 should-fixes, resolved here. Round 3 found 3 blockers (postings cache, git ownership, issue numbers) plus completeness of the change set; all are resolved here. Round 2's 2 blockers were resolved in rev 3. Earlier history:
 - Rev 1 came from a brainstorm with the repo owner.
 - Council round 1 (feasibility, tested against live endpoints; completeness + security) found 7 blockers and 17 should-fixes. All are resolved here, and the owner made two new decisions.
-- Pending: council convergence check, then owner approval.
+- Pending: owner approval.
 - Delivered in three phases.
 
 This repository is **public**. This spec contains no personal data.
@@ -84,7 +86,8 @@ Two runners execute the **same** watcher program (`python -m intern_radar`) agai
    - **`postings.json` cache** upserts (per `url_key`);
    - board upserts and field updates, new board rows, and `gh_custom` cache additions;
    - `canon` and `sightings` additions;
-   - the new `runs` entry, `last_run_at`/`runner`, and `last_health_ntfy_at` when a health push was sent;
+   - the new `runs` entry and `last_run_at`/`runner`;
+   - `last_health_ntfy_at`: **decided after the merge and prune re-run**. If a health push is due against the merged value, `now` goes into the change set. It is committed and pushed, and **only then** sent. If the push fails, nothing is sent and the timestamp is never pushed. On replay the decision is made again against the newly merged value.
    - `health-weekly.md` and `weekly_written_for` when written this run.
 3. Apply the change set to the files, then commit `data/` and push.
 4. On push rejection:
@@ -358,7 +361,7 @@ The feed's staleness is expected while the Mac sleeps. Health alerts on it only 
 | R2 | A family errors on every run in the last 6 h, with at least 2 runs |
 | R3 | A list's newest item is more than 7 days old. vanshb03 uses max `date_updated`; speedyapply uses its minimum Age |
 | R4 | The search feed's `generated_at` is more than 6 h old, evaluated only between 09:00 and 23:00 America/New_York (the quiet window covers sleep) |
-| R5 | A run took more than 12 minutes; or `boards_skipped_budget` > 0 on every run in the last 3 h; or any `deep` board's `last_deep_crawl` is older than 36 h |
+| R5 | A run took more than 12 minutes; or `boards_skipped_budget` > 0 on every run in the last 3 h; or any `deep` board's `last_deep_crawl` (or, if null, the time it became `deep`) is older than 36 h |
 | R6 | A board was disabled or newly marked `deep` (one issue per board) |
 
 **Delivery:**
