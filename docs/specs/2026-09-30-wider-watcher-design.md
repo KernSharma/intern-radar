@@ -1,6 +1,6 @@
 # Wider watcher: design
 
-Status: rev 5 (2026-09-30).
+Status: rev 6 (2026-10-01). Rev 6 records the decisions made during the build, from live runs; see "Build decisions". Earlier:
 - Round 5: 1 timing gap, fixed here using the reviewer's exact wording. Council converged.
 - Round 4: 1 blocker (the ntfy rate-limit field) and 3 should-fixes, resolved here. Round 3 found 3 blockers (postings cache, git ownership, issue numbers) plus completeness of the change set; all are resolved here. Round 2's 2 blockers were resolved in rev 3. Earlier history:
 - Rev 1 came from a brainstorm with the repo owner.
@@ -40,6 +40,8 @@ Data scraped from search engines never enters this repository.
 | Approach (09-30) | Layered watcher in this repo |
 | Handshake (09-30) | Not now |
 | Runner (09-30) | **Mac primary** (launchd, every 30 min while awake) **plus GitHub Actions as backup** |
+| Discovered-board noise (10-01) | Postings from **auto-discovered** boards must also pass a tech-keyword title gate and must not name a Fall/Winter/Spring 2027 term (`discovered_title_require_any`, `discovered_title_exclude` in `config.toml`). Hand-picked (pinned) boards are exempt. Live run: 3,509 → about 1,200 new postings, at the cost of about 1% of tier-1-style titles |
+| First-poll backlog (10-01) | A board's first poll, a deep board's first full crawl, and a list source's first run go into the inbox **quietly**, with no notification. Only later arrivals notify |
 | Search-engine data (09-30) | **Private repo `intern-radar-feed`**. The public repo only ever stores postings traced to the company's own ATS URL. Untraced search-engine postings stay private and reach triage directly |
 
 ## Runners and the write protocol
@@ -435,6 +437,23 @@ nonzero on any failure.
      - the report lists kept postings per site, the traced rate, and the untraced count reaching triage;
      - `search` has ≥ 1 unique find in `sightings.json`;
      - any site blocked on > 50% of its runs is removed from `sites` with a note.
+
+## Build decisions (2026-10-01, from live runs in a scratch clone)
+
+1. **Quiet backlogs** (owner decision above).
+   - Quiet means the posting is appended to the inbox but not notified.
+   - It applies to postings from a board whose `last_polled` was null at run start, from a deep board's first full crawl (`last_deep_crawl` null), and from a list family absent from all `health.json` runs.
+   - With no `health.json` yet, the known families are the six the old watcher ran: simplify, greenhouse, lever, ashby, workday, smartrecruiters.
+   - The migration run therefore notifies nothing (live: 1,895 queued, 0 notified). The steady state notified 9 genuinely new postings.
+2. **Tech gate** (owner decision above). It is applied in `main.run` to postings from unpinned board jobs only, after the normal filters.
+3. **R6 is only for disabled boards.** Seeding marked 29 boards `deep` at once, and alerting on each would open 29 issues. Deep boards are listed in `health-weekly.md` instead. Deep-crawl starvation stays in R5.
+4. **R3 uses each list family's newest `posted_at`** from the latest run, which is recorded as `families.<f>.newest`. For vanshb03 that is `date_posted`, not `date_updated`; both are 2026-08-2x.
+5. **Greenhouse custom-domain resolution** is capped at 10 lookups per run. Unresolved hosts wait in `boards.json` `gh_custom_pending` (host → gh_jid). Greenhouse embed URLs (`/embed/job_app?for=<board>`) map to `<board>`.
+6. **Pruning during apply** removes only the inbox and canon entries whose storage key aged out of `seen.json` in that same apply, never entries merely absent from it.
+7. **Live measurements:**
+   - The first run polled 442 boards in 1:45. The steady state polled 624 boards in 2:22.
+   - The registry grew to 702 boards (the 441 seeded, plus boards discovered from speedyapply and vanshb03 URLs).
+   - `regression_replay.py`: the old watcher's 1,785 matched postings are all among the new pipeline's 4,674 (0 missing).
 
 ## Open follow-ups (not in this change)
 
