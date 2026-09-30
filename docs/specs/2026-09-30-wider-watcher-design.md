@@ -1,6 +1,6 @@
 # Wider watcher: design
 
-Status: rev 4 (2026-09-30). Round 3 found 3 blockers (postings cache, git ownership, issue numbers) plus completeness of the change set; all are resolved here. Round 2's 2 blockers were resolved in rev 3. Earlier history:
+Status: rev 5 (2026-09-30). Round 4: 1 blocker (the ntfy rate-limit field) and 3 should-fixes, resolved here. Round 3 found 3 blockers (postings cache, git ownership, issue numbers) plus completeness of the change set; all are resolved here. Round 2's 2 blockers were resolved in rev 3. Earlier history:
 - Rev 1 came from a brainstorm with the repo owner.
 - Council round 1 (feasibility, tested against live endpoints; completeness + security) found 7 blockers and 17 should-fixes. All are resolved here, and the owner made two new decisions.
 - Pending: council convergence check, then owner approval.
@@ -59,7 +59,7 @@ Two runners execute the **same** watcher program (`python -m intern_radar`) agai
 
 **Actions runner (backup):**
 - The existing `watch.yml`, unchanged in schedule.
-- New first step `skip`: if `data/health.json` at the checked-out HEAD has `last_run_at` (the **start** time of the last committed run) within 50 minutes, it sets `outputs.skip=true`. The run and commit steps carry `if: steps.skip.outputs.skip != 'true'`.
+- New first step `skip`: if `data/health.json` at the checked-out HEAD has `last_run_at` (the **start** time of the last committed run) within 50 minutes, it sets `outputs.skip=true`. The run step and the keepalive step carry `if: steps.skip.outputs.skip != 'true'`.
 - New env:
   - `NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}`
   - `FEED_TOKEN: ${{ secrets.FEED_TOKEN }}` (a fine-grained PAT, read-only, `intern-radar-feed` contents only)
@@ -84,7 +84,7 @@ Two runners execute the **same** watcher program (`python -m intern_radar`) agai
    - **`postings.json` cache** upserts (per `url_key`);
    - board upserts and field updates, new board rows, and `gh_custom` cache additions;
    - `canon` and `sightings` additions;
-   - the new `runs` entry and `last_run_at`/`runner`;
+   - the new `runs` entry, `last_run_at`/`runner`, and `last_health_ntfy_at` when a health push was sent;
    - `health-weekly.md` and `weekly_written_for` when written this run.
 3. Apply the change set to the files, then commit `data/` and push.
 4. On push rejection:
@@ -93,10 +93,11 @@ Two runners execute the **same** watcher program (`python -m intern_radar`) agai
       - Inbox appends skip keys already present.
       - `postings.json`: this run's values win per `url_key`.
       - `canon`: an existing key wins. `gh_custom`: an existing host wins.
-      - New board rows: `first_seen` takes the min; `deep` is set if either side set it.
+      - New board rows: `first_seen` takes the min.
+      - `last_health_ntfy_at` takes the max.
       - `health-weekly.md`: written only if the merged `weekly_written_for` still differs from this week.
       - `seen` takes the max date per key.
-      - Boards: `last_polled`, `last_ok` and `last_match` take the max; `consecutive_errors` is taken from this run only if this run polled that board; `pinned`, `disabled` and `needs_config` are recomputed.
+      - Boards: `last_polled`, `last_deep_crawl`, `last_ok` and `last_match` take the max; `deep` is a logical OR on every row; `consecutive_errors` is taken from this run only if this run polled that board; `pinned`, `disabled` and `needs_config` are recomputed.
       - `sightings` keeps the min timestamp per family.
       - `runs` is appended and truncated to 200.
    3. **After re-applying, re-run on the merged state:**
@@ -343,7 +344,7 @@ The feed's staleness is expected while the Mac sleeps. Health alerts on it only 
 {"version": 1, "last_run_at": "iso", "runner": "mac|actions",
  "runs": [{"at", "runner", "seconds", "families": {"<family>": {"ok", "errors", "postings", "matches", "seconds"}},
            "boards_polled", "boards_skipped_budget"}],
- "alerts": {"<rule>|<subject>": {"opened_at"}},
+ "alerts": {"<rule>|<subject>": {"opened_at"}}, "last_health_ntfy_at": "iso|null",
  "weekly_written_for": "YYYY-Www"}
 ```
 - `runs` keeps the last 200 entries.
@@ -357,7 +358,7 @@ The feed's staleness is expected while the Mac sleeps. Health alerts on it only 
 | R2 | A family errors on every run in the last 6 h, with at least 2 runs |
 | R3 | A list's newest item is more than 7 days old. vanshb03 uses max `date_updated`; speedyapply uses its minimum Age |
 | R4 | The search feed's `generated_at` is more than 6 h old, evaluated only between 09:00 and 23:00 America/New_York (the quiet window covers sleep) |
-| R5 | A run took more than 12 minutes, or `boards_skipped_budget` > 0 on every run in the last 3 h |
+| R5 | A run took more than 12 minutes; or `boards_skipped_budget` > 0 on every run in the last 3 h; or any `deep` board's `last_deep_crawl` is older than 36 h |
 | R6 | A board was disabled or newly marked `deep` (one issue per board) |
 
 **Delivery:**
@@ -365,7 +366,7 @@ The feed's staleness is expected while the Mac sleeps. Health alerts on it only 
   - Each carries the label `health`, created if a GET for it returns 404. No assignee.
   - One issue per `(rule, subject)`. It gets at most one comment a day while the condition holds, and closes automatically when it clears.
   - At most 10 open health issues; beyond that, one summary issue `health: R0 alert overflow` is updated.
-- **ntfy** uses `NTFY_TOPIC`; absent means off. The text is `"intern-radar health: <n> open alerts"`, sent at most once every 6 h.
+- **ntfy** uses `NTFY_TOPIC`; absent means off. The text is `"intern-radar health: <n> open alerts"`, sent at most once every 6 h, judged by the merged `last_health_ntfy_at` in `health.json`.
 - **Weekly summary:** the first run whose UTC ISO week differs from `weekly_written_for` writes `data/health-weekly.md`:
   - matched postings per family;
   - unique finds per family (canonical keys seen only by that family);
@@ -390,12 +391,12 @@ The feed's staleness is expected while the Mac sleeps. Health alerts on it only 
   - The 400-day delete and the 2,000 cap eviction.
   - An Eightfold board with no domain gets `needs_config`.
 - **Write protocol:** replay under a competing push (see Write protocol). A push that fails 3 times gives exit 1, and the next run re-finds the postings.
-- **Actions skip:** health `last_run_at` within 50 minutes sets `skip`, and the run and commit steps don't execute.
+- **Actions skip:** health `last_run_at` within 50 minutes sets `skip`, and the run and keepalive steps don't execute.
 - **Mac notify:** with `RADAR_GITHUB_ISSUES=0`, no issue is created, and ntfy is called once after a successful push and **not at all** when the push fails 3 times. `GITHUB_REPOSITORY` must be present.
 - **Replay completeness:** the competing-push test also covers `postings.json` survival, a prune on one side, and an alert closed by the other run staying closed.
 - **Health issue lookup:** issues are found by label and exact title, with no stored numbers; the lookup is idempotent across two runners.
 - **Deep crawl:** a `deep` board is fully crawled at most every 24 h, and at most 20 per run.
-- **Link tracing:** a 3-hop redirect to Workday gives `traced` and the canonical URL. Refused cases: `127.0.0.1`, `169.254.169.254`, `[::ffff:10.0.0.1]`, a rebinding resolver (first public, then private) that must still connect to the vetted IP, and a 6th hop. Plus the 1 MB cap.
+- **Link tracing:** a 3-hop redirect to Workday gives `traced` and the canonical URL. Refused cases: `127.0.0.1`, `169.254.169.254`, `[::ffff:10.0.0.1]`, a rebinding resolver (first public, then private) that must still connect to the first resolved (vetted) address, and a 6th hop. Plus the 1 MB cap.
 - **Search program:** `scrape_jobs` monkeypatched; the block rule; the description filter; feed commit with a fake git.
 - **Health:** each rule fires and clears (R4 respects the quiet window); issue dedupe; the cap of 10; the ntfy rate limit; the weekly ISO-week trigger; head-start medians from `sightings.json`; issue-body escaping.
 - **Regression:** a recorded run of today's six sources through the new pipeline yields a superset of the old run's inbox keys.
