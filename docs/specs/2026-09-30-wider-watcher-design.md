@@ -1,116 +1,157 @@
 # Wider watcher: design
 
-Status: rev 1 (2026-09-30), from a brainstorm with the repo owner. Pending
-council review, then owner approval. Delivered in three phases, each with an
-acceptance gate.
+Status: rev 2 (2026-09-30).
+- Rev 1 came from a brainstorm with the repo owner.
+- Council round 1 (feasibility, tested against live endpoints; completeness + security) found 7 blockers and 17 should-fixes. All are resolved here, and the owner made two new decisions.
+- Pending: council round 2, then owner approval.
+- Delivered in three phases.
 
-This repository is **public**. This spec holds no personal data. Secrets (the
-ntfy topic) live only in GitHub Actions secrets and the owner's macOS Keychain.
+This repository is **public**. This spec contains no personal data.
+Secrets live only in GitHub Actions secrets and the owner's macOS Keychain.
+Data scraped from search engines never enters this repository.
 
 ## Problem
 
-The watcher's inbox (2,012 entries on 2026-09-30) has these sources:
-
-| Source | Share of inbox | Share of tier-1 matches downstream |
-|---|---|---|
-| Simplify aggregator | 78% | **92%** (731 of 796) |
-| 104 directly polled boards | 22% | 8% |
-
-The watcher therefore effectively depends on one aggregator:
-- **Coverage:** anything Simplify never lists is missed.
-- **Speed:** a posting appears only after Simplify lists it.
-- **Resilience:** if Simplify goes stale or changes format, volume collapses.
+1. **One aggregator.** The inbox (2,012 entries on 2026-09-30) is 78% from Simplify. Simplify also supplies 92% of the tier-1 matches downstream (731 of 796), and the 104 directly polled boards add the rest. Coverage, speed and resilience all hinge on one aggregator.
+2. **The cron is throttled.** GitHub runs the `7,37 * * * *` cron only **4–7 times a day**. The last 100 scheduled runs show 4 runs a day on Sep 28–30, at 00:22, 05:56, 12:27 and 18:06. The watcher therefore effectively polls every 4–6 hours.
 
 ## Goals (owner, 2026-09-30: "all of the above")
 
-1. **Coverage.** Add independent sources: two more internship lists, 441
-   auto-discovered company boards, three new ATS readers, and job search
-   engines (LinkedIn, Indeed, Glassdoor, Google Jobs).
-2. **Speed.** Poll companies' own boards directly, so a posting is seen before
-   aggregators list it, and measure the head start.
-3. **Resilience.** No single source's failure drops volume much. Every source's
-   health is tracked and alerted on.
+1. **Coverage:** more lists, auto-discovered company boards, three new ATS readers, and search engines.
+2. **Speed:** real 30-minute polling while the owner's Mac is awake. Measure the direct-poll head start over Simplify.
+3. **Resilience:** no single source or runner failure stops the pipeline; health tracking and alerts.
 
 ## Non-goals
 
-- Logged-in sources: Handshake (owner, 2026-09-30: "not now"). The search
-  engines are used logged-out only.
-- Crawlers for custom career sites (83 hosts, about 4% of volume).
-- Readers for small ATSes: Taleo, Paylocity, Rippling, Jobvite, etc.
+- Logged-in sources: Handshake is "not now" (owner, 09-30). Search engines are used logged-out only.
+- Custom career-site crawlers, including the 25 iCIMS custom domains.
+- Readers for Taleo, Paylocity, Rippling and Jobvite.
 - Paid data feeds.
-- Any change to filters' intent or to triage.
+- Changing filter intent.
 
 ## Decisions (owner)
 
 | Decision | Choice |
 |---|---|
 | Goal (09-30) | Coverage + speed + resilience |
-| Allowed sources (09-30) | Anything, including LinkedIn and Indeed. Implemented logged-out, to protect the owner's accounts |
-| Approach (09-30) | A: layered watcher built in this repo (not a paid feed, not a crawler) |
+| Sources (09-30) | Anything, including LinkedIn and Indeed, implemented logged-out |
+| Approach (09-30) | Layered watcher in this repo |
 | Handshake (09-30) | Not now |
+| Runner (09-30) | **Mac primary** (launchd, every 30 min while awake) **plus GitHub Actions as backup** |
+| Search-engine data (09-30) | **Private repo `intern-radar-feed`**. The public repo only ever stores postings traced to the company's own ATS URL. Untraced search-engine postings stay private and reach triage directly |
+
+## Runners and the write protocol
+
+Two runners execute the **same** watcher program (`python -m intern_radar`) against this repository:
+
+**Mac runner (primary):**
+- A dedicated clone at `~/.local/share/intern-radar/repo`, never the owner's working copy.
+- launchd `com.kernsharma.radar-watch`, `StartCalendarInterval` minutes 7 and 37 of every hour, `RunAtLoad` false. Python is `/Library/Frameworks/Python.framework/Versions/3.13/bin/python3`, stdlib only. Logs go to `~/.local/state/intern-radar/`.
+- Environment:
+  - `GITHUB_TOKEN` comes from `gh auth token` at start. It's used for issues and for pushing through the existing gh credential helper.
+  - `DISCORD_WEBHOOK_URL` and `NTFY_TOPIC` are read from Keychain items `radar-discord-webhook` and `ntfy-topic`. An absent item means that notifier is off.
+  - `RADAR_FEED_PATH=~/.local/share/radar-search/feed/search-feed.json`.
+
+**Actions runner (backup):**
+- The existing `watch.yml`, unchanged in schedule.
+- New step before running: if `data/health.json` at the checked-out HEAD has `last_run_at` within 50 minutes, the job exits 0 without running (the Mac is active).
+- New env:
+  - `NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}`
+  - `FEED_TOKEN: ${{ secrets.FEED_TOKEN }}` (a fine-grained PAT, read-only, `intern-radar-feed` contents only)
+  - `RADAR_FEED_URL=https://api.github.com/repos/<owner>/intern-radar-feed/contents/search-feed.json`
+- Triggers remain `schedule` + `workflow_dispatch` only. **`pull_request_target` or any PR trigger must never be added.**
+
+**Write protocol (both runners):**
+1. `git pull --rebase` at start.
+2. Run; write files.
+3. Commit `data/`.
+4. `git push`. On rejection: `git pull --rebase`.
+   - If the rebase conflicts on `data/`, **discard this run's commit** (`git rebase --abort && git reset --hard origin/<branch>`) and exit 0.
+   - Discarding is safe. `seen.json` is discarded together with the `inbox.json` additions, so the next run re-finds the same postings.
+   - Up to 3 attempts.
+5. `health.json` records `last_run_at` and `runner` (`mac`|`actions`).
+
+**Inbox writers.** The watcher only **appends** to `inbox.json`. The
+kern-sharma-resume consumer only **removes** processed entries.
+`append_inbox` re-reads the file immediately before writing. That keeps the
+existing two-writer contract.
 
 ## Architecture
 
 ```
-CLOUD (GitHub Actions, cron 7,37 * * * *), the ONLY writer of inbox.json / seen.json
-  L1 lists:       simplify (existing), vanshb03, speedyapply
-  L2 boards:      data/boards.json registry → poll by tier → workday, greenhouse,
-                  ashby, lever, smartrecruiters (existing) + oracle, icims, eightfold (new)
-  L3 ingest:      data/search-feed.json (written by the Mac job)
-  → existing filters → dedupe → inbox.json, seen.json
-  → discovery (boards.json) → health (health.json) → alerts
-MAC (launchd, every 2 h at :55)
-  L3 search:      JobSpy over linkedin, indeed, glassdoor, google (logged out)
-                  → link tracing → commits ONLY data/search-feed.json
+WATCHER (Mac every 30 min, or Actions backup)
+  L1 lists:    simplify (existing), vanshb03, speedyapply
+  L2 boards:   data/boards.json → due() by last_polled → workday, greenhouse, ashby, lever,
+               smartrecruiters (existing) + oracle, icims, eightfold (new)
+  L3 ingest:   search feed (local file on Mac / GitHub API on Actions) → TRACED postings only
+  → filters → dedupe (url key + canon.json) → inbox.json, seen.json
+  → discovery → sightings.json → health.json → alerts
+SEARCH JOB (Mac, every 2 h at :55) → private repo intern-radar-feed/search-feed.json
+  JobSpy (linkedin, indeed, glassdoor, google; logged out) → trace links
+UNTRACED search postings → never public; kern-sharma-resume triage reads them from the local feed clone
 ```
 
-**Single-writer rule.** Only the cloud job writes `inbox.json`, `seen.json`,
-`boards.json` and `health.json`. The Mac job writes only
-`search-feed.json`. The two jobs never modify the same file.
+**Source interface:** `fetch(...) -> list[Posting]`, one module per
+`sources/<name>.py`. Each fetch is wrapped in a
+`SourceResult{family, name, ok, error, postings, seconds}`. `family` is one
+of:
+- the lists: `simplify`, `vanshb03`, `speedyapply`;
+- the search feed: `search`;
+- the ATS readers: `workday`, `greenhouse`, `ashby`, `lever`, `smartrecruiters`, `oracle`, `icims`, `eightfold`.
 
-**Source interface.** Each source is `fetch(...) -> list[Posting]` in
-`sources/<name>.py`, as today. One failing source never aborts the run. The
-existing per-source `try`/log becomes a `SourceResult{name, ok, error,
-postings, seconds}` that health consumes.
+A failure never aborts the run.
 
-**`Posting` gains two fields:**
-- `first_source` is the name of the source that first produced this key.
-- `first_seen_at` is an ISO UTC timestamp set once, when the key is first seen.
+**Fetch order** (it defines `first_source` within a run): simplify,
+vanshb03, speedyapply, the boards (in `boards.json` key order), search.
 
-Both are stored in `inbox.json` entries. For keys already present on
-rollout, `first_source` is taken from the existing `source` field and
-`first_seen_at` from the existing `added` date.
+## Dedupe
 
-**Dedupe.** The primary key is the existing URL key (`normalize_url`). A
-posting with a traced canonical URL (L3) uses that. Postings with different
-keys but the same `role id` (sha1 of normalized company|title) are **not**
-merged in the inbox, because triage already groups them. The health
-"first-seen" statistic compares across sources by role id.
+- **Storage key**: `normalize_url` is **unchanged**, so existing `seen.json`, inbox and tracker keys stay valid.
+- **Canonical key** (dedupe only), `canon_key(url)`:
+  - Take `normalize_url(url)`.
+  - Workday: drop a path segment matching `^[a-z]{2}-[a-z]{2}$`. It is lowercase here because `normalize_url` lowercases paths.
+  - iCIMS: rewrite `/jobs/<id>[/<slug>]/job[?…]` to `/jobs/<id>/job` with no query.
+  - Others: unchanged.
+- **`data/canon.json`** = `{canon_key: storage_key}`, maintained for every matched posting.
+  - A new posting whose `canon_key` is already present counts as seen: `seen.json` is refreshed for the stored storage key, and nothing is appended.
+  - Entries are pruned when their storage key is pruned from `seen.json` (365 days).
 
 ## L1: lists
 
-| Source | Format | Endpoint | Notes |
-|---|---|---|---|
-| `simplify` | JSON (existing) | existing | unchanged |
-| `vanshb03` | JSON, same schema as Simplify's `listings.json` | `https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/.github/scripts/listings.json` | Reuses `parse_simplify`. Its `season` values are `Summer`/`Fall`/…; only `Summer` counts, and it maps to the filter term `Summer 2027`. Last updated 2026-08-23, so the staleness alert is expected |
-| `speedyapply` | Markdown tables in `README.md` | `https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/README.md` | Parse table rows whose header is `Company \| Position \| Location \| [Salary \|] Posting \| Age`. Company = the text inside `<strong>`. URL = the `href` in the Posting cell. Age `Nd` → posted = run date − N days (`Nh` = today). The README holds USA internships (INTL and new-grad are other files, never read). Term: none, so the untermed title rules apply |
+| Source | Endpoint | Parsing |
+|---|---|---|
+| `simplify` | existing | unchanged |
+| `vanshb03` | `https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/.github/scripts/listings.json` | A new wrapper, `parse_vansh`, reuses the row mapping of `parse_simplify`, with `source="vanshb03"` and key `vanshb03:<id>`. **Term:** `season == "Summer"` maps to `terms=("Summer 2027",)` **only if** `date_posted` ≥ 2026-06-01 (epoch) **and** the title contains no 4-digit year other than 2027. Otherwise `terms=()`, and the untermed title rules apply. Only `active and is_visible` rows are used. The last update was 2026-08-23, so the staleness alert is expected |
+| `speedyapply` | `https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/README.md` | Parse table rows under a header that is exactly `\| Company \| Position \| Location \| Salary \| Posting \| Age \|` or the same without `Salary`. Company = the text of the first `<strong>`; title = Position; location = Location; URL = the `href` of the Posting cell's `<a>`; Age `^(\d+)d$` → posted = run date (UTC) − N days. Other Age formats → posted unknown. No term, so the untermed title rules apply |
 
 ## L2: board discovery and polling
 
-**`boards.board_of(url) -> (ats, board) | None`**:
-- `workday`: `<tenant>.<wdN>.myworkdayjobs.com/[<locale>/]<site>/...` → `f"{tenant}.{wdN}/{site}"`. The locale matches `^[a-z]{2}-[A-Z]{2}$` and is dropped.
-- `greenhouse`: `(job-)?boards.greenhouse.io/<board>/...` → `<board>`. A URL containing `gh_jid=<id>` on another host → the board comes from `GET https://boards.greenhouse.io/embed/job_app?token=<id>` (no redirect-follow). It's the `for=` parameter of `Location`, and the result is cached in `boards.json` under `gh_custom:<host>`.
-- `ashby`: `jobs.ashbyhq.com/<org>/...` → `<org>`.
-- `lever`: `jobs.lever.co/<company>/...` → `<company>`.
-- `smartrecruiters`: `jobs.smartrecruiters.com/<company>/...` → `<company>`.
-- `oracle`: `<host>` ending in `oraclecloud.com` with path containing `/hcmUI/CandidateExperience/<lang>/sites/<site>/` → `f"{host}|{site}"`.
-- `icims`: `<host>` ending in `.icims.com` → `<host>`.
-- `eightfold`: `<host>` ending in `eightfold.ai`, or a host whose page embeds `eightfold` (not auto-detected, config only) → `<host>`.
+**`boards.board_of(url) -> (ats, board) | None`**. Host matching is **exact,
+or a dot-boundary suffix** (`host == s or host.endswith("." + s)`). Every
+host label must match `^[a-z0-9-]{1,63}$`, otherwise the result is `None`.
+The mappings:
+- `workday`: host `<tenant>.<wdN>.myworkdayjobs.com`, with `tenant` matching `^[a-z0-9_-]+$` and `wdN` matching `^wd\d{1,2}$`. The first path segment that isn't a locale is `site` (`^[A-Za-z0-9_-]+$`). → `f"{tenant}.{wdN}/{site}"`.
+- `greenhouse`: host `boards.greenhouse.io` or `job-boards.greenhouse.io` → the first path segment. On any other host with query `gh_jid=<digits>`, the board is resolved **only on the watcher** (never on the search job): `GET https://boards.greenhouse.io/embed/job_app?token=<id>` without following redirects, and the board is the `for=` parameter of `Location` (host `job-boards.greenhouse.io`, verified). The result is cached in `boards.json` as `gh_custom:<host> → <board>`.
+- `ashby`: `jobs.ashbyhq.com` → the first segment.
+- `lever`: `jobs.lever.co` → the first segment.
+- `smartrecruiters`: `jobs.smartrecruiters.com` → the first segment.
+- `oracle`: suffix `oraclecloud.com`, with path containing `/hcmUI/CandidateExperience/<lang>/sites/<site>/` (case-insensitive) → `f"{host}|{site}"`.
+- `icims`: suffix `icims.com` → `host`. The 25 custom-domain iCIMS hosts are out of scope.
+- `eightfold`: suffix `eightfold.ai` → `host`.
 - Anything else → `None`.
 
-**`data/boards.json`** (committed): `{"version": 1, "boards": {"<ats>:<board>": {ats, board, pinned: bool, discovered_via: source|null, first_seen, last_ok, last_match, consecutive_errors, disabled: bool}}}`.
-- Every board in `config.toml` is seeded with `pinned: true`.
-- On rollout, every URL in the current `inbox.json` is run through `board_of`, which adds 441 boards (measured 2026-09-30):
+**Config** (`config.toml`, parsed into new `SourcesConfig` fields):
+- `vanshb03 = true`, `speedyapply = true`.
+- `[sources.oracle] boards = ["<host>|<site>", …]`.
+- `[sources.icims] hosts = […]`.
+- `[sources.eightfold] boards = [{host = "…", domain = "…"}]`. This needs a new table-list parser, because `_str_tuple` can't read tables.
+
+Config boards are the **pinned** set.
+
+**`data/boards.json`** (committed): `{"version":1, "gh_custom":{host: board}, "boards": {"<ats>:<board>": {ats, board, pinned, discovered_via, first_seen, last_polled, last_ok, last_match, consecutive_errors, disabled, needs_config}}}`.
+- Keys are casefolded, and dates are ISO UTC.
+- On every run, every config board is upserted with `pinned: true`. A board removed from config becomes `pinned: false`; it is never deleted by that.
+- **Seeding** runs every current `inbox.json` URL through `board_of` and adds 441 boards (measured 2026-09-30):
 
 | Site | Boards added |
 |---|---|
@@ -123,145 +164,210 @@ merged in the inbox, because triage already groups them. The health
 | lever | 10 |
 | eightfold | 4 |
 
-- Each run adds boards from that run's postings, from every source including the search feed.
+- Each run adds boards from its matched postings from every source, including traced search postings.
+- A discovered `eightfold` board with no config entry gets `needs_config: true` and is never polled until the owner adds its `domain` to config.
+- **Limits:**
+  - A non-pinned board with no match for 400 days is deleted.
+  - There are at most 2,000 non-pinned boards; beyond that, the oldest `last_match` is evicted first (then the oldest `first_seen`).
 
-**Polling tiers** are a pure function `due(board, run_index) -> bool`, where
-`run_index = floor(unix_time / 1800)`:
+**Due rule**, based on wall-clock time. Runs happen every 30 minutes on the Mac and about 5 times a day on Actions. `due(board, now)` means `now − last_polled ≥ interval(board)` (a board never polled is due), where:
 
-| Condition | Polled |
+| Condition | interval |
 |---|---|
-| `pinned`, or `last_match` within 60 days | every run |
-| `last_match` within 60–180 days, or never matched but `first_seen` within 14 days | `run_index % 4 == hash(board) % 4` |
-| otherwise | `run_index % 48 == hash(board) % 48` (daily) |
-| `disabled` | never |
+| `pinned`, or `last_match` within 60 days, or `first_seen` within 14 days | 0 (every run) |
+| `last_match` within 60–180 days | 6 h − jitter |
+| otherwise | 24 h − jitter |
+| `disabled` or `needs_config` | never |
 
-- `hash` = the first 8 hex digits of `sha1(key)`, taken as an int, so load spreads evenly across runs.
-- A board is disabled after `consecutive_errors ≥ 10`, which raises a health alert. It's re-enabled automatically when any source produces a posting on that board.
-- **Concurrency:** a `ThreadPoolExecutor(max_workers=8)` with at most 2 requests in flight per host (a per-host semaphore), using the existing `http` retry and backoff.
-- **Budget:** a run must finish in under 12 minutes (the job timeout is 15). If the elapsed time passes 10 minutes, remaining non-pinned boards are skipped and recorded as `skipped_budget` in health.
+- `jitter = bucket(key) % 60` minutes, where `bucket(key) = int(hashlib.sha1(key.encode()).hexdigest()[:8], 16)`.
+- A board is disabled after 10 consecutive errors, which raises a health alert. It's re-enabled when any source produces a posting on that board.
 
-**Workday** (existing reader, extended):
-- `POST https://<tenant>.<wdN>.myworkdayjobs.com/wday/cxs/<tenant>/<site>/jobs` with `{"appliedFacets": {}, "limit": 20, "offset": n, "searchText": "intern"}`. Pages continue while `offset < total`, capped at 5 pages. Workday returns zero rows for `limit` > 20.
-- `postedOn` ("Posted Today", "Posted Yesterday", "Posted N Days Ago", "Posted 30+ Days Ago") → a posted date (30+ → run date − 30).
+**Concurrency and budget:**
+- `ThreadPoolExecutor(max_workers=8)`, with a per-host semaphore of 2, using the existing `http` retries and backoff.
+- At an elapsed time of 10 minutes, due non-pinned boards that haven't started are skipped and counted as `skipped_budget`.
+- **Projected first run with the depth caps below:** about 1,400 s of requests serially, which is about 3–4 minutes at 8 workers. Measured timings: Workday about 1.0 s per page, Greenhouse 0.06–0.97 s, Oracle 0.5–1.0 s, iCIMS 0.15–0.5 s.
 
-**New readers:**
-- **`oracle`:**
-  - `GET https://<host>/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.secondaryLocations&finder=findReqs;siteNumber=<site>,facetsList=NONE,keyword=intern,limit=25,offset=<n>`, paging to 4 pages.
-  - `requisitionList[]` → title `Title`, id `Id`, location `PrimaryLocation`, posted `PostedDate`.
+**Readers and depth caps:**
+- **workday** (existing reader):
+  - `POST …/wday/cxs/<tenant>/<site>/jobs` with `{"appliedFacets":{}, "limit":20, "offset":n, "searchText":"intern"}`. `limit` > 20 gives HTTP 400.
+  - **Pinned boards keep the existing `MAX_RESULTS = 1000`.** The fuzzy search buries intern roles deep: 25 of 26 were past offset 200 on Palo Alto Networks.
+  - **Discovered boards stop at 5 pages (100).** A discovered board whose `total` exceeds 100 gets `deep: true` in `boards.json`, and health lists it so the owner can pin it.
+  - `postedOn`: "Posted Today" → today; "Posted Yesterday" → −1; "Posted N Days Ago" → −N; "Posted 30+ Days Ago" → −30.
+- **oracle** (new; verified anonymously on eofe/CX_1001, ibqbjb/Honeywell and fa-eowa/CSXCareers):
+  - `GET https://<host>/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.secondaryLocations&finder=findReqs;siteNumber=<site>,facetsList=NONE,keyword=intern,limit=200,offset=<n>`.
+  - Rows are in `items[0].requisitionList[]` with fields `Title`, `Id`, `PrimaryLocation`, `PostedDate` (`YYYY-MM-DD`). Paging uses `items[0].TotalJobsCount`, up to 5 pages (1,000).
   - The URL is `https://<host>/hcmUI/CandidateExperience/en/sites/<site>/job/<Id>`.
-  - Oracle documents this endpoint as internal, but career sites call it anonymously. It is verified on 3 inbox tenants at the phase-2 gate; a tenant that returns 401 or 403 is disabled with a note.
-- **`icims`:**
-  - `GET https://<host>/jobs/search?ss=1&searchKeyword=intern&in_iframe=1&pr=<page>` with a browser User-Agent, paging to 3 pages.
-  - Parse `a.iCIMS_Anchor` (href `/jobs/<id>/<slug>/job`) plus the title text, and the location from the row's `.iCIMS_JobHeaderData` or header field.
-  - The URL is the job href without query parameters.
-  - Verified on 5 inbox hosts at the phase-2 gate. A host whose HTML yields 0 anchors on a page that says "results" is flagged as `parse_error`.
-- **`eightfold`:**
-  - `GET https://<host>/api/apply/v2/jobs?domain=<domain>&query=intern&start=<n>&num=10`, paging to 5 pages; `domain` is configured per board.
-  - On 401 or 403, the fallback is `GET https://<host>/api/pcsx/search?domain=<domain>&query=intern&start=<n>`.
-  - Title `name`, location `locations[]`, URL `canonicalPositionUrl`.
+  - A 401 or 403 disables the board with the note `oracle_auth`.
+- **icims** (new; verified on 3 hosts):
+  - `GET https://<host>/jobs/search?ss=1&searchKeyword=intern&in_iframe=1&pr=<page>` (page 0-based) with a browser `User-Agent`, up to 3 pages, stopping when the text "Page N of M" shows N ≥ M.
+  - Rows are `li.iCIMS_JobCardItem`, and the anchor is the `a` whose class list **exactly contains** `iCIMS_Anchor` (not `iCIMS_Anchor_Nav`). Its absolute `href` has the query dropped and is canonicalized. The title is the `h3` text.
+  - Location is the `dd.iCIMS_JobHeaderData` whose preceding `dt` text contains "Location".
+  - A page containing "results" but yielding 0 rows records `parse_error`.
+- **eightfold** (new; the v2 endpoint returns 403 "Not authorized for PCSX" on all 4 tenants, so **pcsx is primary**):
+  - `GET https://<host>/api/pcsx/search?domain=<domain>&query=intern&start=<n>`. There are 10 rows per page (fixed), paging by `data.count`, up to 20 pages.
+  - Rows are `data.positions[]` with fields `name`, `locations[]`, `positionUrl` (relative) and `postedTs` (epoch seconds). The URL is `https://<host>` + `positionUrl`.
+  - `domain` comes from config (verified values are `<company>.com`, e.g. `paypal.com`).
+- The existing greenhouse, ashby, lever and smartrecruiters readers are unchanged.
 
-All new readers produce untermed postings. The existing untermed filter rules
-apply (the title must say intern or co-op; the 2026-term and non-technical
-excludes). No reader performs any write, POST (except Workday's search, which
-is read-only) or login.
+All readers are read-only (the Workday search POST is read-only), and none of them log in. New readers produce untermed postings, and the existing untermed title rules apply.
 
-## L3: search engines (Mac)
+## L3: search engines (Mac, private data)
 
-**Code.** `search/radar_search.py` in this repo, run as its own program. It
-does not import the watcher, and uses `intern_radar.models.normalize_url` via
-`PYTHONPATH`.
-- Environment: `~/.local/share/radar-search/venv` with `python-jobspy==<pinned version at implementation>` (Python 3.10+). The pin is updated deliberately, never floating.
-- Config is `search/search.toml`:
-  - `sites = ["linkedin","indeed","glassdoor","google"]`
-  - `location = "United States"`
-  - `country_indeed = "USA"`
-  - `results_per_query = 100`
-  - `hours_old_first_run = 720`, `hours_old = 72`
-  - `delay_seconds = [3, 8]`
-  - `terms` = "software engineer intern", "software engineering internship summer 2027", "data science intern", "machine learning intern", "data engineer intern", "quantitative developer intern"
-  - Google Jobs uses `google_search_term = "<term> jobs in United States since yesterday"`.
-- **Run:** for each site × term, call `scrape_jobs(...)`. For LinkedIn, `linkedin_fetch_description=True`, needed to get `job_url_direct`.
-  - Between calls: a random sleep in `delay_seconds`.
-  - A site is **blocked for this run** after a 429, a response containing a CAPTCHA page, or 3 consecutive empty results for terms that yielded before. It's skipped for the rest of the run and recorded.
-  - No logins, cookies or persistent sessions.
-- **Filtering (before writing):** untermed title rules (the same `FilterConfig`) **plus** the description (when present) must contain `2027` or `summer` (case-insensitive). Postings without a description need a title containing `2027` or `summer`.
-- **Link tracing:**
-  1. If `job_url_direct` is present and http(s), use it.
-  2. Otherwise follow redirects of `job_url` with `GET` (at most 5 hops, 10 s timeout, the same private-address refusal as `jd.py`'s fetcher) and take the final URL.
-  3. If `board_of(final)` is not `None`, the posting's URL is the traced URL (its canonical key) and `traced: true`.
-  4. Otherwise the URL stays the search engine's `job_url` and `traced: false`.
-- **Output:** `data/search-feed.json` = `{"version":1, "generated_at": iso, "sites": {site: {ok, blocked, error, results, kept}}, "postings": [{url, company, title, locations, source: "<site>", posted_at, traced}]}`. Postings older than 7 days are dropped.
-- **Commit:** under `mkdir ~/.local/state/radar-search/lock`:
-  1. `git -C <repo> pull --rebase -q`
-  2. write the file
-  3. `git add data/search-feed.json && git commit -m "chore: search feed [skip ci]" && git push`
-  4. On a push rejection, rebase and retry up to 3 times.
-  - It never stages any other path.
-- **launchd:** `com.kernsharma.radar-search`, `StartCalendarInterval` Minute 55 of every even hour, `RunAtLoad` false, logs in `~/.local/state/radar-search/`.
+**Repos and paths:**
+- The private repo `<owner>/intern-radar-feed` holds only `search-feed.json` and a README. It's cloned at `~/.local/share/radar-search/feed`.
+- The program is `search/radar_search.py` **in this public repo** (code is public, data isn't). It runs from a dedicated clone at `~/.local/share/radar-search/code`, pulled at the start of each run.
 
-**Cloud ingest:** a source `search_feed` reads `data/search-feed.json` from
-the checkout. It yields its postings (as `Posting`, with `source` = the
-site), and health records `generated_at` age.
+**Environment:**
+- `~/.local/share/radar-search/venv`, **built from Python 3.12** (`/opt/homebrew/bin/python3.12`, installed with `brew install python@3.12` at the phase-3 go). JobSpy pins `numpy==1.26.3`, which has no 3.13 wheels.
+- `python-jobspy==1.1.82`.
+- It imports only these watcher modules, all stdlib-only: `intern_radar.models`, `config`, `filters` and `boards`. `board_of` never performs the `gh_jid` network lookup here.
+
+**Config** `search/search.toml`:
+- `sites = ["linkedin","indeed","glassdoor","google"]`
+- `location = "United States"`, `country_indeed = "USA"`, `job_type = "internship"`
+- `results_per_query = 100`
+- `hours_old_first_run = 720`, `hours_old = 72`
+- `delay_seconds = [3, 8]`
+- `terms` = "software engineer intern", "software engineering internship summer 2027", "data science intern", "machine learning intern", "data engineer intern", "quantitative developer intern"
+- Google Jobs uses `google_search_term = "<term> jobs in United States since yesterday"`.
+- LinkedIn uses `linkedin_fetch_description=True`, which is the 1.1.82 parameter name; it is renamed only when the pin changes.
+
+**Run:**
+- Call `scrape_jobs` for each site × term, with a random sleep in `delay_seconds` between calls.
+- A site is **blocked for this run** after an exception mentioning 429, a CAPTCHA page, or 3 consecutive empty results for terms that yielded before; it's then skipped. LinkedIn is expected to rate-limit around its 10th page.
+- No logins, no cookies, no persistence.
+
+**Filter:** the untermed title rules (the same `FilterConfig`), plus the description (when present) must contain `2027` or `summer` (case-insensitive). Postings without a description need `2027` or `summer` in the title.
+
+**Link tracing (SSRF-safe):**
+1. The candidate is `job_url_direct` if it's http(s), otherwise `job_url`.
+2. Follow redirects **manually**, with automatic following off, up to 5 hops. Each hop must be `http` or `https` on port 80 or 443.
+3. Resolve the hop's host with `socket.getaddrinfo`. Every resolved address must satisfy `ipaddress.ip_address(a).is_global`, which rejects IPv4-mapped private addresses, CGNAT and 169.254.0.0/16; otherwise refuse.
+4. Connect to **the vetted IP**, with an explicit `Host` header and TLS SNI set to the hostname, so DNS rebinding between check and connect is impossible.
+5. The timeout is 10 s, and at most 1 MB of body is read.
+6. If `board_of(final)` is not `None`, the posting URL is the final URL and `traced: true`. Otherwise it keeps the search-engine `job_url` and `traced: false`.
+
+**Output:** `search-feed.json` = `{"version":1, "generated_at", "sites": {site: {ok, blocked, error, results, kept, traced}}, "postings": [{url, company, title, locations, source, posted_at, traced}]}`.
+- Postings older than 7 days are dropped.
+- Strings are stored raw, for private use.
+
+**Commit:** in the feed clone, under the lock `~/.local/state/radar-search/lock` (a `mkdir` lock holding a PID; a lock older than 3 h is stale and removed):
+1. `git pull --rebase`.
+2. Write the file.
+3. `git add search-feed.json && git commit -m "feed" && git push`, retrying up to 3 times.
+
+The push uses the owner's existing gh credential. Nothing else is staged.
+
+**launchd:** `com.kernsharma.radar-search`, minute 55 of every even hour, `RunAtLoad` false, logs in `~/.local/state/radar-search/`.
+
+**Watcher ingest** (`sources/search_feed.py`):
+- It reads `RADAR_FEED_PATH` (Mac), or on Actions `RADAR_FEED_URL` with `FEED_TOKEN`, using the GitHub contents API with `Accept: application/vnd.github.raw`.
+- **Validation:** file ≤ 2 MB; ≤ 3,000 postings; `url` https; `title` ≤ 200 characters; `company` ≤ 100; control characters stripped. A malformed feed fails only this source.
+- **Only `traced: true` postings** become `Posting`s, and only their canonical URL, company, title, locations and posted date are used. `source = "search"`: the site name is never written publicly. Nothing else from the feed reaches public files.
+
+**Untraced postings → triage (private).** kern-sharma-resume's `triage.py` adds one input: when `~/.local/share/radar-search/feed/search-feed.json` exists, its `traced: false` postings join the watcher inbox for grouping and triage, with `added` = `posted_at` or today. They are always treated as live, since they're outside `seen.json`. Auto-submit treats their URLs as `other:<host>` (manual). This is a one-function change in kern-sharma-resume; it has its own test there and ships in phase 3.
+
+The feed's staleness is expected while the Mac sleeps. Health alerts on it only outside a quiet window.
 
 ## L4: health
 
-**`data/health.json`** (committed, public): `{"version":1, "runs": [last 48 {at, seconds, sources:{name:{ok, error, postings, matches, seconds}}, boards_polled, boards_skipped_budget}], "boards_summary": {ats: {total, disabled}}, "first_seen": {"window_days": 30, "pairs": {"<a>|<b>": {"n", "median_hours_a_before_b"}}}}`.
-- `first_seen` compares each pair of sources over roles (role id) seen by both within the window.
+**`data/sightings.json`** (committed): `{"version":1, "keys": {canon_key: {family: first_seen_at ISO-UTC}}}`.
+- Written for every **matched** posting from every family, including `search` (traced only); pruned after 30 days.
+- The head start and unique finds are computed from it, by canonical key, which is exact. Simplify often links the same ATS URL.
 
-**Alert rules**, evaluated at the end of each run:
-1. A source with ≥1 match in the last 7 days gets 0 matches for 6 consecutive runs.
-2. A source errors in 3 consecutive runs.
-3. A list source's newest item timestamp is more than 7 days old (vansh uses `date_updated`, speedyapply the minimum Age).
-4. `search-feed.json` `generated_at` is more than 6 h old.
-5. The run took more than 12 minutes, or any `skipped_budget` > 0 for 3 consecutive runs.
-6. A board was newly disabled.
+**`data/health.json`** (committed, public):
+```json
+{"version": 1, "last_run_at": "iso", "runner": "mac|actions",
+ "runs": [{"at", "runner", "seconds", "families": {"<family>": {"ok", "errors", "postings", "matches", "seconds"}},
+           "boards_polled", "boards_skipped_budget"}],
+ "alerts": {"<rule>|<subject>": {"issue", "opened_at", "last_comment_at"}},
+ "weekly_written_for": "YYYY-Www"}
+```
+- `runs` keeps the last 200 entries.
+- Per-board state lives only in `boards.json`.
 
-**Alert delivery:**
-- One GitHub issue per `(rule, subject)`, labelled `health`, opened once and commented on at most daily while the condition holds, and closed automatically when it clears. These issues are excluded from the one-time watcher-issue cleanup script's filter by title.
-- Plus an ntfy push (Actions secret `NTFY_TOPIC`; absent means no push) with content-free text: `"intern-radar health: 2 open alerts"`, at most once per 6 h.
+**Alert rules**, evaluated at the end of each run, with wall-clock windows:
 
-**Weekly summary:** every Monday's first run writes
-`data/health-weekly.md` with:
-- postings per source;
-- unique finds (roles found only by that source) per source;
-- the median head start of each direct-ATS source over `simplify`;
-- the list of disabled boards.
+| Rule | Condition |
+|---|---|
+| R1 | A family with ≥1 match in the prior 7 days has 0 matches across all runs in the last 24 h |
+| R2 | A family errors on every run in the last 6 h, with at least 2 runs |
+| R3 | A list's newest item is more than 7 days old. vanshb03 uses max `date_updated`; speedyapply uses its minimum Age |
+| R4 | The search feed's `generated_at` is more than 6 h old, evaluated only between 09:00 and 23:00 America/New_York (the quiet window covers sleep) |
+| R5 | A run took more than 12 minutes, or `boards_skipped_budget` > 0 on every run in the last 3 h |
+| R6 | A board was disabled or newly marked `deep` (one issue per board) |
 
-## Testing
+**Delivery:**
+- **Issues** are titled `health: <R#> <subject>`. That title can never match the kern-sharma-resume cleanup filter `^[0-9]+ new internship posting\(s\) — `.
+  - Each carries the label `health`, created if a GET for it returns 404. No assignee.
+  - One issue per `(rule, subject)`. It gets at most one comment a day while the condition holds, and closes automatically when it clears.
+  - At most 10 open health issues; beyond that, one summary issue `health: R0 alert overflow` is updated.
+- **ntfy** uses `NTFY_TOPIC`; absent means off. The text is `"intern-radar health: <n> open alerts"`, sent at most once every 6 h.
+- **Weekly summary:** the first run whose UTC ISO week differs from `weekly_written_for` writes `data/health-weekly.md`:
+  - matched postings per family;
+  - unique finds per family (canonical keys seen only by that family);
+  - the median head start (hours) of each ATS family and of `search` over `simplify`, where n ≥ 5;
+  - disabled, `deep` and `needs_config` boards.
 
-pytest, with fixtures in `tests/fixtures/`:
-- **Parsers:** Oracle JSON; iCIMS HTML (2 layouts); Eightfold v2 JSON and pcsx JSON; speedyapply README excerpt (with and without the Salary column); vanshb03 JSON; Workday `postedOn` variants; a JobSpy output rows fixture (a list of dicts, no pandas in the watcher tests).
-- **`board_of`:** a table of 25 URLs: locales, `gh_jid` custom (using a fake redirect server), each ATS, and unknowns → None.
-- **Tiers:** `due()` across pinned, 30-day, 90-day, new and 400-day boards and the disabled state, at several run indices; the spread is uniform across 4 and 48 buckets.
-- **Budget:** a fake clock past 10 minutes skips non-pinned boards and records them.
-- **Discovery:** postings from each source add boards; an existing board is not duplicated; a disabled board re-enables on a new posting.
-- **Link tracing:** a fake server with a 3-hop redirect to a Workday URL gives `traced: true` and the canonical key; a redirect to `10.0.0.1` is refused; 6 hops stops at 5.
-- **Search filter:** the description rule, and the no-description title rule.
-- **Health:** each alert rule fires and clears; issue dedupe (one issue per rule and subject); the ntfy rate limit; `first_seen` median computation.
-- **Regression:** a recorded run of the current six sources through the new pipeline produces a superset of the old run's inbox keys.
-- The existing suite passes. The **search program** is tested separately with `scrape_jobs` monkeypatched.
+**Untrusted text in issues:** `notify.format_lines` escapes `[]()<>!@` and backticks in company and title for **all** sources. Health issue bodies contain only family names, board keys and numbers.
+
+## Testing (pytest; fixtures in `tests/fixtures/`, recorded 2026-09-30)
+
+- **Parsers:**
+  - Oracle JSON; iCIMS HTML from 3 hosts; Eightfold pcsx JSON; the speedyapply README excerpt (with and without Salary); vanshb03 JSON.
+  - vanshb03 cases: a Summer row posted 2026-04 with no year gives no term; posted 2026-07 gives Summer 2027; a title containing 2026 gives no term.
+  - Workday `postedOn` variants.
+  - Search-feed JSON: valid, oversize, bad URL, and untraced postings, which are ignored.
+- **`board_of`:** a table of 30 URLs, including `evil-oraclecloud.com` and `oraclecloud.com.evil.io`, both → None; bad labels; locales; the `gh_jid` lookup via a fake server.
+- **`canon_key`:** Workday locale; the iCIMS slug and query variants → one key; plus the `canon.json` seen-refresh path.
+- **`due()`:** each tier at several `now` values; jitter bounds; disabled and `needs_config`.
+- **Budget:** a fake clock past 10 minutes skips and records.
+- **Discovery:**
+  - Seeding; dedupe; disable after 10 errors, then re-enable.
+  - The 400-day delete and the 2,000 cap eviction.
+  - An Eightfold board with no domain gets `needs_config`.
+- **Write protocol:** a simulated rebase conflict discards the run; a later run re-finds the postings.
+- **Actions skip:** health `last_run_at` within 50 minutes means exit 0.
+- **Link tracing:** a 3-hop redirect to Workday gives `traced` and the canonical URL. Refused cases: `127.0.0.1`, `169.254.169.254`, `[::ffff:10.0.0.1]`, a rebinding resolver (first public, then private) that must still connect to the vetted IP, and a 6th hop. Plus the 1 MB cap.
+- **Search program:** `scrape_jobs` monkeypatched; the block rule; the description filter; feed commit with a fake git.
+- **Health:** each rule fires and clears (R4 respects the quiet window); issue dedupe; the cap of 10; the ntfy rate limit; the weekly ISO-week trigger; head-start medians from `sightings.json`; issue-body escaping.
+- **Regression:** a recorded run of today's six sources through the new pipeline yields a superset of the old run's inbox keys.
+- **kern-sharma-resume:** a `triage.py` test for untraced feed postings joining the analysis.
+- The existing suites pass.
+
+`scripts/gate_check.py [--phase N]` reads `health.json`, `sightings.json`
+and `boards.json`, prints each gate criterion with PASS or FAIL, and exits
+nonzero on any failure.
 
 ## Phased rollout
 
-1. **Phase 1: lists, discovery, tiers, health (cloud).**
-   - Covers: vanshb03, speedyapply, `boards.json` + seeding, `board_of`, tiered polling with concurrency and budget, `SourceResult`, `health.json`, alerts, the weekly summary, `first_source`/`first_seen_at`.
-   - **Gate:**
-     - 7 days of scheduled runs, all under 12 minutes and with `skipped_budget` 0 on ≥ 90% of runs.
-     - The regression superset holds on live data.
-     - `health-weekly.md` shows the direct-ATS head start.
-     - The owner reviews the alert issues raised.
+1. **Phase 1: Mac runner, lists, discovery, dedupe, health.**
+   - Covers:
+     - The Mac clone and launchd; the Actions skip logic and new env; the write protocol.
+     - vanshb03 and speedyapply.
+     - `boards.json` with seeding, `board_of` and `due()`; concurrency and budget; the Workday depth caps.
+     - `canon.json`, `sightings.json`, `health.json`, the alert rules, issues, ntfy, the weekly summary.
+     - The `format_lines` escaping.
+   - **Gate** (`gate_check.py --phase 1`), over 7 days:
+     - every run under 12 minutes;
+     - `boards_skipped_budget` = 0 on ≥ 90% of runs;
+     - ≥ 30 Mac runs a day on days the Mac was awake;
+     - the regression superset holds on a live replay;
+     - `sightings.json` has ≥ 1 ATS family with n ≥ 10 paired with `simplify`;
+     - every open R1–R6 issue on a family that is actually working is labelled `false-positive` and the rule is tuned.
 2. **Phase 2: new readers.** Oracle, iCIMS, Eightfold.
-   - **Gate:** Oracle verified on 3 tenants and iCIMS on 5 hosts, each yielding ≥1 posting overall; each reader's error rate below 5% over 3 days; tenants that fail are disabled with notes.
-3. **Phase 3: search engines (Mac).**
-   - Covers: `search/radar_search.py`, the venv, launchd, link tracing, the cloud ingest source.
-   - **Gate:**
-     - 3 days of feeds, with `generated_at` never more than 6 h stale while the Mac is awake.
-     - The report includes: kept postings per site, the traced rate, unique finds, and boards discovered through traced links.
-     - Any site blocked on more than 50% of runs is removed from `sites` with a note.
+   - **Gate:** over 3 days, each reader's error rate is < 5% of its polls; Oracle yields ≥ 1 posting on ≥ 3 tenants, iCIMS on ≥ 5 hosts, and Eightfold on ≥ 2 configured tenants.
+3. **Phase 3: search engines + the private feed.**
+   - Covers: the `intern-radar-feed` repo, the `FEED_TOKEN` secret, Python 3.12 plus the venv, `radar_search.py`, launchd, the ingest source, and the kern-sharma-resume triage input.
+   - **Gate:** over 3 days:
+     - R4 is never open outside the quiet window;
+     - the report lists kept postings per site, the traced rate, and the untraced count reaching triage;
+     - `search` has ≥ 1 unique find in `sightings.json`;
+     - any site blocked on > 50% of its runs is removed from `sites` with a note.
 
 ## Open follow-ups (not in this change)
 
-- Handshake (logged in), if the health stats show a coverage gap.
-- Custom career-site crawlers.
-- Readers for small ATSes when volume justifies them.
-- The auto-submit fast lane reads `first_seen_at` for freshness.
+- Handshake (logged in), if the stats show a coverage gap.
+- iCIMS custom-domain hosts (25) and other custom career sites.
+- Readers for the small ATSes.
+- The auto-submit fast lane reads `first_seen_at` from `sightings.json`.
