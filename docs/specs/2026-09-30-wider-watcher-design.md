@@ -1,6 +1,6 @@
 # Wider watcher: design
 
-Status: rev 2 (2026-09-30).
+Status: rev 3 (2026-09-30). Round 2 found 2 blockers (the write protocol and Mac notifications) and 7 should-fixes; all are resolved here. Earlier history:
 - Rev 1 came from a brainstorm with the repo owner.
 - Council round 1 (feasibility, tested against live endpoints; completeness + security) found 7 blockers and 17 should-fixes. All are resolved here, and the owner made two new decisions.
 - Pending: council round 2, then owner approval.
@@ -48,33 +48,58 @@ Two runners execute the **same** watcher program (`python -m intern_radar`) agai
 - A dedicated clone at `~/.local/share/intern-radar/repo`, never the owner's working copy.
 - launchd `com.kernsharma.radar-watch`, `StartCalendarInterval` minutes 7 and 37 of every hour, `RunAtLoad` false. Python is `/Library/Frameworks/Python.framework/Versions/3.13/bin/python3`, stdlib only. Logs go to `~/.local/state/intern-radar/`.
 - Environment:
-  - `GITHUB_TOKEN` comes from `gh auth token` at start. It's used for issues and for pushing through the existing gh credential helper.
+  - `GITHUB_REPOSITORY=<owner>/intern-radar`.
+  - `GITHUB_TOKEN` is a **fine-grained PAT** scoped to this repository only, with Contents read/write and Issues read/write. It's read from Keychain item `radar-mac-pat`.
+    - The same PAT is used for `git push` through a `GIT_ASKPASS` script that prints it from the Keychain.
+    - The owner's broad `gh` token (repo + workflow scopes) is never used by the watcher.
+  - **`notify.github_issues` is false on the Mac** (env `RADAR_GITHUB_ISSUES=0`). Issues authored with the owner's own PAT don't notify the owner, so new-posting issues are opened only by Actions runs. The Mac runner delivers through ntfy (content-free "intern-radar: N new postings") and through Discord if configured.
+  - Health issues are opened by either runner. The Mac runner also sends an ntfy push for them.
   - `DISCORD_WEBHOOK_URL` and `NTFY_TOPIC` are read from Keychain items `radar-discord-webhook` and `ntfy-topic`. An absent item means that notifier is off.
   - `RADAR_FEED_PATH=~/.local/share/radar-search/feed/search-feed.json`.
 
 **Actions runner (backup):**
 - The existing `watch.yml`, unchanged in schedule.
-- New step before running: if `data/health.json` at the checked-out HEAD has `last_run_at` within 50 minutes, the job exits 0 without running (the Mac is active).
+- New first step `skip`: if `data/health.json` at the checked-out HEAD has `last_run_at` (the **start** time of the last committed run) within 50 minutes, it sets `outputs.skip=true`. The run and commit steps carry `if: steps.skip.outputs.skip != 'true'`.
 - New env:
   - `NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}`
   - `FEED_TOKEN: ${{ secrets.FEED_TOKEN }}` (a fine-grained PAT, read-only, `intern-radar-feed` contents only)
   - `RADAR_FEED_URL=https://api.github.com/repos/<owner>/intern-radar-feed/contents/search-feed.json`
 - Triggers remain `schedule` + `workflow_dispatch` only. **`pull_request_target` or any PR trigger must never be added.**
 
-**Write protocol (both runners):**
-1. `git pull --rebase` at start.
-2. Run; write files.
-3. Commit `data/`.
-4. `git push`. On rejection: `git pull --rebase`.
-   - If the rebase conflicts on `data/`, **discard this run's commit** (`git rebase --abort && git reset --hard origin/<branch>`) and exit 0.
-   - Discarding is safe. `seen.json` is discarded together with the `inbox.json` additions, so the next run re-finds the same postings.
-   - Up to 3 attempts.
-5. `health.json` records `last_run_at` and `runner` (`mac`|`actions`).
+**Write protocol (both runners): replay, never discard.**
+1. `git fetch && git reset --hard origin/<branch>` at start, so the dedicated clone never holds local edits.
+2. Run. All state changes are collected in memory as a **change set**:
+   - inbox appends;
+   - `seen` marks (key → date);
+   - board upserts and field updates;
+   - `canon` and `sightings` additions;
+   - the new `runs` entry, alert-state changes, and `last_run_at`/`runner`.
+3. Apply the change set to the files, then commit `data/` and push.
+4. On push rejection:
+   1. `git fetch && git reset --hard origin/<branch>`.
+   2. Re-load the files, and **re-apply the same change set**, using merge rules that make it idempotent:
+      - Inbox appends skip keys already present.
+      - `seen` takes the max date per key.
+      - Boards: `last_polled`, `last_ok` and `last_match` take the max; `consecutive_errors` is taken from this run only if this run polled that board; `pinned`, `disabled` and `needs_config` are recomputed.
+      - `sightings` keeps the min timestamp per family.
+      - `runs` is appended and truncated to 200.
+      - Alerts merge per key, keeping the newest `last_comment_at`.
+   3. Commit and push again. Up to 3 attempts, after which the run exits 1 and health records `push_failed`. The next run re-finds anything unpushed, because `seen` wasn't pushed.
+5. **Notifications (new-posting issue, Discord, ntfy) are sent only after a successful push**, for exactly the postings in the pushed appends.
+   - They are best-effort: a notification failure is logged and never retried.
+   - `inbox.json` is the durable channel: triage reads it no matter what.
+   - This deliberately replaces today's notify-before-save order, which re-delivers on a crash but would now duplicate notifications on every replay.
+6. Health issue actions (open, comment, close) also run after a successful push, and are keyed so they're idempotent.
 
-**Inbox writers.** The watcher only **appends** to `inbox.json`. The
-kern-sharma-resume consumer only **removes** processed entries.
-`append_inbox` re-reads the file immediately before writing. That keeps the
-existing two-writer contract.
+Test: a simulated competing push lands between this run's commit and push, with overlapping `seen`, `boards` and `health` edits. Expected: after replay, both runs' appends and marks are present, and each new posting is notified exactly once.
+
+**Inbox writers.**
+- The watcher runners are the **only** writers of `inbox.json`.
+- The Windows auto-tailor consumer that used to remove processed entries is retired. It stopped on 2026-08-21, and the Mac pipeline in kern-sharma-resume reads the inbox with `git show` and keeps its own state (`triage.json`, `done.json`).
+- The old `auto-tailor.md` step "rewrite data/inbox.json with only unprocessed entries" is deleted by the triage phase-2 rewrite. Nothing executes it in the meantime.
+- **Pruning:** with no consumer removing entries, inbox entries whose storage key is pruned from `seen.json` (365 days) are removed in the same run.
+- The owner's tracker writes (`data/applications.json`) happen in the owner's working copy and touch a different file. Replay handles any interleaving.
+- Mac commits count as repository activity, so the 50-day keepalive empty commit can only happen on an Actions run.
 
 ## Architecture
 
@@ -113,7 +138,8 @@ vanshb03, speedyapply, the boards (in `boards.json` key order), search.
   - iCIMS: rewrite `/jobs/<id>[/<slug>]/job[?…]` to `/jobs/<id>/job` with no query.
   - Others: unchanged.
 - **`data/canon.json`** = `{canon_key: storage_key}`, maintained for every matched posting.
-  - A new posting whose `canon_key` is already present counts as seen: `seen.json` is refreshed for the stored storage key, and nothing is appended.
+  - `canon.json` values are `url:`-prefixed `url_key`s (storage keys).
+  - A new posting whose `canon_key` is present counts as seen: `seen[stored]` is refreshed, and the new posting's own source key and `url_key` are marked in `seen` too, so later runs skip it without a canon lookup. Nothing is appended.
   - Entries are pruned when their storage key is pruned from `seen.json` (365 days).
 
 ## L1: lists
@@ -166,6 +192,7 @@ Config boards are the **pinned** set.
 
 - Each run adds boards from its matched postings from every source, including traced search postings.
 - A discovered `eightfold` board with no config entry gets `needs_config: true` and is never polled until the owner adds its `domain` to config.
+- **Churn (accepted):** `boards.json` (≤ ~2,500 rows) and `health.json` are rewritten on every committed run, so about 48 commits a day while the Mac is awake. That is accepted for a data repo; `git gc` keeps it compact.
 - **Limits:**
   - A non-pinned board with no match for 400 days is deleted.
   - There are at most 2,000 non-pinned boards; beyond that, the oldest `last_match` is evicted first (then the oldest `first_seen`).
@@ -220,7 +247,7 @@ All readers are read-only (the Workday search POST is read-only), and none of th
 **Environment:**
 - `~/.local/share/radar-search/venv`, **built from Python 3.12** (`/opt/homebrew/bin/python3.12`, installed with `brew install python@3.12` at the phase-3 go). JobSpy pins `numpy==1.26.3`, which has no 3.13 wheels.
 - `python-jobspy==1.1.82`.
-- It imports only these watcher modules, all stdlib-only: `intern_radar.models`, `config`, `filters` and `boards`. `board_of` never performs the `gh_jid` network lookup here.
+- It imports only these watcher modules, all stdlib-only: `intern_radar.models`, `config`, `filters` and `boards`. `board_of` never performs the `gh_jid` network lookup here: on the search job a `gh_jid` custom host returns `None`, so it's untraced and never published.
 
 **Config** `search/search.toml`:
 - `sites = ["linkedin","indeed","glassdoor","google"]`
@@ -242,8 +269,13 @@ All readers are read-only (the Workday search POST is read-only), and none of th
 **Link tracing (SSRF-safe):**
 1. The candidate is `job_url_direct` if it's http(s), otherwise `job_url`.
 2. Follow redirects **manually**, with automatic following off, up to 5 hops. Each hop must be `http` or `https` on port 80 or 443.
-3. Resolve the hop's host with `socket.getaddrinfo`. Every resolved address must satisfy `ipaddress.ip_address(a).is_global`, which rejects IPv4-mapped private addresses, CGNAT and 169.254.0.0/16; otherwise refuse.
-4. Connect to **the vetted IP**, with an explicit `Host` header and TLS SNI set to the hostname, so DNS rebinding between check and connect is impossible.
+3. Resolve the hop's host with `socket.getaddrinfo`. For every address `a`: `ip = ipaddress.ip_address(a)`; if `ip.version == 6 and ip.ipv4_mapped` then `ip = ip.ipv4_mapped`; require `ip.is_global`. Otherwise refuse. This rejects private, loopback, CGNAT, 169.254.0.0/16 and mapped variants.
+4. Connect to **the vetted IP**. `http.client.HTTPSConnection` and `HTTPConnection` are subclassed with `connect()` overridden:
+   - `sock = socket.create_connection((vetted_ip, port), timeout)`
+   - for HTTPS, `self.sock = self._context.wrap_socket(sock, server_hostname=self.host)`, using the default context, which verifies the certificate against the hostname
+   - `Host` is the hostname.
+   - DNS rebinding between the check and the connect is therefore impossible.
+   - `Location` is resolved with `urljoin`, and only the headers are read for 3xx responses.
 5. The timeout is 10 s, and at most 1 MB of body is read.
 6. If `board_of(final)` is not `None`, the posting URL is the final URL and `traced: true`. Otherwise it keeps the search-engine `job_url` and `traced: false`.
 
@@ -265,7 +297,8 @@ The push uses the owner's existing gh credential. Nothing else is staged.
 - **Validation:** file ≤ 2 MB; ≤ 3,000 postings; `url` https; `title` ≤ 200 characters; `company` ≤ 100; control characters stripped. A malformed feed fails only this source.
 - **Only `traced: true` postings** become `Posting`s, and only their canonical URL, company, title, locations and posted date are used. `source = "search"`: the site name is never written publicly. Nothing else from the feed reaches public files.
 
-**Untraced postings → triage (private).** kern-sharma-resume's `triage.py` adds one input: when `~/.local/share/radar-search/feed/search-feed.json` exists, its `traced: false` postings join the watcher inbox for grouping and triage, with `added` = `posted_at` or today. They are always treated as live, since they're outside `seen.json`. Auto-submit treats their URLs as `other:<host>` (manual). This is a one-function change in kern-sharma-resume; it has its own test there and ships in phase 3.
+**Untraced postings → triage (private).** kern-sharma-resume's `triage.py` adds one input: when `~/.local/share/radar-search/feed/search-feed.json` exists, its `traced: false` postings join the watcher inbox for grouping and triage, with `added` = `posted_at` or today. They are always treated as live while they're in the feed, since they're outside `seen.json`. They drop out of triage when they age out of the feed after 7 days, without being "closed".
+- **Accepted limitation:** triage's role id only lowercases, so an untraced "Google LLC / Software Engineering Intern, Summer 2027" does not group with the ATS "Google / Software Engineer Intern". That can create a duplicate tier line, and the applied-role check can miss it. Untraced postings are shown in the shortlist with the suffix `(search, untraced)` so the owner can spot duplicates. Auto-submit treats their URLs as `other:<host>` (manual). This is a one-function change in kern-sharma-resume; it has its own test there and ships in phase 3.
 
 The feed's staleness is expected while the Mac sleeps. Health alerts on it only outside a quiet window.
 
@@ -326,8 +359,9 @@ The feed's staleness is expected while the Mac sleeps. Health alerts on it only 
   - Seeding; dedupe; disable after 10 errors, then re-enable.
   - The 400-day delete and the 2,000 cap eviction.
   - An Eightfold board with no domain gets `needs_config`.
-- **Write protocol:** a simulated rebase conflict discards the run; a later run re-finds the postings.
-- **Actions skip:** health `last_run_at` within 50 minutes means exit 0.
+- **Write protocol:** replay under a competing push (see Write protocol). A push that fails 3 times gives exit 1, and the next run re-finds the postings.
+- **Actions skip:** health `last_run_at` within 50 minutes sets `skip`, and the run and commit steps don't execute.
+- **Mac notify:** with `RADAR_GITHUB_ISSUES=0`, no issue is created and ntfy is called once after the push. `GITHUB_REPOSITORY` must be present.
 - **Link tracing:** a 3-hop redirect to Workday gives `traced` and the canonical URL. Refused cases: `127.0.0.1`, `169.254.169.254`, `[::ffff:10.0.0.1]`, a rebinding resolver (first public, then private) that must still connect to the vetted IP, and a 6th hop. Plus the 1 MB cap.
 - **Search program:** `scrape_jobs` monkeypatched; the block rule; the description filter; feed commit with a fake git.
 - **Health:** each rule fires and clears (R4 respects the quiet window); issue dedupe; the cap of 10; the ntfy rate limit; the weekly ISO-week trigger; head-start medians from `sightings.json`; issue-body escaping.
@@ -351,7 +385,7 @@ nonzero on any failure.
    - **Gate** (`gate_check.py --phase 1`), over 7 days:
      - every run under 12 minutes;
      - `boards_skipped_budget` = 0 on ≥ 90% of runs;
-     - ≥ 30 Mac runs a day on days the Mac was awake;
+     - ≥ 90% of the :07/:37 slots between the first and last Mac run of each day have a committed Mac run;
      - the regression superset holds on a live replay;
      - `sightings.json` has ≥ 1 ATS family with n ≥ 10 paired with `simplify`;
      - every open R1–R6 issue on a family that is actually working is labelled `false-positive` and the rule is tuned.
