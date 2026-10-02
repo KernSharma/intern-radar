@@ -44,9 +44,28 @@ location_exclude = []
 # see them again.
 company_exclude = ["TikTok", "ByteDance"]
 
+# Auto-discovered boards have no job category: require a tech keyword and
+# drop off-cycle terms (owner, 2026-09-30). Hand-picked boards are exempt.
+discovered_title_require_any = [
+  "software", "engineer", "engineering", "developer", "development", "data",
+  "machine learning", "ml", "ai", "artificial intelligence", "quant",
+  "quantitative", "computer", "computing", "computational", "technology",
+  "technical", "tech", "it", "cyber", "cybersecurity", "security", "analytics",
+  "intelligence", "platform", "cloud", "devops", "sre", "infrastructure",
+  "backend", "frontend", "full stack", "full-stack", "mobile", "ios", "android",
+  "web", "programming", "programmer", "algorithm", "research", "python", "java",
+  "automation", "robotics", "maps", "mapping", "embedded", "firmware", "systems",
+]
+discovered_title_exclude = [
+  "fall 2027", "winter 2027", "spring 2027", "fall '27", "winter '27", "spring '27",
+]
+
 [sources]
 # Aggregator: SimplifyJobs/Summer2027-Internships listings.json (dev branch).
 simplify = true
+# Independent lists (wider-watcher spec, L1).
+vanshb03 = true
+speedyapply = true
 
 # Direct ATS boards, polled for speed — new postings show up here before
 # aggregators pick them up. Slugs below were verified live on 2026-08-03
