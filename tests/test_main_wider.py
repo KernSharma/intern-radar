@@ -257,3 +257,76 @@ def test_list_source_first_run_is_quiet(
     main_mod.run(config, state, bootstrap=False, dry_run=False, now=NOW + timedelta(minutes=30))
     assert issued == []  # speedyapply's first run: backlog queued quietly
     assert "https://x.example/9" in [e["url"] for e in read(state.parent, "inbox.json")]
+
+
+def test_failed_first_poll_keeps_backlog_quiet(
+        world: tuple[Path, Path], monkeypatch: pytest.MonkeyPatch) -> None:
+    config, state = world
+    (state.parent / "boards.json").write_text(json.dumps(
+        {"version": 1, "gh_custom": {}, "gh_custom_pending": {}, "boards": {}}), encoding="utf-8")
+    issued: list[Any] = []
+    monkeypatch.setattr(main_mod, "notify_github_issue", lambda p, f=(): issued.append(p))
+    monkeypatch.setattr(main_mod, "fetch_simplify", lambda: [
+        sp(1, "https://acme.wd5.myworkdayjobs.com/Ext/job/0")])
+    calls = {"n": 0}
+
+    def flaky(board: str, depth: int, today: Any) -> tuple[list[Posting], int]:
+        calls["n"] += 1
+        if calls["n"] == 1:
+            raise TimeoutError("first poll times out")
+        return [Posting(key="workday:acme:/job/7", source="workday", company="acme",
+                        title="Software Intern",
+                        url="https://acme.wd5.myworkdayjobs.com/Ext/job/7")], 1
+
+    monkeypatch.setattr(main_mod, "fetch_workday_info", flaky)
+    main_mod.run(config, state, bootstrap=False, dry_run=False, now=NOW)  # discovers
+    main_mod.run(config, state, bootstrap=False, dry_run=False, now=NOW + timedelta(minutes=30))
+    issued.clear()
+    main_mod.run(config, state, bootstrap=False, dry_run=False, now=NOW + timedelta(minutes=60))
+    assert issued == []  # first SUCCESSFUL poll is still the quiet one
+    assert "https://acme.wd5.myworkdayjobs.com/Ext/job/7" in [
+        e["url"] for e in read(state.parent, "inbox.json")]
+
+
+def test_transient_gh_custom_failure_keeps_host_pending(
+        world: tuple[Path, Path], monkeypatch: pytest.MonkeyPatch) -> None:
+    config, state = world
+    (state.parent / "boards.json").write_text(json.dumps(
+        {"version": 1, "gh_custom": {}, "gh_custom_pending": {"www.optiver.com": "8027900"},
+         "boards": {}}), encoding="utf-8")
+    monkeypatch.setattr(main_mod, "resolve_gh_custom", lambda token: None)
+    monkeypatch.setattr(main_mod, "fetch_simplify", lambda: [])
+    main_mod.run(config, state, bootstrap=False, dry_run=False, now=NOW)
+    assert read(state.parent, "boards.json")["gh_custom_pending"] == {"www.optiver.com": "8027900"}
+
+
+def test_same_job_under_two_urls_in_one_run_is_queued_once(
+        world: tuple[Path, Path], monkeypatch: pytest.MonkeyPatch) -> None:
+    config, state = world
+    config.write_text(CONFIG + '\n[sources.workday]\nboards = ["acme.wd5/Ext"]\n', encoding="utf-8")
+    issued: list[list[str]] = []
+    monkeypatch.setattr(main_mod, "notify_github_issue",
+                        lambda p, f=(): issued.append([x.url for x in p]))
+    monkeypatch.setattr(main_mod, "fetch_simplify", lambda: [])
+    monkeypatch.setattr(main_mod, "fetch_workday_info", lambda b, d, t: ([], 0))
+    main_mod.run(config, state, bootstrap=False, dry_run=False, now=NOW)  # board first poll
+    simplify_copy = sp(5, "https://acme.wd5.myworkdayjobs.com/en-US/Ext/job/US/Intern_5")
+    direct_copy = Posting(key="workday:acme.wd5/Ext:/job/US/Intern_5", source="workday",
+                          company="acme", title="SWE Intern",
+                          url="https://acme.wd5.myworkdayjobs.com/Ext/job/US/Intern_5")
+    monkeypatch.setattr(main_mod, "fetch_simplify", lambda: [simplify_copy])
+    monkeypatch.setattr(main_mod, "fetch_workday_info", lambda b, d, t: ([direct_copy], 1))
+    main_mod.run(config, state, bootstrap=False, dry_run=False, now=NOW + timedelta(minutes=30))
+    inbox = [e["url"] for e in read(state.parent, "inbox.json")]
+    assert inbox == [simplify_copy.url]
+    assert issued == [[simplify_copy.url]]
+
+
+def test_bootstrap_delivers_no_health_alerts(
+        world: tuple[Path, Path], monkeypatch: pytest.MonkeyPatch) -> None:
+    config, state = world
+    delivered: list[Any] = []
+    monkeypatch.setattr(main_mod, "_deliver_health", lambda result, now: delivered.append(1))
+    monkeypatch.setattr(main_mod, "fetch_simplify", lambda: [sp(1, "https://x.example/1")])
+    assert main_mod.run(config, state, bootstrap=True, dry_run=False, now=NOW) == 0
+    assert delivered == []

@@ -13,7 +13,7 @@ from collections.abc import Callable
 from datetime import UTC, datetime
 from pathlib import Path
 from typing import Any
-from urllib.parse import parse_qs, urlsplit
+from urllib.parse import parse_qs, quote, urlsplit
 
 from intern_radar import boards as boards_mod
 from intern_radar import health as health_mod
@@ -158,20 +158,24 @@ def _discover(url: str, via: str, registry: dict[str, Any],
 
 
 def resolve_gh_custom(token: str) -> str | None:
-    """Board slug for a custom-domain Greenhouse job, from the embed redirect."""
+    """Board slug for a custom-domain Greenhouse job, from the embed redirect.
+
+    Returns the slug, "" when Greenhouse answered without one (lookup done,
+    nothing to add), or None on a transport failure (retry on a later run).
+    """
     request = urllib.request.Request(
-        f"https://boards.greenhouse.io/embed/job_app?token={token}",
+        f"https://boards.greenhouse.io/embed/job_app?token={quote(token, safe='')}",
         headers={"User-Agent": USER_AGENT}, method="GET")
     opener = urllib.request.build_opener(_NoRedirect)
     try:
         opener.open(request, timeout=15)
     except urllib.error.HTTPError as e:
         location = e.headers.get("Location", "") if e.code in (301, 302) else ""
-        board = parse_qs(urlsplit(location).query).get("for", [""])[0]
-        return board.lower() or None
+        board = parse_qs(urlsplit(location).query).get("for", [""])[0].lower()
+        return board if boards_mod.valid_slug(board) else ""
     except OSError:
         return None
-    return None
+    return ""
 
 
 class _NoRedirect(urllib.request.HTTPRedirectHandler):
@@ -296,12 +300,14 @@ def run(
     # first enabled): its whole backlog would otherwise notify at once.
     all_rows = {**registry["boards"], **new_rows}
     health_path = data_dir / "health.json"
+    # Only families that have succeeded count as known: a first run that failed
+    # must not un-quiet the backlog on the next, successful run.
     known_families = ({f for run in json.loads(health_path.read_text(encoding="utf-8"))["runs"]
-                       for f in run.get("families", {})} if health_path.exists()
-                      else set(LEGACY_FAMILIES))
+                       for f, e in run.get("families", {}).items() if e.get("ok", 0) > 0}
+                      if health_path.exists() else set(LEGACY_FAMILIES))
     quiet_ids = {id(p) for r in ran
                  if (r.job.board_key is not None
-                     and (all_rows.get(r.job.board_key, {}).get("last_polled") is None
+                     and (all_rows.get(r.job.board_key, {}).get("last_ok") is None
                           or (r.job.deep_crawl
                               and all_rows[r.job.board_key].get("last_deep_crawl") is None)))
                  or (r.job.board_key is None and r.job.family not in known_families)
@@ -319,6 +325,7 @@ def run(
         stored = canon.get(ck)
         if stored is None:
             canon_add.setdefault(ck, p.url_key)
+            canon[ck] = p.url_key  # later variants of this job in THIS run dedupe against it
         if store.is_seen(p):
             continue
         if stored is not None and stored != p.url_key:
@@ -341,7 +348,9 @@ def run(
     gh_done: set[str] = set()
     for host, token in list({**registry.get("gh_custom_pending", {}),
                              **gh_pending}.items())[:GH_CUSTOM_PER_RUN]:
-        board = resolve_gh_custom(token) if token else None
+        board = resolve_gh_custom(token) if token else ""
+        if board is None:
+            continue  # transport failure: keep the host pending for a later run
         gh_done.add(host)
         if board:
             gh_custom_add[host] = board
@@ -417,7 +426,8 @@ def run(
         print(f"inbox: queued {len(result.appended)} for triage"
               + (f" ({len(result.appended) - len(loud)} quietly, first board poll)"
                  if len(loud) != len(result.appended) else ""))
-    _deliver_health(result, now)
+    if not is_bootstrap:  # a bootstrap notifies nothing, health included
+        _deliver_health(result, now)
     return 0
 
 

@@ -8,7 +8,7 @@ from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 @dataclass(frozen=True)
 class Posting:
     key: str  # stable unique key, e.g. "greenhouse:stripe:7954688"
-    source: str  # "simplify" | "greenhouse" | "lever" | "ashby"
+    source: str  # list name (simplify/vanshb03/speedyapply) or ATS family (workday, ...)
     company: str
     title: str
     url: str

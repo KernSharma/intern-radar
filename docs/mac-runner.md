@@ -24,6 +24,7 @@ shell history):
     cd ~/.local/share/intern-radar/repo
     git config user.name "intern-radar[mac]"
     git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+    git config credential.helper ""   # never use the owner's Keychain login here
 
 Never edit files in this clone; each run resets it to `origin/main`.
 

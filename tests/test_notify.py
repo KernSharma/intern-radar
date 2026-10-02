@@ -102,3 +102,37 @@ def test_discord_noop_without_webhook(monkeypatch: pytest.MonkeyPatch) -> None:
     monkeypatch.setattr(urllib.request, "urlopen", lambda *a, **k: calls.append(a))
     notify_discord([posting("Acme", "SWE Intern")])
     assert not calls
+
+
+def test_md_escape_blocks_backslash_bypass() -> None:
+    from intern_radar.notify import md_escape
+
+    out = md_escape(r"\@kernsharma \<img src=x>")
+    assert "\\\\\\@" in out           # the backslash itself is escaped first
+    assert "<img" not in out.replace("\\<", "")
+
+
+def test_discord_payload_disables_mentions(monkeypatch: pytest.MonkeyPatch) -> None:
+    import json as _json
+
+    from intern_radar import notify
+
+    sent: list[dict] = []
+
+    class Resp:
+        status = 204
+
+        def __enter__(self) -> "Resp":
+            return self
+
+        def __exit__(self, *a: object) -> None:
+            return None
+
+    def fake_urlopen(request: object, timeout: float = 0) -> Resp:
+        sent.append(_json.loads(request.data))  # type: ignore[attr-defined]
+        return Resp()
+
+    monkeypatch.setenv("DISCORD_WEBHOOK_URL", "https://discord.example/hook")
+    monkeypatch.setattr(notify.urllib.request, "urlopen", fake_urlopen)
+    notify.notify_discord([posting("@everyone", "SWE Intern")])
+    assert sent and all(m["allowed_mentions"] == {"parse": []} for m in sent)

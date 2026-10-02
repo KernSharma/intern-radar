@@ -36,6 +36,7 @@ DISABLE_AFTER_ERRORS = 10
 WARM_INTERVAL = timedelta(hours=6)
 COLD_INTERVAL = timedelta(hours=24)
 DEEP_INTERVAL = timedelta(hours=24)
+MAX_DEEP_CRAWLS_PER_RUN = 20
 
 
 def _host_ok(host: str) -> bool:
@@ -184,4 +185,6 @@ def prune_and_evict(reg: dict[str, Any], now: datetime) -> list[str]:
     return removed
 
 
-MAX_DEEP_CRAWLS_PER_RUN = 20
+
+def valid_slug(text: str) -> bool:
+    return bool(_SLUG.match(text))

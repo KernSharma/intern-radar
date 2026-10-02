@@ -33,3 +33,12 @@ def test_rejected_push_returns_false_and_reset_targets_origin() -> None:
     assert not g.commit_push(["data"], "m")
     g.reset_to_origin()
     assert ["reset", "-q", "--hard", "origin/main"] in fake.cmds
+
+
+def test_git_failure_or_timeout_returns_false() -> None:
+    def timing_out(cmd: list[str], **_: Any) -> subprocess.CompletedProcess[str]:
+        if cmd[3] == "add":
+            raise subprocess.TimeoutExpired(cmd, 120)
+        return subprocess.CompletedProcess(cmd, 0, "main\n", "")
+
+    assert not GitSync(Path("/r"), timing_out).commit_push(["data"], "m")

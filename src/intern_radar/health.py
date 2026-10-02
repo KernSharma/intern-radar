@@ -19,7 +19,7 @@ from typing import Any
 
 from intern_radar.http import USER_AGENT
 
-RUNS_KEPT = 200
+RUNS_KEPT = 400  # >= 7 days at 48 Mac runs/day plus Actions: the phase-1 gate window
 LIST_FAMILIES = ("simplify", "vanshb03", "speedyapply")
 NTFY_EVERY = timedelta(hours=6)
 MAX_OPEN_ISSUES = 10

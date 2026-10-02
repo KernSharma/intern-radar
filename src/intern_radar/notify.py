@@ -16,7 +16,7 @@ class NotifyError(Exception):
     pass
 
 
-_MD_SPECIAL = str.maketrans({c: "\\" + c for c in "[]()<>!@`*_"})
+_MD_SPECIAL = str.maketrans({c: "\\" + c for c in "\\[]()<>!@`*_~|#"})
 
 
 def md_escape(text: str) -> str:
@@ -126,7 +126,7 @@ def notify_discord(postings: list[Posting]) -> None:
     for chunk in _discord_chunks([header, *plain_lines]):
         request = urllib.request.Request(
             webhook_url,
-            data=json.dumps({"content": chunk}).encode("utf-8"),
+            data=json.dumps({"content": chunk, "allowed_mentions": {"parse": []}}).encode("utf-8"),
             headers={"User-Agent": USER_AGENT, "Content-Type": "application/json"},
             method="POST",
         )

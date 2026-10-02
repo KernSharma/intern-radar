@@ -28,6 +28,8 @@ jobs:
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: true  # the watcher pushes with GITHUB_TOKEN itself
 
       - uses: actions/setup-python@v5
         with:
@@ -35,6 +37,8 @@ jobs:
 
       - name: Skip if the Mac runner is active
         id: skip
+        # Scheduled runs only: a manual dispatch (e.g. bootstrap) always runs.
+        if: github.event_name == 'schedule'
         env:
           PYTHONPATH: src
         run: python -m intern_radar.skipcheck data/health.json

@@ -39,9 +39,16 @@ class GitSync:
         self._git("reset", "-q", "--hard", f"origin/{branch}")
 
     def commit_push(self, paths: Sequence[str], message: str) -> bool:
-        """True when origin holds this run's state (pushed, or nothing to push)."""
-        self._git("add", "--", *paths)
-        if self._git("diff", "--cached", "--quiet", check=False).returncode == 0:
-            return True
-        self._git("commit", "-q", "-m", message)
-        return self._git("push", "-q", "origin", "HEAD", check=False).returncode == 0
+        """True when origin holds this run's state (pushed, or nothing to push).
+
+        Any git failure or timeout returns False so the caller resets and
+        replays instead of crashing mid-protocol.
+        """
+        try:
+            self._git("add", "--", *paths)
+            if self._git("diff", "--cached", "--quiet", check=False).returncode == 0:
+                return True
+            self._git("commit", "-q", "-m", message)
+            return self._git("push", "-q", "origin", "HEAD", check=False).returncode == 0
+        except (GitError, subprocess.TimeoutExpired):
+            return False

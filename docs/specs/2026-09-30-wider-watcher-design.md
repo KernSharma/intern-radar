@@ -111,7 +111,7 @@ Two runners execute the **same** watcher program (`python -m intern_radar`) agai
       - the full alert evaluation.
 
       Deletions and alert state are therefore always derived from the merged data, never replayed, so a closed alert can't be resurrected.
-   4. Commit and push again. Up to 3 attempts, after which the run exits 1 and health records `push_failed`. The next run re-finds anything unpushed, because `seen` wasn't pushed. The notifications for those postings are deferred to that run, not lost.
+   4. Commit and push again. Up to 3 attempts, after which the failure is signalled by exit code 1 and stderr (a failed Actions run, or the Mac's `launchd.err`); nothing is recorded in `health.json`, since the failing run cannot push. The next run re-finds anything unpushed, because `seen` wasn't pushed. The notifications for those postings are deferred to that run, not lost.
 5. **Notifications (new-posting issue, Discord, ntfy) are sent only after a successful push**, for exactly the postings in the pushed appends.
    - They are best-effort: a notification failure is logged and never retried.
    - `inbox.json` is the durable channel: triage reads it no matter what.
@@ -119,7 +119,7 @@ Two runners execute the **same** watcher program (`python -m intern_radar`) agai
 6. Health issue actions (open, comment, close) also run after a successful push.
    - **Issue numbers are never stored.** An issue is found by searching open issues with label `health` and exact title `health: <R#> <subject>`.
    - Opening happens only if no such issue exists; closing closes the matching issue.
-   - The daily-comment limit reads the issue's last comment time from the API.
+   - The daily-comment limit uses the issue's `updated_at` (GitHub bumps it on every comment).
    - `health.json` `alerts` stores only `{opened_at}` per key (evaluation state), with no issue number.
 
 Test: a simulated competing push lands between this run's commit and push, with overlapping `seen`, `boards` and `health` edits. Expected: after replay, both runs' appends and marks are present, and each new posting is notified exactly once.
@@ -169,7 +169,7 @@ vanshb03, speedyapply, the boards (in `boards.json` key order), search.
   - Workday: drop a path segment matching `^[a-z]{2}-[a-z]{2}$`. It is lowercase here because `normalize_url` lowercases paths.
   - iCIMS: rewrite `/jobs/<id>[/<slug>]/job[?…]` to `/jobs/<id>/job` with no query.
   - Others: unchanged.
-- **`data/canon.json`** = `{canon_key: storage_key}`, maintained for every matched posting.
+- **`data/canon.json`** = `{"version": 1, "canon": {canon_key: storage_key}}`, maintained for every matched posting.
   - `canon.json` values are `url:`-prefixed `url_key`s (storage keys).
   - A new posting whose `canon_key` is present counts as seen: `seen[stored]` is refreshed, and the new posting's own source key and `url_key` are marked in `seen` too, so later runs skip it without a canon lookup. Nothing is appended.
   - Entries are pruned when their storage key is pruned from `seen.json` (365 days).
@@ -442,7 +442,7 @@ nonzero on any failure.
 
 1. **Quiet backlogs** (owner decision above).
    - Quiet means the posting is appended to the inbox but not notified.
-   - It applies to postings from a board whose `last_polled` was null at run start, from a deep board's first full crawl (`last_deep_crawl` null), and from a list family absent from all `health.json` runs.
+   - It applies to postings from a board whose `last_ok` was null at run start (a failed first poll keeps the backlog quiet), from a deep board's first full crawl (`last_deep_crawl` null), and from a list family that has never succeeded (`ok > 0`) in `health.json` runs.
    - With no `health.json` yet, the known families are the six the old watcher ran: simplify, greenhouse, lever, ashby, workday, smartrecruiters.
    - The migration run therefore notifies nothing (live: 1,895 queued, 0 notified). The steady state notified 9 genuinely new postings.
 2. **Tech gate** (owner decision above). It is applied in `main.run` to postings from unpinned board jobs only, after the normal filters.
@@ -454,6 +454,7 @@ nonzero on any failure.
    - The first run polled 442 boards in 1:45. The steady state polled 624 boards in 2:22.
    - The registry grew to 702 boards (the 441 seeded, plus boards discovered from speedyapply and vanshb03 URLs).
    - `regression_replay.py`: the old watcher's 1,785 matched postings are all among the new pipeline's 4,674 (0 missing).
+8. **Review fixes (2026-10-01).** Markdown escaping covers backslashes; Discord payloads set `allowed_mentions: {parse: []}`; the Mac runner bypasses the osxkeychain credential helper so only the repo-scoped PAT is used; the Actions skip applies to scheduled runs only; an explicit bootstrap delivers no health alerts; `health.json` keeps 400 runs (≥ 7 days); same-run URL variants of one job dedupe against each other.
 
 ## Open follow-ups (not in this change)
 
