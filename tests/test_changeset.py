@@ -137,3 +137,18 @@ def test_weekly_written_once_per_iso_week(tmp_path: Path) -> None:
     md.write_text("sentinel", encoding="utf-8")
     apply(tmp_path, cs_for([], now=NOW + timedelta(hours=2)))
     assert md.read_text(encoding="utf-8") == "sentinel"
+
+
+def test_disable_records_disabled_at_and_reenable_clears_it(tmp_path: Path) -> None:
+    key = boards.board_key("workday", "t.wd1/S")
+    cs = cs_for([])
+    cs.board_rows_new = {key: boards.new_row("workday", "t.wd1/S", pinned=False,
+                                             discovered_via="simplify", now=NOW.isoformat())}
+    cs.board_updates = {key: BoardUpdate(polled=True, ok=False)}
+    for _ in range(11):
+        apply(tmp_path, cs)
+    row = read(tmp_path, "boards.json")["boards"][key]
+    assert row["disabled"] and row["disabled_at"] == NOW.isoformat()
+    cs.board_updates = {key: BoardUpdate(reenable=True)}
+    apply(tmp_path, cs)
+    assert read(tmp_path, "boards.json")["boards"][key]["disabled_at"] is None

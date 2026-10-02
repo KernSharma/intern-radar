@@ -45,11 +45,13 @@ def test_r5_deep_crawl_starved_and_r6() -> None:
         "workday:a": {"deep": True, "pinned": False,
                       "deep_since": (NOW - timedelta(days=3)).isoformat(),
                       "last_deep_crawl": (NOW - timedelta(hours=40)).isoformat()},
-        "workday:b": {"disabled": True},
+        "workday:b": {"disabled": True, "disabled_at": (NOW - timedelta(hours=5)).isoformat()},
+        "workday:c": {"disabled": True, "disabled_at": (NOW - timedelta(days=3)).isoformat()},
     }
     active = health.evaluate(state(), boards, NOW)
     assert "R5|deep-crawl workday:a" in active
-    assert "R6|workday:b" in active       # disabled boards alert
+    assert "R6|workday:b" in active       # newly disabled boards alert...
+    assert "R6|workday:c" not in active   # ...for 48 h only (weekly summary keeps them)
     assert "R6|workday:a" not in active   # deep boards go to the weekly summary only
 
 
@@ -86,13 +88,13 @@ def test_sync_opens_closes_and_creates_label() -> None:
     assert created[0]["title"] == "health: R3 vanshb03"
 
 
-def test_sync_comments_daily_and_caps() -> None:
+def test_sync_never_repeats_comments_and_caps() -> None:
     stale = {"number": 3, "title": "health: R3 vanshb03", "updated_at": "2026-09-29T00:00:00Z"}
     api = FakeApi([stale])
     active = {"R3|vanshb03": "stale", **{f"R6|workday:b{i}": "x" for i in range(12)}}
     health.sync_issues(active, NOW, token="t", repo="o/r", api=api)
     comments = [p for m, p, _ in api.calls if p.endswith("/issues/3/comments")]
-    assert comments
+    assert comments == []  # an issue that is already open gets no "still active" noise
     created = [b["title"] for m, p, b in api.calls if m == "POST" and p == "/repos/o/r/issues"]
     assert len([t for t in created if t != "health: R0 alert overflow"]) == 9
     assert "health: R0 alert overflow" in created
@@ -101,3 +103,14 @@ def test_sync_comments_daily_and_caps() -> None:
 def test_ntfy_no_topic_no_post(monkeypatch: Any) -> None:
     monkeypatch.delenv("NTFY_TOPIC", raising=False)
     health.send_ntfy("hi")  # must not raise or POST
+
+
+def test_ntfy_only_when_an_alert_newly_opens() -> None:
+    h = health.empty_health()
+    health.refresh_alerts(h, {"R3|vanshb03": "stale"}, NOW)
+    assert health.ntfy_due(h, {"R3|vanshb03": "stale"}, NOW, True)
+    later = NOW + timedelta(hours=7)
+    health.refresh_alerts(h, {"R3|vanshb03": "stale"}, later)
+    assert not health.ntfy_due(h, {"R3|vanshb03": "stale"}, later, True)  # standing: no repeat
+    health.refresh_alerts(h, {"R3|vanshb03": "stale", "R2|ashby": "down"}, later)
+    assert health.ntfy_due(h, {"R3|vanshb03": "stale", "R2|ashby": "down"}, later, True)

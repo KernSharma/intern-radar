@@ -23,6 +23,7 @@ RUNS_KEPT = 400  # >= 7 days at 48 Mac runs/day plus Actions: the phase-1 gate w
 LIST_FAMILIES = ("simplify", "vanshb03", "speedyapply")
 NTFY_EVERY = timedelta(hours=6)
 MAX_OPEN_ISSUES = 10
+R6_WINDOW = timedelta(hours=48)
 LABEL = "health"
 
 
@@ -75,7 +76,10 @@ def evaluate(health: dict[str, Any], boards: dict[str, Any], now: datetime
             anchor = _ts(row.get("last_deep_crawl")) or _ts(row.get("deep_since"))
             if anchor and now - anchor > timedelta(hours=36):
                 active[f"R5|deep-crawl {key}"] = "no full crawl in 36 h"
-        if row.get("disabled"):
+        disabled_at = _ts(row.get("disabled_at"))
+        if row.get("disabled") and disabled_at and now - disabled_at <= R6_WINDOW:
+            # An event, not a standing state: a dead board stays disabled
+            # forever, so the alert lasts 48 h and the weekly summary keeps it.
             active[f"R6|{key}"] = "disabled after 10 consecutive errors"
     # Deep boards are listed in the weekly summary, not alerted: seeding marks
     # dozens at once and each would open an issue (rev-5 ruling, live run).
@@ -91,7 +95,13 @@ def refresh_alerts(health: dict[str, Any], active: dict[str, str], now: datetime
 
 def ntfy_due(health: dict[str, Any], active: dict[str, str], now: datetime,
              enabled: bool) -> bool:
-    if not enabled or not active:
+    """Push only when an alert key newly opened in this run (call after
+    refresh_alerts), at most every NTFY_EVERY. A standing alert such as a
+    list that stopped updating pushes once, not every 6 hours forever."""
+    if not enabled:
+        return False
+    now_iso = now.isoformat()
+    if not any(v.get("opened_at") == now_iso for v in health.get("alerts", {}).values()):
         return False
     last = _ts(health.get("last_health_ntfy_at"))
     return last is None or now - last >= NTFY_EVERY
@@ -189,13 +199,8 @@ def sync_issues(active: dict[str, str], now: datetime, *, token: str, repo: str,
     open_count = sum(1 for t in by_title if t in wanted)
     extra: list[str] = []
     for title, (_key, detail) in sorted(wanted.items()):
-        issue = by_title.get(title)
-        if issue is not None:
-            updated = datetime.fromisoformat(issue["updated_at"].replace("Z", "+00:00"))
-            if now - updated >= timedelta(hours=24):
-                api("POST", f"/repos/{repo}/issues/{issue['number']}/comments", token,
-                    {"body": f"Still active at {now.isoformat()}: {detail}"})
-            continue
+        if title in by_title:
+            continue  # already open: no repeat comments (they only add noise)
         if open_count >= MAX_OPEN_ISSUES:
             extra.append(f"- {title}: {detail}")
             continue

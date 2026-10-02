@@ -159,8 +159,10 @@ def apply(data_dir: Path, cs: ChangeSet, *, ntfy_enabled: bool = False) -> Apply
             row["last_deep_crawl"] = _max_ts(row.get("last_deep_crawl"), now_iso)
         if up.reenable:
             row["disabled"], row["consecutive_errors"] = False, 0
-        elif row["consecutive_errors"] >= boards_mod.DISABLE_AFTER_ERRORS:
-            row["disabled"] = True
+            row["disabled_at"] = None
+        elif (row["consecutive_errors"] >= boards_mod.DISABLE_AFTER_ERRORS
+              and not row.get("disabled")):
+            row["disabled"], row["disabled_at"] = True, now_iso
     for host, board in cs.gh_custom_add.items():
         registry["gh_custom"].setdefault(host, board)
     pending = dict(registry.get("gh_custom_pending") or {})

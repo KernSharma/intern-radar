@@ -330,3 +330,13 @@ def test_bootstrap_delivers_no_health_alerts(
     monkeypatch.setattr(main_mod, "fetch_simplify", lambda: [sp(1, "https://x.example/1")])
     assert main_mod.run(config, state, bootstrap=True, dry_run=False, now=NOW) == 0
     assert delivered == []
+
+
+def test_corrupt_data_file_fails_with_clear_message(
+        world: tuple[Path, Path], monkeypatch: pytest.MonkeyPatch,
+        capsys: pytest.CaptureFixture[str]) -> None:
+    config, state = world
+    (state.parent / "boards.json").write_text("{not json", encoding="utf-8")
+    monkeypatch.setattr(main_mod, "fetch_simplify", lambda: [])
+    assert main_mod._guarded_run(config, state, bootstrap=False, dry_run=False, now=NOW) == 1
+    assert "data/*.json file is corrupt" in capsys.readouterr().err

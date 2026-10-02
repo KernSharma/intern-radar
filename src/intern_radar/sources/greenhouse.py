@@ -22,7 +22,7 @@ def parse_greenhouse(board: str, payload: Any) -> list[Posting]:
         location_name = ""
         if isinstance(location, dict):
             location_name = str(location.get("name", "")).strip()
-        first_published = str(job.get("first_published", ""))
+        first_published = str(job.get("first_published") or "")
         postings.append(
             Posting(
                 key=f"greenhouse:{board}:{job_id}",

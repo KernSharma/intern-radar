@@ -63,7 +63,7 @@ Two runners execute the **same** watcher program (`python -m intern_radar`) agai
 
 **Actions runner (backup):**
 - The existing `watch.yml`, unchanged in schedule.
-- New first step `skip`: if `data/health.json` at the checked-out HEAD has `last_run_at` (the **start** time of the last committed run) within 50 minutes, it sets `outputs.skip=true`. The run step and the keepalive step carry `if: steps.skip.outputs.skip != 'true'`.
+- New first step `skip` (scheduled runs only): if the most recent `runs[]` entry with `runner == "mac"` in `data/health.json` at the checked-out HEAD started within 50 minutes, it sets `outputs.skip=true`. The run step and the keepalive step carry `if: steps.skip.outputs.skip != 'true'`.
 - New env:
   - `NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}`
   - `FEED_TOKEN: ${{ secrets.FEED_TOKEN }}` (a fine-grained PAT, read-only, `intern-radar-feed` contents only)
@@ -352,7 +352,7 @@ The feed's staleness is expected while the Mac sleeps. Health alerts on it only 
  "alerts": {"<rule>|<subject>": {"opened_at"}}, "last_health_ntfy_at": "iso|null",
  "weekly_written_for": "YYYY-Www"}
 ```
-- `runs` keeps the last 200 entries.
+- `runs` keeps the last 400 entries (≥ 7 days at the Mac's cadence).
 - Per-board state lives only in `boards.json`.
 
 **Alert rules**, evaluated at the end of each run, with wall-clock windows:
@@ -364,14 +364,14 @@ The feed's staleness is expected while the Mac sleeps. Health alerts on it only 
 | R3 | A list's newest item is more than 7 days old. vanshb03 uses max `date_updated`; speedyapply uses its minimum Age |
 | R4 | The search feed's `generated_at` is more than 6 h old, evaluated only between 09:00 and 23:00 America/New_York (the quiet window covers sleep) |
 | R5 | A run took more than 12 minutes; or `boards_skipped_budget` > 0 on every run in the last 3 h; or any `deep` board's `last_deep_crawl` (or, if null, the time it became `deep`) is older than 36 h |
-| R6 | A board was disabled or newly marked `deep` (one issue per board) |
+| R6 | A board was disabled within the last 48 h (`disabled_at`); disabled boards are then listed only in the weekly summary |
 
 **Delivery:**
 - **Issues** are titled `health: <R#> <subject>`. That title can never match the kern-sharma-resume cleanup filter `^[0-9]+ new internship posting\(s\) — `.
   - Each carries the label `health`, created if a GET for it returns 404. No assignee.
-  - One issue per `(rule, subject)`. It gets at most one comment a day while the condition holds, and closes automatically when it clears.
+  - One issue per `(rule, subject)`. It gets no repeat comments while open, and closes automatically when it clears.
   - At most 10 open health issues; beyond that, one summary issue `health: R0 alert overflow` is updated.
-- **ntfy** uses `NTFY_TOPIC`; absent means off. The text is `"intern-radar health: <n> open alerts"`, sent at most once every 6 h, judged by the merged `last_health_ntfy_at` in `health.json`.
+- **ntfy** uses `NTFY_TOPIC`; absent means off. The text is `"intern-radar health: <n> open alerts"`, sent only when an alert key newly opens in that run, at most once every 6 h (merged `last_health_ntfy_at`).
 - **Weekly summary:** the first run whose UTC ISO week differs from `weekly_written_for` writes `data/health-weekly.md`:
   - matched postings per family;
   - unique finds per family (canonical keys seen only by that family);
@@ -455,6 +455,7 @@ nonzero on any failure.
    - The registry grew to 702 boards (the 441 seeded, plus boards discovered from speedyapply and vanshb03 URLs).
    - `regression_replay.py`: the old watcher's 1,785 matched postings are all among the new pipeline's 4,674 (0 missing).
 8. **Review fixes (2026-10-01).** Markdown escaping covers backslashes; Discord payloads set `allowed_mentions: {parse: []}`; the Mac runner bypasses the osxkeychain credential helper so only the repo-scoped PAT is used; the Actions skip applies to scheduled runs only; an explicit bootstrap delivers no health alerts; `health.json` keeps 400 runs (≥ 7 days); same-run URL variants of one job dedupe against each other.
+9. **Final review (2026-10-01).** Health pushes fire only when an alert newly opens; R6 is a 48 h event; no repeat issue comments; the Actions skip counts only Mac runs; the time budget is re-checked after waiting for a busy host; a corrupt `data/*.json` fails every run with a clear message (never an empty fallback); per-board success lines are no longer logged.
 
 ## Open follow-ups (not in this change)
 

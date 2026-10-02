@@ -64,6 +64,9 @@ def run_jobs(
             result.skipped = True
             return result
         with host_lock(job.host):
+            if not job.pinned and clock() - start >= budget:
+                result.skipped = True  # waited past the budget for a busy host
+                return result
             began = clock()
             try:
                 out = job.fetch()

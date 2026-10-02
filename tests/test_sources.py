@@ -127,3 +127,12 @@ def test_smartrecruiters_parses_real_payload(load_fixture: Any) -> None:
 def test_parsers_reject_wrong_shapes(parse: Any, bad: Any) -> None:
     with pytest.raises(ValueError):
         parse(bad)
+
+
+def test_greenhouse_null_first_published_is_empty_not_none() -> None:
+    from intern_radar.sources.greenhouse import parse_greenhouse
+
+    payload = {"jobs": [{"id": 1, "title": "SWE Intern", "absolute_url": "https://x/1",
+                         "first_published": None, "location": {"name": "NYC"}}]}
+    (posting,) = parse_greenhouse("acme", payload)
+    assert posting.posted_at == ""

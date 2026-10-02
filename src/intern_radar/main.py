@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import argparse
 import functools
+import http.client
 import io
 import json
 import os
@@ -279,10 +280,10 @@ def run(
     ran = [r for r in results if not r.skipped]
     failures = [f"{r.job.name}: {r.error}" for r in ran if not r.ok]
     for r in ran:
-        if r.ok:
-            print(f"{r.job.name}: {len(r.postings)} postings")
-        else:
+        if not r.ok:
             print(f"error: {r.job.name}: {r.error}", file=sys.stderr)
+        elif r.job.board_key is None:
+            print(f"{r.job.name}: {len(r.postings)} postings")
     if ran and not any(r.ok for r in ran):
         print("error: every source failed", file=sys.stderr)
         return 1
@@ -452,13 +453,16 @@ def _notify_new(config: Config, postings: list[Posting], failures: tuple[str, ..
 def _deliver_health(result: ApplyResult, now: datetime) -> None:
     token = os.environ.get("GITHUB_TOKEN", "")
     repo = os.environ.get("GITHUB_REPOSITORY", "")
-    try:
-        if token and repo:
+    if token and repo:
+        try:
             health_mod.sync_issues(result.active_alerts, now, token=token, repo=repo)
-        if result.ntfy_due:
+        except (OSError, http.client.HTTPException, ValueError) as e:
+            print(f"warn: health issue sync failed: {e}", file=sys.stderr)
+    if result.ntfy_due:
+        try:
             health_mod.send_ntfy(f"intern-radar health: {len(result.active_alerts)} open alerts")
-    except OSError as e:
-        print(f"warn: health delivery failed: {e}", file=sys.stderr)
+        except (OSError, http.client.HTTPException) as e:
+            print(f"warn: health ntfy failed: {e}", file=sys.stderr)
 
 
 def run_track(args: argparse.Namespace) -> int:
@@ -504,6 +508,21 @@ def run_jd(args: argparse.Namespace) -> int:
     else:
         print(rendered)
     return 0
+
+
+def _guarded_run(*args: Any, **kwargs: Any) -> int:
+    """`run`, with a corrupt committed data file reported plainly.
+
+    Only the watcher writes data/*.json, always whole files, so corruption
+    means a manual edit went wrong. Fail loudly every run (never fall back to
+    empty state: an empty seen.json would re-notify every posting).
+    """
+    try:
+        return run(*args, **kwargs)
+    except json.JSONDecodeError as e:
+        print(f"error: a data/*.json file is corrupt ({e}); fix or restore it from git",
+              file=sys.stderr)
+        return 1
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -557,7 +576,8 @@ def main(argv: list[str] | None = None) -> int:
     # Honor a bootstrap request coming from a workflow_dispatch input.
     bootstrap = args.bootstrap or os.environ.get("RADAR_BOOTSTRAP", "") == "true"
     git = GitSync(Path.cwd()) if os.environ.get(GIT_ENV) == "1" else None
-    return run(args.config, args.state, bootstrap=bootstrap, dry_run=args.dry_run, git=git)
+    return _guarded_run(args.config, args.state, bootstrap=bootstrap, dry_run=args.dry_run,
+                        git=git)
 
 
 if __name__ == "__main__":

@@ -47,3 +47,10 @@ def test_per_host_limit() -> None:
 
     run_jobs([PollJob(str(i), "f", "same-host", slow) for i in range(8)], workers=8)
     assert active["max"] == 2
+
+
+def test_budget_rechecked_after_waiting_for_a_busy_host() -> None:
+    ticks = iter([0.0, 0.0, 700.0, 700.0, 700.0])  # start, pre-lock ok, then past budget
+    jobs = [PollJob("late", "f", "h", lambda: [p(1)], pinned=False)]
+    (result,) = run_jobs(jobs, budget=600.0, clock=lambda: next(ticks), workers=1)
+    assert result.skipped and not result.ok
