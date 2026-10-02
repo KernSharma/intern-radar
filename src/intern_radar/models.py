@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import re
 from dataclasses import dataclass
 from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 
@@ -53,3 +54,28 @@ def normalize_url(url: str) -> str:
     # aggregators and board APIs disagree on org-slug casing (/Perplexity/ vs
     # /perplexity/) while job ids are numeric or UUIDs.
     return urlunsplit((parts.scheme.lower(), host, path.lower(), urlencode(query), ""))
+
+
+_WORKDAY_LOCALE = re.compile(r"^[a-z]{2}-[a-z]{2}$")
+_ICIMS_JOB = re.compile(r"^/jobs/(\d+)(?:/[^/]+)?/job$")
+
+
+def canon_key(url: str) -> str:
+    """Dedup-only key: folds URL variants the storage key keeps apart.
+
+    `normalize_url` stays the storage key (seen.json, inbox, tracker all use
+    it), so changing it would orphan existing entries. This key only decides
+    "is this the same job?": Workday links carry optional locale segments
+    (/en-US/) and iCIMS links carry an optional slug plus tracking query.
+    """
+    norm = normalize_url(url)
+    parts = urlsplit(norm)
+    host, path, query = parts.netloc, parts.path, parts.query
+    if host.endswith(".myworkdayjobs.com"):
+        segs = [s for s in path.split("/") if s and not _WORKDAY_LOCALE.match(s)]
+        path = "/" + "/".join(segs)
+    elif host == "icims.com" or host.endswith(".icims.com"):
+        m = _ICIMS_JOB.match(path)
+        if m:
+            path, query = f"/jobs/{m.group(1)}/job", ""
+    return "url:" + urlunsplit((parts.scheme, host, path, query, ""))
