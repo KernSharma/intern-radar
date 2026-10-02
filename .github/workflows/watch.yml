@@ -1,8 +1,12 @@
 name: watch
 
+# Backup runner. The owner's Mac is the primary (launchd every 30 min); this
+# job runs only when the Mac hasn't committed a run in the last 50 minutes.
+# GitHub throttles this cron to ~4-7 runs a day. Never add pull_request /
+# pull_request_target triggers: this job holds write access and secrets.
 on:
   schedule:
-    - cron: "7,37 * * * *"  # every 30 min, offset to dodge top-of-hour congestion
+    - cron: "7,37 * * * *"
   workflow_dispatch:
     inputs:
       bootstrap:
@@ -29,30 +33,35 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Run watcher
+      - name: Skip if the Mac runner is active
+        id: skip
         env:
           PYTHONPATH: src
+        run: python -m intern_radar.skipcheck data/health.json
+
+      - name: Run watcher
+        if: steps.skip.outputs.skip != 'true'
+        env:
+          PYTHONPATH: src
+          RADAR_GIT: "1"
+          RADAR_RUNNER: actions
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           RADAR_BOOTSTRAP: ${{ inputs.bootstrap == true && 'true' || 'false' }}
-        run: python -m intern_radar
-
-      - name: Commit seen state
         run: |
           git config user.name "intern-radar[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/
-          committed=0
-          if ! git diff --cached --quiet; then
-            git commit -m "chore: update seen state [skip ci]"
-            committed=1
-          elif [ $(( $(date +%s) - $(git log -1 --format=%ct) )) -gt 4320000 ]; then
-            # GitHub disables cron workflows after 60 days without repo
-            # activity; an empty commit at 50 days resets that clock.
+          python -m intern_radar
+
+      - name: Keepalive
+        if: steps.skip.outputs.skip != 'true'
+        run: |
+          # GitHub disables cron workflows after 60 days without repo activity;
+          # an empty commit at 50 days resets that clock. Mac commits count as
+          # activity too, so this only fires if the Mac has been off for weeks.
+          git pull -q --rebase origin "${GITHUB_REF_NAME}"
+          if [ $(( $(date +%s) - $(git log -1 --format=%ct) )) -gt 4320000 ]; then
             git commit --allow-empty -m "chore: keepalive [skip ci]"
-            committed=1
-          fi
-          if [ "$committed" = "1" ]; then
-            git pull --rebase origin "${GITHUB_REF_NAME}"
             git push
           fi

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key><string>com.kernsharma.radar-watch</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/bash</string>
+    <string>/Users/kernsharma/.local/share/intern-radar/repo/scripts/mac-watch.sh</string>
+  </array>
+  <key>StartCalendarInterval</key>
+  <array>
+    <dict><key>Minute</key><integer>7</integer></dict>
+    <dict><key>Minute</key><integer>37</integer></dict>
+  </array>
+  <key>RunAtLoad</key><false/>
+  <key>EnvironmentVariables</key>
+  <dict>
+    <key>PATH</key><string>/Library/Frameworks/Python.framework/Versions/3.13/bin:/opt/homebrew/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+    <key>HOME</key><string>/Users/kernsharma</string>
+  </dict>
+  <key>StandardOutPath</key><string>/Users/kernsharma/.local/state/intern-radar/launchd.log</string>
+  <key>StandardErrorPath</key><string>/Users/kernsharma/.local/state/intern-radar/launchd.err</string>
+</dict>
+</plist>
