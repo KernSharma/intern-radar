@@ -26,8 +26,15 @@
   "url:https://3m.wd1.myworkdayjobs.com/search/job/us-minnesota-maplewood/internship---2027-undergraduate-it-intern_r01170403-1": {
    "workday": "2026-10-02T05:21:11+00:00"
   },
+  "url:https://aba.wd1.myworkdayjobs.com/aba/job/us-dc-main-office/intern--business-development--partner-network_r617": {
+   "workday": "2026-10-02T22:56:17+00:00"
+  },
+  "url:https://aba.wd1.myworkdayjobs.com/aba/job/us-dc-main-office/intern--cybersecurity-policy-analyst_r611": {
+   "workday": "2026-10-02T22:56:17+00:00"
+  },
   "url:https://aba.wd1.myworkdayjobs.com/aba/job/us-dc-main-office/intern--quantitative-research_r614": {
-   "simplify": "2026-10-02T18:40:08+00:00"
+   "simplify": "2026-10-02T18:40:08+00:00",
+   "workday": "2026-10-02T22:56:17+00:00"
   },
   "url:https://abb.wd3.myworkdayjobs.com/external_career_page/job/alpharetta-georgia-united-states-of-america/application-engineering-intern---summer-2027_jr00045706": {
    "workday": "2026-10-02T05:21:11+00:00"
@@ -350,6 +357,9 @@
    "speedyapply": "2026-10-02T05:21:11+00:00",
    "workday": "2026-10-02T06:08:32+00:00"
   },
+  "url:https://allegion.wd5.myworkdayjobs.com/careers/job/indianapolis-in---hague-rd/summer-intern---hardware-engineering_jr37413-1": {
+   "workday": "2026-10-02T22:56:17+00:00"
+  },
   "url:https://allegion.wd5.myworkdayjobs.com/careers/job/indianapolis-in---hague-rd/summer-intern---mechanical-engineer_jr37491-1": {
    "workday": "2026-10-02T06:08:32+00:00"
   },
@@ -520,7 +530,11 @@
    "workday": "2026-10-02T05:21:11+00:00"
   },
   "url:https://amfam.wd1.myworkdayjobs.com/amfamgroupinterncareers/job/wi-madison/amfam---2027-summer-genai-intern_r39561": {
-   "simplify": "2026-10-02T05:21:11+00:00"
+   "simplify": "2026-10-02T05:21:11+00:00",
+   "workday": "2026-10-02T22:56:17+00:00"
+  },
+  "url:https://amfam.wd1.myworkdayjobs.com/amfamgroupinterncareers/job/wi-madison/amfam---2027-summer-genai-ml-intern_r39514": {
+   "workday": "2026-10-02T22:56:17+00:00"
   },
   "url:https://amfam.wd1.myworkdayjobs.com/amfamgroupinterncareers/job/wi-madison/cybersecurity-intern_r39591": {
    "workday": "2026-10-02T05:21:11+00:00"
@@ -787,6 +801,9 @@
   },
   "url:https://app.careerpuck.com/job-board/lyft/job/8843341002?gh_jid=8843341002": {
    "greenhouse": "2026-10-02T05:21:11+00:00"
+  },
+  "url:https://app.careerpuck.com/job-board/lyft/job/8862215002?gh_jid=8862215002": {
+   "greenhouse": "2026-10-02T22:56:17+00:00"
   },
   "url:https://appliedinnovation.applytojob.com/apply/dwiahxqujn/software-solutions-intern-grand-rapids-mi": {
    "speedyapply": "2026-10-02T05:21:11+00:00"
@@ -2109,7 +2126,8 @@
    "simplify": "2026-10-02T05:21:11+00:00"
   },
   "url:https://brunswick.wd1.myworkdayjobs.com/search/job/fond-du-lac-wi/mercury-marine--software-controls-engineering-intern_jr-051436": {
-   "speedyapply": "2026-10-02T05:21:11+00:00"
+   "speedyapply": "2026-10-02T05:21:11+00:00",
+   "workday": "2026-10-02T22:56:17+00:00"
   },
   "url:https://brunswick.wd1.myworkdayjobs.com/search/job/lowell-mi/engineering-test-lab-intern_jr-051267": {
    "workday": "2026-10-02T05:21:11+00:00"
@@ -2430,6 +2448,9 @@
   "url:https://cardinalhealth.wd1.myworkdayjobs.com/ext/job/oh-dublin-cardinal-place/data---analytics-internship--summer-2027-_20185913": {
    "simplify": "2026-10-02T05:21:11+00:00",
    "workday": "2026-10-02T05:21:11+00:00"
+  },
+  "url:https://career-schwab.icims.com/jobs/126227/job": {
+   "simplify": "2026-10-02T22:56:17+00:00"
   },
   "url:https://career.innovativesystems.com/apply/npmqensqoo/interncoop-summer-2027-software-engineering": {
    "speedyapply": "2026-10-02T05:21:11+00:00"
@@ -3029,6 +3050,9 @@
    "simplify": "2026-10-02T05:21:11+00:00",
    "speedyapply": "2026-10-02T05:21:11+00:00"
   },
+  "url:https://careers.withwaymo.com/jobs?gh_jid=8248327": {
+   "greenhouse": "2026-10-02T22:56:17+00:00"
+  },
   "url:https://careers.zimmerbiomet.com/us/en/job/12688": {
    "simplify": "2026-10-02T05:21:11+00:00"
   },
@@ -3137,15 +3161,27 @@
   "url:https://cboe.wd1.myworkdayjobs.com/external_career_cboe/job/chicago-il/linux-engineer-intern_r-4661": {
    "workday": "2026-10-02T06:08:32+00:00"
   },
+  "url:https://cboe.wd1.myworkdayjobs.com/external_career_cboe/job/chicago-il/quant---data-analytics-intern_r-4708": {
+   "workday": "2026-10-02T22:56:17+00:00"
+  },
   "url:https://cboe.wd1.myworkdayjobs.com/external_career_cboe/job/chicago-il/software-engineer-intern_r-4654": {
    "speedyapply": "2026-10-02T05:21:11+00:00",
    "workday": "2026-10-02T06:08:32+00:00"
   },
+  "url:https://cboe.wd1.myworkdayjobs.com/external_career_cboe/job/chicago-il/technical-business-analyst-intern_r-4710": {
+   "workday": "2026-10-02T22:56:17+00:00"
+  },
   "url:https://centene.wd5.myworkdayjobs.com/centene_external/job/remote-fl/centene-2027-graduate-summer-intern_1660479": {
    "workday": "2026-10-02T05:21:11+00:00"
   },
+  "url:https://centene.wd5.myworkdayjobs.com/centene_external/job/remote-fl/medical-economics-analyst-intern--undergraduate---summer-2027-_1662248-1": {
+   "simplify": "2026-10-02T22:56:17+00:00"
+  },
   "url:https://centene.wd5.myworkdayjobs.com/centene_external/job/remote-mo/medical-economics-intern--undergraduate---summer-2027-_1662089": {
    "simplify": "2026-10-02T05:21:11+00:00"
+  },
+  "url:https://centene.wd5.myworkdayjobs.com/centene_external/job/remote-mo/medical-economics-intern--undergraduate---summer-2027-_1662091": {
+   "simplify": "2026-10-02T22:56:17+00:00"
   },
   "url:https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/louisville-ky/xmlname-2027-summer-risk-management-strategy-analyst-internship_r918-1": {
    "simplify": "2026-10-02T05:21:11+00:00"
@@ -3159,6 +3195,9 @@
   },
   "url:https://chamberlain.wd1.myworkdayjobs.com/chamberlain_group/job/oak-brook-il/software-engineer-1--middleware--intern-conversion-_jr31674": {
    "speedyapply": "2026-10-02T05:21:11+00:00"
+  },
+  "url:https://chartermfg.wd5.myworkdayjobs.com/charter_careers/job/charter-aarrowcast---shawano-wi/controls-engineer-intern--summer-2027-_r08167": {
+   "workday": "2026-10-02T22:56:17+00:00"
   },
   "url:https://chartermfg.wd5.myworkdayjobs.com/charter_careers/job/charter-dura-bar---woodstock-il/it-support-technician-intern--year-round-_r07769": {
    "workday": "2026-10-02T05:21:11+00:00"
@@ -3198,6 +3237,9 @@
   },
   "url:https://chartermfg.wd5.myworkdayjobs.com/charter_careers/job/charter-steel---saukville-wi/process-engineer-intern--year-round-_r08051": {
    "workday": "2026-10-02T05:21:11+00:00"
+  },
+  "url:https://chartermfg.wd5.myworkdayjobs.com/charter_careers/job/charter-steel---saukville-wi/smart-manufacturing-engineer-intern--summer-2027-_r08133": {
+   "workday": "2026-10-02T22:56:17+00:00"
   },
   "url:https://chartermfg.wd5.myworkdayjobs.com/charter_careers/job/charter-wire---menomonee-valley---milwaukee-wi/automation---analytics-intern--year-round-_r08112": {
    "simplify": "2026-10-02T05:21:11+00:00",
@@ -4196,6 +4238,12 @@
   "url:https://ekkh.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_2002/job/35350": {
    "simplify": "2026-10-02T05:21:11+00:00"
   },
+  "url:https://elevancehealth.wd1.myworkdayjobs.com/elv-et/job/ga-atlanta-740-w-peachtree-st-nw/data-analytics-undergraduate-intern---summer-2027_jr209076": {
+   "simplify": "2026-10-02T22:56:17+00:00"
+  },
+  "url:https://elevancehealth.wd1.myworkdayjobs.com/elv-et/job/ga-atlanta-740-w-peachtree-st-nw/engineering-undergraduate-intern---summer-2027_jr209081": {
+   "simplify": "2026-10-02T22:56:17+00:00"
+  },
   "url:https://elkay.wd1.myworkdayjobs.com/elkay_external/job/erie-pa/engineering-intern---summer-2027_req-020092": {
    "workday": "2026-10-02T06:08:32+00:00"
   },
@@ -4692,7 +4740,14 @@
    "vanshb03": "2026-10-02T05:21:11+00:00"
   },
   "url:https://gaig.wd1.myworkdayjobs.com/gaig_external/job/cincinnati-oh-usa/enterprise-analytics-intern---summer-2027_r9650": {
-   "simplify": "2026-10-02T18:40:08+00:00"
+   "simplify": "2026-10-02T18:40:08+00:00",
+   "workday": "2026-10-02T22:56:17+00:00"
+  },
+  "url:https://gaig.wd1.myworkdayjobs.com/gaig_external/job/cincinnati-oh-usa/information-technology--it--audit-intern_r9392": {
+   "workday": "2026-10-02T22:56:17+00:00"
+  },
+  "url:https://gaig.wd1.myworkdayjobs.com/gaig_external/job/richfield-oh-usa/business-development-intern--summer-2027_r9500-2": {
+   "workday": "2026-10-02T22:56:17+00:00"
   },
   "url:https://gdit.wd5.myworkdayjobs.com/external_career_site/job/usa-va-falls-church/summer-2027-software-development-internship_rq228404": {
    "simplify": "2026-10-02T05:21:11+00:00",
@@ -4885,6 +4940,24 @@
   },
   "url:https://generac.wd5.myworkdayjobs.com/external/job/north-billerica-ma---usa/mechanical-design-engineering-intern_jr14679": {
    "workday": "2026-10-02T05:21:11+00:00"
+  },
+  "url:https://generac.wd5.myworkdayjobs.com/external/job/sussex-wi---usa/intern-engineering_jr17278": {
+   "workday": "2026-10-02T22:56:17+00:00"
+  },
+  "url:https://generac.wd5.myworkdayjobs.com/external/job/sussex-wi---usa/intern-engineering_jr17280": {
+   "workday": "2026-10-02T22:56:17+00:00"
+  },
+  "url:https://generac.wd5.myworkdayjobs.com/external/job/sussex-wi---usa/intern-engineering_jr17284": {
+   "workday": "2026-10-02T22:56:17+00:00"
+  },
+  "url:https://generac.wd5.myworkdayjobs.com/external/job/sussex-wi---usa/intern-engineering_jr17285": {
+   "workday": "2026-10-02T22:56:17+00:00"
+  },
+  "url:https://generac.wd5.myworkdayjobs.com/external/job/sussex-wi---usa/intern-engineering_jr17287": {
+   "workday": "2026-10-02T22:56:17+00:00"
+  },
+  "url:https://generac.wd5.myworkdayjobs.com/external/job/usa---co-fort-collins/micro-grid-systems-engineering-co-op---summer-intern_jr17249": {
+   "workday": "2026-10-02T22:56:17+00:00"
   },
   "url:https://generac.wd5.myworkdayjobs.com/external/job/waukesha-wi---usa/data-science-intern---summer-2027_jr17001": {
    "simplify": "2026-10-02T05:21:11+00:00",
@@ -5475,6 +5548,9 @@
   "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-az-tucson-801--1151-e-hermans-rd--bldg-801-external-site/quality-engineering-intern--summer-2027-_01879145": {
    "workday": "2026-10-02T05:21:11+00:00"
   },
+  "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-az-tucson-801--1151-e-hermans-rd--bldg-801-external-site/systems-security-engineering-intern--summer-2027-_01874755": {
+   "workday": "2026-10-02T22:56:17+00:00"
+  },
   "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-az-tucson-928--1151-e-hermans-rd--multi-purpose-fac-928/mechanical-engineer-intern--2027-summer-_01874513": {
    "workday": "2026-10-02T05:21:11+00:00"
   },
@@ -5998,6 +6074,9 @@
    "speedyapply": "2026-10-02T05:21:11+00:00",
    "workday": "2026-10-02T05:21:11+00:00"
   },
+  "url:https://haier.wd3.myworkdayjobs.com/ge_appliances/job/usa-louisville-ky/software-engineering-co-op-summer-2027_req-26427": {
+   "simplify": "2026-10-02T22:56:17+00:00"
+  },
   "url:https://hcgn.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/49276": {
    "simplify": "2026-10-02T05:21:11+00:00"
   },
@@ -6060,6 +6139,9 @@
   "url:https://hcsc.wd1.myworkdayjobs.com/hcsc_external/job/downers-grove-3500-lacey-road/early-careers---technology-delivery-analyst-intern_r0059497": {
    "workday": "2026-10-02T06:08:32+00:00"
   },
+  "url:https://hcsc.wd1.myworkdayjobs.com/hcsc_external/job/il---chicago/early-careers---infrastructure-engineer-intern_r0059506": {
+   "workday": "2026-10-02T22:56:17+00:00"
+  },
   "url:https://hcsc.wd1.myworkdayjobs.com/hcsc_external/job/il---downers-grove/early-careers---it-qa-intern_r0059504": {
    "workday": "2026-10-02T06:08:32+00:00"
   },
@@ -6084,6 +6166,39 @@
   },
   "url:https://hiebing.applytojob.com/apply/gyiqqwe8cl/ai-agent-developer-intern": {
    "speedyapply": "2026-10-02T05:21:11+00:00"
+  },
+  "url:https://higher.gs.com/roles/171532?type=students": {
+   "simplify": "2026-10-02T22:56:17+00:00"
+  },
+  "url:https://higher.gs.com/roles/171533?type=students": {
+   "simplify": "2026-10-02T22:56:17+00:00"
+  },
+  "url:https://higher.gs.com/roles/171547?type=students": {
+   "simplify": "2026-10-02T22:56:17+00:00"
+  },
+  "url:https://higher.gs.com/roles/171548?type=students": {
+   "simplify": "2026-10-02T22:56:17+00:00"
+  },
+  "url:https://higher.gs.com/roles/171550?type=students": {
+   "simplify": "2026-10-02T22:56:17+00:00"
+  },
+  "url:https://higher.gs.com/roles/171563?type=students": {
+   "simplify": "2026-10-02T22:56:17+00:00"
+  },
+  "url:https://higher.gs.com/roles/175421?type=students": {
+   "simplify": "2026-10-02T22:56:17+00:00"
+  },
+  "url:https://higher.gs.com/roles/175424?type=students": {
+   "simplify": "2026-10-02T22:56:17+00:00"
+  },
+  "url:https://higher.gs.com/roles/175426?type=students": {
+   "simplify": "2026-10-02T22:56:17+00:00"
+  },
+  "url:https://higher.gs.com/roles/175428?type=students": {
+   "simplify": "2026-10-02T22:56:17+00:00"
+  },
+  "url:https://higher.gs.com/roles/181628?type=students": {
+   "simplify": "2026-10-02T22:56:17+00:00"
   },
   "url:https://hitachi.wd1.myworkdayjobs.com/hitachi/job/bac-ninh-bc-ninh-vietnam/production-engineer-intern_r0138833": {
    "workday": "2026-10-02T05:21:11+00:00"
@@ -6118,6 +6233,9 @@
   },
   "url:https://hitachi.wd1.myworkdayjobs.com/hitachi/job/zhongshan-guangdong-china/test-engineer-intern_r0114782": {
    "workday": "2026-10-02T05:21:11+00:00"
+  },
+  "url:https://hl.wd1.myworkdayjobs.com/campus/job/new-york-ny-usa/xmlname-2027-summer-financial-analyst--class-of-2028---corporate-valuation-advisory-services--complex-securities---multiple-locations_r3632": {
+   "simplify": "2026-10-02T22:56:17+00:00"
   },
   "url:https://hmhw.wd12.myworkdayjobs.com/hmh_careers/job/houston-tx/ai---automation-development-intern_jr102458": {
    "simplify": "2026-10-02T05:21:11+00:00",
@@ -6323,6 +6441,9 @@
   "url:https://hp.wd5.myworkdayjobs.com/externalcareersite/job/tlaquepaque-jalisco-mexico/data-analysis-and-systems-internship_3169469-1": {
    "workday": "2026-10-02T06:08:32+00:00"
   },
+  "url:https://hp.wd5.myworkdayjobs.com/externalcareersite/job/vancouver-washington-united-states-of-america/ai-applied-engineering-intern_uni4670": {
+   "workday": "2026-10-02T22:56:17+00:00"
+  },
   "url:https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/corvallis-oregon-united-states-of-america/software-and-engineering-intern-roles---imaging-and-print_3168142": {
    "workday": "2026-10-02T06:08:32+00:00"
   },
@@ -6338,6 +6459,9 @@
   },
   "url:https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/tlaquepaque-jalisco-mexico/data-analysis-and-systems-internship_3169469": {
    "workday": "2026-10-02T06:08:32+00:00"
+  },
+  "url:https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/vancouver-washington-united-states-of-america/ai-applied-engineering-intern_uni4670-2": {
+   "workday": "2026-10-02T22:56:17+00:00"
   },
   "url:https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/aguadilla-puerto-rico-puerto-rico/cloud-developer-intern_1215274-1": {
    "workday": "2026-10-02T06:08:32+00:00"
@@ -7044,6 +7168,14 @@
   "url:https://job-boards.greenhouse.io/advancedspace/jobs/4376394009": {
    "greenhouse": "2026-10-02T06:08:32+00:00"
   },
+  "url:https://job-boards.greenhouse.io/affirm/jobs/8008645003": {
+   "greenhouse": "2026-10-02T22:56:17+00:00",
+   "simplify": "2026-10-02T22:56:17+00:00"
+  },
+  "url:https://job-boards.greenhouse.io/affirm/jobs/8011590003": {
+   "greenhouse": "2026-10-02T22:56:17+00:00",
+   "simplify": "2026-10-02T22:56:17+00:00"
+  },
   "url:https://job-boards.greenhouse.io/amca/jobs/4253828009": {
    "greenhouse": "2026-10-02T05:21:11+00:00"
   },
@@ -7668,7 +7800,11 @@
    "simplify": "2026-10-02T18:40:08+00:00"
   },
   "url:https://job-boards.greenhouse.io/gassouth/jobs/8247622": {
+   "greenhouse": "2026-10-02T22:56:17+00:00",
    "speedyapply": "2026-10-02T18:40:08+00:00"
+  },
+  "url:https://job-boards.greenhouse.io/gassouth/jobs/8247629": {
+   "greenhouse": "2026-10-02T22:56:17+00:00"
   },
   "url:https://job-boards.greenhouse.io/gcmgrosvenor/jobs/7992997003": {
    "greenhouse": "2026-10-02T05:21:11+00:00"
@@ -8806,6 +8942,9 @@
    "greenhouse": "2026-10-02T05:21:11+00:00",
    "simplify": "2026-10-02T05:21:11+00:00"
   },
+  "url:https://job-boards.greenhouse.io/xai/jobs/5255111007": {
+   "simplify": "2026-10-02T22:56:17+00:00"
+  },
   "url:https://job-boards.greenhouse.io/xantium/jobs/4360768009": {
    "greenhouse": "2026-10-02T06:08:32+00:00",
    "simplify": "2026-10-02T05:21:11+00:00"
@@ -9608,6 +9747,7 @@
    "speedyapply": "2026-10-02T05:21:11+00:00"
   },
   "url:https://jobs.ashbyhq.com/range/5fe3697d-b5b3-4772-9de4-1551cb726718": {
+   "ashby": "2026-10-02T22:56:17+00:00",
    "speedyapply": "2026-10-02T18:40:08+00:00"
   },
   "url:https://jobs.ashbyhq.com/reflect-orbital/242494ac-5d48-4d46-9b3c-16a8da598108": {
@@ -10941,6 +11081,9 @@
   "url:https://landolakes.wd1.myworkdayjobs.com/landolakes/job/river-falls-wi-usa/winfield-united-research---development-lab-intern--summer-2027_r-40232": {
    "workday": "2026-10-02T05:21:11+00:00"
   },
+  "url:https://landolakes.wd1.myworkdayjobs.com/landolakes/job/river-falls-wi-usa/winfield-united-summer-research-technician-intern---river-falls--wi_r-40734": {
+   "workday": "2026-10-02T22:56:17+00:00"
+  },
   "url:https://landolakes.wd1.myworkdayjobs.com/landolakes/job/virtual-usa/winfield-united-market-development-agronomist-intern--summer-2027_r-40235": {
    "workday": "2026-10-02T05:21:11+00:00"
   },
@@ -10958,6 +11101,9 @@
   },
   "url:https://leidos.wd5.myworkdayjobs.com/external/job/6314-remoteteleworker-us/technical-intern_r-00192448": {
    "workday": "2026-10-02T05:21:11+00:00"
+  },
+  "url:https://leidos.wd5.myworkdayjobs.com/external/job/6314-remoteteleworker-us/technical-intern_r-00193820": {
+   "workday": "2026-10-02T22:56:17+00:00"
   },
   "url:https://leidos.wd5.myworkdayjobs.com/external/job/annapolis-junction-md/software-developer-intern_r-00193804": {
    "workday": "2026-10-02T18:40:08+00:00"
@@ -11260,6 +11406,9 @@
   "url:https://magna.wd3.myworkdayjobs.com/magna/job/southfield-michigan-us/intern---engineering_r00235437": {
    "workday": "2026-10-02T06:08:32+00:00"
   },
+  "url:https://magna.wd3.myworkdayjobs.com/magna/job/troy-michigan-us/humanoid-robotics-intern_r00264476": {
+   "workday": "2026-10-02T22:56:17+00:00"
+  },
   "url:https://manulife.wd3.myworkdayjobs.com/mfcjh_jobs/job/boston-massachusetts/summer-intern-2027---ai_jr26081682": {
    "simplify": "2026-10-02T05:21:11+00:00",
    "workday": "2026-10-02T05:21:11+00:00"
@@ -11360,6 +11509,9 @@
   "url:https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/santa-clara-ca/ai-native-development-platform-engineer-intern--ms---summer-2027_2603848": {
    "simplify": "2026-10-02T05:21:11+00:00",
    "workday": "2026-10-02T05:21:11+00:00"
+  },
+  "url:https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/santa-clara-ca/application-engineer-intern--ms---summer-2027_2604509-1": {
+   "workday": "2026-10-02T22:56:17+00:00"
   },
   "url:https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/santa-clara-ca/board-product-engineer-intern--bs---summer-2027_2603833": {
    "workday": "2026-10-02T05:21:11+00:00"
@@ -12112,6 +12264,7 @@
    "workday": "2026-10-02T13:08:13+00:00"
   },
   "url:https://msd.wd5.myworkdayjobs.com/searchjobs/job/usa---new-jersey---rahway/xmlname-2027-future-talent-program---global-data-management-and-standards--gdms----intern_r412060": {
+   "simplify": "2026-10-02T22:56:17+00:00",
    "workday": "2026-10-02T18:40:08+00:00"
   },
   "url:https://msd.wd5.myworkdayjobs.com/searchjobs/job/usa---new-jersey---rahway/xmlname-2027-future-talent-program---global-security-resiliency-center---intern_r413882": {
@@ -12313,6 +12466,9 @@
   "url:https://nebraskamed.wd5.myworkdayjobs.com/nm/job/omaha-ne/intern---forward-deployed-ai-engineer_req-38924": {
    "simplify": "2026-10-02T05:21:11+00:00",
    "workday": "2026-10-02T05:21:11+00:00"
+  },
+  "url:https://nelnet.wd1.myworkdayjobs.com/mynelnet/job/lincoln-ne/intern---it-software-engineer-net--summer-2027-_r23198": {
+   "workday": "2026-10-02T22:56:17+00:00"
   },
   "url:https://nelnet.wd1.myworkdayjobs.com/mynelnet/job/lincoln-ne/intern---software-engineer---new-ventures---starting-summer-2026_r23098": {
    "workday": "2026-10-02T06:08:32+00:00"
@@ -13458,8 +13614,42 @@
   "url:https://regeneron.wd1.myworkdayjobs.com/careers/job/armonk/xmlname-2027-co-op-precision-medicine-operations_r51082-1": {
    "simplify": "2026-10-02T18:40:08+00:00"
   },
+  "url:https://regeneron.wd1.myworkdayjobs.com/careers/job/cambridge/xmlname-2027-co-op-cell-medicines-research---development_r51037-1": {
+   "workday": "2026-10-02T22:56:17+00:00"
+  },
+  "url:https://regeneron.wd1.myworkdayjobs.com/careers/job/rensselaer/xmlname-2027-co-op-data-analytics---digital-tools--iops-_r50983-1": {
+   "workday": "2026-10-02T22:56:17+00:00"
+  },
+  "url:https://regeneron.wd1.myworkdayjobs.com/careers/job/rensselaer/xmlname-2027-co-op-upstream-bioprocessing---cell-culture-development--iops-_r50961-1": {
+   "workday": "2026-10-02T22:56:17+00:00"
+  },
+  "url:https://regeneron.wd1.myworkdayjobs.com/careers/job/tarrytown/xmlname-2027-co-op-data-science---computational-biology--research-_r51032-1": {
+   "workday": "2026-10-02T22:56:17+00:00"
+  },
   "url:https://regeneron.wd1.myworkdayjobs.com/careers/job/tarrytown/xmlname-2027-co-op-data-science---digital-innovation--preclinical-manufacturing---research-it-_r51031-1": {
-   "simplify": "2026-10-02T18:40:08+00:00"
+   "simplify": "2026-10-02T18:40:08+00:00",
+   "workday": "2026-10-02T22:56:17+00:00"
+  },
+  "url:https://regeneron.wd1.myworkdayjobs.com/careers/job/tarrytown/xmlname-2027-co-op-downstream-purification--analytics----bioconjugate-process-development_r51018": {
+   "workday": "2026-10-02T22:56:17+00:00"
+  },
+  "url:https://regeneron.wd1.myworkdayjobs.com/careers/job/tarrytown/xmlname-2027-co-op-drug-product-development-and-technology_r51033-1": {
+   "workday": "2026-10-02T22:56:17+00:00"
+  },
+  "url:https://regeneron.wd1.myworkdayjobs.com/careers/job/tarrytown/xmlname-2027-co-op-genome-engineering---transgenic-model-development_r51076-1": {
+   "workday": "2026-10-02T22:56:17+00:00"
+  },
+  "url:https://regeneron.wd1.myworkdayjobs.com/careers/job/tarrytown/xmlname-2027-co-op-laboratory-automation---robotics-engineering_r51030-1": {
+   "workday": "2026-10-02T22:56:17+00:00"
+  },
+  "url:https://regeneron.wd1.myworkdayjobs.com/careers/job/tarrytown/xmlname-2027-co-op-oncology---immuno-oncology-research_r51035-1": {
+   "workday": "2026-10-02T22:56:17+00:00"
+  },
+  "url:https://regeneron.wd1.myworkdayjobs.com/careers/job/tarrytown/xmlname-2027-co-op-upstream-bioprocessing---cell-culture-development_r50944-1": {
+   "workday": "2026-10-02T22:56:17+00:00"
+  },
+  "url:https://regeneron.wd1.myworkdayjobs.com/careers/job/tarrytown/xmlname-2027-co-op-viral-vector-process-development_r51023-1": {
+   "workday": "2026-10-02T22:56:17+00:00"
   },
   "url:https://relx.wd3.myworkdayjobs.com/lexisnexislegal/job/raleigh-nc/software-engineer-internship_r118692": {
    "speedyapply": "2026-10-02T05:21:11+00:00"
@@ -13754,6 +13944,9 @@
   "url:https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/west-lafayette-in/quality-engineer--summer-2027-intern_r-03212": {
    "workday": "2026-10-02T05:21:11+00:00"
   },
+  "url:https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/california---san-francisco/summer-2027-intern---product-gtm-strategy_jr362217-1": {
+   "workday": "2026-10-02T22:56:17+00:00"
+  },
   "url:https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/california---san-francisco/summer-2027-intern---software-engineer_jr340771-1": {
    "simplify": "2026-10-02T05:21:11+00:00",
    "speedyapply": "2026-10-02T05:21:11+00:00"
@@ -13871,6 +14064,9 @@
   },
   "url:https://selinc.wd1.myworkdayjobs.com/sel/job/washington---pullman/engineering-intern_2026-23283": {
    "workday": "2026-10-02T06:08:32+00:00"
+  },
+  "url:https://selinc.wd1.myworkdayjobs.com/sel/job/washington---pullman/hardware-engineering-intern_2026-23159": {
+   "workday": "2026-10-02T22:56:17+00:00"
   },
   "url:https://selinc.wd1.myworkdayjobs.com/sel/job/washington---pullman/mechanical-engineering-intern_2026-23436": {
    "workday": "2026-10-02T06:08:32+00:00"
@@ -14138,6 +14334,9 @@
   },
   "url:https://standoutforgood.wd12.myworkdayjobs.com/standoutforgood/job/knoxville-tn/spring-2027-store-operations-intern_sosj12464": {
    "simplify": "2026-10-02T05:21:11+00:00"
+  },
+  "url:https://sterlingmets.wd5.myworkdayjobs.com/mets/job/citi-field--queens-new-york/intern--data-science_r1508": {
+   "simplify": "2026-10-02T22:56:17+00:00"
   },
   "url:https://stokespace.com/careers/current-openings?gh_jid=6176786004": {
    "simplify": "2026-10-02T05:21:11+00:00"
@@ -14708,7 +14907,12 @@
    "workday": "2026-10-02T05:21:11+00:00"
   },
   "url:https://thehartford.wd5.myworkdayjobs.com/careers_external/job/hartford-ct/tech---data-program-summer-2027---data-engineer-intern--hartford-_r2626103-1": {
+   "simplify": "2026-10-02T22:56:17+00:00",
    "workday": "2026-10-02T18:40:08+00:00"
+  },
+  "url:https://thehartford.wd5.myworkdayjobs.com/careers_external/job/hartford-ct/tech---data-program-summer-2027---software-engineer-intern--hartford-_r2626105-1": {
+   "simplify": "2026-10-02T22:56:17+00:00",
+   "workday": "2026-10-02T22:56:17+00:00"
   },
   "url:https://theocc.wd5.myworkdayjobs.com/careers/job/chicago---125-s-franklin/summer-intern---cyber-operations_req-4843": {
    "workday": "2026-10-02T05:21:11+00:00"
@@ -14796,12 +15000,18 @@
   "url:https://travelers.wd5.myworkdayjobs.com/external/job/ct---hartford/bond---specialty-insurance-underwriting-professional-development-program--bsi-updp--internship_r-52882": {
    "workday": "2026-10-02T05:21:11+00:00"
   },
+  "url:https://travelers.wd5.myworkdayjobs.com/external/job/ct---hartford/bond---specialty-insurance-underwriting-professional-development-program--bsi-updp--internship_r-52883": {
+   "workday": "2026-10-02T22:56:17+00:00"
+  },
   "url:https://travelers.wd5.myworkdayjobs.com/external/job/ct---hartford/business-insights---analytics-leadership-development-program--bi-a-ldp--geospatial-intern_r-52305": {
    "workday": "2026-10-02T05:21:11+00:00"
   },
   "url:https://travelers.wd5.myworkdayjobs.com/external/job/ct---hartford/business-insights---analytics-leadership-development-program--bi-a-ldp--intern_r-52304": {
    "simplify": "2026-10-02T05:21:11+00:00",
    "workday": "2026-10-02T05:21:11+00:00"
+  },
+  "url:https://travelers.wd5.myworkdayjobs.com/external/job/ct---hartford/business-insurance-underwriting-professional-development-program--bi-updp--internship_r-52980": {
+   "workday": "2026-10-02T22:56:17+00:00"
   },
   "url:https://travelers.wd5.myworkdayjobs.com/external/job/ct---hartford/engineering-development-program--edp----intern_r-52270": {
    "simplify": "2026-10-02T05:21:11+00:00",
@@ -14821,6 +15031,12 @@
   },
   "url:https://travelers.wd5.myworkdayjobs.com/external/job/ga---alpharetta/operations-leadership-development-program--oldp--intern---alpharetta--ga_r-52326": {
    "workday": "2026-10-02T05:21:11+00:00"
+  },
+  "url:https://travelers.wd5.myworkdayjobs.com/external/job/ma---braintree/bond---specialty-underwriting-professional-development-program--bsi-updp--internship_r-52879": {
+   "workday": "2026-10-02T22:56:17+00:00"
+  },
+  "url:https://travelers.wd5.myworkdayjobs.com/external/job/ma---braintree/business-insurance-underwriting-professional-development-program--bi-updp--internship_r-52979": {
+   "workday": "2026-10-02T22:56:17+00:00"
   },
   "url:https://travelers.wd5.myworkdayjobs.com/external/job/ma---west-bridgewater/claim-professional-development-program-internship--cpdp-intern-_r-52591": {
    "workday": "2026-10-02T05:21:11+00:00"
@@ -15619,8 +15835,21 @@
   "url:https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027": {
    "vanshb03": "2026-10-02T05:21:11+00:00"
   },
+  "url:https://www.hudsonrivertrading.com/careers/job?gh_jid=7899574": {
+   "greenhouse": "2026-10-02T22:56:17+00:00"
+  },
+  "url:https://www.hudsonrivertrading.com/careers/job?gh_jid=7964062": {
+   "greenhouse": "2026-10-02T22:56:17+00:00"
+  },
   "url:https://www.hudsonrivertrading.com/careers/job?gh_jid=8052083": {
+   "greenhouse": "2026-10-02T22:56:17+00:00",
    "speedyapply": "2026-10-02T05:21:11+00:00"
+  },
+  "url:https://www.hudsonrivertrading.com/careers/job?gh_jid=8222413": {
+   "greenhouse": "2026-10-02T22:56:17+00:00"
+  },
+  "url:https://www.hudsonrivertrading.com/careers/job?gh_jid=8222414": {
+   "greenhouse": "2026-10-02T22:56:17+00:00"
   },
   "url:https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-internship-summer-2027?gh_src=": {
    "vanshb03": "2026-10-02T05:21:11+00:00"
@@ -15638,6 +15867,7 @@
    "vanshb03": "2026-10-02T05:21:11+00:00"
   },
   "url:https://www.ixl.com/company/jobs?gh_jid=8765770002": {
+   "greenhouse": "2026-10-02T22:56:17+00:00",
    "speedyapply": "2026-10-02T05:21:11+00:00"
   },
   "url:https://www.janestreet.com/join-jane-street/position/5869205002": {
@@ -15911,23 +16141,41 @@
    "greenhouse": "2026-10-02T05:21:11+00:00"
   },
   "url:https://www.quantbot.com/careers/4299496009?gh_jid=4299496009": {
+   "greenhouse": "2026-10-02T22:56:17+00:00",
    "simplify": "2026-10-02T05:21:11+00:00"
   },
   "url:https://www.quantbot.com/careers/4299767009?gh_jid=4299767009": {
+   "greenhouse": "2026-10-02T22:56:17+00:00",
    "simplify": "2026-10-02T05:21:11+00:00"
   },
   "url:https://www.quantbot.com/careers/4299858009?gh_jid=4299858009": {
+   "greenhouse": "2026-10-02T22:56:17+00:00",
    "simplify": "2026-10-02T05:21:11+00:00"
   },
+  "url:https://www.quantbot.com/careers/4299863009?gh_jid=4299863009": {
+   "greenhouse": "2026-10-02T22:56:17+00:00"
+  },
   "url:https://www.quantbot.com/careers/4340833009?gh_jid=4340833009": {
+   "greenhouse": "2026-10-02T22:56:17+00:00",
    "simplify": "2026-10-02T05:21:11+00:00"
   },
   "url:https://www.quantbot.com/careers/4341038009?gh_jid=4341038009": {
+   "greenhouse": "2026-10-02T22:56:17+00:00",
    "simplify": "2026-10-02T05:21:11+00:00",
    "speedyapply": "2026-10-02T05:21:11+00:00"
   },
+  "url:https://www.quantbot.com/careers/4344638009?gh_jid=4344638009": {
+   "greenhouse": "2026-10-02T22:56:17+00:00"
+  },
+  "url:https://www.quantbot.com/careers/4348629009?gh_jid=4348629009": {
+   "greenhouse": "2026-10-02T22:56:17+00:00"
+  },
   "url:https://www.redventures.com/careers/positions/open?gh_jid=8233284": {
+   "greenhouse": "2026-10-02T22:56:17+00:00",
    "simplify": "2026-10-02T05:21:11+00:00"
+  },
+  "url:https://www.redventures.com/careers/positions/open?gh_jid=8247217": {
+   "greenhouse": "2026-10-02T22:56:17+00:00"
   },
   "url:https://www.riotgames.com/en/work-with-us/job/8222014?gh_jid=8222014": {
    "greenhouse": "2026-10-02T05:21:11+00:00",
