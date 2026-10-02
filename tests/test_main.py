@@ -115,11 +115,11 @@ def test_successful_run_writes_postings_cache(
     assert any(entry["company"] == "Co1" for entry in cache.values())
 
 
-def test_notify_failure_leaves_state_unsaved(
+def test_notify_failure_is_best_effort_and_state_saves(
     monkeypatch: pytest.MonkeyPatch, tmp_path: Path,
 ) -> None:
-    # github_issues enabled but no creds: the run must fail without marking
-    # anything seen, so the next run retries delivery.
+    # Notifications go out only after state is committed, and never block it:
+    # inbox.json is the durable channel (spec: Write protocol, step 5).
     config = tmp_path / "config.toml"
     config.write_text(CONFIG.replace("github_issues = false", "github_issues = true"),
                       encoding="utf-8")
@@ -129,8 +129,10 @@ def test_notify_failure_leaves_state_unsaved(
     monkeypatch.delenv("GITHUB_REPOSITORY", raising=False)
     monkeypatch.delenv("DISCORD_WEBHOOK_URL", raising=False)
     monkeypatch.setattr(main_mod, "fetch_simplify", lambda: [simplify_posting(1)])
-    assert main_mod.run(config, state, bootstrap=False, dry_run=False) == 1
-    assert json.loads(state.read_text(encoding="utf-8"))["seen"] == {}
+    assert main_mod.run(config, state, bootstrap=False, dry_run=False) == 0
+    assert "simplify:1" in json.loads(state.read_text(encoding="utf-8"))["seen"]
+    inbox = json.loads((tmp_path / "inbox.json").read_text(encoding="utf-8"))
+    assert [e["url"] for e in inbox] == ["https://x.example/1"]
 
 
 def test_bootstrap_refuses_partial_failure(
@@ -206,7 +208,7 @@ def test_discord_failure_is_best_effort_when_issue_succeeded(
     assert "simplify:1" in json.loads(state.read_text(encoding="utf-8"))["seen"]
 
 
-def test_discord_failure_is_fatal_when_it_is_the_only_channel(
+def test_discord_failure_is_non_fatal_even_as_the_only_channel(
     monkeypatch: pytest.MonkeyPatch, paths: tuple[Path, Path],
 ) -> None:
     from intern_radar.notify import NotifyError
@@ -219,5 +221,5 @@ def test_discord_failure_is_fatal_when_it_is_the_only_channel(
 
     monkeypatch.setattr(main_mod, "fetch_simplify", lambda: [simplify_posting(1)])
     monkeypatch.setattr(main_mod, "notify_discord", dead_webhook)
-    assert main_mod.run(config, state, bootstrap=False, dry_run=False) == 1
-    assert json.loads(state.read_text(encoding="utf-8"))["seen"] == {}
+    assert main_mod.run(config, state, bootstrap=False, dry_run=False) == 0
+    assert "simplify:1" in json.loads(state.read_text(encoding="utf-8"))["seen"]

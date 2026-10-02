@@ -21,11 +21,18 @@ class FilterConfig:
     # postings can never become an application: an unreachable apply flow, or
     # a lifetime cap on applications you have already spent.
     company_exclude: tuple[str, ...] = ()
+    # Extra gate for postings from auto-discovered boards only (owner,
+    # 2026-09-30). Those boards carry no job category, so without this the
+    # fuzzy "intern" search admits every labor-relations and finance intern.
+    discovered_title_require_any: tuple[str, ...] = ()
+    discovered_title_exclude: tuple[str, ...] = ()
 
 
 @dataclass(frozen=True)
 class SourcesConfig:
     simplify: bool = True
+    vanshb03: bool = False
+    speedyapply: bool = False
     greenhouse_boards: tuple[str, ...] = ()
     lever_companies: tuple[str, ...] = ()
     ashby_orgs: tuple[str, ...] = ()
@@ -70,11 +77,15 @@ def load_config(path: Path) -> Config:
         untermed_title_exclude=_str_tuple(f_raw.get("untermed_title_exclude", [])),
         location_exclude=_str_tuple(f_raw.get("location_exclude", [])),
         company_exclude=_str_tuple(f_raw.get("company_exclude", [])),
+        discovered_title_require_any=_str_tuple(f_raw.get("discovered_title_require_any", [])),
+        discovered_title_exclude=_str_tuple(f_raw.get("discovered_title_exclude", [])),
     )
 
     s_raw = data.get("sources", {})
     sources = SourcesConfig(
         simplify=bool(s_raw.get("simplify", True)),
+        vanshb03=bool(s_raw.get("vanshb03", False)),
+        speedyapply=bool(s_raw.get("speedyapply", False)),
         greenhouse_boards=_str_tuple(s_raw.get("greenhouse", {}).get("boards", [])),
         lever_companies=_str_tuple(s_raw.get("lever", {}).get("companies", [])),
         ashby_orgs=_str_tuple(s_raw.get("ashby", {}).get("orgs", [])),

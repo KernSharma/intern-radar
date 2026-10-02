@@ -16,13 +16,26 @@ class NotifyError(Exception):
     pass
 
 
+_MD_SPECIAL = str.maketrans({c: "\\" + c for c in "[]()<>!@`*_"})
+
+
+def md_escape(text: str) -> str:
+    """Neutralize markdown/mention syntax in untrusted board text.
+
+    Company and title strings come from third-party job boards; unescaped they
+    could inject links, images or @mentions into the issue body.
+    """
+    return "".join(ch for ch in text if ch.isprintable()).translate(_MD_SPECIAL)
+
+
 def format_lines(postings: list[Posting]) -> list[str]:
     lines: list[str] = []
     for p in sorted(postings, key=lambda p: (p.company.lower(), p.title.lower())):
         locations = ", ".join(p.locations[:3]) + (" …" if len(p.locations) > 3 else "")
         extras = " · ".join(x for x in (locations, ", ".join(p.terms), p.posted_at) if x)
-        suffix = f" ({extras})" if extras else ""
-        lines.append(f"- [ ] **{p.company}** — [{p.title}]({p.url}){suffix}")
+        suffix = f" ({md_escape(extras)})" if extras else ""
+        url = p.url.replace(")", "%29").replace(" ", "%20")
+        lines.append(f"- [ ] **{md_escape(p.company)}** — [{md_escape(p.title)}]({url}){suffix}")
     return lines
 
 

@@ -82,3 +82,13 @@ def matches(posting: Posting, filters: FilterConfig) -> bool:
 
 def apply_filters(postings: list[Posting], filters: FilterConfig) -> list[Posting]:
     return [p for p in postings if matches(p, filters)]
+
+
+def passes_discovered_gate(posting: Posting, filters: FilterConfig) -> bool:
+    """Tech gate for postings from auto-discovered (unpinned) boards."""
+    title_lower = posting.title.lower()
+    if any(kw.lower() in title_lower for kw in filters.discovered_title_exclude):
+        return False
+    return not filters.discovered_title_require_any or _matches_keyword(
+        posting.title, filters.discovered_title_require_any
+    )
