@@ -1,6 +1,8 @@
 from __future__ import annotations
 
 import json
+import os
+import tempfile
 from dataclasses import asdict, dataclass, field
 from pathlib import Path
 from typing import Any
@@ -84,9 +86,18 @@ class Tracker:
             "version": 1,
             "applications": {k: asdict(a) for k, a in sorted(self.apps.items())},
         }
-        with self.path.open("w", encoding="utf-8", newline="\n") as f:
-            json.dump(payload, f, indent=1, ensure_ascii=False)
-            f.write("\n")
+        # Temp file + os.replace: a reader (triage, the dashboard) never sees a
+        # half-written tracker, and a failed write leaves the old one intact.
+        fd, tmp = tempfile.mkstemp(dir=self.path.parent, prefix=".applications.", suffix=".json")
+        try:
+            with os.fdopen(fd, "w", encoding="utf-8", newline="\n") as f:
+                json.dump(payload, f, indent=1, ensure_ascii=False)
+                f.write("\n")
+            os.chmod(tmp, 0o644)  # mkstemp creates 0600
+            os.replace(tmp, self.path)
+        except BaseException:
+            Path(tmp).unlink(missing_ok=True)
+            raise
 
     def add(
         self,

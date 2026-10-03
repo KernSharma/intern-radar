@@ -1,3 +1,4 @@
+import json
 from pathlib import Path
 
 import pytest
@@ -134,3 +135,76 @@ def test_cli_track_round_trip(
     assert (tmp_path / "APPLICATIONS.md").exists()
     # Unknown URL exits 2 with guidance.
     assert main([*base, "add", "https://nowhere.example/1"]) == 2
+
+
+def test_cli_tracker_dir_separates_tracker_from_watcher_data(
+    tmp_path: Path, cache: Path, monkeypatch: pytest.MonkeyPatch,
+) -> None:
+    from intern_radar.main import main
+
+    monkeypatch.chdir(tmp_path)
+    tracker_dir = tmp_path / "private" / "tracker"
+    # Options go before the action; postings.json is still read next to --state.
+    base = ["--state", str(tmp_path / "seen.json"), "track",
+            "--tracker-dir", str(tracker_dir),
+            "--dashboard", str(tracker_dir / "APPLICATIONS.md")]
+    assert main([*base, "add", "https://jobs.lever.co/acme/123", "--status", "interested"]) == 0
+    assert (tracker_dir / "applications.json").exists()
+    assert (tracker_dir / "APPLICATIONS.md").exists()
+    assert not (tmp_path / "applications.json").exists()
+    saved = json.loads((tracker_dir / "applications.json").read_text(encoding="utf-8"))
+    (row,) = saved["applications"].values()
+    assert (row["company"], row["status"]) == ("Acme", "interested")
+
+
+def test_run_track_holds_exclusive_lock_from_load_through_save(
+    tmp_path: Path, cache: Path, monkeypatch: pytest.MonkeyPatch,
+) -> None:
+    import fcntl
+
+    import intern_radar.main as main_mod
+
+    events: list[str] = []
+    real_flock = fcntl.flock
+
+    def spy_flock(fd: int, op: int) -> None:
+        events.append("lock" if op == fcntl.LOCK_EX else "unlock")
+        real_flock(fd, op)
+
+    real_load, real_save = main_mod.Tracker.load, main_mod.Tracker.save
+    monkeypatch.setattr(main_mod.fcntl, "flock", spy_flock)
+    monkeypatch.setattr(main_mod.Tracker, "load",
+                        classmethod(lambda cls, p: (events.append("load"), real_load(p))[1]))
+    monkeypatch.setattr(main_mod.Tracker, "save",
+                        lambda self: (events.append("save"), real_save(self))[1])
+    base = ["--state", str(tmp_path / "seen.json"), "track",
+            "--dashboard", str(tmp_path / "APPLICATIONS.md")]
+    assert main_mod.main([*base, "add", "https://jobs.lever.co/acme/123"]) == 0
+    assert events == ["lock", "load", "save", "unlock"]
+    assert (tmp_path / ".lock").exists()
+    # Errors release the lock too.
+    events.clear()
+    assert main_mod.main([*base, "add", "https://jobs.lever.co/acme/123"]) == 2
+    assert events == ["lock", "load", "unlock"]
+
+
+def test_save_is_atomic_and_leaves_no_temp_file(
+    tmp_path: Path, cache: Path, monkeypatch: pytest.MonkeyPatch,
+) -> None:
+    import intern_radar.tracker as tracker_mod
+
+    tracker = Tracker.load(tmp_path / "applications.json")
+    tracker.add("https://jobs.lever.co/acme/123", "applied", "2026-08-04", cache)
+    tracker.save()
+    before = (tmp_path / "applications.json").read_text(encoding="utf-8")
+
+    def boom(src: object, dst: object) -> None:
+        raise OSError("disk full")
+
+    tracker.set_status("https://jobs.lever.co/acme/123", "oa", "2026-08-05")
+    monkeypatch.setattr(tracker_mod.os, "replace", boom)
+    with pytest.raises(OSError, match="disk full"):
+        tracker.save()
+    # The old file is intact and no temp file is left behind.
+    assert (tmp_path / "applications.json").read_text(encoding="utf-8") == before
+    assert sorted(p.name for p in tmp_path.iterdir() if p.name.startswith(".applications")) == []

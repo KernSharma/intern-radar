@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import argparse
+import fcntl
 import functools
 import http.client
 import io
@@ -467,7 +468,22 @@ def _deliver_health(result: ApplyResult, now: datetime) -> None:
 
 def run_track(args: argparse.Namespace) -> int:
     data_dir: Path = args.state.parent
-    tracker = Tracker.load(data_dir / "applications.json")
+    # The tracker can live outside this (public) repo: --tracker-dir points at
+    # a private directory, while postings.json stays next to the watcher state.
+    tracker_dir: Path = args.tracker_dir or data_dir
+    tracker_dir.mkdir(parents=True, exist_ok=True)
+    # One writer at a time, from load through save: the dashboard, apply.py and
+    # the submitter all shell out to this command, possibly concurrently.
+    with (tracker_dir / ".lock").open("w") as lock:
+        fcntl.flock(lock.fileno(), fcntl.LOCK_EX)
+        try:
+            return _run_track_locked(args, data_dir, tracker_dir)
+        finally:
+            fcntl.flock(lock.fileno(), fcntl.LOCK_UN)
+
+
+def _run_track_locked(args: argparse.Namespace, data_dir: Path, tracker_dir: Path) -> int:
+    tracker = Tracker.load(tracker_dir / "applications.json")
     today = datetime.now(tz=UTC).date().isoformat()
     try:
         if args.action == "add":
@@ -547,6 +563,10 @@ def main(argv: list[str] | None = None) -> int:
     sub = parser.add_subparsers(dest="command")
     track = sub.add_parser("track", help="track application pipeline state")
     track.add_argument("--dashboard", type=Path, default=Path("APPLICATIONS.md"))
+    track.add_argument(
+        "--tracker-dir", type=Path, default=None,
+        help="directory holding applications.json (default: next to --state, i.e. data/)",
+    )
     track_sub = track.add_subparsers(dest="action", required=True)
     add_p = track_sub.add_parser("add", help="start tracking a posting you applied to")
     add_p.add_argument("url")

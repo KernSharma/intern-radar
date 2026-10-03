@@ -70,6 +70,13 @@ Company/title resolve automatically from `data/postings.json` (snapshotted by
 every watcher run); `APPLICATIONS.md` is regenerated as a dashboard on every
 change. Commit when convenient — it's your data.
 
+This repository is public, so the tracker can live elsewhere: pass
+`track --tracker-dir <dir> --dashboard <dir>/APPLICATIONS.md` (options go
+before `add`/`set`/`list`) and `applications.json` is kept in `<dir>` while
+`data/postings.json` is still read from here. Every `track` command holds an
+exclusive lock on `<dir>/.lock` and writes atomically, so concurrent callers
+are safe.
+
 See `PROGRAMS.md` for the curated freshman/sophomore program list the
 watcher can't poll (custom career sites).
 
