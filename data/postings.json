@@ -32555,10 +32555,10 @@
   "title": "Software Engineering Intern",
   "url": "https://job-boards.greenhouse.io/natera/jobs/6188497004",
   "locations": [
-   "Remote - USA"
+   "US Remote"
   ],
-  "posted_at": "2026-10-03",
-  "source": "speedyapply"
+  "posted_at": "2026-10-02",
+  "source": "greenhouse"
  },
  "url:https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4402184009": {
   "company": "National Life Insurance Company",
@@ -32831,15 +32831,25 @@
   "posted_at": "2026-08-21",
   "source": "vanshb03"
  },
- "url:https://job-boards.greenhouse.io/profluent/jobs/5441955008": {
+ "url:https://job-boards.greenhouse.io/profluent/jobs/5441954008": {
   "company": "Profluent",
-  "title": "Intern - Software Engineering",
-  "url": "https://job-boards.greenhouse.io/profluent/jobs/5441955008",
+  "title": "Intern, Computational Research",
+  "url": "https://job-boards.greenhouse.io/profluent/jobs/5441954008",
   "locations": [
-   "Emeryville, CA"
+   "Emeryville, California, United States; Hybrid (2-3 days on-site)"
   ],
   "posted_at": "2026-10-02",
-  "source": "speedyapply"
+  "source": "greenhouse"
+ },
+ "url:https://job-boards.greenhouse.io/profluent/jobs/5441955008": {
+  "company": "Profluent",
+  "title": "Intern, Software Engineering",
+  "url": "https://job-boards.greenhouse.io/profluent/jobs/5441955008",
+  "locations": [
+   "Emeryville, California, United States"
+  ],
+  "posted_at": "2026-10-02",
+  "source": "greenhouse"
  },
  "url:https://job-boards.greenhouse.io/quantiq/jobs/4287936009": {
   "company": "Quantiq",
@@ -40193,25 +40203,115 @@
   "posted_at": "2026-09-21",
   "source": "lever"
  },
+ "url:https://jobs.lever.co/shopback-2/0b3627b7-0c1a-46da-bc3d-699f8d5ca9e5": {
+  "company": "shopback-2",
+  "title": "Operations Automation Engineer Intern",
+  "url": "https://jobs.lever.co/shopback-2/0b3627b7-0c1a-46da-bc3d-699f8d5ca9e5",
+  "locations": [
+   "Singapore, Singapore"
+  ],
+  "posted_at": "2026-07-31",
+  "source": "lever"
+ },
+ "url:https://jobs.lever.co/shopback-2/1804a30e-2d2e-4631-9e85-614c91806ddf": {
+  "company": "shopback-2",
+  "title": "Software Engineer Intern (H1 2027)",
+  "url": "https://jobs.lever.co/shopback-2/1804a30e-2d2e-4631-9e85-614c91806ddf",
+  "locations": [
+   "Singapore, Singapore"
+  ],
+  "posted_at": "2026-08-03",
+  "source": "lever"
+ },
+ "url:https://jobs.lever.co/shopback-2/345e1f49-ca8c-432f-b402-a91452f78116": {
+  "company": "shopback-2",
+  "title": "Software Engineer Intern - QA",
+  "url": "https://jobs.lever.co/shopback-2/345e1f49-ca8c-432f-b402-a91452f78116",
+  "locations": [
+   "Taipei, Taiwan"
+  ],
+  "posted_at": "2026-08-21",
+  "source": "lever"
+ },
+ "url:https://jobs.lever.co/shopback-2/43e531ba-6ffb-4355-92e2-5b49bfc4f025": {
+  "company": "shopback-2",
+  "title": "Software Engineer Intern - QA",
+  "url": "https://jobs.lever.co/shopback-2/43e531ba-6ffb-4355-92e2-5b49bfc4f025",
+  "locations": [
+   "Ho Chi Minh, Vietnam"
+  ],
+  "posted_at": "2025-12-30",
+  "source": "lever"
+ },
+ "url:https://jobs.lever.co/shopback-2/4b9f7dd7-1d57-484f-a01a-16a12c23d31b": {
+  "company": "shopback-2",
+  "title": "Software Engineer Intern - Backend",
+  "url": "https://jobs.lever.co/shopback-2/4b9f7dd7-1d57-484f-a01a-16a12c23d31b",
+  "locations": [
+   "Ho Chi Minh, Vietnam"
+  ],
+  "posted_at": "2026-09-29",
+  "source": "lever"
+ },
+ "url:https://jobs.lever.co/shopback-2/5e5c78b0-1b9a-4c09-843d-49ea41e991fe": {
+  "company": "shopback-2",
+  "title": "Product Builder Intern  (Product Engineering)",
+  "url": "https://jobs.lever.co/shopback-2/5e5c78b0-1b9a-4c09-843d-49ea41e991fe",
+  "locations": [
+   "Singapore, Singapore"
+  ],
+  "posted_at": "2026-08-17",
+  "source": "lever"
+ },
  "url:https://jobs.lever.co/shopback-2/640ac3fb-dae5-4738-95b9-9cb80cc7ad15": {
-  "company": "ShopBack",
+  "company": "shopback-2",
   "title": "Software Engineer Intern",
   "url": "https://jobs.lever.co/shopback-2/640ac3fb-dae5-4738-95b9-9cb80cc7ad15",
   "locations": [
-   "San Francisco, CA"
+   "San Francisco, California"
   ],
   "posted_at": "2026-10-02",
-  "source": "speedyapply"
+  "source": "lever"
+ },
+ "url:https://jobs.lever.co/shopback-2/b216d68c-48b0-4fa5-8f1e-9e0375b993e1": {
+  "company": "shopback-2",
+  "title": "Data Analyst (Internship) (H1 2027)",
+  "url": "https://jobs.lever.co/shopback-2/b216d68c-48b0-4fa5-8f1e-9e0375b993e1",
+  "locations": [
+   "Singapore, Singapore"
+  ],
+  "posted_at": "2026-06-22",
+  "source": "lever"
+ },
+ "url:https://jobs.lever.co/shopback-2/df5ed7cf-eb1f-4f17-ad11-35ad6011412c": {
+  "company": "shopback-2",
+  "title": "Site Reliability Engineer Intern",
+  "url": "https://jobs.lever.co/shopback-2/df5ed7cf-eb1f-4f17-ad11-35ad6011412c",
+  "locations": [
+   "Singapore, Singapore"
+  ],
+  "posted_at": "2026-08-20",
+  "source": "lever"
  },
  "url:https://jobs.lever.co/shopback-2/e5f5e276-e7f7-43e0-a224-5259d242fe98": {
-  "company": "ShopBack",
+  "company": "shopback-2",
   "title": "Software Engineer Intern",
   "url": "https://jobs.lever.co/shopback-2/e5f5e276-e7f7-43e0-a224-5259d242fe98",
   "locations": [
-   "New York City, NY"
+   "New York City, New York"
   ],
   "posted_at": "2026-10-02",
-  "source": "speedyapply"
+  "source": "lever"
+ },
+ "url:https://jobs.lever.co/shopback-2/f3876c50-8b06-4342-af17-7cf393176a56": {
+  "company": "shopback-2",
+  "title": "Software Engineer Intern - Mobile",
+  "url": "https://jobs.lever.co/shopback-2/f3876c50-8b06-4342-af17-7cf393176a56",
+  "locations": [
+   "Ho Chi Minh, Vietnam"
+  ],
+  "posted_at": "2026-09-28",
+  "source": "lever"
  },
  "url:https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd": {
   "company": "shyftlabs",

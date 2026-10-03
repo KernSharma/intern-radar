@@ -2,10 +2,28 @@
  "alerts": {
   "R3|vanshb03": {
    "opened_at": "2026-10-02T05:21:11+00:00"
+  },
+  "R6|ashby:whatnot": {
+   "opened_at": "2026-10-03T20:11:29+00:00"
+  },
+  "R6|greenhouse:amplitude": {
+   "opened_at": "2026-10-03T20:11:29+00:00"
+  },
+  "R6|greenhouse:clickhouse": {
+   "opened_at": "2026-10-03T20:11:29+00:00"
+  },
+  "R6|greenhouse:glossgenius": {
+   "opened_at": "2026-10-03T20:11:29+00:00"
+  },
+  "R6|greenhouse:temporaltechnologies": {
+   "opened_at": "2026-10-03T20:11:29+00:00"
+  },
+  "R6|workday:comcast.wd5/comcast_careers": {
+   "opened_at": "2026-10-03T20:11:29+00:00"
   }
  },
- "last_health_ntfy_at": null,
- "last_run_at": "2026-10-03T17:35:17+00:00",
+ "last_health_ntfy_at": "2026-10-03T20:11:29+00:00",
+ "last_run_at": "2026-10-03T20:11:29+00:00",
  "runner": "actions",
  "runs": [
   {
@@ -736,6 +754,87 @@
    },
    "runner": "actions",
    "seconds": 79.0
+  },
+  {
+   "at": "2026-10-03T20:11:29+00:00",
+   "boards_polled": 658,
+   "boards_skipped_budget": 0,
+   "families": {
+    "ashby": {
+     "errors": 2,
+     "jobs": 105,
+     "matches": 255,
+     "newest": "2026-10-03",
+     "ok": 103,
+     "postings": 6609,
+     "seconds": 11.52
+    },
+    "greenhouse": {
+     "errors": 4,
+     "jobs": 180,
+     "matches": 823,
+     "newest": "2026-10-03",
+     "ok": 176,
+     "postings": 23854,
+     "seconds": 17.64
+    },
+    "lever": {
+     "errors": 1,
+     "jobs": 23,
+     "matches": 128,
+     "newest": "2026-10-03",
+     "ok": 22,
+     "postings": 2398,
+     "seconds": 28.91
+    },
+    "simplify": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 1252,
+     "newest": "2026-10-03",
+     "ok": 1,
+     "postings": 4461,
+     "seconds": 0.41
+    },
+    "smartrecruiters": {
+     "errors": 0,
+     "jobs": 15,
+     "matches": 104,
+     "newest": "2026-10-02",
+     "ok": 15,
+     "postings": 1067,
+     "seconds": 7.56
+    },
+    "speedyapply": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 683,
+     "newest": "2026-10-03",
+     "ok": 1,
+     "postings": 757,
+     "seconds": 0.08
+    },
+    "vanshb03": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 323,
+     "newest": "2026-08-21",
+     "ok": 1,
+     "postings": 371,
+     "seconds": 0.13
+    },
+    "workday": {
+     "errors": 3,
+     "jobs": 335,
+     "matches": 2117,
+     "newest": "2026-10-03",
+     "ok": 332,
+     "postings": 16103,
+     "seconds": 522.64
+    }
+   },
+   "runner": "actions",
+   "seconds": 96.4
   }
  ],
  "version": 1,
