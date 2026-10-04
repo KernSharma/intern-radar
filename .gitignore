@@ -11,3 +11,5 @@ __pycache__/
 .claude/
 .vscode/
 data/.lock
+data/applications.json
+APPLICATIONS.md
