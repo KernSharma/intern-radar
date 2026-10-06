@@ -3,12 +3,12 @@
   "R3|vanshb03": {
    "opened_at": "2026-10-02T05:21:11+00:00"
   },
-  "R6|ashby:atomicsemi": {
-   "opened_at": "2026-10-06T22:37:05+00:00"
+  "R6|lever:cesiumastro": {
+   "opened_at": "2026-10-06T23:07:05+00:00"
   }
  },
  "last_health_ntfy_at": "2026-10-06T22:07:05+00:00",
- "last_run_at": "2026-10-06T22:37:05+00:00",
+ "last_run_at": "2026-10-06T23:07:05+00:00",
  "runner": "mac",
  "runs": [
   {
@@ -8110,6 +8110,87 @@
    },
    "runner": "mac",
    "seconds": 160.0
+  },
+  {
+   "at": "2026-10-06T23:07:05+00:00",
+   "boards_polled": 670,
+   "boards_skipped_budget": 0,
+   "families": {
+    "ashby": {
+     "errors": 1,
+     "jobs": 105,
+     "matches": 263,
+     "newest": "2026-10-06",
+     "ok": 104,
+     "postings": 6613,
+     "seconds": 31.72
+    },
+    "greenhouse": {
+     "errors": 0,
+     "jobs": 183,
+     "matches": 848,
+     "newest": "2026-10-06",
+     "ok": 183,
+     "postings": 24265,
+     "seconds": 67.46
+    },
+    "lever": {
+     "errors": 1,
+     "jobs": 24,
+     "matches": 122,
+     "newest": "2026-10-06",
+     "ok": 23,
+     "postings": 2450,
+     "seconds": 40.48
+    },
+    "simplify": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 1256,
+     "newest": "2026-10-06",
+     "ok": 1,
+     "postings": 4619,
+     "seconds": 7.66
+    },
+    "smartrecruiters": {
+     "errors": 0,
+     "jobs": 15,
+     "matches": 104,
+     "newest": "2026-10-06",
+     "ok": 15,
+     "postings": 1085,
+     "seconds": 9.7
+    },
+    "speedyapply": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 693,
+     "newest": "2026-10-06",
+     "ok": 1,
+     "postings": 772,
+     "seconds": 0.31
+    },
+    "vanshb03": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 323,
+     "newest": "2026-08-21",
+     "ok": 1,
+     "postings": 371,
+     "seconds": 0.24
+    },
+    "workday": {
+     "errors": 3,
+     "jobs": 343,
+     "matches": 2121,
+     "newest": "2026-10-06",
+     "ok": 340,
+     "postings": 16338,
+     "seconds": 629.37
+    }
+   },
+   "runner": "mac",
+   "seconds": 147.9
   }
  ],
  "version": 1,
