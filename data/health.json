@@ -2,11 +2,14 @@
  "alerts": {
   "R3|vanshb03": {
    "opened_at": "2026-10-02T05:21:11+00:00"
+  },
+  "R6|workday:liveramp.wd5/liverampcareers": {
+   "opened_at": "2026-10-06T17:09:21+00:00"
   }
  },
  "last_health_ntfy_at": "2026-10-06T12:42:38+00:00",
- "last_run_at": "2026-10-06T14:37:05+00:00",
- "runner": "mac",
+ "last_run_at": "2026-10-06T17:09:21+00:00",
+ "runner": "actions",
  "runs": [
   {
    "at": "2026-10-02T05:21:11+00:00",
@@ -7378,6 +7381,87 @@
    },
    "runner": "mac",
    "seconds": 170.1
+  },
+  {
+   "at": "2026-10-06T17:09:21+00:00",
+   "boards_polled": 667,
+   "boards_skipped_budget": 0,
+   "families": {
+    "ashby": {
+     "errors": 2,
+     "jobs": 105,
+     "matches": 250,
+     "newest": "2026-10-06",
+     "ok": 103,
+     "postings": 6546,
+     "seconds": 4.96
+    },
+    "greenhouse": {
+     "errors": 0,
+     "jobs": 182,
+     "matches": 835,
+     "newest": "2026-10-06",
+     "ok": 182,
+     "postings": 24155,
+     "seconds": 16.89
+    },
+    "lever": {
+     "errors": 1,
+     "jobs": 24,
+     "matches": 122,
+     "newest": "2026-10-06",
+     "ok": 23,
+     "postings": 2448,
+     "seconds": 39.35
+    },
+    "simplify": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 1244,
+     "newest": "2026-10-06",
+     "ok": 1,
+     "postings": 4557,
+     "seconds": 0.38
+    },
+    "smartrecruiters": {
+     "errors": 0,
+     "jobs": 15,
+     "matches": 103,
+     "newest": "2026-10-06",
+     "ok": 15,
+     "postings": 1079,
+     "seconds": 6.99
+    },
+    "speedyapply": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 687,
+     "newest": "2026-10-06",
+     "ok": 1,
+     "postings": 761,
+     "seconds": 0.04
+    },
+    "vanshb03": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 323,
+     "newest": "2026-08-21",
+     "ok": 1,
+     "postings": 371,
+     "seconds": 0.14
+    },
+    "workday": {
+     "errors": 3,
+     "jobs": 341,
+     "matches": 2463,
+     "newest": "2026-10-06",
+     "ok": 338,
+     "postings": 23744,
+     "seconds": 794.27
+    }
+   },
+   "runner": "actions",
+   "seconds": 152.7
   }
  ],
  "version": 1,
