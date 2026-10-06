@@ -1988,6 +1988,16 @@
   "posted_at": "2026-09-29",
   "source": "workday"
  },
+ "url:https://amfam.wd1.myworkdayjobs.com/amfamgroupinterncareers/job/ma-boston/summer-2027-intern--enterprise-platform-functions_r39434": {
+  "company": "amfam",
+  "title": "Summer 2027 Intern- Enterprise Platform Functions",
+  "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/MA-Boston/Summer-2027-Intern--Enterprise-Platform-Functions_R39434",
+  "locations": [
+   "2 Locations"
+  ],
+  "posted_at": "2026-10-06",
+  "source": "workday"
+ },
  "url:https://amfam.wd1.myworkdayjobs.com/amfamgroupinterncareers/job/mo-st-louis/summer-2027-entrepreneurship-and-business-development-intern_r39440": {
   "company": "amfam",
   "title": "Summer 2027 Entrepreneurship and business development Intern",
@@ -12975,6 +12985,16 @@
   "posted_at": "2026-10-06",
   "source": "greenhouse"
  },
+ "url:https://careers.withwaymo.com/jobs?gh_jid=8257660": {
+  "company": "Waymo",
+  "title": "2027 Summer Intern, BS, Software Engineer, Model Eval",
+  "url": "https://careers.withwaymo.com/jobs?gh_jid=8257660",
+  "locations": [
+   "Mountain View, CA, USA"
+  ],
+  "posted_at": "2026-10-06",
+  "source": "greenhouse"
+ },
  "url:https://careers.zimmerbiomet.com/us/en/job/12688": {
   "company": "Zimmer Biomet Holdings",
   "title": "Summer Intern - Data Mesh Platform",
@@ -16564,14 +16584,14 @@
   "source": "simplify"
  },
  "url:https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/austin/internship-in-global-client-group---data-and-tools--undergraduate---master-s-_2026-9003": {
-  "company": "Dimensional Fund Advisors",
-  "title": "Global Client Group Intern - Data and Tools - Undergraduate and Master's",
+  "company": "dimensional",
+  "title": "Internship in Global Client Group - Data and Tools (Undergraduate & Master's)",
   "url": "https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Global-Client-Group---Data-and-Tools--Undergraduate---Master-s-_2026-9003",
   "locations": [
-   "Austin, TX"
+   "Austin"
   ],
-  "posted_at": "2026-08-18",
-  "source": "simplify"
+  "posted_at": "2026-09-06",
+  "source": "workday"
  },
  "url:https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/austin/internship-in-global-client-group---insights--undergraduate---master-s-_2026-9002": {
   "company": "Dimensional Fund Advisors",
@@ -34932,6 +34952,16 @@
   "posted_at": "2026-09-21",
   "source": "greenhouse"
  },
+ "url:https://job-boards.greenhouse.io/relaypro/jobs/8245644": {
+  "company": "Relay",
+  "title": "Value Engineering Intern (Spring Semester 2027)",
+  "url": "https://job-boards.greenhouse.io/relaypro/jobs/8245644",
+  "locations": [
+   "Raleigh, NC"
+  ],
+  "posted_at": "2026-10-06",
+  "source": "greenhouse"
+ },
  "url:https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4328555009?gh_src=kpek4mqz9us": {
   "company": "Rendezvous Robotics",
   "title": "Software Engineering Intern",
@@ -44595,6 +44625,16 @@
   "posted_at": "2026-10-02",
   "source": "smartrecruiters"
  },
+ "url:https://jobs.smartrecruiters.com/boschgroup/744000153856764": {
+  "company": "Bosch Group",
+  "title": "Supplier Quality Intern - Summer 2027",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153856764",
+  "locations": [
+   "Lincolnshire, IL, United States"
+  ],
+  "posted_at": "2026-10-06",
+  "source": "smartrecruiters"
+ },
  "url:https://jobs.smartrecruiters.com/gdmsi/744000147541849": {
   "company": "General Dynamics UK",
   "title": "Computer Science and Robotics Co-op - Information Technology",
@@ -46879,13 +46919,33 @@
   "source": "simplify"
  },
  "url:https://leidos.wd5.myworkdayjobs.com/external/job/annapolis-junction-md/software-developer-intern_r-00193914": {
-  "company": "leidos",
+  "company": "Leidos",
   "title": "Software Developer Intern",
   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00193914",
   "locations": [
    "Annapolis Junction, MD"
   ],
   "posted_at": "2026-10-05",
+  "source": "simplify"
+ },
+ "url:https://leidos.wd5.myworkdayjobs.com/external/job/arlington-va/data-science-intern_r-00193937": {
+  "company": "leidos",
+  "title": "Data Science Intern",
+  "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Data-Science-Intern_R-00193937",
+  "locations": [
+   "Arlington, VA"
+  ],
+  "posted_at": "2026-10-06",
+  "source": "workday"
+ },
+ "url:https://leidos.wd5.myworkdayjobs.com/external/job/arlington-va/software-engineer-intern_r-00193933": {
+  "company": "leidos",
+  "title": "Software Engineer Intern",
+  "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineer-Intern_R-00193933",
+  "locations": [
+   "Arlington, VA"
+  ],
+  "posted_at": "2026-10-06",
   "source": "workday"
  },
  "url:https://leidos.wd5.myworkdayjobs.com/external/job/arlington-va/systems-engineer-intern_r-00193940": {
@@ -58442,6 +58502,26 @@
    "Cleveland, OH"
   ],
   "posted_at": "2026-10-01",
+  "source": "workday"
+ },
+ "url:https://rb.wd5.myworkdayjobs.com/frs/job/dallas-tx/xmlname-2027-intern---economic-research_r-0000033590": {
+  "company": "rb",
+  "title": "2027 Intern - Economic Research",
+  "url": "https://rb.wd5.myworkdayjobs.com/FRS/job/Dallas-TX/XMLNAME-2027-Intern---Economic-Research_R-0000033590",
+  "locations": [
+   "Dallas, TX"
+  ],
+  "posted_at": "2026-10-06",
+  "source": "workday"
+ },
+ "url:https://rb.wd5.myworkdayjobs.com/frs/job/dallas-tx/xmlname-2027-intern---research-archives_r-0000033589-1": {
+  "company": "rb",
+  "title": "2027 Intern - Research Archives",
+  "url": "https://rb.wd5.myworkdayjobs.com/FRS/job/Dallas-TX/XMLNAME-2027-Intern---Research-Archives_R-0000033589-1",
+  "locations": [
+   "Dallas, TX"
+  ],
+  "posted_at": "2026-10-06",
   "source": "workday"
  },
  "url:https://rb.wd5.myworkdayjobs.com/frs/job/new-york-ny/xmlname-2027-summer-intern----research-group---junior-intern_r-0000033023": {
