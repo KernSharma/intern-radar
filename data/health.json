@@ -2,19 +2,10 @@
  "alerts": {
   "R3|vanshb03": {
    "opened_at": "2026-10-02T05:21:11+00:00"
-  },
-  "R6|lever:cesiumastro": {
-   "opened_at": "2026-10-06T13:37:05+00:00"
-  },
-  "R6|workday:osv-cci.wd1/ccicareers": {
-   "opened_at": "2026-10-06T13:37:05+00:00"
-  },
-  "R6|workday:osv-rubicon.wd5/magnitecareers": {
-   "opened_at": "2026-10-06T13:37:05+00:00"
   }
  },
  "last_health_ntfy_at": "2026-10-06T12:42:38+00:00",
- "last_run_at": "2026-10-06T13:37:05+00:00",
+ "last_run_at": "2026-10-06T14:37:05+00:00",
  "runner": "mac",
  "runs": [
   {
@@ -7306,6 +7297,87 @@
    },
    "runner": "mac",
    "seconds": 233.7
+  },
+  {
+   "at": "2026-10-06T14:37:05+00:00",
+   "boards_polled": 664,
+   "boards_skipped_budget": 0,
+   "families": {
+    "ashby": {
+     "errors": 2,
+     "jobs": 105,
+     "matches": 251,
+     "newest": "2026-10-06",
+     "ok": 103,
+     "postings": 6552,
+     "seconds": 31.15
+    },
+    "greenhouse": {
+     "errors": 0,
+     "jobs": 182,
+     "matches": 836,
+     "newest": "2026-10-06",
+     "ok": 182,
+     "postings": 24135,
+     "seconds": 75.24
+    },
+    "lever": {
+     "errors": 0,
+     "jobs": 23,
+     "matches": 122,
+     "newest": "2026-10-06",
+     "ok": 23,
+     "postings": 2441,
+     "seconds": 62.98
+    },
+    "simplify": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 1238,
+     "newest": "2026-10-06",
+     "ok": 1,
+     "postings": 4545,
+     "seconds": 2.29
+    },
+    "smartrecruiters": {
+     "errors": 0,
+     "jobs": 15,
+     "matches": 103,
+     "newest": "2026-10-06",
+     "ok": 15,
+     "postings": 1073,
+     "seconds": 8.91
+    },
+    "speedyapply": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 687,
+     "newest": "2026-10-06",
+     "ok": 1,
+     "postings": 761,
+     "seconds": 0.29
+    },
+    "vanshb03": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 323,
+     "newest": "2026-08-21",
+     "ok": 1,
+     "postings": 371,
+     "seconds": 0.23
+    },
+    "workday": {
+     "errors": 1,
+     "jobs": 339,
+     "matches": 2116,
+     "newest": "2026-10-06",
+     "ok": 338,
+     "postings": 16242,
+     "seconds": 680.6
+    }
+   },
+   "runner": "mac",
+   "seconds": 170.1
   }
  ],
  "version": 1,
