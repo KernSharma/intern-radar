@@ -131,7 +131,7 @@
   "ashby:atomicsemi": {
    "ats": "ashby",
    "board": "atomicsemi",
-   "consecutive_errors": 2,
+   "consecutive_errors": 3,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -1620,7 +1620,7 @@
   "ashby:whatnot": {
    "ats": "ashby",
    "board": "whatnot",
-   "consecutive_errors": 3,
+   "consecutive_errors": 4,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -2263,7 +2263,7 @@
   "greenhouse:coinbase": {
    "ats": "greenhouse",
    "board": "coinbase",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -5577,7 +5577,7 @@
   "lever:belvederetrading": {
    "ats": "lever",
    "board": "belvederetrading",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -5593,7 +5593,7 @@
   "lever:cesiumastro": {
    "ats": "lever",
    "board": "cesiumastro",
-   "consecutive_errors": 1,
+   "consecutive_errors": 2,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -5610,7 +5610,7 @@
   "lever:crestoperations": {
    "ats": "lever",
    "board": "crestoperations",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -5626,7 +5626,7 @@
   "lever:cscgeneration-2": {
    "ats": "lever",
    "board": "cscgeneration-2",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -5658,7 +5658,7 @@
   "lever:evr": {
    "ats": "lever",
    "board": "evr",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -5802,7 +5802,7 @@
   "lever:shieldai": {
    "ats": "lever",
    "board": "shieldai",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -5850,7 +5850,7 @@
   "lever:standtogether": {
    "ats": "lever",
    "board": "standtogether",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -5866,7 +5866,7 @@
   "lever:thea.energy": {
    "ats": "lever",
    "board": "thea.energy",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -5882,7 +5882,7 @@
   "lever:tri": {
    "ats": "lever",
    "board": "tri",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -5914,7 +5914,7 @@
   "lever:xcimer": {
    "ats": "lever",
    "board": "xcimer",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -6474,7 +6474,7 @@
   "smartrecruiters:boschgroup": {
    "ats": "smartrecruiters",
    "board": "BoschGroup",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -6506,7 +6506,7 @@
   "smartrecruiters:infinitequant": {
    "ats": "smartrecruiters",
    "board": "InfiniteQuant",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -6522,7 +6522,7 @@
   "smartrecruiters:linkedin3": {
    "ats": "smartrecruiters",
    "board": "LinkedIn3",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -6538,7 +6538,7 @@
   "smartrecruiters:llnl": {
    "ats": "smartrecruiters",
    "board": "LLNL",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -6554,7 +6554,7 @@
   "smartrecruiters:nbcuniversal3": {
    "ats": "smartrecruiters",
    "board": "NBCUniversal3",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -6570,7 +6570,7 @@
   "smartrecruiters:pilotcompany": {
    "ats": "smartrecruiters",
    "board": "PilotCompany",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -6586,7 +6586,7 @@
   "smartrecruiters:resultant": {
    "ats": "smartrecruiters",
    "board": "Resultant",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -6602,7 +6602,7 @@
   "smartrecruiters:rrsgroup": {
    "ats": "smartrecruiters",
    "board": "RRSGroup",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -6618,7 +6618,7 @@
   "smartrecruiters:skyward1": {
    "ats": "smartrecruiters",
    "board": "Skyward1",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -6634,7 +6634,7 @@
   "smartrecruiters:ttp1": {
    "ats": "smartrecruiters",
    "board": "TTP1",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -6650,7 +6650,7 @@
   "smartrecruiters:wabashvalleypoweralliance": {
    "ats": "smartrecruiters",
    "board": "WabashValleyPowerAlliance",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -6666,7 +6666,7 @@
   "smartrecruiters:wellmarkinc": {
    "ats": "smartrecruiters",
    "board": "WellmarkInc",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -6682,7 +6682,7 @@
   "smartrecruiters:westerndigital": {
    "ats": "smartrecruiters",
    "board": "WesternDigital",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -6698,7 +6698,7 @@
   "workday:3m.wd1/search": {
    "ats": "workday",
    "board": "3m.wd1/Search",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -6714,7 +6714,7 @@
   "workday:aba.wd1/aba": {
    "ats": "workday",
    "board": "aba.wd1/aba",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -6730,7 +6730,7 @@
   "workday:abb.wd3/external_career_page": {
    "ats": "workday",
    "board": "abb.wd3/external_career_page",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -6746,7 +6746,7 @@
   "workday:abglobal.wd1/abcampuscareers": {
    "ats": "workday",
    "board": "abglobal.wd1/abcampuscareers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -6762,7 +6762,7 @@
   "workday:abinbev.wd1/usa": {
    "ats": "workday",
    "board": "abinbev.wd1/USA",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -6778,7 +6778,7 @@
   "workday:adobe.wd5/external_experienced": {
    "ats": "workday",
    "board": "adobe.wd5/external_experienced",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -6794,7 +6794,7 @@
   "workday:aero.wd5/external": {
    "ats": "workday",
    "board": "aero.wd5/external",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -6810,7 +6810,7 @@
   "workday:aes.wd1/aes_us": {
    "ats": "workday",
    "board": "aes.wd1/AES_US",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -6826,7 +6826,7 @@
   "workday:aig.wd1/aig": {
    "ats": "workday",
    "board": "aig.wd1/aig",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -6842,7 +6842,7 @@
   "workday:aig.wd1/early_careers": {
    "ats": "workday",
    "board": "aig.wd1/early_careers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -6858,7 +6858,7 @@
   "workday:aimco.wd10/aimcocareers": {
    "ats": "workday",
    "board": "aimco.wd10/AIMCoCareers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -6874,7 +6874,7 @@
   "workday:airproducts.wd5/ap0001": {
    "ats": "workday",
    "board": "airproducts.wd5/AP0001",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -6890,7 +6890,7 @@
   "workday:aksteel.wd1/careers": {
    "ats": "workday",
    "board": "aksteel.wd1/careers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -6906,7 +6906,7 @@
   "workday:albemarle.wd5/ketjenexternal": {
    "ats": "workday",
    "board": "albemarle.wd5/ketjenexternal",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -6922,7 +6922,7 @@
   "workday:alcon.wd5/careers_alcon": {
    "ats": "workday",
    "board": "alcon.wd5/careers_alcon",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -6938,7 +6938,7 @@
   "workday:allegion.wd5/careers": {
    "ats": "workday",
    "board": "allegion.wd5/careers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -6954,7 +6954,7 @@
   "workday:amat.wd1/external": {
    "ats": "workday",
    "board": "amat.wd1/External",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -6970,7 +6970,7 @@
   "workday:ameren.wd1/external": {
    "ats": "workday",
    "board": "ameren.wd1/External",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -6986,7 +6986,7 @@
   "workday:americancentury.wd5/americancenturyinvestments": {
    "ats": "workday",
    "board": "americancentury.wd5/AmericanCenturyInvestments",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -7002,7 +7002,7 @@
   "workday:ameriprise.wd5/ameriprise": {
    "ats": "workday",
    "board": "ameriprise.wd5/Ameriprise",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -7018,7 +7018,7 @@
   "workday:amfam.wd1/amfamgroupinterncareers": {
    "ats": "workday",
    "board": "amfam.wd1/AmFamGroupInternCareers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -7034,7 +7034,7 @@
   "workday:amgen.wd1/careers": {
    "ats": "workday",
    "board": "amgen.wd1/careers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -7050,7 +7050,7 @@
   "workday:analogdevices.wd1/external": {
    "ats": "workday",
    "board": "analogdevices.wd1/external",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -7066,7 +7066,7 @@
   "workday:aoins.wd5/autoowners": {
    "ats": "workday",
    "board": "aoins.wd5/AutoOwners",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -7082,7 +7082,7 @@
   "workday:archgroup.wd1/careers": {
    "ats": "workday",
    "board": "archgroup.wd1/careers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -7162,7 +7162,7 @@
   "workday:atcllc.wd5/atcllc": {
    "ats": "workday",
    "board": "atcllc.wd5/atcllc",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -7194,7 +7194,7 @@
   "workday:autodesk.wd1/ext": {
    "ats": "workday",
    "board": "autodesk.wd1/Ext",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -7514,7 +7514,7 @@
   "workday:bmo.wd3/privileged": {
    "ats": "workday",
    "board": "bmo.wd3/Privileged",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -7690,7 +7690,7 @@
   "workday:campbellsoup.wd5/externalcareers_globalsite": {
    "ats": "workday",
    "board": "campbellsoup.wd5/externalcareers_globalsite",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -7706,7 +7706,7 @@
   "workday:capgroup.wd1/capitalgroupcareers": {
    "ats": "workday",
    "board": "capgroup.wd1/capitalgroupcareers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -7722,7 +7722,7 @@
   "workday:capitalone.wd12/capital_one": {
    "ats": "workday",
    "board": "capitalone.wd12/Capital_One",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -7738,7 +7738,7 @@
   "workday:cardinalhealth.wd1/ext": {
    "ats": "workday",
    "board": "cardinalhealth.wd1/EXT",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -7754,7 +7754,7 @@
   "workday:cat.wd5/caterpillarcareers": {
    "ats": "workday",
    "board": "cat.wd5/CaterpillarCareers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -7770,7 +7770,7 @@
   "workday:cboe.wd1/external_career_cboe": {
    "ats": "workday",
    "board": "cboe.wd1/external_career_cboe",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -7786,7 +7786,7 @@
   "workday:centene.wd5/centene_external": {
    "ats": "workday",
    "board": "centene.wd5/Centene_External",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -7962,7 +7962,7 @@
   "workday:citi.wd5/2": {
    "ats": "workday",
    "board": "citi.wd5/2",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -7994,7 +7994,7 @@
   "workday:clearwateranalytics.wd1/clearwater_analytics_careers": {
    "ats": "workday",
    "board": "clearwateranalytics.wd1/clearwater_analytics_careers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": true,
    "deep_since": "2026-10-02T06:08:32+00:00",
    "disabled": false,
@@ -8026,7 +8026,7 @@
   "workday:clr.wd5/clr_careers": {
    "ats": "workday",
    "board": "clr.wd5/CLR_Careers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -8042,7 +8042,7 @@
   "workday:cmegroup.wd1/cme_careers": {
    "ats": "workday",
    "board": "cmegroup.wd1/cme_careers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -8123,7 +8123,7 @@
   "workday:conocophillips.wd1/external": {
    "ats": "workday",
    "board": "conocophillips.wd1/External",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -8139,7 +8139,7 @@
   "workday:copart.wd12/copart": {
    "ats": "workday",
    "board": "copart.wd12/copart",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -8155,7 +8155,7 @@
   "workday:coreandmain.wd1/coreandmain": {
    "ats": "workday",
    "board": "coreandmain.wd1/coreandmain",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -8171,7 +8171,7 @@
   "workday:costar.wd1/costar_campus": {
    "ats": "workday",
    "board": "costar.wd1/Costar_Campus",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -8187,7 +8187,7 @@
   "workday:countryfinancial.wd5/countrycorporateinternships": {
    "ats": "workday",
    "board": "countryfinancial.wd5/COUNTRYCorporateInternships",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -8203,7 +8203,7 @@
   "workday:covestro.wd3/cov_external": {
    "ats": "workday",
    "board": "covestro.wd3/cov_external",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -8219,7 +8219,7 @@
   "workday:cox.wd1/cox_external_career_site_1": {
    "ats": "workday",
    "board": "cox.wd1/Cox_External_Career_Site_1",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": true,
    "deep_since": "2026-10-02T05:21:11+00:00",
    "disabled": false,
@@ -8235,7 +8235,7 @@
   "workday:crowe.wd12/external_careers": {
    "ats": "workday",
    "board": "crowe.wd12/external_careers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": true,
    "deep_since": "2026-10-02T06:08:32+00:00",
    "disabled": false,
@@ -8251,7 +8251,7 @@
   "workday:danaher.wd1/danaherjobs": {
    "ats": "workday",
    "board": "danaher.wd1/danaherjobs",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -8267,7 +8267,7 @@
   "workday:dfwairport.wd5/external": {
    "ats": "workday",
    "board": "dfwairport.wd5/External",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -8283,7 +8283,7 @@
   "workday:dickssportinggoods.wd1/dsg": {
    "ats": "workday",
    "board": "dickssportinggoods.wd1/DSG",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -8299,7 +8299,7 @@
   "workday:dimensional.wd5/dfa_careers": {
    "ats": "workday",
    "board": "dimensional.wd5/dfa_careers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -8315,7 +8315,7 @@
   "workday:directv.wd1/careers": {
    "ats": "workday",
    "board": "directv.wd1/careers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -8331,7 +8331,7 @@
   "workday:disney.wd5/disneycareerdc": {
    "ats": "workday",
    "board": "disney.wd5/disneycareerdc",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": true,
    "deep_since": "2026-10-02T05:21:11+00:00",
    "disabled": false,
@@ -8347,7 +8347,7 @@
   "workday:dmainc.wd5/dma": {
    "ats": "workday",
    "board": "dmainc.wd5/dma",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -8363,7 +8363,7 @@
   "workday:dowjones.wd1/dow_jones_career": {
    "ats": "workday",
    "board": "dowjones.wd1/Dow_Jones_Career",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": true,
    "deep_since": "2026-10-02T05:21:11+00:00",
    "disabled": false,
@@ -8379,7 +8379,7 @@
   "workday:draftkings.wd1/campus_career_portal": {
    "ats": "workday",
    "board": "draftkings.wd1/Campus_Career_Portal",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -8395,7 +8395,7 @@
   "workday:draftkings.wd1/employee_referral_portal": {
    "ats": "workday",
    "board": "draftkings.wd1/Employee_Referral_Portal",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -8411,7 +8411,7 @@
   "workday:draper.wd5/draper_careers": {
    "ats": "workday",
    "board": "draper.wd5/Draper_Careers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -8427,7 +8427,7 @@
   "workday:drivetime.wd1/drivetime": {
    "ats": "workday",
    "board": "drivetime.wd1/DriveTime",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -8443,7 +8443,7 @@
   "workday:dtna.wd5/dtna_affiliate": {
    "ats": "workday",
    "board": "dtna.wd5/dtna_affiliate",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -8459,7 +8459,7 @@
   "workday:ecolab.wd1/ecolab_external": {
    "ats": "workday",
    "board": "ecolab.wd1/ecolab_external",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": true,
    "deep_since": "2026-10-02T05:21:11+00:00",
    "disabled": false,
@@ -8475,7 +8475,7 @@
   "workday:elevancehealth.wd1/elv-et": {
    "ats": "workday",
    "board": "elevancehealth.wd1/ELV-ET",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -8491,7 +8491,7 @@
   "workday:elkay.wd1/elkay_external": {
    "ats": "workday",
    "board": "elkay.wd1/elkay_external",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -8507,7 +8507,7 @@
   "workday:emcins.wd5/emc_careers": {
    "ats": "workday",
    "board": "emcins.wd5/EMC_Careers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -8523,7 +8523,7 @@
   "workday:emcins.wd5/emc_internships": {
    "ats": "workday",
    "board": "emcins.wd5/EMC_Internships",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -8539,7 +8539,7 @@
   "workday:equifax.wd5/ur_external": {
    "ats": "workday",
    "board": "equifax.wd5/ur_external",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -8555,7 +8555,7 @@
   "workday:ercot.wd1/ercot_careers": {
    "ats": "workday",
    "board": "ercot.wd1/ercot_careers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -8571,7 +8571,7 @@
   "workday:fanniemae.wd1/fanniemaecareers": {
    "ats": "workday",
    "board": "fanniemae.wd1/FannieMaeCareers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -8587,7 +8587,7 @@
   "workday:fhlbc.wd1/search": {
    "ats": "workday",
    "board": "fhlbc.wd1/search",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -8603,7 +8603,7 @@
   "workday:fifththird.wd5/53careers": {
    "ats": "workday",
    "board": "fifththird.wd5/53careers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -8619,7 +8619,7 @@
   "workday:finastra.wd3/finc": {
    "ats": "workday",
    "board": "finastra.wd3/FINC",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -8635,7 +8635,7 @@
   "workday:firstnational.wd12/fnbocareers": {
    "ats": "workday",
    "board": "firstnational.wd12/fnbocareers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -8651,7 +8651,7 @@
   "workday:fis.wd5/searchjobs": {
    "ats": "workday",
    "board": "fis.wd5/searchjobs",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": true,
    "deep_since": "2026-10-02T05:21:11+00:00",
    "disabled": false,
@@ -8667,7 +8667,7 @@
   "workday:flextronics.wd1/careers": {
    "ats": "workday",
    "board": "flextronics.wd1/Careers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -8683,7 +8683,7 @@
   "workday:flir.wd1/flircareers": {
    "ats": "workday",
    "board": "flir.wd1/flircareers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -8699,7 +8699,7 @@
   "workday:fmr.wd1/fidelitycareers": {
    "ats": "workday",
    "board": "fmr.wd1/fidelitycareers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -8715,7 +8715,7 @@
   "workday:fmr.wd1/targeted": {
    "ats": "workday",
    "board": "fmr.wd1/targeted",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -8731,7 +8731,7 @@
   "workday:freddiemac.wd5/external": {
    "ats": "workday",
    "board": "freddiemac.wd5/External",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": true,
    "deep_since": "2026-10-02T05:21:11+00:00",
    "disabled": false,
@@ -8747,7 +8747,7 @@
   "workday:gaig.wd1/gaig_external": {
    "ats": "workday",
    "board": "gaig.wd1/GAIG_External",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -8763,7 +8763,7 @@
   "workday:gartner.wd5/ext": {
    "ats": "workday",
    "board": "gartner.wd5/EXT",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -8779,7 +8779,7 @@
   "workday:gdit.wd5/external_career_site": {
    "ats": "workday",
    "board": "gdit.wd5/external_career_site",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -8795,7 +8795,7 @@
   "workday:gdit.wd5/gdit_earlytalent": {
    "ats": "workday",
    "board": "gdit.wd5/gdit_earlytalent",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -8811,7 +8811,7 @@
   "workday:geaerospace.wd5/ge_externalsite": {
    "ats": "workday",
    "board": "geaerospace.wd5/ge_externalsite",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": true,
    "deep_since": "2026-10-02T05:21:11+00:00",
    "disabled": false,
@@ -8827,7 +8827,7 @@
   "workday:gehc.wd5/gehc_externalsite": {
    "ats": "workday",
    "board": "gehc.wd5/GEHC_ExternalSite",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": true,
    "deep_since": "2026-10-02T05:21:11+00:00",
    "disabled": false,
@@ -8843,7 +8843,7 @@
   "workday:generac.wd5/external": {
    "ats": "workday",
    "board": "generac.wd5/external",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -8859,7 +8859,7 @@
   "workday:generalmotors.wd5/careers_gm": {
    "ats": "workday",
    "board": "generalmotors.wd5/Careers_GM",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -8875,7 +8875,7 @@
   "workday:genpt.wd1/careers": {
    "ats": "workday",
    "board": "genpt.wd1/careers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -8891,7 +8891,7 @@
   "workday:gevernova.wd5/only_confidential_executive_recruiting": {
    "ats": "workday",
    "board": "gevernova.wd5/only_confidential_executive_recruiting",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": true,
    "deep_since": "2026-10-02T05:21:11+00:00",
    "disabled": false,
@@ -8907,7 +8907,7 @@
   "workday:gevernova.wd5/vernova_externalsite": {
    "ats": "workday",
    "board": "gevernova.wd5/vernova_externalsite",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": true,
    "deep_since": "2026-10-02T05:21:11+00:00",
    "disabled": false,
@@ -8923,7 +8923,7 @@
   "workday:gfs.wd5/usjobs-gen-gfs": {
    "ats": "workday",
    "board": "gfs.wd5/usjobs-gen-gfs",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -8939,7 +8939,7 @@
   "workday:gilead.wd1/gileadcareers": {
    "ats": "workday",
    "board": "gilead.wd1/gileadcareers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -8955,7 +8955,7 @@
   "workday:globalfoundries.wd1/external": {
    "ats": "workday",
    "board": "globalfoundries.wd1/External",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -8971,7 +8971,7 @@
   "workday:globalhr.wd5/private_posting_no_tmp": {
    "ats": "workday",
    "board": "globalhr.wd5/Private_Posting_No_TMP",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": true,
    "deep_since": "2026-10-02T05:21:11+00:00",
    "disabled": false,
@@ -8987,7 +8987,7 @@
   "workday:globalhr.wd5/rec_rtx_ext_gateway": {
    "ats": "workday",
    "board": "globalhr.wd5/rec_rtx_ext_gateway",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": true,
    "deep_since": "2026-10-02T05:21:11+00:00",
    "disabled": false,
@@ -9003,7 +9003,7 @@
   "workday:gnw.wd1/enact_mi": {
    "ats": "workday",
    "board": "gnw.wd1/enact_mi",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -9019,7 +9019,7 @@
   "workday:gnw.wd1/gnw": {
    "ats": "workday",
    "board": "gnw.wd1/GNW",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -9035,7 +9035,7 @@
   "workday:greatamerica.wd12/greatamericacareers": {
    "ats": "workday",
    "board": "greatamerica.wd12/greatamericacareers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -9051,7 +9051,7 @@
   "workday:greenheckgroup.wd5/external": {
    "ats": "workday",
    "board": "greenheckgroup.wd5/external",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -9067,7 +9067,7 @@
   "workday:guardianlife.wd5/guardian-life-careers": {
    "ats": "workday",
    "board": "guardianlife.wd5/guardian-life-careers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -9083,7 +9083,7 @@
   "workday:guidestone.wd1/guidestone": {
    "ats": "workday",
    "board": "guidestone.wd1/guidestone",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -9099,7 +9099,7 @@
   "workday:haier.wd3/ge_appliances": {
    "ats": "workday",
    "board": "haier.wd3/ge_appliances",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -9115,7 +9115,7 @@
   "workday:hcmportal.wd5/search": {
    "ats": "workday",
    "board": "hcmportal.wd5/Search",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -9131,7 +9131,7 @@
   "workday:hcsc.wd1/hcsc_external": {
    "ats": "workday",
    "board": "hcsc.wd1/hcsc_external",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -9147,7 +9147,7 @@
   "workday:hitachi.wd1/hitachi": {
    "ats": "workday",
    "board": "hitachi.wd1/hitachi",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -9163,7 +9163,7 @@
   "workday:hl.wd1/campus": {
    "ats": "workday",
    "board": "hl.wd1/Campus",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -9179,7 +9179,7 @@
   "workday:hmhw.wd12/hmh_careers": {
    "ats": "workday",
    "board": "hmhw.wd12/hmh_careers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -9195,7 +9195,7 @@
   "workday:hntb.wd5/hntb_careers": {
    "ats": "workday",
    "board": "hntb.wd5/hntb_careers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -9211,7 +9211,7 @@
   "workday:hntb.wd5/hntb_university_careers": {
    "ats": "workday",
    "board": "hntb.wd5/hntb_university_careers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -9227,7 +9227,7 @@
   "workday:homedepot.wd5/careerdepot": {
    "ats": "workday",
    "board": "homedepot.wd5/careerdepot",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -9243,7 +9243,7 @@
   "workday:hp.wd5/externalcareersite": {
    "ats": "workday",
    "board": "hp.wd5/externalcareersite",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -9259,7 +9259,7 @@
   "workday:hp.wd5/exteu-ac-careersite": {
    "ats": "workday",
    "board": "hp.wd5/exteu-ac-careersite",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -9275,7 +9275,7 @@
   "workday:hpe.wd5/jobsathpe": {
    "ats": "workday",
    "board": "hpe.wd5/jobsathpe",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -9291,7 +9291,7 @@
   "workday:hq.wd12/securian_external": {
    "ats": "workday",
    "board": "hq.wd12/Securian_External",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -9307,7 +9307,7 @@
   "workday:humana.wd5/humana_external_career_site": {
    "ats": "workday",
    "board": "humana.wd5/Humana_External_Career_Site",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -9323,7 +9323,7 @@
   "workday:huntington.wd12/hnbcareers": {
    "ats": "workday",
    "board": "huntington.wd12/HNBcareers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -9339,7 +9339,7 @@
   "workday:hyperiongrp.wd3/hyperion_external": {
    "ats": "workday",
    "board": "hyperiongrp.wd3/Hyperion_External",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -9355,7 +9355,7 @@
   "workday:hyvee.wd1/hyveecareers": {
    "ats": "workday",
    "board": "hyvee.wd1/HyVeeCareers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -9371,7 +9371,7 @@
   "workday:iatinsurancegroup.wd1/iat": {
    "ats": "workday",
    "board": "iatinsurancegroup.wd1/iat",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -9387,7 +9387,7 @@
   "workday:iberdrola.wd3/iberdrola": {
    "ats": "workday",
    "board": "iberdrola.wd3/iberdrola",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -9403,7 +9403,7 @@
   "workday:icf.wd5/icfexternal_career_site": {
    "ats": "workday",
    "board": "icf.wd5/icfexternal_career_site",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -9419,7 +9419,7 @@
   "workday:igsenergy.wd1/igs": {
    "ats": "workday",
    "board": "igsenergy.wd1/igs",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -9435,7 +9435,7 @@
   "workday:ingredion.wd1/ingredioncareers": {
    "ats": "workday",
    "board": "ingredion.wd1/IngredionCareers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -9451,7 +9451,7 @@
   "workday:inmar.wd1/inmarcareers": {
    "ats": "workday",
    "board": "inmar.wd1/inmarcareers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -9467,7 +9467,7 @@
   "workday:insulet.wd5/insuletcareers": {
    "ats": "workday",
    "board": "insulet.wd5/insuletcareers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -9483,7 +9483,7 @@
   "workday:intel.wd1/external": {
    "ats": "workday",
    "board": "intel.wd1/external",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -9499,7 +9499,7 @@
   "workday:invesco.wd1/ivz": {
    "ats": "workday",
    "board": "invesco.wd1/IVZ",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": true,
    "deep_since": "2026-10-02T05:21:11+00:00",
    "disabled": false,
@@ -9515,7 +9515,7 @@
   "workday:invesco.wd1/ivzearlycareers": {
    "ats": "workday",
    "board": "invesco.wd1/IVZearlycareers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -9531,7 +9531,7 @@
   "workday:irhythmtech.wd5/irhythm": {
    "ats": "workday",
    "board": "irhythmtech.wd5/irhythm",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -9547,7 +9547,7 @@
   "workday:itron.wd5/early_careers": {
    "ats": "workday",
    "board": "itron.wd5/Early_Careers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -9563,7 +9563,7 @@
   "workday:itron.wd5/itron": {
    "ats": "workday",
    "board": "itron.wd5/Itron",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -9579,7 +9579,7 @@
   "workday:jabil.wd5/jabil_careers": {
    "ats": "workday",
    "board": "jabil.wd5/Jabil_Careers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -9595,7 +9595,7 @@
   "workday:jci.wd5/jci": {
    "ats": "workday",
    "board": "jci.wd5/jci",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": true,
    "deep_since": "2026-10-04T18:46:26+00:00",
    "disabled": false,
@@ -9611,7 +9611,7 @@
   "workday:jj.wd5/jj": {
    "ats": "workday",
    "board": "jj.wd5/JJ",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": true,
    "deep_since": "2026-10-02T05:21:11+00:00",
    "disabled": false,
@@ -9680,7 +9680,7 @@
    "deep_since": null,
    "disabled": false,
    "discovered_via": "simplify",
-   "first_seen": "2026-10-06T17:09:21+00:00",
+   "first_seen": "2026-10-06T17:07:02+00:00",
    "last_deep_crawl": null,
    "last_match": "2026-10-06T17:09:21+00:00",
    "last_ok": null,
@@ -9771,7 +9771,7 @@
   "workday:liveramp.wd5/liverampcareers": {
    "ats": "workday",
    "board": "liveramp.wd5/liverampcareers",
-   "consecutive_errors": 10,
+   "consecutive_errors": 11,
    "deep": false,
    "deep_since": null,
    "disabled": true,
@@ -10140,7 +10140,7 @@
   "workday:mmc.wd1/mmc": {
    "ats": "workday",
    "board": "mmc.wd1/MMC",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
