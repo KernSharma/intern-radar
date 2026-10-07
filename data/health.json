@@ -2,10 +2,13 @@
  "alerts": {
   "R3|vanshb03": {
    "opened_at": "2026-10-02T05:21:11+00:00"
+  },
+  "R6|lever:cesiumastro": {
+   "opened_at": "2026-10-07T22:37:04+00:00"
   }
  },
  "last_health_ntfy_at": "2026-10-07T20:45:38+00:00",
- "last_run_at": "2026-10-07T22:07:00+00:00",
+ "last_run_at": "2026-10-07T22:37:04+00:00",
  "runner": "mac",
  "runs": [
   {
@@ -9970,6 +9973,87 @@
    },
    "runner": "mac",
    "seconds": 169.1
+  },
+  {
+   "at": "2026-10-07T22:37:04+00:00",
+   "boards_polled": 681,
+   "boards_skipped_budget": 0,
+   "families": {
+    "ashby": {
+     "errors": 2,
+     "jobs": 107,
+     "matches": 265,
+     "newest": "2026-10-07",
+     "ok": 105,
+     "postings": 6635,
+     "seconds": 18.24
+    },
+    "greenhouse": {
+     "errors": 0,
+     "jobs": 187,
+     "matches": 859,
+     "newest": "2026-10-07",
+     "ok": 187,
+     "postings": 24847,
+     "seconds": 15.79
+    },
+    "lever": {
+     "errors": 1,
+     "jobs": 24,
+     "matches": 119,
+     "newest": "2026-10-07",
+     "ok": 23,
+     "postings": 2347,
+     "seconds": 44.37
+    },
+    "simplify": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 1252,
+     "newest": "2026-10-07",
+     "ok": 1,
+     "postings": 4607,
+     "seconds": 1.02
+    },
+    "smartrecruiters": {
+     "errors": 0,
+     "jobs": 15,
+     "matches": 101,
+     "newest": "2026-10-07",
+     "ok": 15,
+     "postings": 1084,
+     "seconds": 8.68
+    },
+    "speedyapply": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 701,
+     "newest": "2026-10-07",
+     "ok": 1,
+     "postings": 782,
+     "seconds": 0.16
+    },
+    "vanshb03": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 323,
+     "newest": "2026-08-21",
+     "ok": 1,
+     "postings": 371,
+     "seconds": 0.34
+    },
+    "workday": {
+     "errors": 3,
+     "jobs": 348,
+     "matches": 2168,
+     "newest": "2026-10-07",
+     "ok": 345,
+     "postings": 16611,
+     "seconds": 667.12
+    }
+   },
+   "runner": "mac",
+   "seconds": 143.8
   }
  ],
  "version": 1,
