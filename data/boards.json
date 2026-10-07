@@ -131,7 +131,7 @@
   "ashby:atomicsemi": {
    "ats": "ashby",
    "board": "atomicsemi",
-   "consecutive_errors": 2,
+   "consecutive_errors": 3,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -164,7 +164,7 @@
   "ashby:base-power": {
    "ats": "ashby",
    "board": "base-power",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -324,7 +324,7 @@
   "ashby:ctgt": {
    "ats": "ashby",
    "board": "ctgt",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -340,7 +340,7 @@
   "ashby:cyvl": {
    "ats": "ashby",
    "board": "cyvl",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -356,7 +356,7 @@
   "ashby:dandy": {
    "ats": "ashby",
    "board": "dandy",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -372,7 +372,7 @@
   "ashby:datologyai": {
    "ats": "ashby",
    "board": "datologyai",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -388,7 +388,7 @@
   "ashby:decagon": {
    "ats": "ashby",
    "board": "decagon",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -404,7 +404,7 @@
   "ashby:deepgram": {
    "ats": "ashby",
    "board": "deepgram",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -420,7 +420,7 @@
   "ashby:elevenlabs": {
    "ats": "ashby",
    "board": "elevenlabs",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -436,7 +436,7 @@
   "ashby:ellipsislabs": {
    "ats": "ashby",
    "board": "ellipsislabs",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -452,7 +452,7 @@
   "ashby:etched": {
    "ats": "ashby",
    "board": "etched",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -468,7 +468,7 @@
   "ashby:ether.fi": {
    "ats": "ashby",
    "board": "ether.fi",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -484,7 +484,7 @@
   "ashby:ethglobal": {
    "ats": "ashby",
    "board": "ethglobal",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -500,7 +500,7 @@
   "ashby:exa": {
    "ats": "ashby",
    "board": "exa",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -516,7 +516,7 @@
   "ashby:exegy": {
    "ats": "ashby",
    "board": "exegy",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -532,7 +532,7 @@
   "ashby:fab2": {
    "ats": "ashby",
    "board": "fab2",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -996,7 +996,7 @@
   "ashby:northwoodspace": {
    "ats": "ashby",
    "board": "northwoodspace",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -1012,7 +1012,7 @@
   "ashby:notion": {
    "ats": "ashby",
    "board": "notion",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -1028,7 +1028,7 @@
   "ashby:oneapp": {
    "ats": "ashby",
    "board": "oneapp",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -1652,7 +1652,7 @@
   "ashby:whatnot": {
    "ats": "ashby",
    "board": "whatnot",
-   "consecutive_errors": 3,
+   "consecutive_errors": 4,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -2631,7 +2631,7 @@
   "greenhouse:enova": {
    "ats": "greenhouse",
    "board": "enova",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -2887,7 +2887,7 @@
   "greenhouse:gassouth": {
    "ats": "greenhouse",
    "board": "gassouth",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -2903,7 +2903,7 @@
   "greenhouse:gcmgrosvenor": {
    "ats": "greenhouse",
    "board": "gcmgrosvenor",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -2919,7 +2919,7 @@
   "greenhouse:gemini": {
    "ats": "greenhouse",
    "board": "gemini",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -3304,7 +3304,7 @@
   "greenhouse:lucidmotors": {
    "ats": "greenhouse",
    "board": "lucidmotors",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -3480,7 +3480,7 @@
   "greenhouse:natera": {
    "ats": "greenhouse",
    "board": "natera",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -5625,7 +5625,7 @@
   "lever:acronaviation": {
    "ats": "lever",
    "board": "acronaviation",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -7802,7 +7802,7 @@
   "workday:capitalone.wd12/capital_one": {
    "ats": "workday",
    "board": "capitalone.wd12/Capital_One",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -10830,7 +10830,7 @@
   "workday:paloaltonetworks.wd5/panwexternalcareers": {
    "ats": "workday",
    "board": "paloaltonetworks.wd5/panwexternalcareers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
