@@ -2,11 +2,14 @@
  "alerts": {
   "R3|vanshb03": {
    "opened_at": "2026-10-02T05:21:11+00:00"
+  },
+  "R6|ashby:whatnot": {
+   "opened_at": "2026-10-07T07:41:42+00:00"
   }
  },
- "last_health_ntfy_at": "2026-10-06T22:07:05+00:00",
- "last_run_at": "2026-10-07T05:37:00+00:00",
- "runner": "mac",
+ "last_health_ntfy_at": "2026-10-07T07:41:42+00:00",
+ "last_run_at": "2026-10-07T07:41:42+00:00",
+ "runner": "actions",
  "runs": [
   {
    "at": "2026-10-02T05:21:11+00:00",
@@ -8836,6 +8839,87 @@
    },
    "runner": "mac",
    "seconds": 294.3
+  },
+  {
+   "at": "2026-10-07T07:41:42+00:00",
+   "boards_polled": 677,
+   "boards_skipped_budget": 0,
+   "families": {
+    "ashby": {
+     "errors": 2,
+     "jobs": 107,
+     "matches": 264,
+     "newest": "2026-10-07",
+     "ok": 105,
+     "postings": 6629,
+     "seconds": 4.1
+    },
+    "greenhouse": {
+     "errors": 0,
+     "jobs": 186,
+     "matches": 856,
+     "newest": "2026-10-07",
+     "ok": 186,
+     "postings": 24698,
+     "seconds": 11.7
+    },
+    "lever": {
+     "errors": 1,
+     "jobs": 24,
+     "matches": 121,
+     "newest": "2026-10-06",
+     "ok": 23,
+     "postings": 2448,
+     "seconds": 36.27
+    },
+    "simplify": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 1263,
+     "newest": "2026-10-07",
+     "ok": 1,
+     "postings": 4638,
+     "seconds": 0.28
+    },
+    "smartrecruiters": {
+     "errors": 0,
+     "jobs": 15,
+     "matches": 104,
+     "newest": "2026-10-07",
+     "ok": 15,
+     "postings": 1086,
+     "seconds": 6.74
+    },
+    "speedyapply": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 693,
+     "newest": "2026-10-07",
+     "ok": 1,
+     "postings": 772,
+     "seconds": 0.04
+    },
+    "vanshb03": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 323,
+     "newest": "2026-08-21",
+     "ok": 1,
+     "postings": 371,
+     "seconds": 0.1
+    },
+    "workday": {
+     "errors": 3,
+     "jobs": 345,
+     "matches": 2133,
+     "newest": "2026-10-07",
+     "ok": 342,
+     "postings": 16376,
+     "seconds": 525.01
+    }
+   },
+   "runner": "actions",
+   "seconds": 93.4
   }
  ],
  "version": 1,
