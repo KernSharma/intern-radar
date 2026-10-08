@@ -2,17 +2,11 @@
  "alerts": {
   "R3|vanshb03": {
    "opened_at": "2026-10-02T05:21:11+00:00"
-  },
-  "R6|workday:osv-cci.wd1/ccicareers": {
-   "opened_at": "2026-10-07T23:18:06+00:00"
-  },
-  "R6|workday:osv-rubicon.wd5/magnitecareers": {
-   "opened_at": "2026-10-07T23:18:06+00:00"
   }
  },
  "last_health_ntfy_at": "2026-10-07T20:45:38+00:00",
- "last_run_at": "2026-10-07T23:18:06+00:00",
- "runner": "mac",
+ "last_run_at": "2026-10-08T00:56:32+00:00",
+ "runner": "actions",
  "runs": [
   {
    "at": "2026-10-02T05:21:11+00:00",
@@ -10138,6 +10132,87 @@
    },
    "runner": "mac",
    "seconds": 240.6
+  },
+  {
+   "at": "2026-10-08T00:56:32+00:00",
+   "boards_polled": 685,
+   "boards_skipped_budget": 0,
+   "families": {
+    "ashby": {
+     "errors": 2,
+     "jobs": 107,
+     "matches": 265,
+     "newest": "2026-10-08",
+     "ok": 105,
+     "postings": 6637,
+     "seconds": 12.88
+    },
+    "greenhouse": {
+     "errors": 0,
+     "jobs": 188,
+     "matches": 861,
+     "newest": "2026-10-07",
+     "ok": 188,
+     "postings": 24871,
+     "seconds": 16.98
+    },
+    "lever": {
+     "errors": 1,
+     "jobs": 24,
+     "matches": 119,
+     "newest": "2026-10-07",
+     "ok": 23,
+     "postings": 2347,
+     "seconds": 14.39
+    },
+    "simplify": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 1281,
+     "newest": "2026-10-07",
+     "ok": 1,
+     "postings": 4686,
+     "seconds": 0.6
+    },
+    "smartrecruiters": {
+     "errors": 0,
+     "jobs": 16,
+     "matches": 101,
+     "newest": "2026-10-08",
+     "ok": 16,
+     "postings": 1157,
+     "seconds": 8.91
+    },
+    "speedyapply": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 701,
+     "newest": "2026-10-08",
+     "ok": 1,
+     "postings": 782,
+     "seconds": 0.12
+    },
+    "vanshb03": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 323,
+     "newest": "2026-08-21",
+     "ok": 1,
+     "postings": 371,
+     "seconds": 0.28
+    },
+    "workday": {
+     "errors": 1,
+     "jobs": 350,
+     "matches": 2187,
+     "newest": "2026-10-08",
+     "ok": 349,
+     "postings": 16753,
+     "seconds": 608.18
+    }
+   },
+   "runner": "actions",
+   "seconds": 101.3
   }
  ],
  "version": 1,
