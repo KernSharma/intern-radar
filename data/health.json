@@ -3,13 +3,13 @@
   "R3|vanshb03": {
    "opened_at": "2026-10-02T05:21:11+00:00"
   },
-  "R6|workday:liveramp.wd5/liverampcareers": {
-   "opened_at": "2026-10-08T07:17:01+00:00"
+  "R5|run-time": {
+   "opened_at": "2026-10-08T10:14:23+00:00"
   }
  },
  "last_health_ntfy_at": "2026-10-08T07:17:01+00:00",
- "last_run_at": "2026-10-08T07:17:01+00:00",
- "runner": "actions",
+ "last_run_at": "2026-10-08T10:14:23+00:00",
+ "runner": "mac",
  "runs": [
   {
    "at": "2026-10-02T05:21:11+00:00",
@@ -10378,6 +10378,87 @@
    },
    "runner": "actions",
    "seconds": 104.6
+  },
+  {
+   "at": "2026-10-08T10:14:23+00:00",
+   "boards_polled": 594,
+   "boards_skipped_budget": 92,
+   "families": {
+    "ashby": {
+     "errors": 2,
+     "jobs": 107,
+     "matches": 265,
+     "newest": "2026-10-08",
+     "ok": 105,
+     "postings": 6640,
+     "seconds": 212.64
+    },
+    "greenhouse": {
+     "errors": 0,
+     "jobs": 188,
+     "matches": 861,
+     "newest": "2026-10-08",
+     "ok": 188,
+     "postings": 24869,
+     "seconds": 50.1
+    },
+    "lever": {
+     "errors": 15,
+     "jobs": 24,
+     "matches": 23,
+     "newest": "2026-10-07",
+     "ok": 9,
+     "postings": 493,
+     "seconds": 341.03
+    },
+    "simplify": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 1274,
+     "newest": "2026-10-08",
+     "ok": 1,
+     "postings": 4662,
+     "seconds": 38.92
+    },
+    "smartrecruiters": {
+     "errors": 12,
+     "jobs": 16,
+     "matches": 46,
+     "newest": "2026-10-08",
+     "ok": 4,
+     "postings": 861,
+     "seconds": 148.25
+    },
+    "speedyapply": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 701,
+     "newest": "2026-10-08",
+     "ok": 1,
+     "postings": 782,
+     "seconds": 0.59
+    },
+    "vanshb03": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 323,
+     "newest": "2026-08-21",
+     "ok": 1,
+     "postings": 371,
+     "seconds": 0.42
+    },
+    "workday": {
+     "errors": 108,
+     "jobs": 259,
+     "matches": 876,
+     "newest": "2026-10-08",
+     "ok": 151,
+     "postings": 7397,
+     "seconds": 2833.84
+    }
+   },
+   "runner": "mac",
+   "seconds": 777.0
   }
  ],
  "version": 1,
