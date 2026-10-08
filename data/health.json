@@ -2,10 +2,16 @@
  "alerts": {
   "R3|vanshb03": {
    "opened_at": "2026-10-02T05:21:11+00:00"
+  },
+  "R6|ashby:atomicsemi": {
+   "opened_at": "2026-10-08T21:37:05+00:00"
+  },
+  "R6|ashby:whatnot": {
+   "opened_at": "2026-10-08T21:37:05+00:00"
   }
  },
- "last_health_ntfy_at": "2026-10-08T15:37:04+00:00",
- "last_run_at": "2026-10-08T21:07:05+00:00",
+ "last_health_ntfy_at": "2026-10-08T21:37:05+00:00",
+ "last_run_at": "2026-10-08T21:37:05+00:00",
  "runner": "mac",
  "runs": [
   {
@@ -11590,6 +11596,87 @@
    },
    "runner": "mac",
    "seconds": 123.5
+  },
+  {
+   "at": "2026-10-08T21:37:05+00:00",
+   "boards_polled": 688,
+   "boards_skipped_budget": 0,
+   "families": {
+    "ashby": {
+     "errors": 2,
+     "jobs": 107,
+     "matches": 264,
+     "newest": "2026-10-08",
+     "ok": 105,
+     "postings": 6641,
+     "seconds": 19.1
+    },
+    "greenhouse": {
+     "errors": 0,
+     "jobs": 189,
+     "matches": 856,
+     "newest": "2026-10-08",
+     "ok": 189,
+     "postings": 24897,
+     "seconds": 61.51
+    },
+    "lever": {
+     "errors": 1,
+     "jobs": 24,
+     "matches": 120,
+     "newest": "2026-10-08",
+     "ok": 23,
+     "postings": 2349,
+     "seconds": 39.24
+    },
+    "simplify": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 1240,
+     "newest": "2026-10-08",
+     "ok": 1,
+     "postings": 4617,
+     "seconds": 1.03
+    },
+    "smartrecruiters": {
+     "errors": 0,
+     "jobs": 16,
+     "matches": 101,
+     "newest": "2026-10-08",
+     "ok": 16,
+     "postings": 1149,
+     "seconds": 9.11
+    },
+    "speedyapply": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 698,
+     "newest": "2026-10-07",
+     "ok": 1,
+     "postings": 778,
+     "seconds": 0.16
+    },
+    "vanshb03": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 323,
+     "newest": "2026-08-21",
+     "ok": 1,
+     "postings": 371,
+     "seconds": 0.24
+    },
+    "workday": {
+     "errors": 3,
+     "jobs": 352,
+     "matches": 2156,
+     "newest": "2026-10-08",
+     "ok": 349,
+     "postings": 16713,
+     "seconds": 650.33
+    }
+   },
+   "runner": "mac",
+   "seconds": 131.7
   }
  ],
  "version": 1,
