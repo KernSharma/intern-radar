@@ -5,7 +5,7 @@
   }
  },
  "last_health_ntfy_at": "2026-10-08T15:37:04+00:00",
- "last_run_at": "2026-10-08T20:07:05+00:00",
+ "last_run_at": "2026-10-08T21:07:05+00:00",
  "runner": "mac",
  "runs": [
   {
@@ -11509,6 +11509,87 @@
    },
    "runner": "mac",
    "seconds": 123.7
+  },
+  {
+   "at": "2026-10-08T21:07:05+00:00",
+   "boards_polled": 688,
+   "boards_skipped_budget": 0,
+   "families": {
+    "ashby": {
+     "errors": 2,
+     "jobs": 107,
+     "matches": 264,
+     "newest": "2026-10-08",
+     "ok": 105,
+     "postings": 6635,
+     "seconds": 18.59
+    },
+    "greenhouse": {
+     "errors": 0,
+     "jobs": 189,
+     "matches": 856,
+     "newest": "2026-10-08",
+     "ok": 189,
+     "postings": 24887,
+     "seconds": 15.85
+    },
+    "lever": {
+     "errors": 1,
+     "jobs": 24,
+     "matches": 120,
+     "newest": "2026-10-08",
+     "ok": 23,
+     "postings": 2348,
+     "seconds": 28.01
+    },
+    "simplify": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 1240,
+     "newest": "2026-10-08",
+     "ok": 1,
+     "postings": 4622,
+     "seconds": 0.76
+    },
+    "smartrecruiters": {
+     "errors": 0,
+     "jobs": 16,
+     "matches": 101,
+     "newest": "2026-10-08",
+     "ok": 16,
+     "postings": 1146,
+     "seconds": 9.28
+    },
+    "speedyapply": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 698,
+     "newest": "2026-10-07",
+     "ok": 1,
+     "postings": 778,
+     "seconds": 0.27
+    },
+    "vanshb03": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 323,
+     "newest": "2026-08-21",
+     "ok": 1,
+     "postings": 371,
+     "seconds": 0.26
+    },
+    "workday": {
+     "errors": 3,
+     "jobs": 352,
+     "matches": 2160,
+     "newest": "2026-10-08",
+     "ok": 349,
+     "postings": 17612,
+     "seconds": 697.69
+    }
+   },
+   "runner": "mac",
+   "seconds": 123.5
   }
  ],
  "version": 1,
