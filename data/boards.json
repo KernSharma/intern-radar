@@ -131,7 +131,7 @@
   "ashby:atomicsemi": {
    "ats": "ashby",
    "board": "atomicsemi",
-   "consecutive_errors": 4,
+   "consecutive_errors": 5,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -196,7 +196,7 @@
   "ashby:bedrock-robotics": {
    "ats": "ashby",
    "board": "bedrock-robotics",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -1652,7 +1652,7 @@
   "ashby:whatnot": {
    "ats": "ashby",
    "board": "whatnot",
-   "consecutive_errors": 4,
+   "consecutive_errors": 5,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -4287,7 +4287,7 @@
    "discovered_via": "simplify",
    "first_seen": "2026-10-07T23:18:06+00:00",
    "last_deep_crawl": null,
-   "last_match": "2026-10-08T00:56:32+00:00",
+   "last_match": "2026-10-08T02:48:54+00:00",
    "last_ok": "2026-10-08T07:17:01+00:00",
    "last_polled": "2026-10-08T07:17:01+00:00",
    "needs_config": false,
@@ -5737,7 +5737,7 @@
   "lever:cesiumastro": {
    "ats": "lever",
    "board": "cesiumastro",
-   "consecutive_errors": 2,
+   "consecutive_errors": 3,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -6042,7 +6042,7 @@
   "lever:waabi": {
    "ats": "lever",
    "board": "waabi",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -6058,7 +6058,7 @@
   "lever:xcimer": {
    "ats": "lever",
    "board": "xcimer",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -10043,7 +10043,7 @@
   "workday:liveramp.wd5/liverampcareers": {
    "ats": "workday",
    "board": "liveramp.wd5/liverampcareers",
-   "consecutive_errors": 10,
+   "consecutive_errors": 11,
    "deep": false,
    "deep_since": null,
    "disabled": true,
@@ -10924,7 +10924,7 @@
   "workday:osv-cci.wd1/ccicareers": {
    "ats": "workday",
    "board": "osv-cci.wd1/CCICareers",
-   "consecutive_errors": 1,
+   "consecutive_errors": 2,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -10941,7 +10941,7 @@
   "workday:osv-rubicon.wd5/magnitecareers": {
    "ats": "workday",
    "board": "osv-rubicon.wd5/MagniteCareers",
-   "consecutive_errors": 1,
+   "consecutive_errors": 2,
    "deep": false,
    "deep_since": null,
    "disabled": false,
