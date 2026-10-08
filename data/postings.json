@@ -1657,6 +1657,16 @@
   "posted_at": "2026-10-07",
   "source": "workday"
  },
+ "url:https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/decherd-tennessee---united-states-of-america/manufacturing-digital-data-intern---summer-2027---decherd--tn_r00214881": {
+  "company": "alliance",
+  "title": "Manufacturing Digital Data Intern - Summer 2027 - Decherd, TN",
+  "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Decherd-Tennessee---United-States-of-America/Manufacturing-Digital-Data-Intern---Summer-2027---Decherd--TN_R00214881",
+  "locations": [
+   "Decherd, Tennessee - United States of America"
+  ],
+  "posted_at": "2026-10-08",
+  "source": "workday"
+ },
  "url:https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/decherd-tennessee---united-states-of-america/process-engineering-intern---summer-2027---decherd--tn_r00214742": {
   "company": "alliance",
   "title": "Process Engineering Intern - Summer 2027 - Decherd, TN",
@@ -1707,6 +1717,16 @@
   "posted_at": "2026-10-07",
   "source": "workday"
  },
+ "url:https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/franklin-tennessee---united-states-of-america/market-intelligence--customer-trends---insights--intern---summer-2027---franklin--tn_r00214283": {
+  "company": "alliance",
+  "title": "Market Intelligence (Customer Trends & Insights) Intern - Summer 2027 - Franklin, TN",
+  "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Market-Intelligence--Customer-Trends---Insights--Intern---Summer-2027---Franklin--TN_R00214283",
+  "locations": [
+   "Franklin, Tennessee - United States of America"
+  ],
+  "posted_at": "2026-10-08",
+  "source": "workday"
+ },
  "url:https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/franklin-tennessee---united-states-of-america/pricing-and-cross-car-line-analytics-intern---franklin--tn---summer-2027_r00214245": {
   "company": "alliance",
   "title": "Pricing and Cross Car Line Analytics Intern - Franklin, TN - Summer 2027",
@@ -1715,6 +1735,16 @@
    "Franklin, Tennessee - United States of America"
   ],
   "posted_at": "2026-10-07",
+  "source": "workday"
+ },
+ "url:https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/franklin-tennessee---united-states-of-america/product-safety-engineering-intern---summer-2027---franklin--tn-and-smyrna--tn_r00214249": {
+  "company": "alliance",
+  "title": "Product Safety Engineering Intern - Summer 2027 - Franklin, TN and Smyrna, TN",
+  "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Product-Safety-Engineering-Intern---Summer-2027---Franklin--TN-and-Smyrna--TN_R00214249",
+  "locations": [
+   "Franklin, Tennessee - United States of America"
+  ],
+  "posted_at": "2026-10-08",
   "source": "workday"
  },
  "url:https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/franklin-tennessee---united-states-of-america/sap-platform-intern--finance-purchasing----summer-2027---franklin--tn_r00214217": {
@@ -30088,14 +30118,17 @@
   "source": "workday"
  },
  "url:https://huntington.wd12.myworkdayjobs.com/hnbcareers/job/columbus-oh/summer-2027-data-and-analytics-internship_r0075377": {
-  "company": "huntington",
-  "title": "Summer 2027 Data and Analytics Internship",
+  "company": "Huntington Bancshares",
+  "title": "Data and Analytics Intern",
   "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Summer-2027-Data-and-Analytics-Internship_R0075377",
   "locations": [
-   "4 Locations"
+   "Detroit, MI",
+   "Dallas, TX",
+   "Charlotte, NC",
+   "Columbus, OH"
   ],
-  "posted_at": "2026-09-08",
-  "source": "workday"
+  "posted_at": "2026-08-28",
+  "source": "simplify"
  },
  "url:https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/edina--7701-france-avenue-south/catastrophe-research---development-intern_r0019097": {
   "company": "hyperiongrp",
@@ -37124,15 +37157,35 @@
   "posted_at": "2026-09-17",
   "source": "greenhouse"
  },
+ "url:https://job-boards.greenhouse.io/ruggedrobotics/jobs/4724214005": {
+  "company": "Rugged Robotics",
+  "title": "Electrical Engineering Intern/Co-op (Spring or Summer '27)",
+  "url": "https://job-boards.greenhouse.io/ruggedrobotics/jobs/4724214005",
+  "locations": [
+   "Houston, TX"
+  ],
+  "posted_at": "2026-10-08",
+  "source": "greenhouse"
+ },
+ "url:https://job-boards.greenhouse.io/ruggedrobotics/jobs/4730900005": {
+  "company": "Rugged Robotics",
+  "title": "Mechanical Engineering Intern/Co-op (Spring or Summer 2027)",
+  "url": "https://job-boards.greenhouse.io/ruggedrobotics/jobs/4730900005",
+  "locations": [
+   "Houston, TX"
+  ],
+  "posted_at": "2026-10-08",
+  "source": "greenhouse"
+ },
  "url:https://job-boards.greenhouse.io/ruggedrobotics/jobs/4730908005": {
   "company": "Rugged Robotics",
-  "title": "Robotics Software Intern Co-op",
+  "title": "Robotic Software Intern/Co-op (Spring or Summer 2027)",
   "url": "https://job-boards.greenhouse.io/ruggedrobotics/jobs/4730908005",
   "locations": [
    "Houston, TX"
   ],
   "posted_at": "2026-10-08",
-  "source": "simplify"
+  "source": "greenhouse"
  },
  "url:https://job-boards.greenhouse.io/sage49/jobs/6131185004": {
   "company": "Sage",
@@ -37256,13 +37309,13 @@
  },
  "url:https://job-boards.greenhouse.io/schonfeld/jobs/8171703": {
   "company": "Schonfeld",
-  "title": "Business Analytics Intern",
+  "title": "2027 Business Analytics Intern",
   "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171703",
   "locations": [
-   "NYC"
+   "New York, New York, United States"
   ],
   "posted_at": "2026-09-04",
-  "source": "simplify"
+  "source": "greenhouse"
  },
  "url:https://job-boards.greenhouse.io/schonfeld/jobs/8171772": {
   "company": "Schonfeld",
@@ -55887,6 +55940,16 @@
   "posted_at": "2026-10-01",
   "source": "workday"
  },
+ "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-california-san-diego/xmlname-2027-intern---airworthiness-engineer_r10255197": {
+  "company": "ngc",
+  "title": "2027 Intern - Airworthiness Engineer",
+  "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern---Airworthiness-Engineer_R10255197",
+  "locations": [
+   "United States-California-San Diego"
+  ],
+  "posted_at": "2026-10-08",
+  "source": "workday"
+ },
  "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-california-san-diego/xmlname-2027-intern-software-engineer_r10250150": {
   "company": "Northrop Grumman",
   "title": "Software Engineer Intern",
@@ -56393,6 +56456,16 @@
    "North America/USA/Missouri/St. Louis - CCP, MO"
   ],
   "posted_at": "2026-09-11",
+  "source": "workday"
+ },
+ "url:https://nidec.wd1.myworkdayjobs.com/nidec/job/north-americausamissourist-louis---ccp-mo/engineering-co-op_r0017832": {
+  "company": "nidec",
+  "title": "Engineering Co-Op",
+  "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---CCP-MO/Engineering-Co-Op_R0017832",
+  "locations": [
+   "North America/USA/Missouri/St. Louis - CCP, MO"
+  ],
+  "posted_at": "2026-10-08",
   "source": "workday"
  },
  "url:https://nidec.wd1.myworkdayjobs.com/nidec/job/north-americausamissourist-louis---wpe-mo/engineering-technician-co-op_r0017053": {
