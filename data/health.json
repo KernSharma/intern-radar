@@ -2,13 +2,10 @@
  "alerts": {
   "R3|vanshb03": {
    "opened_at": "2026-10-02T05:21:11+00:00"
-  },
-  "R6|workday:liveramp.wd5/liverampcareers": {
-   "opened_at": "2026-10-08T18:37:05+00:00"
   }
  },
  "last_health_ntfy_at": "2026-10-08T15:37:04+00:00",
- "last_run_at": "2026-10-08T18:37:05+00:00",
+ "last_run_at": "2026-10-08T19:07:05+00:00",
  "runner": "mac",
  "runs": [
   {
@@ -11269,6 +11266,87 @@
    },
    "runner": "mac",
    "seconds": 137.8
+  },
+  {
+   "at": "2026-10-08T19:07:05+00:00",
+   "boards_polled": 687,
+   "boards_skipped_budget": 0,
+   "families": {
+    "ashby": {
+     "errors": 2,
+     "jobs": 107,
+     "matches": 265,
+     "newest": "2026-10-08",
+     "ok": 105,
+     "postings": 6640,
+     "seconds": 19.45
+    },
+    "greenhouse": {
+     "errors": 0,
+     "jobs": 189,
+     "matches": 861,
+     "newest": "2026-10-08",
+     "ok": 189,
+     "postings": 24885,
+     "seconds": 20.2
+    },
+    "lever": {
+     "errors": 1,
+     "jobs": 24,
+     "matches": 119,
+     "newest": "2026-10-08",
+     "ok": 23,
+     "postings": 2345,
+     "seconds": 40.31
+    },
+    "simplify": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 1246,
+     "newest": "2026-10-08",
+     "ok": 1,
+     "postings": 4629,
+     "seconds": 1.1
+    },
+    "smartrecruiters": {
+     "errors": 0,
+     "jobs": 16,
+     "matches": 101,
+     "newest": "2026-10-08",
+     "ok": 16,
+     "postings": 1148,
+     "seconds": 9.4
+    },
+    "speedyapply": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 698,
+     "newest": "2026-10-07",
+     "ok": 1,
+     "postings": 778,
+     "seconds": 0.25
+    },
+    "vanshb03": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 323,
+     "newest": "2026-08-21",
+     "ok": 1,
+     "postings": 371,
+     "seconds": 0.25
+    },
+    "workday": {
+     "errors": 2,
+     "jobs": 351,
+     "matches": 2171,
+     "newest": "2026-10-08",
+     "ok": 349,
+     "postings": 16714,
+     "seconds": 698.68
+    }
+   },
+   "runner": "mac",
+   "seconds": 129.6
   }
  ],
  "version": 1,
