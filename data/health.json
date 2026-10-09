@@ -5,6 +5,12 @@
   },
   "R6|lever:cesiumastro": {
    "opened_at": "2026-10-09T01:10:34+00:00"
+  },
+  "R6|workday:osv-cci.wd1/ccicareers": {
+   "opened_at": "2026-10-09T00:07:26+00:00"
+  },
+  "R6|workday:osv-rubicon.wd5/magnitecareers": {
+   "opened_at": "2026-10-09T00:07:26+00:00"
   }
  },
  "last_health_ntfy_at": "2026-10-08T21:37:05+00:00",
@@ -11755,6 +11761,87 @@
    },
    "runner": "mac",
    "seconds": 460.1
+  },
+  {
+   "at": "2026-10-09T00:07:26+00:00",
+   "boards_polled": 688,
+   "boards_skipped_budget": 0,
+   "families": {
+    "ashby": {
+     "errors": 2,
+     "jobs": 107,
+     "matches": 264,
+     "newest": "2026-10-09",
+     "ok": 105,
+     "postings": 6647,
+     "seconds": 28.28
+    },
+    "greenhouse": {
+     "errors": 0,
+     "jobs": 189,
+     "matches": 853,
+     "newest": "2026-10-08",
+     "ok": 189,
+     "postings": 24908,
+     "seconds": 72.5
+    },
+    "lever": {
+     "errors": 2,
+     "jobs": 24,
+     "matches": 119,
+     "newest": "2026-10-08",
+     "ok": 22,
+     "postings": 2341,
+     "seconds": 530.68
+    },
+    "simplify": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 1273,
+     "newest": "2026-10-08",
+     "ok": 1,
+     "postings": 4702,
+     "seconds": 1.48
+    },
+    "smartrecruiters": {
+     "errors": 0,
+     "jobs": 16,
+     "matches": 101,
+     "newest": "2026-10-09",
+     "ok": 16,
+     "postings": 1148,
+     "seconds": 64.94
+    },
+    "speedyapply": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 698,
+     "newest": "2026-10-08",
+     "ok": 1,
+     "postings": 778,
+     "seconds": 0.31
+    },
+    "vanshb03": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 323,
+     "newest": "2026-08-21",
+     "ok": 1,
+     "postings": 371,
+     "seconds": 0.22
+    },
+    "workday": {
+     "errors": 17,
+     "jobs": 352,
+     "matches": 2082,
+     "newest": "2026-10-09",
+     "ok": 335,
+     "postings": 16144,
+     "seconds": 1903.11
+    }
+   },
+   "runner": "mac",
+   "seconds": 543.5
   },
   {
    "at": "2026-10-09T01:10:34+00:00",
