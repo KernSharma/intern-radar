@@ -18498,6 +18498,16 @@
   "posted_at": "2026-09-22",
   "source": "simplify"
  },
+ "url:https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/portland-or-us/data-science-intern_dt-20166-1": {
+  "company": "dtna",
+  "title": "Data Science Intern",
+  "url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/Data-Science-Intern_DT-20166-1",
+  "locations": [
+   "Portland, OR US"
+  ],
+  "posted_at": "2026-10-09",
+  "source": "workday"
+ },
  "url:https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/portland-or-us/pe-design-engineer-intern_dt-20028": {
   "company": "dtna",
   "title": "PE Design Engineer Intern",
@@ -33619,6 +33629,16 @@
   "posted_at": "2026-10-05",
   "source": "workday"
  },
+ "url:https://jj.wd5.myworkdayjobs.com/jj/job/spring-house-pennsylvania-united-states-of-america/tds-cgt-cell-development-co-op_r-104293": {
+  "company": "jj",
+  "title": "TDS CGT-Cell Development Co-Op",
+  "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/TDS-CGT-Cell-Development-Co-Op_R-104293",
+  "locations": [
+   "Spring House, Pennsylvania, United States of America"
+  ],
+  "posted_at": "2026-10-09",
+  "source": "workday"
+ },
  "url:https://jj.wd5.myworkdayjobs.com/jj/job/spring-house-pennsylvania-united-states-of-america/tds-proteins-ceas-automation-co-op_r-098580": {
   "company": "jj",
   "title": "TDS Proteins CEAS Automation Co-Op",
@@ -35317,15 +35337,14 @@
   "source": "greenhouse"
  },
  "url:https://job-boards.greenhouse.io/doordashusa/jobs/8263774": {
-  "company": "DoorDash",
-  "title": "Software Engineer Intern",
+  "company": "DoorDash USA",
+  "title": "Software Engineer, Intern - Labs (Summer 2027)",
   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8263774",
   "locations": [
-   "SF",
-   "Sunnyvale, CA"
+   "San Francisco, CA; Sunnyvale, CA"
   ],
   "posted_at": "2026-10-08",
-  "source": "simplify"
+  "source": "greenhouse"
  },
  "url:https://job-boards.greenhouse.io/drweng/jobs/7668776": {
   "company": "DRW",
@@ -50601,6 +50620,16 @@
    "Bethesda, MD"
   ],
   "posted_at": "2026-09-17",
+  "source": "workday"
+ },
+ "url:https://leidos.wd5.myworkdayjobs.com/external/job/chesapeake-va/naval-architecture-and-marine-engineering-intern_r-00194266": {
+  "company": "leidos",
+  "title": "Naval Architecture and Marine Engineering Intern",
+  "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Chesapeake-VA/Naval-Architecture-and-Marine-Engineering-Intern_R-00194266",
+  "locations": [
+   "Chesapeake, VA"
+  ],
+  "posted_at": "2026-10-09",
   "source": "workday"
  },
  "url:https://leidos.wd5.myworkdayjobs.com/external/job/chicago-il/civil-engineer-intern_r-00191578": {
