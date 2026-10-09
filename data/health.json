@@ -2,10 +2,13 @@
  "alerts": {
   "R3|vanshb03": {
    "opened_at": "2026-10-02T05:21:11+00:00"
+  },
+  "R6|lever:cesiumastro": {
+   "opened_at": "2026-10-09T18:07:01+00:00"
   }
  },
  "last_health_ntfy_at": "2026-10-09T13:19:19+00:00",
- "last_run_at": "2026-10-09T17:40:14+00:00",
+ "last_run_at": "2026-10-09T18:07:01+00:00",
  "runner": "mac",
  "runs": [
   {
@@ -12724,6 +12727,87 @@
    },
    "runner": "mac",
    "seconds": 179.3
+  },
+  {
+   "at": "2026-10-09T18:07:01+00:00",
+   "boards_polled": 696,
+   "boards_skipped_budget": 0,
+   "families": {
+    "ashby": {
+     "errors": 2,
+     "jobs": 108,
+     "matches": 264,
+     "newest": "2026-10-09",
+     "ok": 106,
+     "postings": 6709,
+     "seconds": 85.17
+    },
+    "greenhouse": {
+     "errors": 0,
+     "jobs": 189,
+     "matches": 854,
+     "newest": "2026-10-09",
+     "ok": 189,
+     "postings": 24958,
+     "seconds": 66.18
+    },
+    "lever": {
+     "errors": 1,
+     "jobs": 25,
+     "matches": 121,
+     "newest": "2026-10-09",
+     "ok": 24,
+     "postings": 2359,
+     "seconds": 93.37
+    },
+    "simplify": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 1252,
+     "newest": "2026-10-09",
+     "ok": 1,
+     "postings": 4636,
+     "seconds": 9.27
+    },
+    "smartrecruiters": {
+     "errors": 0,
+     "jobs": 16,
+     "matches": 102,
+     "newest": "2026-10-09",
+     "ok": 16,
+     "postings": 1144,
+     "seconds": 9.26
+    },
+    "speedyapply": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 698,
+     "newest": "2026-10-08",
+     "ok": 1,
+     "postings": 778,
+     "seconds": 0.24
+    },
+    "vanshb03": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 323,
+     "newest": "2026-08-21",
+     "ok": 1,
+     "postings": 371,
+     "seconds": 0.24
+    },
+    "workday": {
+     "errors": 3,
+     "jobs": 358,
+     "matches": 2167,
+     "newest": "2026-10-09",
+     "ok": 355,
+     "postings": 16906,
+     "seconds": 817.94
+    }
+   },
+   "runner": "mac",
+   "seconds": 214.0
   }
  ],
  "version": 1,
