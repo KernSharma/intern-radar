@@ -2,11 +2,14 @@
  "alerts": {
   "R3|vanshb03": {
    "opened_at": "2026-10-02T05:21:11+00:00"
+  },
+  "R6|lever:cesiumastro": {
+   "opened_at": "2026-10-09T01:10:34+00:00"
   }
  },
  "last_health_ntfy_at": "2026-10-08T21:37:05+00:00",
- "last_run_at": "2026-10-08T22:14:55+00:00",
- "runner": "mac",
+ "last_run_at": "2026-10-09T01:10:34+00:00",
+ "runner": "actions",
  "runs": [
   {
    "at": "2026-10-02T05:21:11+00:00",
@@ -11752,6 +11755,87 @@
    },
    "runner": "mac",
    "seconds": 460.1
+  },
+  {
+   "at": "2026-10-09T01:10:34+00:00",
+   "boards_polled": 688,
+   "boards_skipped_budget": 0,
+   "families": {
+    "ashby": {
+     "errors": 2,
+     "jobs": 107,
+     "matches": 264,
+     "newest": "2026-10-09",
+     "ok": 105,
+     "postings": 6647,
+     "seconds": 19.19
+    },
+    "greenhouse": {
+     "errors": 0,
+     "jobs": 189,
+     "matches": 853,
+     "newest": "2026-10-08",
+     "ok": 189,
+     "postings": 24919,
+     "seconds": 29.27
+    },
+    "lever": {
+     "errors": 1,
+     "jobs": 24,
+     "matches": 120,
+     "newest": "2026-10-08",
+     "ok": 23,
+     "postings": 2349,
+     "seconds": 26.06
+    },
+    "simplify": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 1271,
+     "newest": "2026-10-08",
+     "ok": 1,
+     "postings": 4694,
+     "seconds": 0.54
+    },
+    "smartrecruiters": {
+     "errors": 0,
+     "jobs": 16,
+     "matches": 101,
+     "newest": "2026-10-09",
+     "ok": 16,
+     "postings": 1144,
+     "seconds": 9.86
+    },
+    "speedyapply": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 698,
+     "newest": "2026-10-08",
+     "ok": 1,
+     "postings": 778,
+     "seconds": 0.13
+    },
+    "vanshb03": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 323,
+     "newest": "2026-08-21",
+     "ok": 1,
+     "postings": 371,
+     "seconds": 0.3
+    },
+    "workday": {
+     "errors": 3,
+     "jobs": 352,
+     "matches": 2154,
+     "newest": "2026-10-09",
+     "ok": 349,
+     "postings": 16716,
+     "seconds": 660.84
+    }
+   },
+   "runner": "actions",
+   "seconds": 119.5
   }
  ],
  "version": 1,
