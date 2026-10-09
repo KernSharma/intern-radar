@@ -2,10 +2,16 @@
  "alerts": {
   "R3|vanshb03": {
    "opened_at": "2026-10-02T05:21:11+00:00"
+  },
+  "R6|ashby:atomicsemi": {
+   "opened_at": "2026-10-09T22:45:58+00:00"
+  },
+  "R6|ashby:whatnot": {
+   "opened_at": "2026-10-09T22:45:58+00:00"
   }
  },
  "last_health_ntfy_at": "2026-10-09T20:37:05+00:00",
- "last_run_at": "2026-10-09T21:38:43+00:00",
+ "last_run_at": "2026-10-09T22:45:58+00:00",
  "runner": "mac",
  "runs": [
   {
@@ -13372,6 +13378,87 @@
    },
    "runner": "mac",
    "seconds": 363.2
+  },
+  {
+   "at": "2026-10-09T22:45:58+00:00",
+   "boards_polled": 701,
+   "boards_skipped_budget": 0,
+   "families": {
+    "ashby": {
+     "errors": 2,
+     "jobs": 109,
+     "matches": 265,
+     "newest": "2026-10-09",
+     "ok": 107,
+     "postings": 6710,
+     "seconds": 79.99
+    },
+    "greenhouse": {
+     "errors": 0,
+     "jobs": 189,
+     "matches": 859,
+     "newest": "2026-10-09",
+     "ok": 189,
+     "postings": 24978,
+     "seconds": 37.36
+    },
+    "lever": {
+     "errors": 1,
+     "jobs": 26,
+     "matches": 122,
+     "newest": "2026-10-09",
+     "ok": 25,
+     "postings": 2378,
+     "seconds": 265.16
+    },
+    "simplify": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 1261,
+     "newest": "2026-10-09",
+     "ok": 1,
+     "postings": 4645,
+     "seconds": 68.33
+    },
+    "smartrecruiters": {
+     "errors": 0,
+     "jobs": 16,
+     "matches": 106,
+     "newest": "2026-10-09",
+     "ok": 16,
+     "postings": 1152,
+     "seconds": 10.95
+    },
+    "speedyapply": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 691,
+     "newest": "2026-10-09",
+     "ok": 1,
+     "postings": 770,
+     "seconds": 0.42
+    },
+    "vanshb03": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 323,
+     "newest": "2026-08-21",
+     "ok": 1,
+     "postings": 371,
+     "seconds": 0.84
+    },
+    "workday": {
+     "errors": 3,
+     "jobs": 361,
+     "matches": 2182,
+     "newest": "2026-10-09",
+     "ok": 358,
+     "postings": 17035,
+     "seconds": 720.01
+    }
+   },
+   "runner": "mac",
+   "seconds": 244.1
   }
  ],
  "version": 1,
