@@ -1217,6 +1217,16 @@
   "posted_at": "2026-10-06",
   "source": "workday"
  },
+ "url:https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/fort-worth-texas/clinical-data-science-intern_r-2026-50204": {
+  "company": "alcon",
+  "title": "Clinical Data Science Intern",
+  "url": "https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/Clinical-Data-Science-Intern_R-2026-50204",
+  "locations": [
+   "Fort Worth, Texas"
+  ],
+  "posted_at": "2026-10-09",
+  "source": "workday"
+ },
  "url:https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/fort-worth-texas/commercial-leadership-development-program--cldp--mba-2027-intern_r-2026-49513": {
   "company": "alcon",
   "title": "Commercial Leadership Development Program (CLDP) MBA 2027 Intern",
@@ -2460,14 +2470,15 @@
   "source": "simplify"
  },
  "url:https://amfam.wd1.myworkdayjobs.com/amfamgroupinterncareers/job/wi-madison/amfam---2027-summer-genai-ml-intern_r39514": {
-  "company": "amfam",
-  "title": "AMFAM - 2027 Summer GenAI/ML Intern",
+  "company": "American Family Insurance Group",
+  "title": "GenAI/ML Intern",
   "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/AMFAM---2027-Summer-GenAI-ML-Intern_R39514",
   "locations": [
-   "2 Locations"
+   "Madison, WI",
+   "Boston, MA"
   ],
   "posted_at": "2026-10-02",
-  "source": "workday"
+  "source": "simplify"
  },
  "url:https://amfam.wd1.myworkdayjobs.com/amfamgroupinterncareers/job/wi-madison/consumer-research-and-insights-intern-2027_r39474": {
   "company": "amfam",
@@ -2551,24 +2562,24 @@
   "source": "simplify"
  },
  "url:https://amfam.wd1.myworkdayjobs.com/amfamgroupinterncareers/job/wi-madison/summer-2027-intern---data-analyst_r39615": {
-  "company": "amfam",
-  "title": "Summer 2027 Intern - Data Analyst",
+  "company": "American Family Insurance Group",
+  "title": "Data Analyst Intern",
   "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Data-Analyst_R39615",
   "locations": [
-   "WI Madison"
+   "Madison, WI"
   ],
   "posted_at": "2026-10-05",
-  "source": "workday"
+  "source": "simplify"
  },
  "url:https://amfam.wd1.myworkdayjobs.com/amfamgroupinterncareers/job/wi-madison/summer-2027-intern---data-analytics_r39631": {
-  "company": "amfam",
-  "title": "Summer 2027 Intern - Data Analytics",
+  "company": "American Family Insurance Group",
+  "title": "Data Analytics Intern",
   "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Data-Analytics_R39631",
   "locations": [
-   "WI Madison"
+   "Madison, WI"
   ],
   "posted_at": "2026-10-06",
-  "source": "workday"
+  "source": "simplify"
  },
  "url:https://amfam.wd1.myworkdayjobs.com/amfamgroupinterncareers/job/wi-madison/summer-2027-intern---product-analytics_r39405": {
   "company": "amfam",
@@ -4111,6 +4122,76 @@
   "posted_at": "2026-09-01",
   "source": "simplify"
  },
+ "url:https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/usa-home-office---wr/linux-software-development-intern_j000704398": {
+  "company": "aptiv",
+  "title": "Linux Software Development Intern",
+  "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704398",
+  "locations": [
+   "USA Home Office - WR"
+  ],
+  "posted_at": "2026-10-09",
+  "source": "workday"
+ },
+ "url:https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/usa-home-office---wr/linux-software-development-intern_j000704399": {
+  "company": "aptiv",
+  "title": "Linux Software Development Intern",
+  "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704399",
+  "locations": [
+   "USA Home Office - WR"
+  ],
+  "posted_at": "2026-10-09",
+  "source": "workday"
+ },
+ "url:https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/usa-walnut-creek-ca---wr/embedded-software---engineering-intern_j000704386": {
+  "company": "aptiv",
+  "title": "Embedded Software - Engineering Intern",
+  "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Embedded-Software---Engineering-Intern_J000704386",
+  "locations": [
+   "USA Walnut Creek, CA - WR"
+  ],
+  "posted_at": "2026-10-09",
+  "source": "workday"
+ },
+ "url:https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/usa-walnut-creek-ca---wr/engineering-intern_j000704387": {
+  "company": "aptiv",
+  "title": "Engineering Intern",
+  "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Engineering-Intern_J000704387",
+  "locations": [
+   "USA Walnut Creek, CA - WR"
+  ],
+  "posted_at": "2026-10-09",
+  "source": "workday"
+ },
+ "url:https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/usa-walnut-creek-ca---wr/engineering-intern_j000704388": {
+  "company": "aptiv",
+  "title": "Engineering Intern",
+  "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Engineering-Intern_J000704388",
+  "locations": [
+   "USA Walnut Creek, CA - WR"
+  ],
+  "posted_at": "2026-10-09",
+  "source": "workday"
+ },
+ "url:https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/warren-oh---usa/manufacturing-engineering-intern---metal-technology_j000704863": {
+  "company": "aptiv",
+  "title": "Manufacturing Engineering Intern – Metal Technology",
+  "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Warren-OH---USA/Manufacturing-Engineering-Intern---Metal-Technology_J000704863",
+  "locations": [
+   "Warren, OH - USA"
+  ],
+  "posted_at": "2026-10-09",
+  "source": "workday"
+ },
+ "url:https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/warren-oh---usa/mechanical-engineering-intern---tooling_j000704864": {
+  "company": "aptiv",
+  "title": "Mechanical Engineering Intern - Tooling",
+  "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Warren-OH---USA/Mechanical-Engineering-Intern---Tooling_J000704864",
+  "locations": [
+   "Warren, OH - USA"
+  ],
+  "posted_at": "2026-10-08",
+  "source": "workday"
+ },
  "url:https://aptiv.wd5.myworkdayjobs.com/en-us/aptiv_careers/job/usa-home-office---wr/linux-software-development-intern_j000704398": {
   "company": "Aptiv",
   "title": "Linux Software Development Intern",
@@ -5627,6 +5708,66 @@
   "posted_at": "2026-09-17",
   "source": "simplify"
  },
+ "url:https://axos.wd5.myworkdayjobs.com/axos/job/hq---san-diego-ca/ai-engineer-intern_jr5658": {
+  "company": "axos",
+  "title": "AI Engineer Intern",
+  "url": "https://axos.wd5.myworkdayjobs.com/axos/job/HQ---San-Diego-CA/AI-Engineer-Intern_JR5658",
+  "locations": [
+   "HQ - San Diego, CA"
+  ],
+  "posted_at": "2026-10-07",
+  "source": "workday"
+ },
+ "url:https://axos.wd5.myworkdayjobs.com/axos/job/hq---san-diego-ca/automation-analyst-intern_jr4507": {
+  "company": "axos",
+  "title": "Automation Analyst Intern",
+  "url": "https://axos.wd5.myworkdayjobs.com/axos/job/HQ---San-Diego-CA/Automation-Analyst-Intern_JR4507",
+  "locations": [
+   "HQ - San Diego, CA"
+  ],
+  "posted_at": "2026-09-09",
+  "source": "workday"
+ },
+ "url:https://axos.wd5.myworkdayjobs.com/axos/job/hq---san-diego-ca/automation-analyst-intern_jr5660": {
+  "company": "axos",
+  "title": "Automation Analyst Intern",
+  "url": "https://axos.wd5.myworkdayjobs.com/axos/job/HQ---San-Diego-CA/Automation-Analyst-Intern_JR5660",
+  "locations": [
+   "HQ - San Diego, CA"
+  ],
+  "posted_at": "2026-10-08",
+  "source": "workday"
+ },
+ "url:https://axos.wd5.myworkdayjobs.com/axos/job/hq---san-diego-ca/software-development-intern_jr5647": {
+  "company": "axos",
+  "title": "Software Development Intern",
+  "url": "https://axos.wd5.myworkdayjobs.com/axos/job/HQ---San-Diego-CA/Software-Development-Intern_JR5647",
+  "locations": [
+   "HQ - San Diego, CA"
+  ],
+  "posted_at": "2026-10-07",
+  "source": "workday"
+ },
+ "url:https://axos.wd5.myworkdayjobs.com/axos/job/hq---san-diego-ca/ux-design-research-intern_jr5666": {
+  "company": "axos",
+  "title": "UX Design Research Intern",
+  "url": "https://axos.wd5.myworkdayjobs.com/axos/job/HQ---San-Diego-CA/UX-Design-Research-Intern_JR5666",
+  "locations": [
+   "HQ - San Diego, CA"
+  ],
+  "posted_at": "2026-10-05",
+  "source": "workday"
+ },
+ "url:https://axos.wd5.myworkdayjobs.com/axos/job/omaha-ne/data-intern_jr5642": {
+  "company": "axos",
+  "title": "Data Intern",
+  "url": "https://axos.wd5.myworkdayjobs.com/axos/job/Omaha-NE/Data-Intern_JR5642",
+  "locations": [
+   "Omaha, NE"
+  ],
+  "posted_at": "2026-10-06",
+  "source": "workday"
+ },
  "url:https://axos.wd5.myworkdayjobs.com/en-us/axos/job/hq---san-diego-ca/software-development-intern_jr5647": {
   "company": "Axos Bank",
   "title": "Software Development Intern",
@@ -5646,6 +5787,26 @@
   ],
   "posted_at": "2026-10-08",
   "source": "speedyapply"
+ },
+ "url:https://badgermeter.wd5.myworkdayjobs.com/us_careersite/job/us----ca---escondido-facility/software-engineering-intern_4645": {
+  "company": "badgermeter",
+  "title": "Software Engineering Intern",
+  "url": "https://badgermeter.wd5.myworkdayjobs.com/us_careersite/job/US----CA---Escondido-Facility/Software-Engineering-Intern_4645",
+  "locations": [
+   "US  - CA - Escondido Facility"
+  ],
+  "posted_at": "2026-10-08",
+  "source": "workday"
+ },
+ "url:https://badgermeter.wd5.myworkdayjobs.com/us_careersite/job/us---wi---milwaukee-hq/mechanical-engineering-npd-intern_4642": {
+  "company": "badgermeter",
+  "title": "Mechanical Engineering NPD Intern",
+  "url": "https://badgermeter.wd5.myworkdayjobs.com/us_careersite/job/US---WI---Milwaukee-HQ/Mechanical-Engineering-NPD-Intern_4642",
+  "locations": [
+   "US - WI - Milwaukee HQ"
+  ],
+  "posted_at": "2026-10-06",
+  "source": "workday"
  },
  "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/annapolis-junction-md/systems-administrator-intern_r0249565": {
   "company": "bah",
@@ -21075,6 +21236,16 @@
   "posted_at": "2026-10-07",
   "source": "simplify"
  },
+ "url:https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/omaha---fn-tower/banking-automation-engineer-intern_r-20261800": {
+  "company": "firstnational",
+  "title": "Banking Automation Engineer Intern",
+  "url": "https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Banking-Automation-Engineer-Intern_R-20261800",
+  "locations": [
+   "Omaha - FN Tower"
+  ],
+  "posted_at": "2026-10-09",
+  "source": "workday"
+ },
  "url:https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/omaha---fn-tower/compliance-data-enablement-intern_r-20261799": {
   "company": "firstnational",
   "title": "Compliance Data Enablement Intern",
@@ -29034,7 +29205,7 @@
   "locations": [
    "IL - Downers Grove"
   ],
-  "posted_at": "2026-09-30",
+  "posted_at": "2026-10-09",
   "source": "workday"
  },
  "url:https://hcsc.wd1.myworkdayjobs.com/hcsc_external/job/il---downers-grove/early-careers---systems-analyst-intern--downers-grove-_r0059499": {
@@ -29575,6 +29746,16 @@
    "Zhongshan, Guangdong, China"
   ],
   "posted_at": "2026-09-09",
+  "source": "workday"
+ },
+ "url:https://hl.wd1.myworkdayjobs.com/campus/job/new-york-ny-usa/summer-2027-research-intern--portfolio-valuation--new-york_r3535": {
+  "company": "hl",
+  "title": "Summer 2027 Research Intern, Portfolio Valuation, New York",
+  "url": "https://hl.wd1.myworkdayjobs.com/Campus/job/New-York-NY-USA/Summer-2027-Research-Intern--Portfolio-Valuation--New-York_R3535",
+  "locations": [
+   "New York, NY, USA"
+  ],
+  "posted_at": "2026-10-09",
   "source": "workday"
  },
  "url:https://hl.wd1.myworkdayjobs.com/campus/job/new-york-ny-usa/xmlname-2027-summer-financial-analyst--class-of-2028---corporate-valuation-advisory-services--complex-securities---multiple-locations_r3632": {
@@ -30907,6 +31088,16 @@
    "Spring, Texas, United States of America"
   ],
   "posted_at": "2026-09-23",
+  "source": "workday"
+ },
+ "url:https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/sunnyvale-california-united-states-of-america/asic-engineer-intern_1216555": {
+  "company": "hpe",
+  "title": "ASIC Engineer Intern",
+  "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/ASIC-Engineer-Intern_1216555",
+  "locations": [
+   "Sunnyvale, California, United States of America"
+  ],
+  "posted_at": "2026-10-09",
   "source": "workday"
  },
  "url:https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/sunnyvale-california-united-states-of-america/hardware-engineering-intern_1214064": {
@@ -43350,14 +43541,14 @@
   "source": "vanshb03"
  },
  "url:https://jobs.ashbyhq.com/stradahq/d277be89-9d67-48cd-9e67-3b17bbab709e": {
-  "company": "Strada",
-  "title": "Software Engineer - Intern",
+  "company": "stradahq",
+  "title": "Software Engineer (Intern)",
   "url": "https://jobs.ashbyhq.com/stradahq/d277be89-9d67-48cd-9e67-3b17bbab709e",
   "locations": [
-   "San Francisco, CA"
+   "San Francisco"
   ],
-  "posted_at": "2026-10-08",
-  "source": "speedyapply"
+  "posted_at": "2026-10-07",
+  "source": "ashby"
  },
  "url:https://jobs.ashbyhq.com/superhuman%20platform%20inc/5f1f25ee-709d-4ae0-ada4-d1f243bde89c": {
   "company": "Superhuman",
@@ -45648,6 +45839,16 @@
   "posted_at": "2026-10-08",
   "source": "speedyapply"
  },
+ "url:https://jobs.lever.co/solopulseco/418b3949-3b21-48f9-b7a0-1c036ca0ba51": {
+  "company": "solopulseco",
+  "title": "Systems Engineering Intern",
+  "url": "https://jobs.lever.co/solopulseco/418b3949-3b21-48f9-b7a0-1c036ca0ba51",
+  "locations": [
+   "Peachtree Corners, GA"
+  ],
+  "posted_at": "2026-04-02",
+  "source": "lever"
+ },
  "url:https://jobs.lever.co/standtogether/e4dd1d3c-79a0-435d-87b3-eac542b4c2b5": {
   "company": "Stand Together",
   "title": "Strategic Research Intern - Pacific Legal Foundation",
@@ -47750,6 +47951,26 @@
   "posted_at": "2026-10-09",
   "source": "smartrecruiters"
  },
+ "url:https://jobs.smartrecruiters.com/boschgroup/744000154762134": {
+  "company": "Bosch Group",
+  "title": "Manufacturing Engineering Intern",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154762134",
+  "locations": [
+   "Grand Rapids, MI, United States"
+  ],
+  "posted_at": "2026-10-09",
+  "source": "smartrecruiters"
+ },
+ "url:https://jobs.smartrecruiters.com/boschgroup/744000154765090": {
+  "company": "Bosch Group",
+  "title": "Warranty and Repair Co-Op Spring 2027",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154765090",
+  "locations": [
+   "Fountain Inn, SC, United States"
+  ],
+  "posted_at": "2026-10-09",
+  "source": "smartrecruiters"
+ },
  "url:https://jobs.smartrecruiters.com/gdmsi/744000147541849": {
   "company": "General Dynamics UK",
   "title": "Computer Science and Robotics Co-op - Information Technology",
@@ -48211,6 +48432,16 @@
    "Livermore, CA, United States"
   ],
   "posted_at": "2026-10-08",
+  "source": "smartrecruiters"
+ },
+ "url:https://jobs.smartrecruiters.com/llnl/3743990016029656": {
+  "company": "LLNL",
+  "title": "Materials Science Division Graduate Intern - Winter/Spring 2027",
+  "url": "https://jobs.smartrecruiters.com/LLNL/3743990016029656",
+  "locations": [
+   "Livermore, CA, United States"
+  ],
+  "posted_at": "2026-10-09",
   "source": "smartrecruiters"
  },
  "url:https://jobs.smartrecruiters.com/nbcuniversal3/744000121848194": {
@@ -73668,6 +73899,16 @@
   ],
   "posted_at": "2026-09-01",
   "source": "simplify"
+ },
+ "url:https://woodward.wd5.myworkdayjobs.com/woodward/job/rockford---loves-park-campus-lpc/technical-writing-intern-summer-2027_jr112243": {
+  "company": "woodward",
+  "title": "Technical Writing Intern Summer 2027",
+  "url": "https://woodward.wd5.myworkdayjobs.com/woodward/job/Rockford---Loves-Park-Campus-LPC/Technical-Writing-Intern-Summer-2027_JR112243",
+  "locations": [
+   "Rockford - Loves Park Campus (LPC)"
+  ],
+  "posted_at": "2026-10-09",
+  "source": "workday"
  },
  "url:https://woodward.wd5.myworkdayjobs.com/woodward/job/zeeland-mi-us/engineering-co-op---design-engineering---zeeland--mi--summer-2027-_jr112252": {
   "company": "woodward",
