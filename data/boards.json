@@ -131,7 +131,7 @@
   "ashby:atomicsemi": {
    "ats": "ashby",
    "board": "atomicsemi",
-   "consecutive_errors": 3,
+   "consecutive_errors": 4,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -1332,7 +1332,7 @@
   "ashby:replit": {
    "ats": "ashby",
    "board": "replit",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -1684,7 +1684,7 @@
   "ashby:whatnot": {
    "ats": "ashby",
    "board": "whatnot",
-   "consecutive_errors": 3,
+   "consecutive_errors": 4,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -1756,7 +1756,7 @@
    "discovered_via": "simplify",
    "first_seen": "2026-10-02T05:21:11+00:00",
    "last_deep_crawl": null,
-   "last_match": "2026-10-11T03:37:05+00:00",
+   "last_match": "2026-10-11T04:07:19+00:00",
    "last_ok": null,
    "last_polled": null,
    "needs_config": false,
@@ -5833,7 +5833,7 @@
   "lever:cesiumastro": {
    "ats": "lever",
    "board": "cesiumastro",
-   "consecutive_errors": 10,
+   "consecutive_errors": 11,
    "deep": false,
    "deep_since": null,
    "disabled": true,
@@ -5866,7 +5866,7 @@
   "lever:cscgeneration-2": {
    "ats": "lever",
    "board": "cscgeneration-2",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -7690,7 +7690,7 @@
   "workday:bah.wd1/bah_jobs": {
    "ats": "workday",
    "board": "bah.wd1/bah_jobs",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -7898,7 +7898,7 @@
   "workday:bmo.wd3/privileged": {
    "ats": "workday",
    "board": "bmo.wd3/Privileged",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -9003,7 +9003,7 @@
   "workday:fanniemae.wd1/fanniemaecareers": {
    "ats": "workday",
    "board": "fanniemae.wd1/FannieMaeCareers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
