@@ -1,27 +1,27 @@
-# intern-radar weekly health — 2026-W41
+# intern-radar weekly health — 2026-W42
 
-Runs this week: 47
+Runs this week: 181
 
 | family | matched postings | unique finds (30 d) |
 |---|---|---|
-| ashby | 11864 | 142 |
-| greenhouse | 38077 | 564 |
-| lever | 5831 | 85 |
-| simplify | 58282 | 674 |
-| smartrecruiters | 4828 | 92 |
-| speedyapply | 32034 | 203 |
-| vanshb03 | 15181 | 244 |
-| workday | 95686 | 2222 |
+| ashby | 46882 | 150 |
+| greenhouse | 153955 | 637 |
+| lever | 21490 | 89 |
+| simplify | 222635 | 767 |
+| smartrecruiters | 18566 | 105 |
+| speedyapply | 125235 | 240 |
+| vanshb03 | 58463 | 244 |
+| workday | 376293 | 2771 |
 
 ## Head start over simplify (median hours, n ≥ 5)
 
-- ashby: +0.0 h (n=57)
-- greenhouse: +0.0 h (n=173)
-- lever: +0.0 h (n=17)
+- ashby: +0.0 h (n=60)
+- greenhouse: +0.0 h (n=196)
+- lever: +0.0 h (n=18)
 - smartrecruiters: +0.0 h (n=13)
-- speedyapply: +0.0 h (n=242)
-- vanshb03: +0.0 h (n=27)
-- workday: +0.0 h (n=369)
+- speedyapply: +0.0 h (n=290)
+- vanshb03: +0.0 h (n=28)
+- workday: +0.0 h (n=451)
 
 ## Disabled boards (5)
 
@@ -31,7 +31,7 @@ Runs this week: 47
 - greenhouse:temporaltechnologies
 - workday:comcast.wd5/comcast_careers
 
-## Deep (consider pinning) boards (38)
+## Deep (consider pinning) boards (39)
 
 - workday:barclays.wd3/external_career_site_barclays
 - workday:basspro.wd1/careers
@@ -64,6 +64,7 @@ Runs this week: 47
 - workday:pae.wd1/amentum_careers
 - workday:pwc.wd3/us_entry_level_careers
 - workday:regeneron.wd1/careers
+- workday:roche.wd3/roche-ext
 - workday:ryancompanies.wd5/ryancompanies
 - workday:snc.wd1/snc_external_career_site
 - workday:southstatebank.wd5/external
