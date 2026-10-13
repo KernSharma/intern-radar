@@ -2,11 +2,17 @@
  "alerts": {
   "R3|vanshb03": {
    "opened_at": "2026-10-02T05:21:11+00:00"
+  },
+  "R6|ashby:atomicsemi": {
+   "opened_at": "2026-10-13T08:24:12+00:00"
+  },
+  "R6|ashby:whatnot": {
+   "opened_at": "2026-10-13T08:24:12+00:00"
   }
  },
- "last_health_ntfy_at": "2026-10-13T02:07:06+00:00",
- "last_run_at": "2026-10-13T04:48:25+00:00",
- "runner": "mac",
+ "last_health_ntfy_at": "2026-10-13T08:24:12+00:00",
+ "last_run_at": "2026-10-13T08:24:12+00:00",
+ "runner": "actions",
  "runs": [
   {
    "at": "2026-10-02T05:21:11+00:00",
@@ -20500,6 +20506,87 @@
    },
    "runner": "mac",
    "seconds": 276.1
+  },
+  {
+   "at": "2026-10-13T08:24:12+00:00",
+   "boards_polled": 713,
+   "boards_skipped_budget": 0,
+   "families": {
+    "ashby": {
+     "errors": 2,
+     "jobs": 109,
+     "matches": 259,
+     "newest": "2026-10-13",
+     "ok": 107,
+     "postings": 6697,
+     "seconds": 25.81
+    },
+    "greenhouse": {
+     "errors": 0,
+     "jobs": 193,
+     "matches": 870,
+     "newest": "2026-10-13",
+     "ok": 193,
+     "postings": 25063,
+     "seconds": 41.68
+    },
+    "lever": {
+     "errors": 1,
+     "jobs": 26,
+     "matches": 123,
+     "newest": "2026-10-12",
+     "ok": 25,
+     "postings": 2396,
+     "seconds": 26.52
+    },
+    "simplify": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 1278,
+     "newest": "2026-10-13",
+     "ok": 1,
+     "postings": 4698,
+     "seconds": 0.48
+    },
+    "smartrecruiters": {
+     "errors": 0,
+     "jobs": 17,
+     "matches": 112,
+     "newest": "2026-10-13",
+     "ok": 17,
+     "postings": 1184,
+     "seconds": 23.41
+    },
+    "speedyapply": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 685,
+     "newest": "2026-10-11",
+     "ok": 1,
+     "postings": 765,
+     "seconds": 0.4
+    },
+    "vanshb03": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 323,
+     "newest": "2026-08-21",
+     "ok": 1,
+     "postings": 371,
+     "seconds": 0.16
+    },
+    "workday": {
+     "errors": 3,
+     "jobs": 368,
+     "matches": 2195,
+     "newest": "2026-10-13",
+     "ok": 365,
+     "postings": 17180,
+     "seconds": 705.96
+    }
+   },
+   "runner": "actions",
+   "seconds": 142.4
   }
  ],
  "version": 1,
