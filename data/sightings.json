@@ -9907,6 +9907,7 @@
    "simplify": "2026-10-06T07:07:03+00:00"
   },
   "url:https://job-boards.greenhouse.io/axontalentcommunity/jobs/7993376003": {
+   "greenhouse": "2026-10-14T17:37:46+00:00",
    "speedyapply": "2026-10-14T17:16:21+00:00"
   },
   "url:https://job-boards.greenhouse.io/axq/jobs/6181069004": {
@@ -11660,6 +11661,7 @@
    "greenhouse": "2026-10-02T05:21:11+00:00"
   },
   "url:https://job-boards.greenhouse.io/vestmark/jobs/8204509": {
+   "greenhouse": "2026-10-14T17:37:46+00:00",
    "speedyapply": "2026-10-14T17:16:21+00:00"
   },
   "url:https://job-boards.greenhouse.io/viamrobotics/jobs/6185046004": {
@@ -13822,6 +13824,9 @@
   "url:https://jobs.smartrecruiters.com/infinitequant/744000147163879": {
    "smartrecruiters": "2026-10-02T05:21:11+00:00"
   },
+  "url:https://jobs.smartrecruiters.com/interco/744000149591449": {
+   "smartrecruiters": "2026-10-14T17:37:46+00:00"
+  },
   "url:https://jobs.smartrecruiters.com/interco/744000149591449-paid-internship-software-development-react-?oga=true": {
    "speedyapply": "2026-10-14T17:16:21+00:00"
   },
@@ -14115,8 +14120,20 @@
   "url:https://jobs.smartrecruiters.com/westerndigital/744000155109379": {
    "smartrecruiters": "2026-10-12T20:38:16+00:00"
   },
+  "url:https://jobs.smartrecruiters.com/winsupply1/3743990015014247": {
+   "smartrecruiters": "2026-10-14T17:37:46+00:00"
+  },
+  "url:https://jobs.smartrecruiters.com/winsupply1/3743990015014717": {
+   "smartrecruiters": "2026-10-14T17:37:46+00:00"
+  },
   "url:https://jobs.smartrecruiters.com/winsupply1/3743990015014717-software-developer-intern-?oga=true": {
    "speedyapply": "2026-10-14T17:16:21+00:00"
+  },
+  "url:https://jobs.smartrecruiters.com/winsupply1/3743990015046116": {
+   "smartrecruiters": "2026-10-14T17:37:46+00:00"
+  },
+  "url:https://jobs.smartrecruiters.com/winsupply1/3743990015269336": {
+   "smartrecruiters": "2026-10-14T17:37:46+00:00"
   },
   "url:https://jobs.statefarm.com/jobs/45477?icims=1": {
    "simplify": "2026-10-02T05:21:11+00:00"
@@ -16521,6 +16538,9 @@
   },
   "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-florida-melbourne/xmlname-2027-operations-manufacturing-engineering-intern_r10253688": {
    "workday": "2026-10-09T20:37:05+00:00"
+  },
+  "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-florida-saint-augustine/xmlname-2027-tech-publications---training-intern---product-support_r10256053": {
+   "workday": "2026-10-14T17:37:46+00:00"
   },
   "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-florida-tampa/xmlname-2027-cyber-software-engineer-intern---tampa-fl_r10249530": {
    "simplify": "2026-10-02T05:21:11+00:00",
@@ -20667,19 +20687,57 @@
    "workday": "2026-10-02T06:08:32+00:00"
   },
   "url:https://wing.com/careers/8872468002?gh_jid=8872468002": {
+   "greenhouse": "2026-10-14T17:37:46+00:00",
    "speedyapply": "2026-10-14T17:16:21+00:00"
   },
+  "url:https://wing.com/careers/8872469002?gh_jid=8872469002": {
+   "greenhouse": "2026-10-14T17:37:46+00:00"
+  },
   "url:https://wing.com/careers/8872471002?gh_jid=8872471002": {
+   "greenhouse": "2026-10-14T17:37:46+00:00",
    "speedyapply": "2026-10-14T17:16:21+00:00"
   },
   "url:https://wing.com/careers/8872472002?gh_jid=8872472002": {
+   "greenhouse": "2026-10-14T17:37:46+00:00",
    "speedyapply": "2026-10-14T17:16:21+00:00"
   },
+  "url:https://wing.com/careers/8872473002?gh_jid=8872473002": {
+   "greenhouse": "2026-10-14T17:37:46+00:00"
+  },
+  "url:https://wing.com/careers/8872474002?gh_jid=8872474002": {
+   "greenhouse": "2026-10-14T17:37:46+00:00"
+  },
+  "url:https://wing.com/careers/8872475002?gh_jid=8872475002": {
+   "greenhouse": "2026-10-14T17:37:46+00:00"
+  },
   "url:https://wing.com/careers/8872476002?gh_jid=8872476002": {
+   "greenhouse": "2026-10-14T17:37:46+00:00",
    "speedyapply": "2026-10-14T17:16:21+00:00"
   },
   "url:https://wing.com/careers/8872477002?gh_jid=8872477002": {
+   "greenhouse": "2026-10-14T17:37:46+00:00",
    "speedyapply": "2026-10-14T17:16:21+00:00"
+  },
+  "url:https://wing.com/careers/8872478002?gh_jid=8872478002": {
+   "greenhouse": "2026-10-14T17:37:46+00:00"
+  },
+  "url:https://wing.com/careers/8872479002?gh_jid=8872479002": {
+   "greenhouse": "2026-10-14T17:37:46+00:00"
+  },
+  "url:https://wing.com/careers/8872480002?gh_jid=8872480002": {
+   "greenhouse": "2026-10-14T17:37:46+00:00"
+  },
+  "url:https://wing.com/careers/8872482002?gh_jid=8872482002": {
+   "greenhouse": "2026-10-14T17:37:46+00:00"
+  },
+  "url:https://wing.com/careers/8872483002?gh_jid=8872483002": {
+   "greenhouse": "2026-10-14T17:37:46+00:00"
+  },
+  "url:https://wing.com/careers/8872578002?gh_jid=8872578002": {
+   "greenhouse": "2026-10-14T17:37:46+00:00"
+  },
+  "url:https://wing.com/careers/8872579002?gh_jid=8872579002": {
+   "greenhouse": "2026-10-14T17:37:46+00:00"
   },
   "url:https://woodward.wd5.myworkdayjobs.com/woodward/job/fort-collins---lincoln-campus/engineering-internship-summer-2027_jr113067": {
    "workday": "2026-10-02T05:21:11+00:00"
