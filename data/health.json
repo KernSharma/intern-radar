@@ -2,13 +2,10 @@
  "alerts": {
   "R3|vanshb03": {
    "opened_at": "2026-10-02T05:21:11+00:00"
-  },
-  "R6|lever:cesiumastro": {
-   "opened_at": "2026-10-14T19:07:01+00:00"
   }
  },
  "last_health_ntfy_at": "2026-10-14T19:07:01+00:00",
- "last_run_at": "2026-10-14T19:07:01+00:00",
+ "last_run_at": "2026-10-14T19:37:05+00:00",
  "runner": "mac",
  "runs": [
   {
@@ -22771,6 +22768,87 @@
    },
    "runner": "mac",
    "seconds": 233.2
+  },
+  {
+   "at": "2026-10-14T19:37:05+00:00",
+   "boards_polled": 735,
+   "boards_skipped_budget": 0,
+   "families": {
+    "ashby": {
+     "errors": 3,
+     "jobs": 110,
+     "matches": 260,
+     "newest": "2026-10-14",
+     "ok": 107,
+     "postings": 6732,
+     "seconds": 61.75
+    },
+    "greenhouse": {
+     "errors": 0,
+     "jobs": 201,
+     "matches": 908,
+     "newest": "2026-10-14",
+     "ok": 201,
+     "postings": 25355,
+     "seconds": 41.47
+    },
+    "lever": {
+     "errors": 0,
+     "jobs": 26,
+     "matches": 123,
+     "newest": "2026-10-14",
+     "ok": 26,
+     "postings": 2406,
+     "seconds": 58.12
+    },
+    "simplify": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 1273,
+     "newest": "2026-10-14",
+     "ok": 1,
+     "postings": 4737,
+     "seconds": 6.25
+    },
+    "smartrecruiters": {
+     "errors": 0,
+     "jobs": 21,
+     "matches": 123,
+     "newest": "2026-10-14",
+     "ok": 21,
+     "postings": 1443,
+     "seconds": 13.24
+    },
+    "speedyapply": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 766,
+     "newest": "2026-10-14",
+     "ok": 1,
+     "postings": 848,
+     "seconds": 0.41
+    },
+    "vanshb03": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 323,
+     "newest": "2026-08-21",
+     "ok": 1,
+     "postings": 371,
+     "seconds": 0.35
+    },
+    "workday": {
+     "errors": 3,
+     "jobs": 377,
+     "matches": 2505,
+     "newest": "2026-10-14",
+     "ok": 374,
+     "postings": 24853,
+     "seconds": 1003.92
+    }
+   },
+   "runner": "mac",
+   "seconds": 203.3
   }
  ],
  "version": 1,
