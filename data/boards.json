@@ -131,7 +131,7 @@
   "ashby:atomicsemi": {
    "ats": "ashby",
    "board": "atomicsemi",
-   "consecutive_errors": 10,
+   "consecutive_errors": 11,
    "deep": false,
    "deep_since": null,
    "disabled": true,
@@ -900,7 +900,7 @@
   "ashby:maximor": {
    "ats": "ashby",
    "board": "maximor",
-   "consecutive_errors": 6,
+   "consecutive_errors": 7,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -1700,7 +1700,7 @@
   "ashby:whatnot": {
    "ats": "ashby",
    "board": "whatnot",
-   "consecutive_errors": 10,
+   "consecutive_errors": 11,
    "deep": false,
    "deep_since": null,
    "disabled": true,
@@ -6009,7 +6009,7 @@
   "lever:cesiumastro": {
    "ats": "lever",
    "board": "cesiumastro",
-   "consecutive_errors": 5,
+   "consecutive_errors": 6,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -6959,7 +6959,7 @@
    "deep_since": null,
    "disabled": false,
    "discovered_via": "simplify",
-   "first_seen": "2026-10-14T23:09:49+00:00",
+   "first_seen": "2026-10-14T22:15:42+00:00",
    "last_deep_crawl": null,
    "last_match": "2026-10-14T23:09:49+00:00",
    "last_ok": null,
@@ -10929,7 +10929,7 @@
    "deep_since": null,
    "disabled": false,
    "discovered_via": "simplify",
-   "first_seen": "2026-10-14T23:09:49+00:00",
+   "first_seen": "2026-10-14T22:15:42+00:00",
    "last_deep_crawl": null,
    "last_match": "2026-10-14T23:09:49+00:00",
    "last_ok": null,
@@ -11628,7 +11628,7 @@
   "workday:osv-cci.wd1/ccicareers": {
    "ats": "workday",
    "board": "osv-cci.wd1/CCICareers",
-   "consecutive_errors": 3,
+   "consecutive_errors": 4,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -11645,7 +11645,7 @@
   "workday:osv-rubicon.wd5/magnitecareers": {
    "ats": "workday",
    "board": "osv-rubicon.wd5/MagniteCareers",
-   "consecutive_errors": 3,
+   "consecutive_errors": 4,
    "deep": false,
    "deep_since": null,
    "disabled": false,
