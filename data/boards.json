@@ -900,7 +900,7 @@
   "ashby:maximor": {
    "ats": "ashby",
    "board": "maximor",
-   "consecutive_errors": 8,
+   "consecutive_errors": 9,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -4890,7 +4890,7 @@
   "greenhouse:visiersolutionsinc": {
    "ats": "greenhouse",
    "board": "visiersolutionsinc",
-   "consecutive_errors": 1,
+   "consecutive_errors": 2,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -6026,7 +6026,7 @@
   "lever:cesiumastro": {
    "ats": "lever",
    "board": "cesiumastro",
-   "consecutive_errors": 7,
+   "consecutive_errors": 8,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -8475,7 +8475,7 @@
   "workday:capitalone.wd12/capital_one": {
    "ats": "workday",
    "board": "capitalone.wd12/Capital_One",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -10684,7 +10684,7 @@
   "workday:liveramp.wd5/liverampcareers": {
    "ats": "workday",
    "board": "liveramp.wd5/liverampcareers",
-   "consecutive_errors": 1,
+   "consecutive_errors": 2,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -10916,7 +10916,7 @@
    "discovered_via": null,
    "first_seen": "2026-10-02T05:21:11+00:00",
    "last_deep_crawl": null,
-   "last_match": "2026-10-09T20:37:05+00:00",
+   "last_match": "2026-10-15T06:10:42+00:00",
    "last_ok": "2026-10-15T07:20:59+00:00",
    "last_polled": "2026-10-15T07:20:59+00:00",
    "needs_config": false,
@@ -11645,7 +11645,7 @@
   "workday:osv-cci.wd1/ccicareers": {
    "ats": "workday",
    "board": "osv-cci.wd1/CCICareers",
-   "consecutive_errors": 5,
+   "consecutive_errors": 6,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -11662,7 +11662,7 @@
   "workday:osv-rubicon.wd5/magnitecareers": {
    "ats": "workday",
    "board": "osv-rubicon.wd5/MagniteCareers",
-   "consecutive_errors": 5,
+   "consecutive_errors": 6,
    "deep": false,
    "deep_since": null,
    "disabled": false,
