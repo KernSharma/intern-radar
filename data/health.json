@@ -5,13 +5,10 @@
   },
   "R6|greenhouse:visiersolutionsinc": {
    "opened_at": "2026-10-15T17:09:24+00:00"
-  },
-  "R6|workday:liveramp.wd5/liverampcareers": {
-   "opened_at": "2026-10-15T17:09:24+00:00"
   }
  },
  "last_health_ntfy_at": "2026-10-15T12:50:15+00:00",
- "last_run_at": "2026-10-15T17:09:24+00:00",
+ "last_run_at": "2026-10-15T17:37:05+00:00",
  "runner": "mac",
  "runs": [
   {
@@ -25042,6 +25039,87 @@
    },
    "runner": "mac",
    "seconds": 145.2
+  },
+  {
+   "at": "2026-10-15T17:37:05+00:00",
+   "boards_polled": 741,
+   "boards_skipped_budget": 0,
+   "families": {
+    "ashby": {
+     "errors": 3,
+     "jobs": 111,
+     "matches": 260,
+     "newest": "2026-10-15",
+     "ok": 108,
+     "postings": 6752,
+     "seconds": 20.67
+    },
+    "greenhouse": {
+     "errors": 0,
+     "jobs": 200,
+     "matches": 914,
+     "newest": "2026-10-15",
+     "ok": 200,
+     "postings": 25400,
+     "seconds": 17.45
+    },
+    "lever": {
+     "errors": 1,
+     "jobs": 27,
+     "matches": 124,
+     "newest": "2026-10-15",
+     "ok": 26,
+     "postings": 2394,
+     "seconds": 47.4
+    },
+    "simplify": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 1274,
+     "newest": "2026-10-15",
+     "ok": 1,
+     "postings": 4787,
+     "seconds": 0.59
+    },
+    "smartrecruiters": {
+     "errors": 0,
+     "jobs": 22,
+     "matches": 200,
+     "newest": "2026-10-15",
+     "ok": 22,
+     "postings": 1922,
+     "seconds": 14.21
+    },
+    "speedyapply": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 765,
+     "newest": "2026-10-14",
+     "ok": 1,
+     "postings": 847,
+     "seconds": 0.31
+    },
+    "vanshb03": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 323,
+     "newest": "2026-08-21",
+     "ok": 1,
+     "postings": 371,
+     "seconds": 0.2
+    },
+    "workday": {
+     "errors": 2,
+     "jobs": 381,
+     "matches": 2241,
+     "newest": "2026-10-15",
+     "ok": 379,
+     "postings": 17912,
+     "seconds": 768.77
+    }
+   },
+   "runner": "mac",
+   "seconds": 141.2
   }
  ],
  "version": 1,
