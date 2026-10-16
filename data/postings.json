@@ -99,6 +99,16 @@
   "posted_at": "2026-09-16",
   "source": "workday"
  },
+ "url:https://aba.wd1.myworkdayjobs.com/aba/job/us-dc-main-office/intern--banking-policy-and-economic-research_r625": {
+  "company": "aba",
+  "title": "Intern, Banking Policy and Economic Research",
+  "url": "https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Banking-Policy-and-Economic-Research_R625",
+  "locations": [
+   "US DC Main Office"
+  ],
+  "posted_at": "2026-10-16",
+  "source": "workday"
+ },
  "url:https://aba.wd1.myworkdayjobs.com/aba/job/us-dc-main-office/intern--business-development--partner-network_r617": {
   "company": "aba",
   "title": "Intern, Business Development, Partner Network",
@@ -1534,7 +1544,7 @@
   "locations": [
    "Farmington, CT"
   ],
-  "posted_at": "2026-09-08",
+  "posted_at": "2026-10-16",
   "source": "workday"
  },
  "url:https://allegion.wd5.myworkdayjobs.com/careers/job/golden-co/summer-intern---software-engineering_jr37795-1": {
@@ -1825,6 +1835,16 @@
    "Everett, WA"
   ],
   "posted_at": "2026-09-16",
+  "source": "workday"
+ },
+ "url:https://allegion.wd5.myworkdayjobs.com/earlytalent_careers/job/farmington-ct/firmware-engineer-intern_jr37449": {
+  "company": "allegion",
+  "title": "Summer Intern - Firmware Engineer",
+  "url": "https://allegion.wd5.myworkdayjobs.com/earlytalent_careers/job/Farmington-CT/Firmware-Engineer-Intern_JR37449",
+  "locations": [
+   "Farmington, CT"
+  ],
+  "posted_at": "2026-10-16",
   "source": "workday"
  },
  "url:https://allegion.wd5.myworkdayjobs.com/earlytalent_careers/job/golden-co/summer-intern---software-engineering_jr37795": {
@@ -11370,6 +11390,16 @@
   "posted_at": "2026-09-14",
   "source": "simplify"
  },
+ "url:https://caci.wd1.myworkdayjobs.com/external/job/aberdeen-proving-ground-md-us/aerospace-engineer-intern---summer-2027_333570": {
+  "company": "caci",
+  "title": "Aerospace Engineer Intern - Summer 2027",
+  "url": "https://caci.wd1.myworkdayjobs.com/external/job/Aberdeen-Proving-Ground-MD-US/Aerospace-Engineer-Intern---Summer-2027_333570",
+  "locations": [
+   "Aberdeen Proving Ground, MD, US"
+  ],
+  "posted_at": "2026-10-16",
+  "source": "workday"
+ },
  "url:https://caci.wd1.myworkdayjobs.com/external/job/annapolis-junction-md-us/ai-systems-engineering-intern----summer-2027_332506": {
   "company": "CACI",
   "title": "AI Systems Engineer Intern - Summer 2027",
@@ -16280,14 +16310,14 @@
   "source": "simplify"
  },
  "url:https://centene.wd5.myworkdayjobs.com/centene_external/job/remote-mo/ai-software-developer-intern--undergraduate---summer-2027-_1667710": {
-  "company": "centene",
-  "title": "AI Software Developer Intern (Undergraduate - Summer 2027)",
+  "company": "Centene",
+  "title": "AI Software Developer Intern",
   "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/AI-Software-Developer-Intern--Undergraduate---Summer-2027-_1667710",
   "locations": [
-   "Remote-MO"
+   "Missouri"
   ],
   "posted_at": "2026-10-15",
-  "source": "workday"
+  "source": "simplify"
  },
  "url:https://centene.wd5.myworkdayjobs.com/centene_external/job/remote-mo/cloud-security-incident-response-analyst-intern--undergraduate---summer-2027-_1667738-1": {
   "company": "centene",
@@ -19474,7 +19504,7 @@
   "locations": [
    "Atlanta GA"
   ],
-  "posted_at": "2026-09-15",
+  "posted_at": "2026-10-16",
   "source": "workday"
  },
  "url:https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/atlanta-ga/tax-technology-intern_r202682421": {
@@ -24394,14 +24424,14 @@
   "source": "simplify"
  },
  "url:https://freddiemac.wd5.myworkdayjobs.com/external/job/mclean-va/eo-t-technology-intern--summer-2027_jr17542": {
-  "company": "freddiemac",
-  "title": "Technology Intern- Summer 2027",
+  "company": "Freddie Mac",
+  "title": "Technology Intern - Enterprise Operations + Technology",
   "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/EO-T-Technology-Intern--Summer-2027_JR17542",
   "locations": [
    "McLean, VA"
   ],
-  "posted_at": "2026-09-16",
-  "source": "workday"
+  "posted_at": "2026-08-24",
+  "source": "simplify"
  },
  "url:https://freddiemac.wd5.myworkdayjobs.com/external/job/mclean-va/multifamily-business-analysis-graduate-intern---summer-2027_jr17638": {
   "company": "freddiemac",
@@ -24444,24 +24474,24 @@
   "source": "workday"
  },
  "url:https://freddiemac.wd5.myworkdayjobs.com/external/job/mclean-va/single-family-data-intern--summer-2027_jr17545": {
-  "company": "freddiemac",
-  "title": "Single-Family Data Intern- Summer 2027",
+  "company": "Freddie Mac",
+  "title": "Single-Family Data Intern",
   "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Data-Intern--Summer-2027_JR17545",
   "locations": [
    "McLean, VA"
   ],
-  "posted_at": "2026-09-16",
-  "source": "workday"
+  "posted_at": "2026-08-24",
+  "source": "simplify"
  },
  "url:https://freddiemac.wd5.myworkdayjobs.com/external/job/mclean-va/single-family-software-developer-intern--summer-2027_jr17544": {
-  "company": "freddiemac",
-  "title": "Single-Family Software Developer Intern- Summer 2027",
+  "company": "Freddie Mac",
+  "title": "Software Developer Intern - Single-Family",
   "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544",
   "locations": [
    "McLean, VA"
   ],
-  "posted_at": "2026-09-16",
-  "source": "workday"
+  "posted_at": "2026-08-24",
+  "source": "simplify"
  },
  "url:https://fticonsulting.wd108.myworkdayjobs.com/fticonsultingcareers/job/united-states/xmlname-2027-intern---technology_jr260339-1": {
   "company": "FTI Consulting",
@@ -26437,6 +26467,16 @@
   "posted_at": "2026-09-14",
   "source": "workday"
  },
+ "url:https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/bellevue/ge-vernova---project-engineer-intern---summer-2027_r5050023-1": {
+  "company": "gevernova",
+  "title": "GE Vernova - Project Engineer Intern - Summer 2027",
+  "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050023-1",
+  "locations": [
+   "Bellevue"
+  ],
+  "posted_at": "2026-10-16",
+  "source": "workday"
+ },
  "url:https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/bellevue/ge-vernova---project-engineer-intern---summer-2027_r5050026-1": {
   "company": "gevernova",
   "title": "GE Vernova - Project Engineer Intern - Summer 2027",
@@ -26926,6 +26966,16 @@
    "Bellevue"
   ],
   "posted_at": "2026-09-15",
+  "source": "workday"
+ },
+ "url:https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/bellevue/ge-vernova---project-engineer-intern---summer-2027_r5050023-2": {
+  "company": "gevernova",
+  "title": "GE Vernova - Project Engineer Intern - Summer 2027",
+  "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050023-2",
+  "locations": [
+   "Bellevue"
+  ],
+  "posted_at": "2026-10-16",
   "source": "workday"
  },
  "url:https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/bellevue/ge-vernova---project-engineer-intern---summer-2027_r5050026-2": {
@@ -32628,6 +32678,16 @@
   "posted_at": "2026-09-18",
   "source": "workday"
  },
+ "url:https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/new-york/xmlname-2027-guardian-mba-summer-intern---corporate-development_r000109979": {
+  "company": "guardianlife",
+  "title": "2027 Guardian MBA Summer Intern,  Corporate Development",
+  "url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-MBA-Summer-Intern---Corporate-Development_R000109979",
+  "locations": [
+   "New York"
+  ],
+  "posted_at": "2026-10-16",
+  "source": "workday"
+ },
  "url:https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/new-york/xmlname-2027-guardian-summer-intern--digital---technology---ai---machine-learning_r000110205": {
   "company": "guardianlife",
   "title": "2027 Guardian Summer Intern, Digital & Technology – AI & Machine Learning",
@@ -35731,6 +35791,16 @@
   "posted_at": "2026-10-14",
   "source": "workday"
  },
+ "url:https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/reston-va/xmlname-2027-summer-intern--cloud-engineer--aws-azure---reston--va-_r2603554": {
+  "company": "icf",
+  "title": "2027 Summer Intern, Cloud Engineer (AWS/Azure) (Reston, VA)",
+  "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Cloud-Engineer--AWS-Azure---Reston--VA-_R2603554",
+  "locations": [
+   "Reston, VA"
+  ],
+  "posted_at": "2026-10-16",
+  "source": "workday"
+ },
  "url:https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/reston-va/xmlname-2027-summer-intern--corporate-development--reston--va-_r2603481": {
   "company": "icf",
   "title": "2027 Summer Intern, Corporate Development (Reston, VA)",
@@ -37499,6 +37569,16 @@
    "Anasco, Puerto Rico, United States of America"
   ],
   "posted_at": "2026-09-22",
+  "source": "workday"
+ },
+ "url:https://jj.wd5.myworkdayjobs.com/jj/job/cambridge-massachusetts-united-states-of-america/summer-intern--digital-signal--imaging-ai_r-103933": {
+  "company": "jj",
+  "title": "Summer intern, Digital Signal/ Imaging AI",
+  "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cambridge-Massachusetts-United-States-of-America/Summer-intern--Digital-Signal--Imaging-AI_R-103933",
+  "locations": [
+   "5 Locations"
+  ],
+  "posted_at": "2026-10-16",
   "source": "workday"
  },
  "url:https://jj.wd5.myworkdayjobs.com/jj/job/chiyoda-tokyo-japan/xmlname-2027-japan-international-recruitment-and-development-program--irdp-internship-_r-099429": {
@@ -57494,6 +57574,16 @@
   "posted_at": "2026-10-02",
   "source": "workday"
  },
+ "url:https://leidos.wd5.myworkdayjobs.com/external/job/6314-remoteteleworker-us/cloud-engineering-intern_r-00194668": {
+  "company": "leidos",
+  "title": "Cloud Engineering Intern",
+  "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Cloud-Engineering-Intern_R-00194668",
+  "locations": [
+   "6314 Remote/Teleworker US"
+  ],
+  "posted_at": "2026-10-16",
+  "source": "workday"
+ },
  "url:https://leidos.wd5.myworkdayjobs.com/external/job/6314-remoteteleworker-us/data-center-design-intern_r-00193261": {
   "company": "leidos",
   "title": "Data Center Design Intern",
@@ -57502,6 +57592,16 @@
    "6314 Remote/Teleworker US"
   ],
   "posted_at": "2026-09-28",
+  "source": "workday"
+ },
+ "url:https://leidos.wd5.myworkdayjobs.com/external/job/6314-remoteteleworker-us/engineering-projects-intern_r-00194672": {
+  "company": "leidos",
+  "title": "Engineering Projects Intern",
+  "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Engineering-Projects-Intern_R-00194672",
+  "locations": [
+   "6314 Remote/Teleworker US"
+  ],
+  "posted_at": "2026-10-16",
   "source": "workday"
  },
  "url:https://leidos.wd5.myworkdayjobs.com/external/job/6314-remoteteleworker-us/it-desktop-engineering-intern_r-00194524": {
@@ -57827,14 +57927,14 @@
   "source": "simplify"
  },
  "url:https://leidos.wd5.myworkdayjobs.com/external/job/shiloh-il/data-engineering---analytics-intern_r-00194635": {
-  "company": "leidos",
+  "company": "Leidos",
   "title": "Data Engineering & Analytics Intern",
   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Data-Engineering---Analytics-Intern_R-00194635",
   "locations": [
    "Shiloh, IL"
   ],
   "posted_at": "2026-10-15",
-  "source": "workday"
+  "source": "simplify"
  },
  "url:https://leidos.wd5.myworkdayjobs.com/external/job/tucson-az/jr-software-engineer-intern_r-00192184": {
   "company": "leidos",
@@ -64564,6 +64664,26 @@
    "17 Locations"
   ],
   "posted_at": "2026-09-16",
+  "source": "workday"
+ },
+ "url:https://msd.wd5.myworkdayjobs.com/searchjobs/job/are---dubai---falak-building/data-analytics-intern_r422803": {
+  "company": "msd",
+  "title": "Data Analytics Intern",
+  "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/ARE---Dubai---Falak-Building/Data-Analytics-Intern_R422803",
+  "locations": [
+   "ARE - Dubai - Falak Building"
+  ],
+  "posted_at": "2026-10-16",
+  "source": "workday"
+ },
+ "url:https://msd.wd5.myworkdayjobs.com/searchjobs/job/are---dubai---falak-building/data-science---ai-intern_r422804": {
+  "company": "msd",
+  "title": "Data Science & AI Intern",
+  "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/ARE---Dubai---Falak-Building/Data-Science---AI-Intern_R422804",
+  "locations": [
+   "ARE - Dubai - Falak Building"
+  ],
+  "posted_at": "2026-10-16",
   "source": "workday"
  },
  "url:https://msd.wd5.myworkdayjobs.com/searchjobs/job/are---dubai---falak-building/medical-affairs-data---digital-projects-intern_r421700": {
@@ -75598,14 +75718,14 @@
   "source": "workday"
  },
  "url:https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/dayton-oh/software-engineering-intern--summer-2027-_r0030754": {
-  "company": "Sierra Nevada Corporation",
-  "title": "Software Engineer Intern - Summer 2027",
+  "company": "snc",
+  "title": "Software Engineering Intern (Summer 2027)",
   "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Dayton-OH/Software-Engineering-Intern--Summer-2027-_R0030754",
   "locations": [
    "Dayton, OH"
   ],
-  "posted_at": "2026-09-03",
-  "source": "simplify"
+  "posted_at": "2026-09-16",
+  "source": "workday"
  },
  "url:https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/dayton-oh/systems-engineer-i--for-2026-interns-only-_r0030589": {
   "company": "snc",
@@ -75638,14 +75758,14 @@
   "source": "workday"
  },
  "url:https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/folsom-ca/software-engineering-intern--summer-2027-_r0030761-1": {
-  "company": "Sierra Nevada Corporation",
-  "title": "Software Engineer Intern",
+  "company": "snc",
+  "title": "Software Engineering Intern (Summer 2027)",
   "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Folsom-CA/Software-Engineering-Intern--Summer-2027-_R0030761-1",
   "locations": [
    "Folsom, CA"
   ],
-  "posted_at": "2026-09-03",
-  "source": "simplify"
+  "posted_at": "2026-09-16",
+  "source": "workday"
  },
  "url:https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/hagerstown-md/aerospace-engineering-intern--summer-2027-_r0030737": {
   "company": "snc",
@@ -75798,14 +75918,14 @@
   "source": "simplify"
  },
  "url:https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/lone-tree-co/software-engineering-intern--summer-2027-_r0030757": {
-  "company": "Sierra Nevada Corporation",
-  "title": "Software Engineer Intern - Summer 2027",
+  "company": "snc",
+  "title": "Software Engineering Intern (Summer 2027)",
   "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineering-Intern--Summer-2027-_R0030757",
   "locations": [
    "Lone Tree, CO"
   ],
-  "posted_at": "2026-09-03",
-  "source": "simplify"
+  "posted_at": "2026-09-16",
+  "source": "workday"
  },
  "url:https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/lone-tree-co/systems-engineering-intern--summer-2027-_r0030750": {
   "company": "snc",
@@ -75888,14 +76008,14 @@
   "source": "workday"
  },
  "url:https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/plano-tx/software-engineering-intern--summer-2027-_r0030758": {
-  "company": "Sierra Nevada Corporation",
-  "title": "Software Engineer Intern - Summer 2027",
+  "company": "snc",
+  "title": "Software Engineering Intern (Summer 2027)",
   "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Plano-TX/Software-Engineering-Intern--Summer-2027-_R0030758",
   "locations": [
    "Plano, TX"
   ],
-  "posted_at": "2026-09-03",
-  "source": "simplify"
+  "posted_at": "2026-09-16",
+  "source": "workday"
  },
  "url:https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/plano-tx/systems-engineer-i--for-2026-interns-only-_r0030603": {
   "company": "snc",
@@ -75928,14 +76048,14 @@
   "source": "workday"
  },
  "url:https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/southern-pines-nc/software-engineering-intern--summer-2027-_r0030759": {
-  "company": "Sierra Nevada Corporation",
-  "title": "Software Engineer Intern",
+  "company": "snc",
+  "title": "Software Engineering Intern (Summer 2027)",
   "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineering-Intern--Summer-2027-_R0030759",
   "locations": [
    "Southern Pines, NC"
   ],
-  "posted_at": "2026-09-03",
-  "source": "simplify"
+  "posted_at": "2026-09-16",
+  "source": "workday"
  },
  "url:https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/sparks-nv/electrical-engineering-intern--summer-2027-_r0030741": {
   "company": "snc",
@@ -75948,14 +76068,14 @@
   "source": "workday"
  },
  "url:https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/sparks-nv/software-engineering-intern--summer-2027-_r0030760": {
-  "company": "Sierra Nevada Corporation",
-  "title": "Software Engineer Intern",
+  "company": "snc",
+  "title": "Software Engineering Intern (Summer 2027)",
   "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Software-Engineering-Intern--Summer-2027-_R0030760",
   "locations": [
    "Sparks, NV"
   ],
-  "posted_at": "2026-09-03",
-  "source": "simplify"
+  "posted_at": "2026-09-16",
+  "source": "workday"
  },
  "url:https://sonos.wd1.myworkdayjobs.com/en-us/sonos/job/boston-ma/software-engineering-co-op--cloud-_r2822-2": {
   "company": "Sonos",
@@ -80824,7 +80944,7 @@
   "locations": [
    "CO - Centennial"
   ],
-  "posted_at": "2026-10-09",
+  "posted_at": "2026-10-16",
   "source": "workday"
  },
  "url:https://travelers.wd5.myworkdayjobs.com/external/job/ct---hartford/actuarial-leadership-development-program--aldp--intern_r-52299": {
