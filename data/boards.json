@@ -900,11 +900,11 @@
   "ashby:maximor": {
    "ats": "ashby",
    "board": "maximor",
-   "consecutive_errors": 9,
+   "consecutive_errors": 10,
    "deep": false,
    "deep_since": null,
-   "disabled": false,
-   "disabled_at": null,
+   "disabled": true,
+   "disabled_at": "2026-10-16T07:51:54+00:00",
    "discovered_via": "speedyapply",
    "first_seen": "2026-10-02T05:21:11+00:00",
    "last_deep_crawl": null,
@@ -6027,7 +6027,7 @@
   "lever:cesiumastro": {
    "ats": "lever",
    "board": "cesiumastro",
-   "consecutive_errors": 8,
+   "consecutive_errors": 9,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -10477,7 +10477,7 @@
   "workday:jj.wd5/jj": {
    "ats": "workday",
    "board": "jj.wd5/JJ",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": true,
    "deep_since": "2026-10-02T05:21:11+00:00",
    "disabled": false,
@@ -10541,7 +10541,7 @@
   "workday:kenvue.wd5/kenvue": {
    "ats": "workday",
    "board": "kenvue.wd5/kenvue",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -10701,7 +10701,7 @@
   "workday:liveramp.wd5/liverampcareers": {
    "ats": "workday",
    "board": "liveramp.wd5/liverampcareers",
-   "consecutive_errors": 2,
+   "consecutive_errors": 3,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -11678,7 +11678,7 @@
   "workday:osv-cci.wd1/ccicareers": {
    "ats": "workday",
    "board": "osv-cci.wd1/CCICareers",
-   "consecutive_errors": 6,
+   "consecutive_errors": 7,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -11695,7 +11695,7 @@
   "workday:osv-rubicon.wd5/magnitecareers": {
    "ats": "workday",
    "board": "osv-rubicon.wd5/MagniteCareers",
-   "consecutive_errors": 6,
+   "consecutive_errors": 7,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -12496,7 +12496,7 @@
   "workday:smucker.wd5/us_external_careers": {
    "ats": "workday",
    "board": "smucker.wd5/US_External_Careers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -12512,7 +12512,7 @@
   "workday:snc.wd1/snc_external_career_site": {
    "ats": "workday",
    "board": "snc.wd1/snc_external_career_site",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": true,
    "deep_since": "2026-10-02T05:21:11+00:00",
    "disabled": false,
@@ -13535,6 +13535,8 @@
   "www.verition.com": "veritiongroupllc",
   "www.zipline.com": "flyzipline"
  },
- "gh_custom_pending": {},
+ "gh_custom_pending": {
+  "careers.formlabs.com": "8138459"
+ },
  "version": 1
 }

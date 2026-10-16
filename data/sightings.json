@@ -93,6 +93,9 @@
   "url:https://abb.wd3.myworkdayjobs.com/external_career_page/job/usa-oh-cleveland/systems-engineering-intern---summer-2027_jr00048328": {
    "workday": "2026-10-02T05:21:11+00:00"
   },
+  "url:https://abb.wd3.myworkdayjobs.com/external_career_page/job/xiamen-fujian-china/intern-engineer_jr00049947": {
+   "workday": "2026-10-16T07:51:54+00:00"
+  },
   "url:https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/nashville-tennessee/infrastructure-engineering-summer-intern_r0019749": {
    "workday": "2026-10-02T06:08:32+00:00"
   },
@@ -972,6 +975,9 @@
   },
   "url:https://amgen.wd1.myworkdayjobs.com/careers/job/us---puerto-rico---juncos/undergrad-co-op---interactive-developer---immersive-course-programmer-for-manufacturing_r-256886": {
    "speedyapply": "2026-10-07T19:07:05+00:00"
+  },
+  "url:https://amgen.wd1.myworkdayjobs.com/careers/job/us---puerto-rico---juncos/undergrad-co-op---quality--manufacturing--operations-and-or-engineering_r-256495": {
+   "workday": "2026-10-16T07:51:54+00:00"
   },
   "url:https://analogdevices.wd1.myworkdayjobs.com/external/job/canada-toronto/analog-design-engineering-intern_r266614": {
    "workday": "2026-10-02T06:08:32+00:00"
@@ -4352,6 +4358,9 @@
   "url:https://ciena.wd5.myworkdayjobs.com/careers/job/canada--ottawa--383-terry-fox--bldg-c/hardware--pcba--design-and-verification-intern--winter-2027---4-months-_r031752": {
    "workday": "2026-10-02T05:21:11+00:00"
   },
+  "url:https://ciena.wd5.myworkdayjobs.com/careers/job/gurugram/c-c---python-jana-intern_r031854": {
+   "workday": "2026-10-16T07:51:54+00:00"
+  },
   "url:https://ciena.wd5.myworkdayjobs.com/careers/job/gurugram/svt-pv-engineering-software-applications---intern_r031701": {
    "workday": "2026-10-09T05:09:04+00:00"
   },
@@ -4913,7 +4922,8 @@
    "workday": "2026-10-02T05:21:11+00:00"
   },
   "url:https://covestro.wd3.myworkdayjobs.com/cov_external/job/pittsburgh-pa/supply-chain-application-developer-co-op_jr-2026-02346-1": {
-   "simplify": "2026-10-14T22:15:42+00:00"
+   "simplify": "2026-10-14T22:15:42+00:00",
+   "workday": "2026-10-16T07:51:54+00:00"
   },
   "url:https://covestro.wd3.myworkdayjobs.com/cov_external/job/pudong-shanghai-china/full-stack-software-development-intern_jr-2026-01407": {
    "workday": "2026-10-02T05:21:11+00:00"
@@ -9431,7 +9441,7 @@
    "workday": "2026-10-02T05:21:11+00:00"
   },
   "url:https://intel.wd1.myworkdayjobs.com/external/job/prc-shanghai/ai-application-development-intern_jr0288222-1": {
-   "workday": "2026-10-16T09:15:53+00:00"
+   "workday": "2026-10-16T07:51:54+00:00"
   },
   "url:https://intel.wd1.myworkdayjobs.com/external/job/prc-shanghai/ai-software-engineering-graduate-intern_jr0287917": {
    "workday": "2026-10-09T05:09:04+00:00"
@@ -19020,7 +19030,7 @@
    "workday": "2026-10-06T00:07:05+00:00"
   },
   "url:https://relx.wd3.myworkdayjobs.com/risksolutions/job/germany---karlsruhe/intern-data-engineering_r119275": {
-   "workday": "2026-10-16T09:15:53+00:00"
+   "workday": "2026-10-16T07:51:54+00:00"
   },
   "url:https://repsol.wd3.myworkdayjobs.com/repsol/job/alaska/drilling-engineering-intern---silverwind-exploration-project--summer-2027-_84059-1": {
    "workday": "2026-10-05T15:38:53+00:00"
@@ -20507,6 +20517,12 @@
   },
   "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/singapore-capitasky/hunyuan-multimodal-reinforcement-learning--rl--research-intern_r107383": {
    "workday": "2026-10-02T13:08:13+00:00"
+  },
+  "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/singapore-capitasky/interactive-vision-model-research-intern_r108277": {
+   "workday": "2026-10-16T07:51:54+00:00"
+  },
+  "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/singapore-capitasky/large-language-models-research-intern_r108263-1": {
+   "workday": "2026-10-16T07:51:54+00:00"
   },
   "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/singapore-capitasky/site-reliability-engineer-intern_r108220": {
    "workday": "2026-10-05T05:37:05+00:00"
