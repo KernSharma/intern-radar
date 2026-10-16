@@ -11971,6 +11971,9 @@
   "url:https://job-boards.greenhouse.io/togetherai/jobs/5238468007": {
    "greenhouse": "2026-10-02T05:21:11+00:00"
   },
+  "url:https://job-boards.greenhouse.io/togetherai/jobs/5238469007": {
+   "greenhouse": "2026-10-16T04:51:53+00:00"
+  },
   "url:https://job-boards.greenhouse.io/togetherai/jobs/5238472007": {
    "greenhouse": "2026-10-02T05:21:11+00:00",
    "speedyapply": "2026-10-02T05:21:11+00:00"
@@ -19057,6 +19060,9 @@
   "url:https://roche.wd3.myworkdayjobs.com/roche-ext/job/penzberg/internship-in-cell-culture-process-development---media-optimization--m-f-d-_202608-121323-1": {
    "workday": "2026-10-07T15:30:43+00:00"
   },
+  "url:https://roche.wd3.myworkdayjobs.com/roche-ext/job/petaling-jaya/enterprise-master-data-management---intern_202609-124194": {
+   "workday": "2026-10-16T04:51:53+00:00"
+  },
   "url:https://roche.wd3.myworkdayjobs.com/roche-ext/job/petaling-jaya/enterprise-master-data-management-operations---intern--mandarin-speaker-_202505-111147": {
    "workday": "2026-10-07T15:30:43+00:00"
   },
@@ -22796,14 +22802,21 @@
    "simplify": "2026-10-02T05:21:11+00:00",
    "workday": "2026-10-02T05:21:11+00:00"
   },
+  "url:https://xcelenergy.wd1.myworkdayjobs.com/external/job/denver-co-80205/ai-enablement-intern-co--mn_jr116328-1": {
+   "workday": "2026-10-16T04:51:53+00:00"
+  },
   "url:https://xcelenergy.wd1.myworkdayjobs.com/external/job/denver-co-80205/data-governance--visualization-and-automation-intern_jr116628-2": {
    "simplify": "2026-10-02T05:21:11+00:00"
   },
   "url:https://xcelenergy.wd1.myworkdayjobs.com/external/job/denver-co-80205/data-science-intern-co--mn_jr116327-1": {
-   "simplify": "2026-10-02T05:21:11+00:00"
+   "simplify": "2026-10-02T05:21:11+00:00",
+   "workday": "2026-10-16T04:51:53+00:00"
   },
   "url:https://xcelenergy.wd1.myworkdayjobs.com/external/job/denver-co-80205/load-research---energy-and-demand-forecasting-intern_jr116604-1": {
    "simplify": "2026-10-02T05:21:11+00:00"
+  },
+  "url:https://xcelenergy.wd1.myworkdayjobs.com/external/job/denver-co-80205/program--capability---process-development-intern_jr116631-1": {
+   "workday": "2026-10-16T04:51:53+00:00"
   },
   "url:https://xcelenergy.wd1.myworkdayjobs.com/external/job/denver-co-80205/project-engineering-intern--co_jr115732-1": {
    "workday": "2026-10-02T05:21:11+00:00"
@@ -22811,24 +22824,46 @@
   "url:https://xcelenergy.wd1.myworkdayjobs.com/external/job/denver-co-80205/renewable-and-demand-response-intern--co_jr115433-1": {
    "simplify": "2026-10-02T05:21:11+00:00"
   },
+  "url:https://xcelenergy.wd1.myworkdayjobs.com/external/job/denver-co-80205/residential-energy-product-strategy-intern--co_jr115817-1": {
+   "workday": "2026-10-16T04:51:53+00:00"
+  },
   "url:https://xcelenergy.wd1.myworkdayjobs.com/external/job/denver-co-80205/resource-planning-intern--co_jr115820-1": {
    "simplify": "2026-10-02T05:21:11+00:00"
   },
+  "url:https://xcelenergy.wd1.myworkdayjobs.com/external/job/denver-co-80205/system-protection-engineering-intern--co_jr115752-1": {
+   "workday": "2026-10-16T04:51:53+00:00"
+  },
+  "url:https://xcelenergy.wd1.myworkdayjobs.com/external/job/denver-co-80205/transmission-engineering-services-intern--co_jr115576-1": {
+   "workday": "2026-10-16T04:51:53+00:00"
+  },
   "url:https://xcelenergy.wd1.myworkdayjobs.com/external/job/denver-co-80205/wildfire-analyst-intern--co_jr115413-1": {
    "simplify": "2026-10-02T05:21:11+00:00"
+  },
+  "url:https://xcelenergy.wd1.myworkdayjobs.com/external/job/denver-co-80223/distribution-planning-engineering-intern--co_jr115831-1": {
+   "workday": "2026-10-16T04:51:53+00:00"
   },
   "url:https://xcelenergy.wd1.myworkdayjobs.com/external/job/denver-co-80223/gas-data-intern--co_jr116314-1": {
    "simplify": "2026-10-02T05:21:11+00:00",
    "workday": "2026-10-02T05:21:11+00:00"
   },
+  "url:https://xcelenergy.wd1.myworkdayjobs.com/external/job/denver-co-80223/gas-engineering-intern---co--mn_jr116324-1": {
+   "workday": "2026-10-16T04:51:53+00:00"
+  },
   "url:https://xcelenergy.wd1.myworkdayjobs.com/external/job/denver-co-80223/reliability-data-analyst-intern--co_jr115833": {
-   "simplify": "2026-10-02T05:21:11+00:00"
+   "simplify": "2026-10-02T05:21:11+00:00",
+   "workday": "2026-10-16T04:51:53+00:00"
+  },
+  "url:https://xcelenergy.wd1.myworkdayjobs.com/external/job/denver-co-80223/wildfire-engineering-intern--co--tx_jr115750-1": {
+   "workday": "2026-10-16T04:51:53+00:00"
   },
   "url:https://xcelenergy.wd1.myworkdayjobs.com/external/job/eau-claire-wi-54702/renewables-engineering-intern---wi_jr115672-1": {
    "workday": "2026-10-02T05:21:11+00:00"
   },
   "url:https://xcelenergy.wd1.myworkdayjobs.com/external/job/golden-co-80401/operations-technology-intern--co_jr115440-1": {
    "workday": "2026-10-02T05:21:11+00:00"
+  },
+  "url:https://xcelenergy.wd1.myworkdayjobs.com/external/job/golden-co-80401/outage-coordination-engineer-intern--co_jr115572-1": {
+   "workday": "2026-10-16T04:51:53+00:00"
   },
   "url:https://xcelenergy.wd1.myworkdayjobs.com/external/job/golden-co-80401/renewable-operation-center-intern--co_jr115736-1": {
    "simplify": "2026-10-02T05:21:11+00:00"
@@ -22837,7 +22872,8 @@
    "simplify": "2026-10-02T05:21:11+00:00"
   },
   "url:https://xcelenergy.wd1.myworkdayjobs.com/external/job/henderson-co-80640/power-generation-analytics-intern--co_jr115734-2": {
-   "simplify": "2026-10-02T05:21:11+00:00"
+   "simplify": "2026-10-02T05:21:11+00:00",
+   "workday": "2026-10-16T04:51:53+00:00"
   },
   "url:https://xcelenergy.wd1.myworkdayjobs.com/external/job/minneapolis-mn-55401/ai-and-analytics-intern-mn--co_jr115877-1": {
    "simplify": "2026-10-02T05:21:11+00:00"
@@ -22872,6 +22908,9 @@
   },
   "url:https://xcelenergy.wd1.myworkdayjobs.com/external/job/monticello-mn-55362/computer-information-systems-intern---mn_jr116038": {
    "simplify": "2026-10-02T05:21:11+00:00"
+  },
+  "url:https://xcelenergy.wd1.myworkdayjobs.com/external/job/pueblo-co-81006/reliability-plant-engineering-intern--co_jr115735-1": {
+   "workday": "2026-10-16T04:51:53+00:00"
   },
   "url:https://zekelman.wd12.myworkdayjobs.com/careers/job/birmingham-al---atlas/intern--electrical-engineer_jr002767": {
    "workday": "2026-10-02T05:21:11+00:00"
