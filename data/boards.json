@@ -131,7 +131,7 @@
   "ashby:atomicsemi": {
    "ats": "ashby",
    "board": "atomicsemi",
-   "consecutive_errors": 6,
+   "consecutive_errors": 7,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -900,7 +900,7 @@
   "ashby:maximor": {
    "ats": "ashby",
    "board": "maximor",
-   "consecutive_errors": 5,
+   "consecutive_errors": 6,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -1717,7 +1717,7 @@
   "ashby:whatnot": {
    "ats": "ashby",
    "board": "whatnot",
-   "consecutive_errors": 6,
+   "consecutive_errors": 7,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -2824,7 +2824,7 @@
   "greenhouse:eulerity": {
    "ats": "greenhouse",
    "board": "eulerity",
-   "consecutive_errors": 1,
+   "consecutive_errors": 2,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -4393,7 +4393,7 @@
   "greenhouse:signifyd95": {
    "ats": "greenhouse",
    "board": "signifyd95",
-   "consecutive_errors": 1,
+   "consecutive_errors": 2,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -4409,7 +4409,7 @@
   "greenhouse:singlestore": {
    "ats": "greenhouse",
    "board": "singlestore",
-   "consecutive_errors": 1,
+   "consecutive_errors": 2,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -5003,10 +5003,11 @@
   "greenhouse:webflow": {
    "ats": "greenhouse",
    "board": "webflow",
-   "consecutive_errors": 9,
+   "consecutive_errors": 10,
    "deep": false,
    "deep_since": null,
-   "disabled": false,
+   "disabled": true,
+   "disabled_at": "2026-10-17T00:08:43+00:00",
    "discovered_via": null,
    "first_seen": "2026-10-02T05:21:11+00:00",
    "last_deep_crawl": null,
@@ -6059,7 +6060,7 @@
   "lever:cesiumastro": {
    "ats": "lever",
    "board": "cesiumastro",
-   "consecutive_errors": 4,
+   "consecutive_errors": 5,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -7036,7 +7037,7 @@
   "smartrecruiters:boschgroup": {
    "ats": "smartrecruiters",
    "board": "BoschGroup",
-   "consecutive_errors": 1,
+   "consecutive_errors": 2,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -7148,7 +7149,7 @@
   "smartrecruiters:nbcuniversal3": {
    "ats": "smartrecruiters",
    "board": "NBCUniversal3",
-   "consecutive_errors": 1,
+   "consecutive_errors": 2,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -7388,7 +7389,7 @@
   "workday:abb.wd3/external_career_page": {
    "ats": "workday",
    "board": "abb.wd3/external_career_page",
-   "consecutive_errors": 1,
+   "consecutive_errors": 2,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -10845,11 +10846,11 @@
   "workday:liveramp.wd5/liverampcareers": {
    "ats": "workday",
    "board": "liveramp.wd5/liverampcareers",
-   "consecutive_errors": 9,
+   "consecutive_errors": 10,
    "deep": false,
    "deep_since": null,
-   "disabled": false,
-   "disabled_at": null,
+   "disabled": true,
+   "disabled_at": "2026-10-17T00:08:43+00:00",
    "discovered_via": "speedyapply",
    "first_seen": "2026-10-02T05:21:11+00:00",
    "last_deep_crawl": null,
@@ -11822,7 +11823,7 @@
   "workday:osv-cci.wd1/ccicareers": {
    "ats": "workday",
    "board": "osv-cci.wd1/CCICareers",
-   "consecutive_errors": 2,
+   "consecutive_errors": 3,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -11839,7 +11840,7 @@
   "workday:osv-rubicon.wd5/magnitecareers": {
    "ats": "workday",
    "board": "osv-rubicon.wd5/MagniteCareers",
-   "consecutive_errors": 2,
+   "consecutive_errors": 3,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -12752,7 +12753,7 @@
   "workday:spectrumhealth.wd5/corewellhealthcareers": {
    "ats": "workday",
    "board": "spectrumhealth.wd5/CorewellHealthCareers",
-   "consecutive_errors": 1,
+   "consecutive_errors": 2,
    "deep": false,
    "deep_since": null,
    "disabled": false,
