@@ -2,16 +2,10 @@
  "alerts": {
   "R6|greenhouse:webflow": {
    "opened_at": "2026-10-17T00:08:43+00:00"
-  },
-  "R6|workday:osv-cci.wd1/ccicareers": {
-   "opened_at": "2026-10-17T21:42:47+00:00"
-  },
-  "R6|workday:osv-rubicon.wd5/magnitecareers": {
-   "opened_at": "2026-10-17T21:42:47+00:00"
   }
  },
  "last_health_ntfy_at": "2026-10-17T16:38:02+00:00",
- "last_run_at": "2026-10-17T21:42:47+00:00",
+ "last_run_at": "2026-10-17T23:59:23+00:00",
  "runner": "actions",
  "runs": [
   {
@@ -29173,6 +29167,87 @@
    },
    "runner": "actions",
    "seconds": 138.2
+  },
+  {
+   "at": "2026-10-17T23:59:23+00:00",
+   "boards_polled": 754,
+   "boards_skipped_budget": 0,
+   "families": {
+    "ashby": {
+     "errors": 3,
+     "jobs": 110,
+     "matches": 255,
+     "newest": "2026-10-17",
+     "ok": 107,
+     "postings": 6791,
+     "seconds": 12.85
+    },
+    "greenhouse": {
+     "errors": 0,
+     "jobs": 202,
+     "matches": 925,
+     "newest": "2026-10-17",
+     "ok": 202,
+     "postings": 25628,
+     "seconds": 21.92
+    },
+    "lever": {
+     "errors": 1,
+     "jobs": 29,
+     "matches": 127,
+     "newest": "2026-10-17",
+     "ok": 28,
+     "postings": 2674,
+     "seconds": 40.37
+    },
+    "simplify": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 1258,
+     "newest": "2026-10-17",
+     "ok": 1,
+     "postings": 4815,
+     "seconds": 0.42
+    },
+    "smartrecruiters": {
+     "errors": 0,
+     "jobs": 21,
+     "matches": 214,
+     "newest": "2026-10-17",
+     "ok": 21,
+     "postings": 2010,
+     "seconds": 12.55
+    },
+    "speedyapply": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 793,
+     "newest": "2026-10-16",
+     "ok": 1,
+     "postings": 878,
+     "seconds": 0.1
+    },
+    "vanshb03": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 458,
+     "newest": "2026-10-17",
+     "ok": 1,
+     "postings": 508,
+     "seconds": 0.14
+    },
+    "workday": {
+     "errors": 1,
+     "jobs": 392,
+     "matches": 2266,
+     "newest": "2026-10-17",
+     "ok": 391,
+     "postings": 18589,
+     "seconds": 673.41
+    }
+   },
+   "runner": "actions",
+   "seconds": 124.8
   }
  ],
  "version": 1,
