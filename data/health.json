@@ -1,5 +1,8 @@
 {
  "alerts": {
+  "R6|greenhouse:visiersolutionsinc": {
+   "opened_at": "2026-10-17T03:41:52+00:00"
+  },
   "R6|greenhouse:webflow": {
    "opened_at": "2026-10-17T00:08:43+00:00"
   }
@@ -28681,6 +28684,87 @@
    },
    "runner": "mac",
    "seconds": 319.2
+  },
+  {
+   "at": "2026-10-17T03:41:52+00:00",
+   "boards_polled": 708,
+   "boards_skipped_budget": 30,
+   "families": {
+    "ashby": {
+     "errors": 3,
+     "jobs": 108,
+     "matches": 255,
+     "newest": "2026-10-17",
+     "ok": 105,
+     "postings": 6680,
+     "seconds": 149.95
+    },
+    "greenhouse": {
+     "errors": 0,
+     "jobs": 199,
+     "matches": 919,
+     "newest": "2026-10-17",
+     "ok": 199,
+     "postings": 25519,
+     "seconds": 33.89
+    },
+    "lever": {
+     "errors": 1,
+     "jobs": 27,
+     "matches": 125,
+     "newest": "2026-10-17",
+     "ok": 26,
+     "postings": 2413,
+     "seconds": 108.49
+    },
+    "simplify": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 1285,
+     "newest": "2026-10-17",
+     "ok": 1,
+     "postings": 4852,
+     "seconds": 2.62
+    },
+    "smartrecruiters": {
+     "errors": 0,
+     "jobs": 20,
+     "matches": 205,
+     "newest": "2026-10-17",
+     "ok": 20,
+     "postings": 1928,
+     "seconds": 162.29
+    },
+    "speedyapply": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 793,
+     "newest": "2026-10-17",
+     "ok": 1,
+     "postings": 878,
+     "seconds": 0.55
+    },
+    "vanshb03": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 323,
+     "newest": "2026-08-21",
+     "ok": 1,
+     "postings": 371,
+     "seconds": 1.27
+    },
+    "workday": {
+     "errors": 258,
+     "jobs": 354,
+     "matches": 590,
+     "newest": "2026-10-17",
+     "ok": 96,
+     "postings": 3853,
+     "seconds": 3440.71
+    }
+   },
+   "runner": "mac",
+   "seconds": 609.6
   },
   {
    "at": "2026-10-17T04:57:14+00:00",
