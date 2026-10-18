@@ -2,13 +2,10 @@
  "alerts": {
   "R6|greenhouse:webflow": {
    "opened_at": "2026-10-17T00:08:43+00:00"
-  },
-  "R6|workday:liveramp.wd5/liverampcareers": {
-   "opened_at": "2026-10-18T04:37:05+00:00"
   }
  },
  "last_health_ntfy_at": "2026-10-18T04:37:05+00:00",
- "last_run_at": "2026-10-18T04:37:05+00:00",
+ "last_run_at": "2026-10-18T05:07:05+00:00",
  "runner": "mac",
  "runs": [
   {
@@ -29494,6 +29491,87 @@
    },
    "runner": "mac",
    "seconds": 187.0
+  },
+  {
+   "at": "2026-10-18T05:07:05+00:00",
+   "boards_polled": 761,
+   "boards_skipped_budget": 0,
+   "families": {
+    "ashby": {
+     "errors": 3,
+     "jobs": 111,
+     "matches": 255,
+     "newest": "2026-10-18",
+     "ok": 108,
+     "postings": 6803,
+     "seconds": 83.36
+    },
+    "greenhouse": {
+     "errors": 0,
+     "jobs": 202,
+     "matches": 925,
+     "newest": "2026-10-18",
+     "ok": 202,
+     "postings": 25625,
+     "seconds": 19.13
+    },
+    "lever": {
+     "errors": 1,
+     "jobs": 29,
+     "matches": 127,
+     "newest": "2026-10-18",
+     "ok": 28,
+     "postings": 2686,
+     "seconds": 75.03
+    },
+    "simplify": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 1244,
+     "newest": "2026-10-18",
+     "ok": 1,
+     "postings": 4804,
+     "seconds": 37.01
+    },
+    "smartrecruiters": {
+     "errors": 0,
+     "jobs": 23,
+     "matches": 214,
+     "newest": "2026-10-18",
+     "ok": 23,
+     "postings": 2008,
+     "seconds": 18.52
+    },
+    "speedyapply": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 793,
+     "newest": "2026-10-17",
+     "ok": 1,
+     "postings": 878,
+     "seconds": 2.2
+    },
+    "vanshb03": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 458,
+     "newest": "2026-10-17",
+     "ok": 1,
+     "postings": 508,
+     "seconds": 0.43
+    },
+    "workday": {
+     "errors": 2,
+     "jobs": 396,
+     "matches": 2239,
+     "newest": "2026-10-18",
+     "ok": 394,
+     "postings": 19201,
+     "seconds": 731.36
+    }
+   },
+   "runner": "mac",
+   "seconds": 184.0
   }
  ],
  "version": 1,
