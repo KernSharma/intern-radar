@@ -851,6 +851,16 @@
   "posted_at": "2026-09-23",
   "source": "workday"
  },
+ "url:https://ag.wd3.myworkdayjobs.com/airbus/job/bangalore-area/data-science-intern_jr10449782": {
+  "company": "ag",
+  "title": "Data Science Intern",
+  "url": "https://ag.wd3.myworkdayjobs.com/airbus/job/Bangalore-Area/Data-Science-Intern_JR10449782",
+  "locations": [
+   "Bangalore Area"
+  ],
+  "posted_at": "2026-10-19",
+  "source": "workday"
+ },
  "url:https://ag.wd3.myworkdayjobs.com/en-us/airbus/job/mobile-area-al/short-term-internship---tool-technology-and-development-engineering_jr10451236": {
   "company": "Airbus",
   "title": "Tool Technology and Development Engineering Intern",
@@ -26811,7 +26821,7 @@
   "locations": [
    "2 Locations"
   ],
-  "posted_at": "2026-10-02",
+  "posted_at": "2026-10-03",
   "source": "workday"
  },
  "url:https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/herzliya-tel-aviv-district-israel/ai-research--av----summer-internship_jr-202605668": {
@@ -26871,7 +26881,7 @@
   "locations": [
    "Milford Proving Ground - Bldg 104A"
   ],
-  "posted_at": "2026-10-02",
+  "posted_at": "2026-10-03",
   "source": "workday"
  },
  "url:https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/port-melbourne-victoria-australia/planning-co-op---portfolio-planning---dealer-development_jr-202618135": {
@@ -26885,14 +26895,14 @@
   "source": "workday"
  },
  "url:https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/sunnyvale-california-united-states-of-america/xmlname-2027-summer-intern---ai-ml-engineer--autonomous-vehicle--simulation_jr-202621508": {
-  "company": "generalmotors",
-  "title": "2027 Summer Intern - AI/ML Engineer, Autonomous Vehicle: Simulation",
+  "company": "General Motors",
+  "title": "AI/ML Engineer Intern - Autonomous Vehicle: Simulation",
   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508",
   "locations": [
-   "Sunnyvale, California, United States of America"
+   "Sunnyvale, CA"
   ],
-  "posted_at": "2026-10-02",
-  "source": "workday"
+  "posted_at": "2026-10-01",
+  "source": "simplify"
  },
  "url:https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/sunnyvale-california-united-states-of-america/xmlname-2027-summer-intern---autonomous-driving-software-engineer--bachelor-s---master-s-_jr-202622064": {
   "company": "General Motors",
@@ -26941,7 +26951,7 @@
   "locations": [
    "Sunnyvale, California, United States of America"
   ],
-  "posted_at": "2026-10-15",
+  "posted_at": "2026-10-16",
   "source": "workday"
  },
  "url:https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/sunnyvale-california-united-states-of-america/xmlname-2027-summer-intern--ai-research--embodied-ai_jr-202622146": {
@@ -26952,6 +26962,16 @@
    "Sunnyvale, California, United States of America"
   ],
   "posted_at": "2026-10-09",
+  "source": "workday"
+ },
+ "url:https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/sunnyvale-california-united-states-of-america/xmlname-2027-summer-intern--onboard-autonomy--embodied-ai--masters-_jr-202622543": {
+  "company": "generalmotors",
+  "title": "2027 Summer Intern, Onboard Autonomy, Embodied AI (Masters)",
+  "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI--Masters-_JR-202622543",
+  "locations": [
+   "Sunnyvale, California, United States of America"
+  ],
+  "posted_at": "2026-10-16",
   "source": "workday"
  },
  "url:https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/sunnyvale-california-united-states-of-america/xmlname-2027-summer-intern--onboard-autonomy--embodied-ai_jr-202622135": {
@@ -27071,7 +27091,7 @@
   "locations": [
    "Warren, Michigan, United States of America"
   ],
-  "posted_at": "2026-10-12",
+  "posted_at": "2026-10-13",
   "source": "workday"
  },
  "url:https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/warren-michigan-united-states-of-america/xmlname-2027-summer-intern---research-and-development---nondestructive-evaluation_jr-202621726": {
@@ -27081,7 +27101,7 @@
   "locations": [
    "Warren, Michigan, United States of America"
   ],
-  "posted_at": "2026-10-12",
+  "posted_at": "2026-10-13",
   "source": "workday"
  },
  "url:https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/warren-michigan-united-states-of-america/xmlname-2027-summer-intern---research-and-development---system-safety_jr-202621736": {
@@ -27091,7 +27111,7 @@
   "locations": [
    "Warren, Michigan, United States of America"
   ],
-  "posted_at": "2026-10-12",
+  "posted_at": "2026-10-13",
   "source": "workday"
  },
  "url:https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/warren-michigan-united-states-of-america/xmlname-2027-summer-intern--adas-software-engineer--adpt_jr-202621820": {
@@ -47430,14 +47450,24 @@
   "source": "ashby"
  },
  "url:https://jobs.ashbyhq.com/agzen/4cff4edd-3e9a-4ea1-8138-80c7241a2d3a": {
-  "company": "AgZen",
-  "title": "Software Engineer Co-op",
-  "url": "https://jobs.ashbyhq.com/agzen/4cff4edd-3e9a-4ea1-8138-80c7241a2d3a/application?embed=true",
+  "company": "agzen",
+  "title": "Software Engineering Co-op",
+  "url": "https://jobs.ashbyhq.com/agzen/4cff4edd-3e9a-4ea1-8138-80c7241a2d3a",
   "locations": [
    "Somerville, MA"
   ],
   "posted_at": "2026-10-16",
-  "source": "vanshb03"
+  "source": "ashby"
+ },
+ "url:https://jobs.ashbyhq.com/agzen/a828d0cd-1e72-45db-9ef0-244cfc61271a": {
+  "company": "agzen",
+  "title": "Research & Development Engineering Co-op",
+  "url": "https://jobs.ashbyhq.com/agzen/a828d0cd-1e72-45db-9ef0-244cfc61271a",
+  "locations": [
+   "Somerville, MA"
+  ],
+  "posted_at": "2026-10-16",
+  "source": "ashby"
  },
  "url:https://jobs.ashbyhq.com/allen-control-systems/1cd2b432-9a01-4ae0-8eb2-6ebd9c278b94": {
   "company": "allen-control-systems",
@@ -47760,14 +47790,14 @@
   "source": "ashby"
  },
  "url:https://jobs.ashbyhq.com/assorthealth/3d8a2c74-8d0c-40be-9624-afc3678654ee": {
-  "company": "Assort Health",
-  "title": "Software Engineer Intern",
-  "url": "https://jobs.ashbyhq.com/assorthealth/3d8a2c74-8d0c-40be-9624-afc3678654ee/application?embed=true",
+  "company": "assorthealth",
+  "title": "Software Engineering Internship (Jan - Apr 2027)",
+  "url": "https://jobs.ashbyhq.com/assorthealth/3d8a2c74-8d0c-40be-9624-afc3678654ee",
   "locations": [
-   "SF"
+   "San Francisco"
   ],
   "posted_at": "2026-10-16",
-  "source": "vanshb03"
+  "source": "ashby"
  },
  "url:https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066": {
   "company": "Astera",
@@ -48225,14 +48255,24 @@
   "source": "ashby"
  },
  "url:https://jobs.ashbyhq.com/clera/697c2212-e39d-4e6e-92c2-12e6603a61d0": {
-  "company": "Clera",
+  "company": "clera",
   "title": "Computer Vision & Robotics Intern",
-  "url": "https://jobs.ashbyhq.com/clera/697c2212-e39d-4e6e-92c2-12e6603a61d0/application",
+  "url": "https://jobs.ashbyhq.com/clera/697c2212-e39d-4e6e-92c2-12e6603a61d0",
   "locations": [
-   "San Francisco, CA"
+   "San Francisco"
   ],
   "posted_at": "2026-10-17",
-  "source": "vanshb03"
+  "source": "ashby"
+ },
+ "url:https://jobs.ashbyhq.com/clera/d3c69268-3324-4a84-b911-7a4303672767": {
+  "company": "clera",
+  "title": "Founding Engineer Intern",
+  "url": "https://jobs.ashbyhq.com/clera/d3c69268-3324-4a84-b911-7a4303672767",
+  "locations": [
+   "San Francisco"
+  ],
+  "posted_at": "2026-06-03",
+  "source": "ashby"
  },
  "url:https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b": {
   "company": "cohere",
@@ -59327,6 +59367,16 @@
    "Ann Arbor, MI"
   ],
   "posted_at": "2026-10-14",
+  "source": "workday"
+ },
+ "url:https://kla.wd1.myworkdayjobs.com/ur/job/ann-arbor-mi/tax---data-analytics-intern_2642280": {
+  "company": "kla",
+  "title": "Tax & Data Analytics Intern",
+  "url": "https://kla.wd1.myworkdayjobs.com/ur/job/Ann-Arbor-MI/Tax---Data-Analytics-Intern_2642280",
+  "locations": [
+   "Ann Arbor, MI"
+  ],
+  "posted_at": "2026-10-19",
   "source": "workday"
  },
  "url:https://kla.wd1.myworkdayjobs.com/ur/job/milpitas-ca/algorithm-engineering-intern--ai--computer-vision---software-engineering-_2641392-1": {
@@ -77677,14 +77727,21 @@
   "source": "workday"
  },
  "url:https://salesforce.wd12.myworkdayjobs.com/futureforce_internships/job/california---san-francisco/summer-2027-intern---software-engineer_jr340771": {
-  "company": "salesforce",
-  "title": "Summer 2027 Intern - Software Engineer",
+  "company": "Salesforce",
+  "title": "Software Engineer Intern",
   "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771",
   "locations": [
-   "8 Locations"
+   "Palo Alto, CA",
+   "Seattle, WA",
+   "Indianapolis, IN",
+   "SF",
+   "NYC",
+   "Bellevue, WA",
+   "Atlanta, GA",
+   "Burlington, MA"
   ],
-  "posted_at": "2026-09-19",
-  "source": "workday"
+  "posted_at": "2026-05-07",
+  "source": "simplify"
  },
  "url:https://salesforce.wd12.myworkdayjobs.com/futureforce_internships/job/mexico---mexico-city/ai-builder-intern--mexico-_jr359971-1": {
   "company": "salesforce",
