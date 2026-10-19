@@ -1,44 +1,51 @@
-# intern-radar weekly health — 2026-W42
+# intern-radar weekly health — 2026-W43
 
-Runs this week: 181
+Runs this week: 166
 
 | family | matched postings | unique finds (30 d) |
 |---|---|---|
-| ashby | 46882 | 150 |
-| greenhouse | 153955 | 637 |
-| lever | 21490 | 89 |
-| simplify | 222635 | 767 |
-| smartrecruiters | 18566 | 105 |
-| speedyapply | 125235 | 240 |
-| vanshb03 | 58463 | 244 |
-| workday | 376293 | 2771 |
+| ashby | 42890 | 154 |
+| greenhouse | 150309 | 710 |
+| lever | 20578 | 92 |
+| simplify | 208839 | 827 |
+| smartrecruiters | 28635 | 224 |
+| speedyapply | 125591 | 289 |
+| vanshb03 | 58208 | 308 |
+| workday | 368005 | 3327 |
 
 ## Head start over simplify (median hours, n ≥ 5)
 
-- ashby: +0.0 h (n=60)
-- greenhouse: +0.0 h (n=196)
-- lever: +0.0 h (n=18)
-- smartrecruiters: +0.0 h (n=13)
-- speedyapply: +0.0 h (n=290)
-- vanshb03: +0.0 h (n=28)
-- workday: +0.0 h (n=451)
+- ashby: +0.0 h (n=63)
+- greenhouse: +0.0 h (n=205)
+- lever: +0.0 h (n=20)
+- smartrecruiters: +0.0 h (n=20)
+- speedyapply: +0.0 h (n=323)
+- vanshb03: +0.0 h (n=54)
+- workday: +0.0 h (n=544)
 
-## Disabled boards (5)
+## Disabled boards (9)
 
 - greenhouse:amplitude
 - greenhouse:clickhouse
 - greenhouse:glossgenius
 - greenhouse:temporaltechnologies
+- greenhouse:visiersolutionsinc
+- greenhouse:webflow
 - workday:comcast.wd5/comcast_careers
+- workday:osv-cci.wd1/ccicareers
+- workday:osv-rubicon.wd5/magnitecareers
 
-## Deep (consider pinning) boards (39)
+## Deep (consider pinning) boards (43)
 
 - workday:barclays.wd3/external_career_site_barclays
 - workday:basspro.wd1/careers
 - workday:caci.wd1/external
+- workday:campbellsoup.wd5/externalcareers_globalsite
+- workday:cisco.wd5/cisco_careers
 - workday:clearwateranalytics.wd1/clearwater_analytics_careers
 - workday:cox.wd1/cox_external_career_site_1
 - workday:crowe.wd12/external_careers
+- workday:disney.wd5/disneycareer
 - workday:disney.wd5/disneycareerdc
 - workday:dowjones.wd1/dow_jones_career
 - workday:ecolab.wd1/ecolab_external
@@ -62,6 +69,7 @@ Runs this week: 181
 - workday:nidec.wd1/nidec
 - workday:nike.wd1/nke
 - workday:pae.wd1/amentum_careers
+- workday:paloaltonetworks.wd5/hidden-private-pawn-temp-gateway-147258369
 - workday:pwc.wd3/us_entry_level_careers
 - workday:regeneron.wd1/careers
 - workday:roche.wd3/roche-ext
