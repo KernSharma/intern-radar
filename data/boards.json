@@ -147,7 +147,7 @@
   "ashby:atomicsemi": {
    "ats": "ashby",
    "board": "atomicsemi",
-   "consecutive_errors": 3,
+   "consecutive_errors": 4,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -932,7 +932,7 @@
   "ashby:maximor": {
    "ats": "ashby",
    "board": "maximor",
-   "consecutive_errors": 2,
+   "consecutive_errors": 3,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -1749,7 +1749,7 @@
   "ashby:whatnot": {
    "ats": "ashby",
    "board": "whatnot",
-   "consecutive_errors": 3,
+   "consecutive_errors": 4,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -6140,7 +6140,7 @@
   "lever:cesiumastro": {
    "ats": "lever",
    "board": "cesiumastro",
-   "consecutive_errors": 1,
+   "consecutive_errors": 2,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -11070,7 +11070,7 @@
   "workday:liveramp.wd5/liverampcareers": {
    "ats": "workday",
    "board": "liveramp.wd5/liverampcareers",
-   "consecutive_errors": 6,
+   "consecutive_errors": 7,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -12063,7 +12063,7 @@
   "workday:osv-cci.wd1/ccicareers": {
    "ats": "workday",
    "board": "osv-cci.wd1/CCICareers",
-   "consecutive_errors": 10,
+   "consecutive_errors": 11,
    "deep": false,
    "deep_since": null,
    "disabled": true,
@@ -12080,7 +12080,7 @@
   "workday:osv-rubicon.wd5/magnitecareers": {
    "ats": "workday",
    "board": "osv-rubicon.wd5/MagniteCareers",
-   "consecutive_errors": 10,
+   "consecutive_errors": 11,
    "deep": false,
    "deep_since": null,
    "disabled": true,
@@ -12833,7 +12833,7 @@
   "workday:salesforce.wd12/external_career_site": {
    "ats": "workday",
    "board": "salesforce.wd12/External_Career_Site",
-   "consecutive_errors": 2,
+   "consecutive_errors": 3,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -12849,7 +12849,7 @@
   "workday:salesforce.wd12/futureforce_internships": {
    "ats": "workday",
    "board": "salesforce.wd12/Futureforce_Internships",
-   "consecutive_errors": 2,
+   "consecutive_errors": 0,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -12857,7 +12857,7 @@
    "first_seen": "2026-10-02T05:21:11+00:00",
    "last_deep_crawl": null,
    "last_match": "2026-10-19T00:10:33+00:00",
-   "last_ok": "2026-10-18T21:49:40+00:00",
+   "last_ok": "2026-10-18T23:10:04+00:00",
    "last_polled": "2026-10-19T00:10:33+00:00",
    "needs_config": false,
    "pinned": false

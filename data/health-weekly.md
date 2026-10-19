@@ -1,17 +1,17 @@
-# intern-radar weekly health — 2026-W43
+# intern-radar weekly health — 2026-W42
 
-Runs this week: 166
+Runs this week: 168
 
 | family | matched postings | unique finds (30 d) |
 |---|---|---|
-| ashby | 42890 | 154 |
-| greenhouse | 150309 | 710 |
-| lever | 20578 | 92 |
-| simplify | 208839 | 827 |
-| smartrecruiters | 28635 | 224 |
-| speedyapply | 125591 | 289 |
-| vanshb03 | 58208 | 308 |
-| workday | 368005 | 3327 |
+| ashby | 43405 | 154 |
+| greenhouse | 152101 | 710 |
+| lever | 20827 | 92 |
+| simplify | 211341 | 827 |
+| smartrecruiters | 28954 | 224 |
+| speedyapply | 127073 | 289 |
+| vanshb03 | 58989 | 308 |
+| workday | 372408 | 3327 |
 
 ## Head start over simplify (median hours, n ≥ 5)
 
