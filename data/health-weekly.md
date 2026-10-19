@@ -1,17 +1,17 @@
-# intern-radar weekly health — 2026-W42
+# intern-radar weekly health — 2026-W43
 
-Runs this week: 168
+Runs this week: 164
 
 | family | matched postings | unique finds (30 d) |
 |---|---|---|
-| ashby | 43405 | 154 |
-| greenhouse | 152101 | 710 |
-| lever | 20827 | 92 |
-| simplify | 211341 | 827 |
-| smartrecruiters | 28954 | 224 |
-| speedyapply | 127073 | 289 |
-| vanshb03 | 58989 | 308 |
-| workday | 372408 | 3327 |
+| ashby | 42358 | 154 |
+| greenhouse | 148684 | 709 |
+| lever | 20344 | 92 |
+| simplify | 206296 | 822 |
+| smartrecruiters | 28634 | 224 |
+| speedyapply | 124421 | 289 |
+| vanshb03 | 57853 | 321 |
+| workday | 363739 | 3330 |
 
 ## Head start over simplify (median hours, n ≥ 5)
 
@@ -20,10 +20,10 @@ Runs this week: 168
 - lever: +0.0 h (n=20)
 - smartrecruiters: +0.0 h (n=20)
 - speedyapply: +0.0 h (n=323)
-- vanshb03: +0.0 h (n=54)
+- vanshb03: -19.2 h (n=64)
 - workday: +0.0 h (n=544)
 
-## Disabled boards (9)
+## Disabled boards (7)
 
 - greenhouse:amplitude
 - greenhouse:clickhouse
@@ -32,8 +32,6 @@ Runs this week: 168
 - greenhouse:visiersolutionsinc
 - greenhouse:webflow
 - workday:comcast.wd5/comcast_careers
-- workday:osv-cci.wd1/ccicareers
-- workday:osv-rubicon.wd5/magnitecareers
 
 ## Deep (consider pinning) boards (43)
 
