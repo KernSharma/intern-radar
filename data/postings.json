@@ -2968,6 +2968,16 @@
   "posted_at": "2026-09-19",
   "source": "workday"
  },
+ "url:https://amat.wd1.myworkdayjobs.com/external/job/tempeaz/electrical-engineer-intern_r2631303": {
+  "company": "amat",
+  "title": "Electrical Engineer Intern",
+  "url": "https://amat.wd1.myworkdayjobs.com/External/job/TempeAZ/Electrical-Engineer-Intern_R2631303",
+  "locations": [
+   "Tempe,AZ"
+  ],
+  "posted_at": "2026-10-19",
+  "source": "workday"
+ },
  "url:https://amat.wd1.myworkdayjobs.com/external/job/trevisoita/supplier-industrial-engineer--internship-_r2613391": {
   "company": "amat",
   "title": "Supplier Industrial Engineer (Internship)",
@@ -8488,14 +8498,14 @@
   "source": "workday"
  },
  "url:https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/building-400-whippany-campus-jefferson-park/xmlname-2027-technology-developer-summer-internship-program-whippany_jr-0000123234": {
-  "company": "barclays",
-  "title": "2027 Technology Developer Summer Internship Program Whippany",
+  "company": "Barclays",
+  "title": "Technology Developer Intern - Technology",
   "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-400-Whippany-Campus-Jefferson-Park/XMLNAME-2027-Technology-Developer-Summer-Internship-Program-Whippany_JR-0000123234",
   "locations": [
-   "Building 400-Whippany Campus, Jefferson Park"
+   "Hanover, NJ"
   ],
-  "posted_at": "2026-09-19",
-  "source": "workday"
+  "posted_at": "2026-09-04",
+  "source": "simplify"
  },
  "url:https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/canary-wharf-1-churchill-place/client-data-and-engineering-group-summer-internship-programme-2027-london_jr-0000135782": {
   "company": "barclays",
@@ -8648,14 +8658,14 @@
   "source": "simplify"
  },
  "url:https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/knutsford-radbroke-hall/xmlname-2027-technology-developer-summer-internship-programme-knutsford_jr-0000129381": {
-  "company": "barclays",
-  "title": "2027 Technology Developer Summer Internship Programme Knutsford",
+  "company": "Barclays",
+  "title": "Technology Developer Intern",
   "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Knutsford_JR-0000129381",
   "locations": [
-   "Knutsford, Radbroke Hall"
+   "Knutsford, UK"
   ],
-  "posted_at": "2026-09-25",
-  "source": "workday"
+  "posted_at": "2026-09-09",
+  "source": "simplify"
  },
  "url:https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/new-york-745-7th-avenue/quantitative-finance-associate-summer-internship-program-2027-new-york_jr-0000128099": {
   "company": "Barclays",
@@ -17052,6 +17062,26 @@
   "posted_at": "2026-10-09",
   "source": "workday"
  },
+ "url:https://carrier.wd5.myworkdayjobs.com/jobs/job/cai19-utec-huntington-111-east-wayne-street-fort-wayne-in-46802-usa/test-engineering-intern---summer_30220233": {
+  "company": "carrier",
+  "title": "Test Engineering Intern - Summer",
+  "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Test-Engineering-Intern---Summer_30220233",
+  "locations": [
+   "CAI19: UTEC-Huntington, 111 East Wayne Street, Fort Wayne, IN, 46802 USA"
+  ],
+  "posted_at": "2026-10-19",
+  "source": "workday"
+ },
+ "url:https://carrier.wd5.myworkdayjobs.com/jobs/job/cai23-carrier-indianapolis-7310-west-morris-street-indianapolis-in-46231-usa/data-analytics-intern---summer_30220000": {
+  "company": "carrier",
+  "title": "Data Analytics Intern - Summer",
+  "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAI23-Carrier-Indianapolis-7310-West-Morris-Street-Indianapolis-IN-46231-USA/Data-Analytics-Intern---Summer_30220000",
+  "locations": [
+   "CAI23: Carrier-Indianapolis, 7310 West Morris Street, Indianapolis, IN, 46231 USA"
+  ],
+  "posted_at": "2026-10-19",
+  "source": "workday"
+ },
  "url:https://carrier.wd5.myworkdayjobs.com/jobs/job/cai23-carrier-indianapolis-7310-west-morris-street-indianapolis-in-46231-usa/intern--chemmtrlsengrg_30220163": {
   "company": "carrier",
   "title": "Chemical Engineering Intern -  Summer",
@@ -17060,6 +17090,26 @@
    "CAI23: Carrier-Indianapolis, 7310 West Morris Street, Indianapolis, IN, 46231 USA"
   ],
   "posted_at": "2026-10-15",
+  "source": "workday"
+ },
+ "url:https://carrier.wd5.myworkdayjobs.com/jobs/job/can01-carrier-syracuse-6304-carrier-parkway-east-syracuse-ny-13057-usa/quality-engineering-intern---summer_30220256-1": {
+  "company": "carrier",
+  "title": "Quality Engineering Intern - Summer",
+  "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Quality-Engineering-Intern---Summer_30220256-1",
+  "locations": [
+   "CAN01: Carrier-Syracuse, 6304 Carrier Parkway, East Syracuse, NY, 13057 USA"
+  ],
+  "posted_at": "2026-10-19",
+  "source": "workday"
+ },
+ "url:https://carrier.wd5.myworkdayjobs.com/jobs/job/canhq-ccs-hq---syracuse-6304-carrier-parkway-east-syracuse-ny-13057-usa/mechanical-engineering-intern---summer_30220247": {
+  "company": "carrier",
+  "title": "Mechanical Engineering Intern - Summer",
+  "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Mechanical-Engineering-Intern---Summer_30220247",
+  "locations": [
+   "CANHQ: CCS HQ - Syracuse, 6304 Carrier Parkway, East Syracuse, NY, 13057 USA"
+  ],
+  "posted_at": "2026-10-19",
   "source": "workday"
  },
  "url:https://carrier.wd5.myworkdayjobs.com/jobs/job/canhq-ccs-hq---syracuse-6304-carrier-parkway-east-syracuse-ny-13057-usa/software-engineering-intern---summer_30220161": {
@@ -27998,24 +28048,24 @@
   "source": "workday"
  },
  "url:https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/bellevue/ge-vernova---agi---ai-evaluation---benchmarking-intern---summer-2027_r5054821-1": {
-  "company": "gevernova",
-  "title": "GE Vernova – AGI – AI Evaluation & Benchmarking Intern - Summer 2027",
+  "company": "GE Vernova",
+  "title": "AI Evaluation & Benchmarking Intern - AGI",
   "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---AI-Evaluation---Benchmarking-Intern---Summer-2027_R5054821-1",
   "locations": [
-   "Bellevue"
+   "Bellevue, WA"
   ],
   "posted_at": "2026-10-14",
-  "source": "workday"
+  "source": "simplify"
  },
  "url:https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/bellevue/ge-vernova---agi---ai-post-training-and-model-alignment-intern---summer-2027_r5054822-1": {
-  "company": "gevernova",
-  "title": "GE Vernova – AGI – AI Post-Training and Model Alignment Intern - Summer 2027",
+  "company": "GE Vernova",
+  "title": "AI Post-Training and Model Alignment Intern",
   "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---AI-Post-Training-and-Model-Alignment-Intern---Summer-2027_R5054822-1",
   "locations": [
-   "Bellevue"
+   "Bellevue, WA"
   ],
   "posted_at": "2026-10-14",
-  "source": "workday"
+  "source": "simplify"
  },
  "url:https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/bellevue/ge-vernova---agi---ai-power-systems-intern---summer-2027_r5054818-1": {
   "company": "gevernova",
@@ -28258,14 +28308,14 @@
   "source": "workday"
  },
  "url:https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/niskayuna/engineering-intern---power-conversion---storage-ai-tool-developer--2027_r5049957-1": {
-  "company": "gevernova",
-  "title": "Engineering Intern - Power Conversion & Storage AI Tool Developer  2027",
+  "company": "GE Vernova",
+  "title": "Engineering Intern",
   "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-1",
   "locations": [
-   "Niskayuna"
+   "Niskayuna, NY"
   ],
-  "posted_at": "2026-09-19",
-  "source": "workday"
+  "posted_at": "2026-08-12",
+  "source": "simplify"
  },
  "url:https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/niskayuna/ge-vernova-advanced-research---summer-2027-research-program-internship--master-s-level-_r5053037-1": {
   "company": "gevernova",
@@ -28519,24 +28569,24 @@
   "source": "workday"
  },
  "url:https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/bellevue/ge-vernova---agi---ai-evaluation---benchmarking-intern---summer-2027_r5054821-2": {
-  "company": "gevernova",
-  "title": "GE Vernova – AGI – AI Evaluation & Benchmarking Intern - Summer 2027",
+  "company": "GE Vernova",
+  "title": "AI Evaluation & Benchmarking Intern",
   "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---AI-Evaluation---Benchmarking-Intern---Summer-2027_R5054821-2",
   "locations": [
-   "Bellevue"
+   "Bellevue, WA"
   ],
   "posted_at": "2026-10-14",
-  "source": "workday"
+  "source": "simplify"
  },
  "url:https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/bellevue/ge-vernova---agi---ai-post-training-and-model-alignment-intern---summer-2027_r5054822-2": {
-  "company": "gevernova",
-  "title": "GE Vernova – AGI – AI Post-Training and Model Alignment Intern - Summer 2027",
+  "company": "GE Vernova",
+  "title": "AI Post-Training and Model Alignment Intern",
   "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---AI-Post-Training-and-Model-Alignment-Intern---Summer-2027_R5054822-2",
   "locations": [
-   "Bellevue"
+   "Bellevue, WA"
   ],
   "posted_at": "2026-10-14",
-  "source": "workday"
+  "source": "simplify"
  },
  "url:https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/bellevue/ge-vernova---agi---ai-power-systems-intern---summer-2027_r5054818-2": {
   "company": "gevernova",
@@ -28799,14 +28849,14 @@
   "source": "workday"
  },
  "url:https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/niskayuna/engineering-intern---power-conversion---storage-ai-tool-developer--2027_r5049957-2": {
-  "company": "gevernova",
-  "title": "Engineering Intern - Power Conversion & Storage AI Tool Developer  2027",
+  "company": "GE Vernova",
+  "title": "Engineering Intern",
   "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-2",
   "locations": [
-   "Niskayuna"
+   "Niskayuna, NY"
   ],
-  "posted_at": "2026-09-19",
-  "source": "workday"
+  "posted_at": "2026-08-12",
+  "source": "simplify"
  },
  "url:https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/niskayuna/ge-vernova-advanced-research---summer-2027-research-program-internship--master-s-level-_r5053037-2": {
   "company": "gevernova",
@@ -31945,7 +31995,7 @@
   "locations": [
    "US-CT-WINDSOR LOCKS-B1 ~ 1 Hamilton Rd ~ BLDG 1"
   ],
-  "posted_at": "2026-09-29",
+  "posted_at": "2026-10-19",
   "source": "workday"
  },
  "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ct-windsor-locks-b1--1-hamilton-rd--bldg-1/electrical-project-engineering-intern--summer-2027-_01872437": {
@@ -36624,6 +36674,16 @@
   "posted_at": "2026-10-02",
   "source": "workday"
  },
+ "url:https://hp.wd5.myworkdayjobs.com/externalcareersite/job/heredia-heredia-costa-rica/business-process-automation---data-analytics-intern_3170183-1": {
+  "company": "hp",
+  "title": "Business Process Automation & Data Analytics Intern",
+  "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Heredia-Heredia-Costa-Rica/Business-Process-Automation---Data-Analytics-Intern_3170183-1",
+  "locations": [
+   "Heredia, Heredia, Costa Rica"
+  ],
+  "posted_at": "2026-10-19",
+  "source": "workday"
+ },
  "url:https://hp.wd5.myworkdayjobs.com/externalcareersite/job/porto-alegre-rio-grande-do-sul-brazil/machine-learning-development-intern_uni4106-1": {
   "company": "hp",
   "title": "Machine Learning Development Intern",
@@ -36772,6 +36832,16 @@
    "Corvallis, Oregon, United States of America"
   ],
   "posted_at": "2026-10-03",
+  "source": "workday"
+ },
+ "url:https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/heredia-heredia-costa-rica/business-process-automation---data-analytics-intern_3170183": {
+  "company": "hp",
+  "title": "Business Process Automation & Data Analytics Intern",
+  "url": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Heredia-Heredia-Costa-Rica/Business-Process-Automation---Data-Analytics-Intern_3170183",
+  "locations": [
+   "Heredia, Heredia, Costa Rica"
+  ],
+  "posted_at": "2026-10-19",
   "source": "workday"
  },
  "url:https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/porto-alegre-rio-grande-do-sul-brazil/machine-learning-development-intern_uni4106": {
@@ -41159,14 +41229,14 @@
   "source": "greenhouse"
  },
  "url:https://job-boards.greenhouse.io/aperaaiinc/jobs/5239394007": {
-  "company": "Apera AI Inc",
-  "title": "Software Developer - C++ (Co-op)",
+  "company": "Apera AI",
+  "title": "Software Developer Co-op - C++",
   "url": "https://job-boards.greenhouse.io/aperaaiinc/jobs/5239394007",
   "locations": [
-   "Vancouver, British Columbia"
+   "Vancouver, BC, Canada"
   ],
-  "posted_at": "2026-09-15",
-  "source": "greenhouse"
+  "posted_at": "2026-09-16",
+  "source": "simplify"
  },
  "url:https://job-boards.greenhouse.io/aperaaiinc/jobs/5239440007": {
   "company": "Apera AI Inc",
@@ -41953,10 +42023,10 @@
   "title": "Machine Learning Engineer Intern",
   "url": "https://job-boards.greenhouse.io/atoms/jobs/8869105002",
   "locations": [
-   "San Francisco, CA"
+   "SF"
   ],
-  "posted_at": "2026-10-05",
-  "source": "greenhouse"
+  "posted_at": "2026-10-06",
+  "source": "simplify"
  },
  "url:https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003": {
   "company": "Axon",
@@ -42320,14 +42390,14 @@
   "source": "greenhouse"
  },
  "url:https://job-boards.greenhouse.io/cssmerge/jobs/8869106002": {
-  "company": "ATOMS Careers page",
+  "company": "Atoms",
   "title": "Machine Learning Engineer Intern",
   "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8869106002",
   "locations": [
-   "San Francisco, CA"
+   "SF"
   ],
   "posted_at": "2026-10-05",
-  "source": "greenhouse"
+  "source": "simplify"
  },
  "url:https://job-boards.greenhouse.io/cssmerge/jobs/8888411002": {
   "company": "ATOMS Careers page",
@@ -62187,7 +62257,7 @@
   "locations": [
    "Lowe's Charlotte Technology Hub 3505"
   ],
-  "posted_at": "2026-09-18",
+  "posted_at": "2026-09-19",
   "source": "workday"
  },
  "url:https://lowes.wd5.myworkdayjobs.com/lws_external_cs/job/lowes-charlotte-technology-hub-3505/software-engineer---undergrad-internship---summer-2027_jr-02623576": {
@@ -62197,7 +62267,7 @@
   "locations": [
    "Lowe's Charlotte Technology Hub 3505"
   ],
-  "posted_at": "2026-09-18",
+  "posted_at": "2026-09-19",
   "source": "workday"
  },
  "url:https://lowes.wd5.myworkdayjobs.com/lws_external_cs/job/mooresville-nc-ssc-1999/quality-assurance-engineering---undergrad-internship---summer-2027_jr-02648572": {
@@ -66489,7 +66559,7 @@
   "locations": [
    "MSB, Singapore"
   ],
-  "posted_at": "2026-10-17",
+  "posted_at": "2026-10-16",
   "source": "workday"
  },
  "url:https://micron.wd1.myworkdayjobs.com/external/job/msb-singapore/intern---product-engineering--nand-validation-characterization_jr111131": {
@@ -69732,14 +69802,14 @@
   "source": "workday"
  },
  "url:https://newrez.wd1.myworkdayjobs.com/nrz/job/tx-coppell/xmlname-2027-summer-internship---software-developer_r10390": {
-  "company": "Newrez",
-  "title": "Software Developer Intern",
+  "company": "newrez",
+  "title": "2027 Summer Internship - Software Developer",
   "url": "https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/XMLNAME-2027-Summer-Internship---Software-Developer_R10390",
   "locations": [
-   "Coppell, TX"
+   "TX, Coppell"
   ],
-  "posted_at": "2026-09-01",
-  "source": "simplify"
+  "posted_at": "2026-09-19",
+  "source": "workday"
  },
  "url:https://ngc.wd1.myworkdayjobs.com/en-us/northrop_grumman_external_site/job/united-states-california-manhattan-beach/xmlname-2027-computer-engineer-intern---manhattan-beach-ca_r10255835": {
   "company": "Northrop Grumman",
@@ -85877,7 +85947,7 @@
   "locations": [
    "3 Locations"
   ],
-  "posted_at": "2026-09-18",
+  "posted_at": "2026-10-19",
   "source": "workday"
  },
  "url:https://trimble.wd1.myworkdayjobs.com/trimblecareers/job/us---co-westminster/software-engineering-intern_r57676": {
@@ -85887,7 +85957,7 @@
   "locations": [
    "7 Locations"
   ],
-  "posted_at": "2026-09-18",
+  "posted_at": "2026-10-19",
   "source": "workday"
  },
  "url:https://troweprice.wd5.myworkdayjobs.com/en-us/troweprice/job/baltimore-md/xmlname-2027-global-trading-internship-program_82718": {
