@@ -195,7 +195,7 @@
   "ashby:atomicsemi": {
    "ats": "ashby",
    "board": "atomicsemi",
-   "consecutive_errors": 4,
+   "consecutive_errors": 5,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -841,7 +841,7 @@
    "deep_since": null,
    "disabled": false,
    "discovered_via": "vanshb03",
-   "first_seen": "2026-10-20T17:29:45+00:00",
+   "first_seen": "2026-10-20T17:07:02+00:00",
    "last_deep_crawl": null,
    "last_match": "2026-10-20T17:29:45+00:00",
    "last_ok": null,
@@ -900,7 +900,7 @@
   "ashby:incident": {
    "ats": "ashby",
    "board": "incident",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -1012,7 +1012,7 @@
   "ashby:maximor": {
    "ats": "ashby",
    "board": "maximor",
-   "consecutive_errors": 1,
+   "consecutive_errors": 2,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -1189,7 +1189,7 @@
   "ashby:openai": {
    "ats": "ashby",
    "board": "openai",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -1349,7 +1349,7 @@
   "ashby:poshmark": {
    "ats": "ashby",
    "board": "poshmark",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -1365,7 +1365,7 @@
   "ashby:primer": {
    "ats": "ashby",
    "board": "primer",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -1381,7 +1381,7 @@
   "ashby:pylon-labs": {
    "ats": "ashby",
    "board": "pylon-labs",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -1397,7 +1397,7 @@
   "ashby:quadrillion-labs": {
    "ats": "ashby",
    "board": "quadrillion-labs",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -1413,7 +1413,7 @@
   "ashby:qumulo": {
    "ats": "ashby",
    "board": "qumulo",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -1429,7 +1429,7 @@
   "ashby:ramp": {
    "ats": "ashby",
    "board": "ramp",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -1445,7 +1445,7 @@
   "ashby:range": {
    "ats": "ashby",
    "board": "range",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -1477,7 +1477,7 @@
   "ashby:reflect-orbital": {
    "ats": "ashby",
    "board": "reflect-orbital",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -1493,7 +1493,7 @@
   "ashby:replit": {
    "ats": "ashby",
    "board": "replit",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -1509,7 +1509,7 @@
   "ashby:revel": {
    "ats": "ashby",
    "board": "revel",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -1525,7 +1525,7 @@
   "ashby:rhoda-ai": {
    "ats": "ashby",
    "board": "rhoda-ai",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -1541,7 +1541,7 @@
   "ashby:rilla": {
    "ats": "ashby",
    "board": "rilla",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -1557,7 +1557,7 @@
   "ashby:rivianvw.tech": {
    "ats": "ashby",
    "board": "rivianvw.tech",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -1589,7 +1589,7 @@
   "ashby:saronic": {
    "ats": "ashby",
    "board": "saronic",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -1653,7 +1653,7 @@
   "ashby:skydio": {
    "ats": "ashby",
    "board": "skydio",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -1685,7 +1685,7 @@
   "ashby:stradahq": {
    "ats": "ashby",
    "board": "stradahq",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -1701,7 +1701,7 @@
   "ashby:suno": {
    "ats": "ashby",
    "board": "suno",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -1717,7 +1717,7 @@
   "ashby:swarmaero": {
    "ats": "ashby",
    "board": "swarmaero",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -1733,7 +1733,7 @@
   "ashby:talos-trading": {
    "ats": "ashby",
    "board": "talos-trading",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -1749,7 +1749,7 @@
   "ashby:telus-digital": {
    "ats": "ashby",
    "board": "telus-digital",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -1765,7 +1765,7 @@
   "ashby:tensorwave": {
    "ats": "ashby",
    "board": "tensorwave",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -1781,7 +1781,7 @@
   "ashby:terranova": {
    "ats": "ashby",
    "board": "terranova",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -1877,7 +1877,7 @@
   "ashby:whatnot": {
    "ats": "ashby",
    "board": "whatnot",
-   "consecutive_errors": 4,
+   "consecutive_errors": 5,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -2412,7 +2412,7 @@
    "deep_since": null,
    "disabled": false,
    "discovered_via": "speedyapply",
-   "first_seen": "2026-10-20T17:29:45+00:00",
+   "first_seen": "2026-10-20T17:07:02+00:00",
    "last_deep_crawl": null,
    "last_match": "2026-10-20T17:29:45+00:00",
    "last_ok": null,
@@ -2428,7 +2428,7 @@
    "deep_since": null,
    "disabled": false,
    "discovered_via": "speedyapply",
-   "first_seen": "2026-10-20T17:29:45+00:00",
+   "first_seen": "2026-10-20T17:07:02+00:00",
    "last_deep_crawl": null,
    "last_match": "2026-10-20T17:29:45+00:00",
    "last_ok": null,
@@ -2519,7 +2519,7 @@
   "greenhouse:carbonrobotics": {
    "ats": "greenhouse",
    "board": "carbonrobotics",
-   "consecutive_errors": 1,
+   "consecutive_errors": 2,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -3534,7 +3534,7 @@
    "deep_since": null,
    "disabled": false,
    "discovered_via": "vanshb03",
-   "first_seen": "2026-10-20T17:29:45+00:00",
+   "first_seen": "2026-10-20T17:07:02+00:00",
    "last_deep_crawl": null,
    "last_match": "2026-10-20T17:29:45+00:00",
    "last_ok": null,
@@ -3822,7 +3822,7 @@
    "deep_since": null,
    "disabled": false,
    "discovered_via": "vanshb03",
-   "first_seen": "2026-10-20T17:29:45+00:00",
+   "first_seen": "2026-10-20T17:07:02+00:00",
    "last_deep_crawl": null,
    "last_match": "2026-10-20T17:29:45+00:00",
    "last_ok": null,
@@ -4078,7 +4078,7 @@
    "deep_since": null,
    "disabled": false,
    "discovered_via": "gh_custom",
-   "first_seen": "2026-10-20T17:29:45+00:00",
+   "first_seen": "2026-10-20T17:07:02+00:00",
    "last_deep_crawl": null,
    "last_match": null,
    "last_ok": null,
@@ -6428,7 +6428,7 @@
   "lever:cesiumastro": {
    "ats": "lever",
    "board": "cesiumastro",
-   "consecutive_errors": 2,
+   "consecutive_errors": 3,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -7154,7 +7154,7 @@
    "deep_since": null,
    "disabled": false,
    "discovered_via": "vanshb03",
-   "first_seen": "2026-10-20T17:29:45+00:00",
+   "first_seen": "2026-10-20T17:07:02+00:00",
    "last_deep_crawl": null,
    "last_match": "2026-10-20T17:29:45+00:00",
    "last_ok": null,
@@ -8274,7 +8274,7 @@
    "deep_since": null,
    "disabled": false,
    "discovered_via": "vanshb03",
-   "first_seen": "2026-10-20T17:29:45+00:00",
+   "first_seen": "2026-10-20T17:07:02+00:00",
    "last_deep_crawl": null,
    "last_match": "2026-10-20T17:29:45+00:00",
    "last_ok": null,
@@ -11059,7 +11059,7 @@
    "deep_since": null,
    "disabled": false,
    "discovered_via": "speedyapply",
-   "first_seen": "2026-10-20T17:29:45+00:00",
+   "first_seen": "2026-10-20T17:07:02+00:00",
    "last_deep_crawl": null,
    "last_match": "2026-10-20T17:29:45+00:00",
    "last_ok": null,
@@ -11534,7 +11534,7 @@
   "workday:liveramp.wd5/liverampcareers": {
    "ats": "workday",
    "board": "liveramp.wd5/liverampcareers",
-   "consecutive_errors": 7,
+   "consecutive_errors": 8,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -12527,7 +12527,7 @@
   "workday:osv-cci.wd1/ccicareers": {
    "ats": "workday",
    "board": "osv-cci.wd1/CCICareers",
-   "consecutive_errors": 10,
+   "consecutive_errors": 11,
    "deep": false,
    "deep_since": null,
    "disabled": true,
@@ -12544,7 +12544,7 @@
   "workday:osv-rubicon.wd5/magnitecareers": {
    "ats": "workday",
    "board": "osv-rubicon.wd5/MagniteCareers",
-   "consecutive_errors": 10,
+   "consecutive_errors": 11,
    "deep": false,
    "deep_since": null,
    "disabled": true,
