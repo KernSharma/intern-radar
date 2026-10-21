@@ -195,7 +195,7 @@
   "ashby:atomicsemi": {
    "ats": "ashby",
    "board": "atomicsemi",
-   "consecutive_errors": 5,
+   "consecutive_errors": 6,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -1925,7 +1925,7 @@
   "ashby:whatnot": {
    "ats": "ashby",
    "board": "whatnot",
-   "consecutive_errors": 5,
+   "consecutive_errors": 6,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -2681,7 +2681,7 @@
   "greenhouse:cloudflare": {
    "ats": "greenhouse",
    "board": "cloudflare",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -4218,7 +4218,7 @@
   "greenhouse:oldmissioncapital": {
    "ats": "greenhouse",
    "board": "oldmissioncapital",
-   "consecutive_errors": 1,
+   "consecutive_errors": 0,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -5216,7 +5216,7 @@
    "deep_since": null,
    "disabled": false,
    "discovered_via": "gh_custom",
-   "first_seen": "2026-10-21T09:38:17+00:00",
+   "first_seen": "2026-10-21T09:23:38+00:00",
    "last_deep_crawl": null,
    "last_match": "2026-10-21T15:10:08+00:00",
    "last_ok": "2026-10-21T15:10:08+00:00",
@@ -6541,7 +6541,7 @@
   "lever:cesiumastro": {
    "ats": "lever",
    "board": "cesiumastro",
-   "consecutive_errors": 3,
+   "consecutive_errors": 4,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -9262,7 +9262,7 @@
   "workday:brookfield.wd5/brookfield": {
    "ats": "workday",
    "board": "brookfield.wd5/brookfield",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -9710,7 +9710,7 @@
   "workday:citi.wd5/2": {
    "ats": "workday",
    "board": "citi.wd5/2",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -14376,7 +14376,7 @@
    "deep_since": null,
    "disabled": false,
    "discovered_via": "simplify",
-   "first_seen": "2026-10-21T15:10:08+00:00",
+   "first_seen": "2026-10-21T09:23:38+00:00",
    "last_deep_crawl": null,
    "last_match": "2026-10-21T15:10:08+00:00",
    "last_ok": null,
