@@ -3,98 +3,26 @@
   "R5|deep-crawl workday:pwc.wd3/us_entry_level_careers": {
    "opened_at": "2026-10-21T19:34:08+00:00"
   },
+  "R6|ashby:atomicsemi": {
+   "opened_at": "2026-10-21T20:07:05+00:00"
+  },
   "R6|ashby:maximor": {
    "opened_at": "2026-10-20T23:37:05+00:00"
   },
+  "R6|ashby:whatnot": {
+   "opened_at": "2026-10-21T20:07:05+00:00"
+  },
   "R6|greenhouse:carbonrobotics": {
    "opened_at": "2026-10-20T23:37:05+00:00"
+  },
+  "R6|workday:liveramp.wd5/liverampcareers": {
+   "opened_at": "2026-10-21T20:07:05+00:00"
   }
  },
  "last_health_ntfy_at": "2026-10-21T15:10:08+00:00",
- "last_run_at": "2026-10-21T19:37:05+00:00",
+ "last_run_at": "2026-10-21T20:07:05+00:00",
  "runner": "mac",
  "runs": [
-  {
-   "at": "2026-10-04T22:37:05+00:00",
-   "boards_polled": 656,
-   "boards_skipped_budget": 0,
-   "families": {
-    "ashby": {
-     "errors": 2,
-     "jobs": 105,
-     "matches": 255,
-     "newest": "2026-10-04",
-     "ok": 103,
-     "postings": 6612,
-     "seconds": 81.77
-    },
-    "greenhouse": {
-     "errors": 0,
-     "jobs": 176,
-     "matches": 821,
-     "newest": "2026-10-04",
-     "ok": 176,
-     "postings": 23859,
-     "seconds": 28.28
-    },
-    "lever": {
-     "errors": 1,
-     "jobs": 24,
-     "matches": 128,
-     "newest": "2026-10-03",
-     "ok": 23,
-     "postings": 2447,
-     "seconds": 111.11
-    },
-    "simplify": {
-     "errors": 0,
-     "jobs": 1,
-     "matches": 1228,
-     "newest": "2026-10-04",
-     "ok": 1,
-     "postings": 4434,
-     "seconds": 19.45
-    },
-    "smartrecruiters": {
-     "errors": 0,
-     "jobs": 15,
-     "matches": 104,
-     "newest": "2026-10-04",
-     "ok": 15,
-     "postings": 1066,
-     "seconds": 10.36
-    },
-    "speedyapply": {
-     "errors": 0,
-     "jobs": 1,
-     "matches": 688,
-     "newest": "2026-10-03",
-     "ok": 1,
-     "postings": 763,
-     "seconds": 0.61
-    },
-    "vanshb03": {
-     "errors": 0,
-     "jobs": 1,
-     "matches": 323,
-     "newest": "2026-08-21",
-     "ok": 1,
-     "postings": 371,
-     "seconds": 0.66
-    },
-    "workday": {
-     "errors": 2,
-     "jobs": 336,
-     "matches": 2106,
-     "newest": "2026-10-04",
-     "ok": 334,
-     "postings": 16231,
-     "seconds": 676.97
-    }
-   },
-   "runner": "mac",
-   "seconds": 190.8
-  },
   {
    "at": "2026-10-04T23:07:05+00:00",
    "boards_polled": 655,
@@ -32413,6 +32341,87 @@
    },
    "runner": "mac",
    "seconds": 198.5
+  },
+  {
+   "at": "2026-10-21T20:07:05+00:00",
+   "boards_polled": 801,
+   "boards_skipped_budget": 0,
+   "families": {
+    "ashby": {
+     "errors": 2,
+     "jobs": 120,
+     "matches": 274,
+     "newest": "2026-10-21",
+     "ok": 118,
+     "postings": 7313,
+     "seconds": 61.16
+    },
+    "greenhouse": {
+     "errors": 1,
+     "jobs": 213,
+     "matches": 940,
+     "newest": "2026-10-21",
+     "ok": 212,
+     "postings": 26478,
+     "seconds": 50.47
+    },
+    "lever": {
+     "errors": 1,
+     "jobs": 34,
+     "matches": 131,
+     "newest": "2026-10-21",
+     "ok": 33,
+     "postings": 2814,
+     "seconds": 152.41
+    },
+    "simplify": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 1268,
+     "newest": "2026-10-21",
+     "ok": 1,
+     "postings": 4822,
+     "seconds": 2.57
+    },
+    "smartrecruiters": {
+     "errors": 0,
+     "jobs": 23,
+     "matches": 205,
+     "newest": "2026-10-21",
+     "ok": 23,
+     "postings": 1997,
+     "seconds": 16.21
+    },
+    "speedyapply": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 752,
+     "newest": "2026-10-21",
+     "ok": 1,
+     "postings": 840,
+     "seconds": 0.39
+    },
+    "vanshb03": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 629,
+     "newest": "2026-10-21",
+     "ok": 1,
+     "postings": 681,
+     "seconds": 0.36
+    },
+    "workday": {
+     "errors": 3,
+     "jobs": 411,
+     "matches": 2282,
+     "newest": "2026-10-21",
+     "ok": 408,
+     "postings": 18862,
+     "seconds": 905.69
+    }
+   },
+   "runner": "mac",
+   "seconds": 228.1
   }
  ],
  "version": 1,
