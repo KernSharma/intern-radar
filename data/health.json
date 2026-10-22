@@ -1,97 +1,25 @@
 {
  "alerts": {
+  "R6|ashby:atomicsemi": {
+   "opened_at": "2026-10-22T17:36:06+00:00"
+  },
   "R6|ashby:maximor": {
    "opened_at": "2026-10-20T23:37:05+00:00"
   },
+  "R6|ashby:whatnot": {
+   "opened_at": "2026-10-22T17:36:06+00:00"
+  },
   "R6|greenhouse:carbonrobotics": {
    "opened_at": "2026-10-20T23:37:05+00:00"
+  },
+  "R6|workday:liveramp.wd5/liverampcareers": {
+   "opened_at": "2026-10-22T17:36:06+00:00"
   }
  },
- "last_health_ntfy_at": "2026-10-22T10:08:56+00:00",
- "last_run_at": "2026-10-22T15:37:56+00:00",
- "runner": "mac",
+ "last_health_ntfy_at": "2026-10-22T17:36:06+00:00",
+ "last_run_at": "2026-10-22T17:36:06+00:00",
+ "runner": "actions",
  "runs": [
-  {
-   "at": "2026-10-06T05:07:05+00:00",
-   "boards_polled": 663,
-   "boards_skipped_budget": 0,
-   "families": {
-    "ashby": {
-     "errors": 2,
-     "jobs": 105,
-     "matches": 251,
-     "newest": "2026-10-06",
-     "ok": 103,
-     "postings": 6556,
-     "seconds": 68.67
-    },
-    "greenhouse": {
-     "errors": 0,
-     "jobs": 179,
-     "matches": 831,
-     "newest": "2026-10-06",
-     "ok": 179,
-     "postings": 23928,
-     "seconds": 33.03
-    },
-    "lever": {
-     "errors": 1,
-     "jobs": 24,
-     "matches": 122,
-     "newest": "2026-10-05",
-     "ok": 23,
-     "postings": 2449,
-     "seconds": 76.61
-    },
-    "simplify": {
-     "errors": 0,
-     "jobs": 1,
-     "matches": 1235,
-     "newest": "2026-10-06",
-     "ok": 1,
-     "postings": 4452,
-     "seconds": 36.48
-    },
-    "smartrecruiters": {
-     "errors": 0,
-     "jobs": 15,
-     "matches": 104,
-     "newest": "2026-10-06",
-     "ok": 15,
-     "postings": 1079,
-     "seconds": 10.39
-    },
-    "speedyapply": {
-     "errors": 0,
-     "jobs": 1,
-     "matches": 687,
-     "newest": "2026-10-06",
-     "ok": 1,
-     "postings": 761,
-     "seconds": 0.26
-    },
-    "vanshb03": {
-     "errors": 0,
-     "jobs": 1,
-     "matches": 323,
-     "newest": "2026-08-21",
-     "ok": 1,
-     "postings": 371,
-     "seconds": 0.5
-    },
-    "workday": {
-     "errors": 2,
-     "jobs": 340,
-     "matches": 2123,
-     "newest": "2026-10-06",
-     "ok": 338,
-     "postings": 16254,
-     "seconds": 615.55
-    }
-   },
-   "runner": "mac",
-   "seconds": 157.7
-  },
   {
    "at": "2026-10-06T05:51:10+00:00",
    "boards_polled": 662,
@@ -32410,6 +32338,87 @@
    },
    "runner": "mac",
    "seconds": 240.9
+  },
+  {
+   "at": "2026-10-22T17:36:06+00:00",
+   "boards_polled": 813,
+   "boards_skipped_budget": 0,
+   "families": {
+    "ashby": {
+     "errors": 2,
+     "jobs": 124,
+     "matches": 273,
+     "newest": "2026-10-22",
+     "ok": 122,
+     "postings": 7706,
+     "seconds": 6.49
+    },
+    "greenhouse": {
+     "errors": 1,
+     "jobs": 215,
+     "matches": 939,
+     "newest": "2026-10-22",
+     "ok": 214,
+     "postings": 26589,
+     "seconds": 14.08
+    },
+    "lever": {
+     "errors": 1,
+     "jobs": 34,
+     "matches": 129,
+     "newest": "2026-10-22",
+     "ok": 33,
+     "postings": 2826,
+     "seconds": 23.96
+    },
+    "simplify": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 1273,
+     "newest": "2026-10-22",
+     "ok": 1,
+     "postings": 4859,
+     "seconds": 0.29
+    },
+    "smartrecruiters": {
+     "errors": 0,
+     "jobs": 23,
+     "matches": 210,
+     "newest": "2026-10-22",
+     "ok": 23,
+     "postings": 2005,
+     "seconds": 13.12
+    },
+    "speedyapply": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 746,
+     "newest": "2026-10-22",
+     "ok": 1,
+     "postings": 833,
+     "seconds": 0.22
+    },
+    "vanshb03": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 662,
+     "newest": "2026-10-22",
+     "ok": 1,
+     "postings": 714,
+     "seconds": 0.1
+    },
+    "workday": {
+     "errors": 3,
+     "jobs": 417,
+     "matches": 2273,
+     "newest": "2026-10-22",
+     "ok": 414,
+     "postings": 19180,
+     "seconds": 795.21
+    }
+   },
+   "runner": "actions",
+   "seconds": 128.0
   }
  ],
  "version": 1,
