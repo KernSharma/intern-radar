@@ -909,6 +909,16 @@
   "posted_at": "2026-09-29",
   "source": "workday"
  },
+ "url:https://aero.wd5.myworkdayjobs.com/external/job/el-segundo-ca/xmlname-2027-embedded-software-engineering-undergrad-intern_r016949": {
+  "company": "The Aerospace Corporation",
+  "title": "Embedded Software Engineer Intern, Multiple Teams",
+  "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Embedded-Software-Engineering-Undergrad-Intern_R016949",
+  "locations": [
+   "El Segundo, CA"
+  ],
+  "posted_at": "2026-10-21",
+  "source": "vanshb03"
+ },
  "url:https://aero.wd5.myworkdayjobs.com/external/job/el-segundo-ca/xmlname-2027-hardware-security-engineering-undergrad--intern_r016954": {
   "company": "Aerospace Corporation",
   "title": "Hardware Security Engineering Intern",
@@ -999,6 +1009,16 @@
   ],
   "posted_at": "2026-09-20",
   "source": "simplify"
+ },
+ "url:https://aero.wd5.myworkdayjobs.com/external/job/el-segundo-ca/xmlname-2027-signal-processing-and-rf-engineering-undergrad-intern_r016849": {
+  "company": "Aerospace Corporation",
+  "title": "Signal Processing and RF Engineering Intern",
+  "url": "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Signal-Processing-and-RF-Engineering-Undergrad-Intern_R016849",
+  "locations": [
+   "El Segundo, CA"
+  ],
+  "posted_at": "2026-10-21",
+  "source": "vanshb03"
  },
  "url:https://aero.wd5.myworkdayjobs.com/external/job/el-segundo-ca/xmlname-2027-software-systems-engineer-and-acquisition-intern_r016431": {
   "company": "The Aerospace Corporation",
@@ -4068,7 +4088,7 @@
    "Madison, WI"
   ],
   "posted_at": "2026-10-21",
-  "source": "simplify"
+  "source": "vanshb03"
  },
  "url:https://amfam.wd1.myworkdayjobs.com/en-us/careers/job/wi-madison/summer-2027-intern---data-engineering_r39674": {
   "company": "American Family Insurance Group",
@@ -5291,6 +5311,16 @@
   "posted_at": "2026-10-17",
   "source": "speedyapply"
  },
+ "url:https://apply.careers.microsoft.com/careers/job/1970393557044765": {
+  "company": "Microsoft",
+  "title": "Software Engineer Intern, Security & Identity",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557044765",
+  "locations": [
+   "Cambridge, MA"
+  ],
+  "posted_at": "2026-10-21",
+  "source": "vanshb03"
+ },
  "url:https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0": {
   "company": "Microsoft",
   "title": "Software Engineer Intern, CoreAI",
@@ -6020,6 +6050,16 @@
   ],
   "posted_at": "2026-10-10",
   "source": "speedyapply"
+ },
+ "url:https://aptiv.wd5.myworkdayjobs.com/en-us/aptiv_careers/job/usa-san-diego-ca---wr/product-analyst-intern_j000704400": {
+  "company": "Aptiv",
+  "title": "AI Product Analyst Intern",
+  "url": "https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/USA-San-Diego-CA---WR/Product-Analyst-Intern_J000704400",
+  "locations": [
+   "San Diego, CA"
+  ],
+  "posted_at": "2026-10-21",
+  "source": "vanshb03"
  },
  "url:https://aptiv.wd5.myworkdayjobs.com/en-us/aptiv_careers/job/usa-walnut-creek-ca---wr/embedded-software---engineering-intern_j000704386": {
   "company": "Aptiv",
@@ -9930,6 +9970,16 @@
   "posted_at": "2026-09-19",
   "source": "speedyapply"
  },
+ "url:https://bmo.wd3.myworkdayjobs.com/en-us/external/job/toronto-on-can/data---ai-analyst--winter-2027--co-op-internship----4-months_r260029651": {
+  "company": "BMO",
+  "title": "Data & AI Analyst Co-op",
+  "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Data---AI-Analyst--Winter-2027--Co-op-Internship----4-Months_R260029651",
+  "locations": [
+   "Toronto, ON, Canada"
+  ],
+  "posted_at": "2026-10-21",
+  "source": "vanshb03"
+ },
  "url:https://bmo.wd3.myworkdayjobs.com/en-us/external/job/toronto-on-can/junior-cloud-engineer--summer-2027--co-op-internship----16-months_r260029417-1": {
   "company": "BMO Financial Group",
   "title": "Junior Cloud Engineer Co-op",
@@ -10265,6 +10315,16 @@
   ],
   "posted_at": "2026-10-21",
   "source": "greenhouse"
+ },
+ "url:https://boards.greenhouse.io/andurilindustries/jobs/5271842007": {
+  "company": "Anduril",
+  "title": "Robotics Engineer Co-op",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5271842007",
+  "locations": [
+   "Quincy, MA"
+  ],
+  "posted_at": "2026-10-21",
+  "source": "vanshb03"
  },
  "url:https://boards.greenhouse.io/cloudflare/jobs/7774167?gh_jid=7774167": {
   "company": "Cloudflare",
@@ -16310,14 +16370,13 @@
  },
  "url:https://careers.duolingo.com/jobs/8888721002?gh_jid=8888721002": {
   "company": "Duolingo",
-  "title": "Data Scientist Intern",
+  "title": "Data Scientist, Intern",
   "url": "https://careers.duolingo.com/jobs/8888721002?gh_jid=8888721002",
   "locations": [
-   "New York, NY",
-   "Pittsburgh, PA"
+   "New York, NY; Pittsburgh, PA"
   ],
   "posted_at": "2026-10-15",
-  "source": "vanshb03"
+  "source": "greenhouse"
  },
  "url:https://careers.fastenterprises.com/jobs/1709?icims=1": {
   "company": "FAST Enterprises",
@@ -17157,6 +17216,16 @@
   ],
   "posted_at": "2026-09-02",
   "source": "greenhouse"
+ },
+ "url:https://careers.safran-dsi.com/job/bedford-software-engineering-internship-nh-03110/1440599100?ats=successfactors": {
+  "company": "Safran",
+  "title": "Software Engineering Intern",
+  "url": "https://careers.safran-dsi.com/job/Bedford-Software-Engineering-Internship-NH-03110/1440599100/?ats=successfactors",
+  "locations": [
+   "Bedford, NH"
+  ],
+  "posted_at": "2026-10-21",
+  "source": "vanshb03"
  },
  "url:https://careers.sig.com/intern-co-op-technology/jobs/10838?lang=en-us": {
   "company": "Susquehanna Investment Group",
@@ -19106,6 +19175,16 @@
    "Toronto, ON"
   ],
   "posted_at": "2026-10-19",
+  "source": "vanshb03"
+ },
+ "url:https://cibc.wd3.myworkdayjobs.com/en-us/campus/job/toronto-on/ai-and-quantum-scientist-co-op_2621649": {
+  "company": "CIBC",
+  "title": "AI and Quantum Scientist Co-op",
+  "url": "https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/AI-and-Quantum-Scientist-Co-op_2621649",
+  "locations": [
+   "Toronto, ON"
+  ],
+  "posted_at": "2026-10-21",
   "source": "vanshb03"
  },
  "url:https://cibc.wd3.myworkdayjobs.com/en-us/campus/job/toronto-on/application-software-developer-co-op--winter-2027---capital-markets-technology_2621523": {
@@ -24494,6 +24573,16 @@
   "url": "https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27400",
   "locations": [
    "Itasca, IL"
+  ],
+  "posted_at": "2026-10-21",
+  "source": "vanshb03"
+ },
+ "url:https://ehpv.fa.em2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/27404": {
+  "company": "DP World",
+  "title": "Information Security Intern",
+  "url": "https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27404",
+  "locations": [
+   "Charlotte, NC"
   ],
   "posted_at": "2026-10-21",
   "source": "vanshb03"
@@ -36148,6 +36237,16 @@
   "posted_at": "2026-10-19",
   "source": "workday"
  },
+ "url:https://gnw.wd1.myworkdayjobs.com/en-us/gnw/job/raleigh-north-carolina/risk-modeling-intern_req-260365-1": {
+  "company": "Genworth",
+  "title": "Risk Modeling Intern",
+  "url": "https://gnw.wd1.myworkdayjobs.com/en-US/GNW/job/Raleigh-North-Carolina/Risk-Modeling-Intern_REQ-260365-1",
+  "locations": [
+   "Raleigh, NC"
+  ],
+  "posted_at": "2026-10-21",
+  "source": "vanshb03"
+ },
  "url:https://gnw.wd1.myworkdayjobs.com/enact_mi/job/raleigh-north-carolina/commercial-analytics-and-optimization-team-intern_req-260363": {
   "company": "Enact Mortgage Insurance",
   "title": "Commercial Analytics and Optimization Team Intern",
@@ -40233,6 +40332,16 @@
   "posted_at": "2026-10-20",
   "source": "workday"
  },
+ "url:https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/reston-va/seasonal-associate--full-stack-developer--remote-_r2603570": {
+  "company": "ICF International",
+  "title": "Full-Stack Developer Intern",
+  "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Seasonal-Associate--Full-Stack-Developer--Remote-_R2603570",
+  "locations": [
+   "Remote in USA"
+  ],
+  "posted_at": "2026-10-21",
+  "source": "vanshb03"
+ },
  "url:https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/reston-va/xmlname-2027-summer-intern--ai-engineer--reston--va-_r2603312-1": {
   "company": "icf",
   "title": "2027 Summer Intern, AI Engineer (Reston, VA)",
@@ -41420,6 +41529,16 @@
   ],
   "posted_at": "2026-10-17",
   "source": "workday"
+ },
+ "url:https://intel.wd1.myworkdayjobs.com/external/job/us-california-folsom/information-security-engineer-undergraduate-intern_jr0287588": {
+  "company": "Intel",
+  "title": "Information Security Engineer Intern",
+  "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588",
+  "locations": [
+   "Folsom, CA"
+  ],
+  "posted_at": "2026-10-22",
+  "source": "vanshb03"
  },
  "url:https://intel.wd1.myworkdayjobs.com/external/job/us-california-santa-clara/ai-software-technical-intern_jr0287544": {
   "company": "intel",
@@ -50370,6 +50489,16 @@
   "posted_at": "2026-10-16",
   "source": "greenhouse"
  },
+ "url:https://job-boards.greenhouse.io/trace3/jobs/8274818": {
+  "company": "Trace3",
+  "title": "Data and Analytics Engineer Intern",
+  "url": "https://job-boards.greenhouse.io/trace3/jobs/8274818",
+  "locations": [
+   "Irvine, CA"
+  ],
+  "posted_at": "2026-10-21",
+  "source": "vanshb03"
+ },
  "url:https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007": {
   "company": "TransMarket Group",
   "title": "Quantitative Trader Intern",
@@ -51126,13 +51255,13 @@
  },
  "url:https://jobs.aon.com/jobs/110099?icims=1": {
   "company": "Aon",
-  "title": "IT / AI Engineer Intern",
+  "title": "IT/AI Engineer Intern",
   "url": "https://jobs.aon.com/jobs/110099?icims=1",
   "locations": [
    "Chicago, IL"
   ],
   "posted_at": "2026-10-21",
-  "source": "simplify"
+  "source": "vanshb03"
  },
  "url:https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships": {
   "company": "Apple",
@@ -52185,6 +52314,16 @@
   ],
   "posted_at": "2026-09-21",
   "source": "ashby"
+ },
+ "url:https://jobs.ashbyhq.com/crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5": {
+  "company": "Crusoe",
+  "title": "Software Engineering Intern",
+  "url": "https://jobs.ashbyhq.com/crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5",
+  "locations": [
+   "San Francisco, CA"
+  ],
+  "posted_at": "2026-10-21",
+  "source": "vanshb03"
  },
  "url:https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155": {
   "company": "ctgt",
@@ -53456,6 +53595,16 @@
   ],
   "posted_at": "2026-10-05",
   "source": "ashby"
+ },
+ "url:https://jobs.ashbyhq.com/metalenz/979c12dd-e71a-41b5-9c5f-a0d7204a22f6": {
+  "company": "Metalenz",
+  "title": "Camera Software Intern",
+  "url": "https://jobs.ashbyhq.com/metalenz/979c12dd-e71a-41b5-9c5f-a0d7204a22f6/application?embed=true",
+  "locations": [
+   "Boston, MA"
+  ],
+  "posted_at": "2026-10-21",
+  "source": "vanshb03"
  },
  "url:https://jobs.ashbyhq.com/metamorphic/cf518648-4e65-4f7d-aa05-f01066d8bd8a": {
   "company": "metamorphic",
@@ -55097,6 +55246,16 @@
   "posted_at": "2026-09-16",
   "source": "ashby"
  },
+ "url:https://jobs.ashbyhq.com/walrusfi/7dd09f17-cfff-48d8-8e4e-c3e016fe8cf5": {
+  "company": "Walrus",
+  "title": "Full Stack Developer Intern",
+  "url": "https://jobs.ashbyhq.com/walrusfi/7dd09f17-cfff-48d8-8e4e-c3e016fe8cf5/application?embed=true",
+  "locations": [
+   "NYC"
+  ],
+  "posted_at": "2026-10-21",
+  "source": "vanshb03"
+ },
  "url:https://jobs.ashbyhq.com/whatnot/928ffdca-b316-40ce-b82b-94b570919bcd": {
   "company": "WhatNot",
   "title": "Software Engineer Intern",
@@ -55994,6 +56153,16 @@
    "Santa Rosa, CA"
   ],
   "posted_at": "2026-10-20",
+  "source": "vanshb03"
+ },
+ "url:https://jobs.l3harris.com/job/salt-lake-city-intern,-software-engineer-(salt-lake-city,-ut)-ut-84116/1418569700?ats=successfactors": {
+  "company": "L3Harris Technologies",
+  "title": "Software Engineer Intern",
+  "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Intern,-Software-Engineer-(Salt-Lake-City,-UT)-UT-84116/1418569700/?ats=successfactors",
+  "locations": [
+   "Salt Lake City, UT"
+  ],
+  "posted_at": "2026-10-21",
   "source": "vanshb03"
  },
  "url:https://jobs.l3harris.com/job/salt-lake-city-software-engineering-intern-ut-84116/1413790400?ats=successfactors": {
@@ -62890,6 +63059,16 @@
   "posted_at": "2026-10-16",
   "source": "vanshb03"
  },
+ "url:https://johndeere.eightfold.ai/careers/job/137483990019": {
+  "company": "John Deere",
+  "title": "Software Engineer Student Intern, Product Engineering",
+  "url": "https://johndeere.eightfold.ai/careers/job/137483990019",
+  "locations": [
+   "Cary, NC"
+  ],
+  "posted_at": "2026-10-21",
+  "source": "vanshb03"
+ },
  "url:https://jpmc.fa.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1001/job/210773759": {
   "company": "JP Morgan Chase",
   "title": "Software Engineer Intern - Software Engineer Program",
@@ -64575,6 +64754,16 @@
   "posted_at": "2026-10-16",
   "source": "workday"
  },
+ "url:https://leidos.wd5.myworkdayjobs.com/external/job/6314-remoteteleworker-us/network-site-design-intern_r-00195057": {
+  "company": "Leidos",
+  "title": "Network Site Design Intern",
+  "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Network-Site-Design-Intern_R-00195057",
+  "locations": [
+   "Remote in USA"
+  ],
+  "posted_at": "2026-10-21",
+  "source": "vanshb03"
+ },
  "url:https://leidos.wd5.myworkdayjobs.com/external/job/6314-remoteteleworker-us/performance-enablement-ai-ml-intern_r-00194656": {
   "company": "leidos",
   "title": "Performance Enablement AI/ML Intern",
@@ -65756,6 +65945,26 @@
   ],
   "posted_at": "2026-09-30",
   "source": "workday"
+ },
+ "url:https://lnw.wd5.myworkdayjobs.com/en-us/lightwonderexternalcareers/job/las-vegas-nv/intern-software-engineering_r322982": {
+  "company": "Light & Wonder",
+  "title": "Software Engineering Intern",
+  "url": "https://lnw.wd5.myworkdayjobs.com/en-US/LightWonderExternalCareers/job/Las-Vegas-NV/Intern-Software-Engineering_R322982",
+  "locations": [
+   "Las Vegas, NV"
+  ],
+  "posted_at": "2026-10-21",
+  "source": "vanshb03"
+ },
+ "url:https://lnw.wd5.myworkdayjobs.com/en-us/lightwonderexternalcareers/job/las-vegas-nv/software-engineer---intern_r323017": {
+  "company": "Light & Wonder",
+  "title": "Software Engineer Intern",
+  "url": "https://lnw.wd5.myworkdayjobs.com/en-US/LightWonderExternalCareers/job/Las-Vegas-NV/Software-Engineer---Intern_R323017",
+  "locations": [
+   "Las Vegas, NV"
+  ],
+  "posted_at": "2026-10-21",
+  "source": "vanshb03"
  },
  "url:https://lowes.wd5.myworkdayjobs.com/en-us/lws_external_cs/job/lowes-charlotte-technology-hub-3505/exploratory-software-engineering---undergrad-internship---summer-2027_jr-02623542": {
   "company": "Lowe's",
@@ -66982,6 +67191,17 @@
   ],
   "posted_at": "2026-10-20",
   "source": "speedyapply"
+ },
+ "url:https://mantech.avature.net/en_us/careers/jobdetail/66705": {
+  "company": "ManTech",
+  "title": "AI Workflow Intern",
+  "url": "https://mantech.avature.net/en_US/careers/JobDetail/66705",
+  "locations": [
+   "Remote in USA",
+   "Stafford, VA"
+  ],
+  "posted_at": "2026-10-21",
+  "source": "vanshb03"
  },
  "url:https://manulife.wd3.myworkdayjobs.com/en-us/mfcjh_adminjobs/job/toronto-ontario/summer-intern-2027---ai_jr26081688-1": {
   "company": "Manulife Financial",
@@ -69642,6 +69862,16 @@
   ],
   "posted_at": "2026-10-16",
   "source": "workday"
+ },
+ "url:https://microchiphr.wd5.myworkdayjobs.com/external/job/ca---san-jose---3870-n-first-st/intern---engineering--asic-verification-_r3851-26": {
+  "company": "Microchip Technology",
+  "title": "Engineering Intern, ASIC Verification",
+  "url": "https://microchiphr.wd5.myworkdayjobs.com/External/job/CA---San-Jose---3870-N-First-St/Intern---Engineering--ASIC-Verification-_R3851-26",
+  "locations": [
+   "San Jose, CA"
+  ],
+  "posted_at": "2026-10-21",
+  "source": "vanshb03"
  },
  "url:https://micron.wd1.myworkdayjobs.com/en-us/external/job/boise-id---main-site/intern---it-software-engineer_jr113941": {
   "company": "Micron Technology",
@@ -77943,7 +78173,7 @@
    "Westminster, CO"
   ],
   "posted_at": "2026-10-21",
-  "source": "simplify"
+  "source": "vanshb03"
  },
  "url:https://parsons.wd5.myworkdayjobs.com/en-us/search/job/us---va-centreville/engineering-internship---co-op-summer-2027_r185683": {
   "company": "Parsons",
@@ -80208,6 +80438,26 @@
    "Markham, ON, Canada"
   ],
   "posted_at": "2026-10-19",
+  "source": "vanshb03"
+ },
+ "url:https://qualcomm.eightfold.ai/careers/job/446721661677": {
+  "company": "Qualcomm",
+  "title": "Display Systems Engineer Intern",
+  "url": "https://qualcomm.eightfold.ai/careers/job/446721661677",
+  "locations": [
+   "Markham, ON, Canada"
+  ],
+  "posted_at": "2026-10-21",
+  "source": "vanshb03"
+ },
+ "url:https://qualcomm.eightfold.ai/careers/job/446721661830": {
+  "company": "Qualcomm",
+  "title": "Edge AI and Display Hardware Architecture Intern",
+  "url": "https://qualcomm.eightfold.ai/careers/job/446721661830",
+  "locations": [
+   "Markham, ON, Canada"
+  ],
+  "posted_at": "2026-10-21",
   "source": "vanshb03"
  },
  "url:https://qualcomm.eightfold.ai/careers/job/446721664194": {
@@ -84354,6 +84604,16 @@
   ],
   "posted_at": "",
   "source": "workday"
+ },
+ "url:https://sierraspace.wd1.myworkdayjobs.com/en-us/sierra_space_external_career_site/job/louisville-co/summer-2027-flight-software-engineer-intern_r26456": {
+  "company": "Sierra Space",
+  "title": "Flight Software Engineer Intern",
+  "url": "https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Louisville-CO/Summer-2027-Flight-Software-Engineer-Intern_R26456",
+  "locations": [
+   "Louisville, CO"
+  ],
+  "posted_at": "2026-10-21",
+  "source": "vanshb03"
  },
  "url:https://simisinc.applytojob.com/apply/u1yosyvkvh/aerospaceaviation-artificial-intelligence-developer-intern": {
   "company": "SimIS",
@@ -98952,7 +99212,7 @@
    "Remote in USA"
   ],
   "posted_at": "2026-10-21",
-  "source": "simplify"
+  "source": "vanshb03"
  },
  "url:https://zillow.wd5.myworkdayjobs.com/zillow_group_external/job/seattle-wa-2nd-ave/software-development-engineer---intern_p751630": {
   "company": "zillow",
