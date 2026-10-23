@@ -195,7 +195,7 @@
   "ashby:atomicsemi": {
    "ats": "ashby",
    "board": "atomicsemi",
-   "consecutive_errors": 2,
+   "consecutive_errors": 3,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -1109,7 +1109,7 @@
   "ashby:mercor": {
    "ats": "ashby",
    "board": "mercor",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -1989,7 +1989,7 @@
   "ashby:whatnot": {
    "ats": "ashby",
    "board": "whatnot",
-   "consecutive_errors": 2,
+   "consecutive_errors": 3,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -4314,7 +4314,7 @@
   "greenhouse:oldmissioncapital": {
    "ats": "greenhouse",
    "board": "oldmissioncapital",
-   "consecutive_errors": 7,
+   "consecutive_errors": 8,
    "deep": false,
    "deep_since": null,
    "disabled": false,
