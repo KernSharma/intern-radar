@@ -64,6 +64,9 @@
   "url:https://abb.wd3.myworkdayjobs.com/external_career_page/job/greenville-south-carolina-united-states-of-america/integrated-motor-drive-sw-co-op---spring-2027_jr00050240": {
    "vanshb03": "2026-10-20T22:37:05+00:00"
   },
+  "url:https://abb.wd3.myworkdayjobs.com/external_career_page/job/greenville-south-carolina-united-states-of-america/r-d-software-engineer_jr00050035": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
+  },
   "url:https://abb.wd3.myworkdayjobs.com/external_career_page/job/hanoi-ha-noi-vietnam/intern-service-engineer_jr00048609": {
    "workday": "2026-10-05T16:37:05+00:00"
   },
@@ -157,6 +160,7 @@
    "workday": "2026-10-02T05:21:11+00:00"
   },
   "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/san-jose/xmlname-2027-intern---ai---architecture_r172998": {
+   "simplify": "2026-10-23T19:07:57+00:00",
    "vanshb03": "2026-10-20T17:07:02+00:00",
    "workday": "2026-10-19T17:07:05+00:00"
   },
@@ -255,7 +259,8 @@
    "workday": "2026-10-02T05:21:11+00:00"
   },
   "url:https://aero.wd5.myworkdayjobs.com/external/job/el-segundo-ca/xmlname-2027-cloud-solutions-engineer---site-reliability-undergrad-intern_r016936": {
-   "speedyapply": "2026-10-22T17:36:06+00:00"
+   "speedyapply": "2026-10-22T17:36:06+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://aero.wd5.myworkdayjobs.com/external/job/el-segundo-ca/xmlname-2027-communication-systems-and-signal-processing-graduate-intern_r016555": {
    "workday": "2026-10-02T05:21:11+00:00"
@@ -906,14 +911,17 @@
   },
   "url:https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/usa---il-remote/arity---data-analytics-engineer-intern_r36286": {
    "simplify": "2026-10-22T23:57:50+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00",
    "workday": "2026-10-22T20:37:05+00:00"
   },
   "url:https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/usa---il-remote/arity---data-science-intern--core-telematics-_r36285": {
    "simplify": "2026-10-22T23:57:50+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00",
    "workday": "2026-10-22T20:37:05+00:00"
   },
   "url:https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/usa---nc-remote/arity---software-engineer-intern_r36266": {
    "simplify": "2026-10-20T17:29:45+00:00",
+   "speedyapply": "2026-10-23T19:07:57+00:00",
    "vanshb03": "2026-10-20T22:37:05+00:00",
    "workday": "2026-10-22T19:07:05+00:00"
   },
@@ -945,6 +953,7 @@
    "workday": "2026-10-17T21:42:47+00:00"
   },
   "url:https://altera.wd1.myworkdayjobs.com/altera/job/toronto-ontario-canada/software-intern_r03373": {
+   "vanshb03": "2026-10-23T19:07:57+00:00",
    "workday": "2026-10-22T23:57:50+00:00"
   },
   "url:https://amat.wd1.myworkdayjobs.com/external/job/albanyny/summer-2027-global-technical-learning-center-data-analyst-intern--bachelor-s-master-s--albany--ny-_r2627551": {
@@ -1000,6 +1009,9 @@
   "url:https://amat.wd1.myworkdayjobs.com/external/job/trevisoita/supplier-industrial-engineer--internship-_r2613391": {
    "workday": "2026-10-02T05:21:11+00:00"
   },
+  "url:https://amazon.jobs/en/jobs/10517649/cloud-hardware-development-engineer-intern-annapurna-labs-2027": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
+  },
   "url:https://amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027": {
    "simplify": "2026-10-02T05:21:11+00:00"
   },
@@ -1025,22 +1037,44 @@
    "simplify": "2026-10-02T05:21:11+00:00"
   },
   "url:https://amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa": {
-   "simplify": "2026-10-23T02:07:04+00:00"
+   "simplify": "2026-10-23T02:07:04+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://amazon.jobs/en/jobs/10565421/business-analyst-intern-3-6-and-12-months-2027": {
    "simplify": "2026-10-23T02:07:04+00:00"
   },
   "url:https://amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us": {
-   "simplify": "2026-10-23T02:07:04+00:00"
+   "simplify": "2026-10-23T02:07:04+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00"
+  },
+  "url:https://amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
+  },
+  "url:https://amazon.jobs/en/jobs/10573570/embedded-firmware-co-op-amazon-robotics-spring-2027": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027": {
-   "simplify": "2026-10-23T02:07:04+00:00"
+   "simplify": "2026-10-23T02:07:04+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://amazon.jobs/en/jobs/10573999/systems-development-engineer-intern-canada-2027": {
-   "simplify": "2026-10-23T02:07:04+00:00"
+   "simplify": "2026-10-23T02:07:04+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00"
+  },
+  "url:https://amazon.jobs/en/jobs/10576619/asic-engineer-intern-summer-2027": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
+  },
+  "url:https://amazon.jobs/en/jobs/10584121/hardware-development-engineer-intern-winter-2027": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://amazon.jobs/en/jobs/10585774/associate-delivery-consultant-intern-aws-professional-services": {
    "simplify": "2026-10-23T02:07:04+00:00"
+  },
+  "url:https://amazon.jobs/en/jobs/10586548/jr-software-development-engineer-detroit-mi-jr-developer-program": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
+  },
+  "url:https://ambarella.wd108.myworkdayjobs.com/ambarella/job/us-headquarters/physical-design-engineer-intern_jr100393": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://ameren.wd1.myworkdayjobs.com/external/job/peoria-il/crisis-management-data---analytics-intern_033895-1": {
    "simplify": "2026-10-02T05:21:11+00:00",
@@ -1179,6 +1213,7 @@
   },
   "url:https://amfam.wd1.myworkdayjobs.com/amfamgroupinterncareers/job/wi-madison/summer-2027-intern---business-intelligence-enablement_r39531": {
    "simplify": "2026-10-22T23:57:50+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00",
    "workday": "2026-10-22T21:07:00+00:00"
   },
   "url:https://amfam.wd1.myworkdayjobs.com/amfamgroupinterncareers/job/wi-madison/summer-2027-intern---data-analyst_r39404": {
@@ -1222,6 +1257,9 @@
   },
   "url:https://amfam.wd1.myworkdayjobs.com/careers/job/wi-madison/intern---data-engineering_r39426": {
    "workday": "2026-10-20T20:50:23+00:00"
+  },
+  "url:https://amfam.wd1.myworkdayjobs.com/careers/job/wi-madison/product-data-engineering-intern--hybrid-_r39462": {
+   "workday": "2026-10-23T19:07:57+00:00"
   },
   "url:https://amfam.wd1.myworkdayjobs.com/careers/job/wi-madison/summer-2027-intern---data-engineer_r39675": {
    "simplify": "2026-10-21T22:37:05+00:00",
@@ -1423,6 +1461,9 @@
    "speedyapply": "2026-10-02T05:21:11+00:00",
    "workday": "2026-10-02T05:21:11+00:00"
   },
+  "url:https://aoins.wd5.myworkdayjobs.com/autoowners/job/lansing-mi/business-intelligence-developer-internship---summer-2027_r_14772": {
+   "workday": "2026-10-23T19:07:57+00:00"
+  },
   "url:https://aoins.wd5.myworkdayjobs.com/autoowners/job/lansing-mi/business-intelligence-engineering-intern---summer-2027_r_14662": {
    "simplify": "2026-10-07T17:37:05+00:00",
    "workday": "2026-10-07T11:20:07+00:00"
@@ -1455,6 +1496,9 @@
   "url:https://aoins.wd5.myworkdayjobs.com/autoowners/job/lansing-mi/software-developer-internship_r_2121": {
    "simplify": "2026-10-02T05:21:11+00:00",
    "speedyapply": "2026-10-02T05:21:11+00:00"
+  },
+  "url:https://aoins.wd5.myworkdayjobs.com/concord/job/bedford-nh/software-engineer-intern_r_14465": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://app.careerpuck.com/job-board/domino-data-lab/job/7992560?gh_jid=7992560": {
    "simplify": "2026-10-02T05:21:11+00:00"
@@ -1730,9 +1774,11 @@
    "workday": "2026-10-12T20:38:16+00:00"
   },
   "url:https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/can-kanata-2-on---wr/hvp-cert--engineer-intern_j000704378": {
+   "vanshb03": "2026-10-23T19:07:57+00:00",
    "workday": "2026-10-22T17:36:06+00:00"
   },
   "url:https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/can-kanata-2-on---wr/hvp-cert--engineer-intern_j000704379": {
+   "vanshb03": "2026-10-23T19:07:57+00:00",
    "workday": "2026-10-22T17:36:06+00:00"
   },
   "url:https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/can-kanata-2-on---wr/hvp-cert--engineering-intern_j000704372": {
@@ -1742,7 +1788,11 @@
    "workday": "2026-10-12T20:38:16+00:00"
   },
   "url:https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/can-kanata-2-on---wr/linux-engineering-intern_j000704371": {
+   "vanshb03": "2026-10-23T19:07:57+00:00",
    "workday": "2026-10-22T21:07:00+00:00"
+  },
+  "url:https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/can-kanata-2-on---wr/linux-intern_j000704370": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/can-kanata-2-on---wr/software-engineering-intern_j000704368-1": {
    "vanshb03": "2026-10-17T19:18:45+00:00",
@@ -1816,6 +1866,9 @@
   "url:https://arrowstreetcapital.wd5.myworkdayjobs.com/campus_careers/job/boston/quantitative-researcher-intern--summer-2027_r1505": {
    "simplify": "2026-10-02T05:21:11+00:00",
    "workday": "2026-10-02T05:21:11+00:00"
+  },
+  "url:https://asml.wd3.myworkdayjobs.com/asmlext1/job/san-jose-ca-usa/internship---software-engineer-in-test--mod-_j-00354568": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://aspentech.wd5.myworkdayjobs.com/aspentech/job/bedford-massachusetts/data-science-intern---summer-2027---bedford--ma_r9459": {
    "workday": "2026-10-02T05:21:11+00:00"
@@ -2385,6 +2438,9 @@
   "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/atlanta-ga/university---2027-summer-games--systems-engineer-intern---atlanta--ga_r0248381": {
    "simplify": "2026-10-02T05:21:11+00:00"
   },
+  "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/atlanta-ga/university---2027-summer-games-software-developer-intern---atlanta--ga_r0248138": {
+   "workday": "2026-10-23T19:07:57+00:00"
+  },
   "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/atlanta-ga/university--2027-summer-games-data-scientist-intern_r0248140": {
    "simplify": "2026-10-02T05:21:11+00:00",
    "workday": "2026-10-02T05:21:11+00:00"
@@ -2397,7 +2453,8 @@
    "workday": "2026-10-06T17:09:21+00:00"
   },
   "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/charleston-sc/university---2027-summer-games-software-developer-intern_r0248134": {
-   "simplify": "2026-10-02T05:21:11+00:00"
+   "simplify": "2026-10-02T05:21:11+00:00",
+   "workday": "2026-10-23T19:07:57+00:00"
   },
   "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/colorado-springs-co/university---2027-summer-games-systems-engineer-intern---charleston--sc_r0248369": {
    "simplify": "2026-10-02T05:21:11+00:00"
@@ -2542,6 +2599,9 @@
   },
   "url:https://bah.wd1.myworkdayjobs.com/confidential/job/lexington-ma/university---systems-engineer-intern_r0248855": {
    "workday": "2026-10-02T05:21:11+00:00"
+  },
+  "url:https://bah.wd1.myworkdayjobs.com/confidential/job/mclean-va/enterprise-cybersecurity-data-and-business-intelligence-analyst_r0252250": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://bah.wd1.myworkdayjobs.com/confidential/job/mclean-va/university--applied-ai-software-development-intern_r0248854": {
    "workday": "2026-10-02T05:21:11+00:00"
@@ -2712,6 +2772,9 @@
   "url:https://bci.wd10.myworkdayjobs.com/bci_careers/job/victoria-bc/portfolio-management---insights-co-op-internship--winter-2027-or-summer-2027-_jr101581": {
    "workday": "2026-10-02T05:21:11+00:00"
   },
+  "url:https://biibhr.wd3.myworkdayjobs.com/external/job/cambridge-ma/co-op--integrated-insights---analytics--nephrology_req24281": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
+  },
   "url:https://blackcape.applytojob.com/apply/7o6mmayryt/us-military-skillbridge-internship-software-engineerarlington-va": {
    "speedyapply": "2026-10-02T05:21:11+00:00"
   },
@@ -2802,6 +2865,9 @@
   "url:https://bmo.wd3.myworkdayjobs.com/privileged/job/toronto-on-can/quantitative-developer--alpha-research-team----gam--summer-2027--co-op-internship----12-months_r260026715-2": {
    "workday": "2026-10-02T05:21:11+00:00"
   },
+  "url:https://bnl.wd1.myworkdayjobs.com/externa/job/upton-ny/data-engineering-student-assistant_jr102753": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
+  },
   "url:https://boards.greenhouse.io/andurilindustries/jobs/5148079007": {
    "simplify": "2026-10-02T05:21:11+00:00"
   },
@@ -2847,7 +2913,8 @@
    "greenhouse": "2026-10-06T00:07:05+00:00"
   },
   "url:https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007": {
-   "greenhouse": "2026-10-06T00:37:05+00:00"
+   "greenhouse": "2026-10-06T00:37:05+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://boards.greenhouse.io/andurilindustries/jobs/5257709007?gh_jid=5257709007": {
    "greenhouse": "2026-10-14T19:07:01+00:00"
@@ -3052,6 +3119,9 @@
   },
   "url:https://boards.greenhouse.io/neuralink/jobs/8020751003?gh_jid=8020751003": {
    "greenhouse": "2026-10-09T21:38:43+00:00"
+  },
+  "url:https://boards.greenhouse.io/opensesame/jobs/8313424": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://boards.greenhouse.io/point72/jobs/7297642002?gh_jid=7297642002": {
    "greenhouse": "2026-10-02T06:08:32+00:00"
@@ -3409,7 +3479,11 @@
    "speedyapply": "2026-10-02T05:21:11+00:00"
   },
   "url:https://bracco.wd103.myworkdayjobs.com/braccocareers/job/usa-pleasanton-california-94566/firmware-engineering-co-op_jr100319": {
-   "speedyapply": "2026-10-02T05:21:11+00:00"
+   "speedyapply": "2026-10-02T05:21:11+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00"
+  },
+  "url:https://braunintertec.wd5.myworkdayjobs.com/brauninterteccareers/job/bloomington-mn/xmlname-2027-geotechnical-engineering--internship_r4909": {
+   "workday": "2026-10-23T19:07:57+00:00"
   },
   "url:https://braunintertec.wd5.myworkdayjobs.com/brauninterteccareers/job/st-cloud-mn/xmlname-2027-civil-engineering---construction-materials-testing-6-month-co-op--st-cloud-_r4923": {
    "speedyapply": "2026-10-16T17:37:05+00:00"
@@ -3499,6 +3573,9 @@
   },
   "url:https://brunswick.wd1.myworkdayjobs.com/search/job/fond-du-lac-wi/data-analytics-co-op_jr-051119": {
    "workday": "2026-10-03T08:00:55+00:00"
+  },
+  "url:https://brunswick.wd1.myworkdayjobs.com/search/job/fond-du-lac-wi/mercury-marine---foundry-engineering-co-op_jr-050979": {
+   "workday": "2026-10-23T19:07:57+00:00"
   },
   "url:https://brunswick.wd1.myworkdayjobs.com/search/job/fond-du-lac-wi/mercury-marine---heat-treat-metallurgical-engineer-co-op_jr-051013": {
    "workday": "2026-10-14T16:37:05+00:00"
@@ -3648,6 +3725,9 @@
   },
   "url:https://caci.wd1.myworkdayjobs.com/external/job/danbury-ct-us/electrical-test-engineering-intern---summer-2027_333809": {
    "workday": "2026-10-20T17:07:02+00:00"
+  },
+  "url:https://caci.wd1.myworkdayjobs.com/external/job/danbury-ct-us/embedded-software-engineering-co-op---spring-2027_331368": {
+   "speedyapply": "2026-10-23T19:07:57+00:00"
   },
   "url:https://caci.wd1.myworkdayjobs.com/external/job/danbury-ct-us/manufacturing-engineering-intern---summer-2027_333189-1": {
    "workday": "2026-10-07T13:42:52+00:00"
@@ -4106,15 +4186,23 @@
   "url:https://careers-gdms.icims.com/jobs/75520/job": {
    "speedyapply": "2026-10-20T17:07:02+00:00"
   },
+  "url:https://careers-gdms.icims.com/jobs/75636/job": {
+   "speedyapply": "2026-10-23T19:07:57+00:00"
+  },
   "url:https://careers-gdms.icims.com/jobs/75637/job": {
    "speedyapply": "2026-10-21T18:19:54+00:00",
    "vanshb03": "2026-10-21T00:37:19+00:00"
+  },
+  "url:https://careers-gdms.icims.com/jobs/75775/job": {
+   "speedyapply": "2026-10-23T19:07:57+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://careers-growfinancial.icims.com/jobs/2754/job": {
    "simplify": "2026-10-02T05:21:11+00:00"
   },
   "url:https://careers-hrblock.icims.com/jobs/76987/job": {
-   "speedyapply": "2026-10-02T05:21:11+00:00"
+   "speedyapply": "2026-10-02T05:21:11+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://careers-hrblock.icims.com/jobs/76989/job": {
    "simplify": "2026-10-02T05:21:11+00:00"
@@ -4267,6 +4355,9 @@
   "url:https://careers-westernsouthern.icims.com/jobs/25245/job": {
    "simplify": "2026-10-02T05:21:11+00:00",
    "speedyapply": "2026-10-02T05:21:11+00:00"
+  },
+  "url:https://careers-westernsouthern.icims.com/jobs/25347/job": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://careers-wipfli.icims.com/jobs/8295/job": {
    "simplify": "2026-10-02T05:21:11+00:00"
@@ -4451,6 +4542,10 @@
   "url:https://careers.formlabs.com/job/8138459/apply?gh_jid=8138459": {
    "vanshb03": "2026-10-02T05:21:11+00:00"
   },
+  "url:https://careers.formlabs.com/job/8256004/apply?gh_jid=8256004": {
+   "speedyapply": "2026-10-23T19:07:57+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00"
+  },
   "url:https://careers.gov2x.com/jobs/62843?icims=1": {
    "simplify": "2026-10-02T05:21:11+00:00"
   },
@@ -4555,6 +4650,9 @@
   },
   "url:https://careers.mitre.org/us/en/job/r117620/ai-engineering-intern": {
    "vanshb03": "2026-10-20T17:07:02+00:00"
+  },
+  "url:https://careers.mitre.org/us/en/job/r117720/autonomous-systems-intern": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://careers.na.panasonic.com/jobs/50772?icims=1": {
    "simplify": "2026-10-07T22:37:04+00:00"
@@ -4723,7 +4821,8 @@
    "simplify": "2026-10-02T05:21:11+00:00"
   },
   "url:https://careers.westinghousenuclear.com/job/warrendale-summer-intern-software-engineering-or/1442826200?ats=successfactors": {
-   "simplify": "2026-10-22T23:57:50+00:00"
+   "simplify": "2026-10-22T23:57:50+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://careers.westinghousenuclear.com/job/warrendale-summer-intern-tools-&-apps-or/1434869300?ats=successfactors": {
    "simplify": "2026-10-02T05:21:11+00:00"
@@ -4901,6 +5000,9 @@
   },
   "url:https://carrier.wd5.myworkdayjobs.com/jobs/job/can01-carrier-syracuse-6304-carrier-parkway-east-syracuse-ny-13057-usa/quality-engineering-intern---summer_30220256-1": {
    "workday": "2026-10-19T20:16:32+00:00"
+  },
+  "url:https://carrier.wd5.myworkdayjobs.com/jobs/job/can01-carrier-syracuse-6304-carrier-parkway-east-syracuse-ny-13057-usa/software-engineering-intern---summer_30220588": {
+   "workday": "2026-10-23T19:07:57+00:00"
   },
   "url:https://carrier.wd5.myworkdayjobs.com/jobs/job/canhq-ccs-hq---syracuse-6304-carrier-parkway-east-syracuse-ny-13057-usa/chemical-materials-engineering-intern---summer_30220341": {
    "workday": "2026-10-22T15:37:56+00:00"
@@ -5157,6 +5259,7 @@
    "workday": "2026-10-02T06:08:32+00:00"
   },
   "url:https://chrobinson.wd5.myworkdayjobs.com/chrobinson/job/eden-prairie-mn-united-states-of-america/security-internship-2027_r49322": {
+   "vanshb03": "2026-10-23T19:07:57+00:00",
    "workday": "2026-10-02T05:21:11+00:00"
   },
   "url:https://chrobinson.wd5.myworkdayjobs.com/chrobinson/job/eden-prairie-mn-united-states-of-america/software-engineering-internship-2027_r49323": {
@@ -5282,6 +5385,7 @@
    "workday": "2026-10-02T05:21:11+00:00"
   },
   "url:https://ciena.wd5.myworkdayjobs.com/careers/job/ottawa/software-developer-intern---winter-2027_r031953-1": {
+   "vanshb03": "2026-10-23T19:07:57+00:00",
    "workday": "2026-10-22T19:07:05+00:00"
   },
   "url:https://ciena.wd5.myworkdayjobs.com/careers/job/ottawa/software-engineering--optical-transport-and-ip-networking-intern_r031631": {
@@ -5385,6 +5489,7 @@
   },
   "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/maynard-massachusetts-us/firmware-engineer-ii--co-op----united-states_2026913": {
    "speedyapply": "2026-10-13T19:37:06+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00",
    "workday": "2026-10-13T20:37:05+00:00"
   },
   "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/maynard-massachusetts-us/mechanical-engineer-ii--co-op----united-states_2026912": {
@@ -5398,10 +5503,12 @@
   },
   "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/maynard-massachusetts-us/software-engineer-i--co-op----united-states_2026920": {
    "speedyapply": "2026-10-13T19:37:06+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00",
    "workday": "2026-10-13T20:37:05+00:00"
   },
   "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/maynard-massachusetts-us/software-engineer-ii--co-op----united-states_2026923": {
    "speedyapply": "2026-10-13T19:37:06+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00",
    "workday": "2026-10-13T20:37:05+00:00"
   },
   "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/maynard-massachusetts-us/systems-quality-engineer-i--co-op----united-states_2026751": {
@@ -5466,11 +5573,16 @@
    "workday": "2026-10-13T20:37:05+00:00"
   },
   "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/san-jose-california-us/software-engineer-data---ai-i--intern----united-states_2026306": {
+   "vanshb03": "2026-10-23T19:07:57+00:00",
    "workday": "2026-10-13T20:37:05+00:00"
   },
   "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/san-jose-california-us/software-engineer-data---ai-ii--intern----united-states_2026798": {
    "speedyapply": "2026-10-14T17:16:21+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00",
    "workday": "2026-10-13T20:37:05+00:00"
+  },
+  "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/san-jose-california-us/software-engineer-embedded-systems-i--co-op----united-states_2029701": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/san-jose-california-us/software-engineer-embedded-systems-i--intern----united-states_2025926": {
    "workday": "2026-10-13T20:37:05+00:00"
@@ -5479,6 +5591,9 @@
    "speedyapply": "2026-10-13T19:37:06+00:00",
    "vanshb03": "2026-10-22T03:07:06+00:00",
    "workday": "2026-10-13T20:37:05+00:00"
+  },
+  "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/san-jose-california-us/software-engineer-full-stack---backend-i--co-op----united-states_2026049": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/san-jose-california-us/software-engineer-full-stack---backend-i--intern----united-states_2025924": {
    "vanshb03": "2026-10-22T03:07:06+00:00",
@@ -5490,7 +5605,11 @@
    "workday": "2026-10-13T20:37:05+00:00"
   },
   "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/usa-research-triangle-park/software-consulting-engineer-i--intern--united-states_2025180": {
+   "vanshb03": "2026-10-23T19:07:57+00:00",
    "workday": "2026-10-13T20:37:05+00:00"
+  },
+  "url:https://citi.wd5.myworkdayjobs.com/2/job/belfast--united-kingdom/technology---application-development--placement-analyst--belfast-2027_261002927": {
+   "simplify": "2026-10-23T19:07:57+00:00"
   },
   "url:https://citi.wd5.myworkdayjobs.com/2/job/taguig--philippines/enterprise-operations---technology--summer-analyst--internship---philippines_25855095-1": {
    "workday": "2026-10-02T05:21:11+00:00"
@@ -5989,6 +6108,7 @@
   },
   "url:https://cvshealth.wd1.myworkdayjobs.com/cvs_health_careers/job/az---scottsdale/innovation-technology-internship-software-engineering--platform---applications-summer-2027-undergrad_r1081193": {
    "simplify": "2026-10-22T23:57:50+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00",
    "workday": "2026-10-23T00:07:04+00:00"
   },
   "url:https://cvshealth.wd1.myworkdayjobs.com/cvs_health_careers/job/ct---hartford/innovation---technology-internship---tech-strategy-ops---business-analytics-summer-2027--undergrad-_r1080789-1": {
@@ -5996,9 +6116,11 @@
   },
   "url:https://cvshealth.wd1.myworkdayjobs.com/cvs_health_careers/job/ct---hartford/medicaid-data-analytics-corporate-internship---summer-2027--undergraduate-_r1052342": {
    "simplify": "2026-10-22T23:57:50+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00",
    "workday": "2026-10-23T00:07:04+00:00"
   },
   "url:https://cvshealth.wd1.myworkdayjobs.com/cvs_health_careers/job/hartford-farmington-ave-rogers/innovation---technology-internship---product---agile-delivery---summer-2027--undergraduate-_r1080767": {
+   "vanshb03": "2026-10-23T19:07:57+00:00",
    "workday": "2026-10-23T00:07:04+00:00"
   },
   "url:https://cvshealth.wd1.myworkdayjobs.com/cvs_health_careers/job/innovation---technology-internship---technology---security---summer-2027--undergraduate-_r1081237": {
@@ -6009,6 +6131,7 @@
   },
   "url:https://cvshealth.wd1.myworkdayjobs.com/cvs_health_careers/job/ny---new-york/innovation---technology-internship---data-engineering---summer-2027--undergraduate-_r1081090": {
    "simplify": "2026-10-22T23:57:50+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00",
    "workday": "2026-10-23T00:07:04+00:00"
   },
   "url:https://cvshealth.wd1.myworkdayjobs.com/cvs_health_careers/job/ny---new-york/innovation---technology-internship---data-science---summer-2027--graduate-_r1081038": {
@@ -6016,13 +6139,16 @@
   },
   "url:https://cvshealth.wd1.myworkdayjobs.com/cvs_health_careers/job/ny---new-york/innovation---technology-internship---data-science---summer-2027--undergraduate-_r1081067": {
    "simplify": "2026-10-22T23:57:50+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00",
    "workday": "2026-10-23T00:07:04+00:00"
   },
   "url:https://cvshealth.wd1.myworkdayjobs.com/cvs_health_careers/job/ny---new-york/innovation---technology-internship--software-engineering--data---intelligence-summer-2027-graduate_r1081128": {
+   "vanshb03": "2026-10-23T19:07:57+00:00",
    "workday": "2026-10-23T00:07:04+00:00"
   },
   "url:https://cvshealth.wd1.myworkdayjobs.com/cvs_health_careers/job/ny---new-york/innovation---technology-internship--software-engineering--data---intelligence-summer-2027-undergrad_r1081114": {
    "simplify": "2026-10-22T23:57:50+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00",
    "workday": "2026-10-23T00:07:04+00:00"
   },
   "url:https://d3engineering.applytojob.com/apply/uixxabdlv5/embedded-systems-design-coop": {
@@ -6480,6 +6606,9 @@
   "url:https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/usa---minnesota---saint-paul/supply-chain-intern---engineering-and-business-majors_r00304542": {
    "workday": "2026-10-02T06:08:32+00:00"
   },
+  "url:https://edbz.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx/job/25007757": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
+  },
   "url:https://edbz.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx/job/25019103": {
    "vanshb03": "2026-10-20T22:37:05+00:00"
   },
@@ -6932,6 +7061,9 @@
   "url:https://epicgames.com/careers/jobs/6219626004?gh_jid=6219626004": {
    "greenhouse": "2026-10-08T00:56:32+00:00"
   },
+  "url:https://epicgames.com/careers/jobs/6232770004?gh_jid=6232770004": {
+   "greenhouse": "2026-10-23T19:07:57+00:00"
+  },
   "url:https://equifax.wd5.myworkdayjobs.com/ur_external/job/usa---georgia---alpharetta---30005/data---analytics-intern_j00171081": {
    "workday": "2026-10-02T06:08:32+00:00"
   },
@@ -7141,6 +7273,9 @@
   },
   "url:https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/36722": {
    "vanshb03": "2026-10-02T05:21:11+00:00"
+  },
+  "url:https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/41672": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/4682": {
    "simplify": "2026-10-02T05:21:11+00:00"
@@ -7422,6 +7557,9 @@
    "simplify": "2026-10-02T05:21:11+00:00",
    "speedyapply": "2026-10-02T05:21:11+00:00",
    "workday": "2026-10-02T05:21:11+00:00"
+  },
+  "url:https://freight.wd108.myworkdayjobs.com/fxf_external_career_site/job/fxf-ususafxfmhqmemphis-headquarters/intern-data-scientist_rc5660": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/lawrence-ma-usa/r-d-engineering-co-op--human-factors-and-usability_r0271310": {
    "workday": "2026-10-21T19:34:08+00:00"
@@ -8611,6 +8749,9 @@
   "url:https://globalfoundries.wd1.myworkdayjobs.com/external/job/usa---vermont---essex-junction/industrial-engineering-intern--summer-2027-_jr-2604569": {
    "workday": "2026-10-21T18:19:54+00:00"
   },
+  "url:https://globalfoundries.wd1.myworkdayjobs.com/external/job/usa---vermont---essex-junction/industrial-engineering-intern--summer-2027-_jr-2604630": {
+   "workday": "2026-10-23T19:07:57+00:00"
+  },
   "url:https://globalfoundries.wd1.myworkdayjobs.com/external/job/usa---vermont---essex-junction/us-advanced-manufacturing-equipment-engineering-intern--junior--summer-2027-_jr-2604666": {
    "workday": "2026-10-02T05:21:11+00:00"
   },
@@ -9004,11 +9145,13 @@
    "workday": "2026-10-02T06:08:32+00:00"
   },
   "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-co-aurora-s77--16470-e-hughes-dr--bldg-s77/part-time-software-engineer-co-op-remote-_01883451": {
+   "speedyapply": "2026-10-23T19:07:57+00:00",
    "vanshb03": "2026-10-22T20:07:03+00:00",
    "workday": "2026-10-22T15:37:56+00:00"
   },
   "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-co-aurora-s77--16470-e-hughes-dr--bldg-s77/software-engineering--intern--summer-2027-_01881520": {
    "simplify": "2026-10-22T15:37:56+00:00",
+   "speedyapply": "2026-10-23T19:07:57+00:00",
    "vanshb03": "2026-10-22T20:07:03+00:00",
    "workday": "2026-10-22T11:15:36+00:00"
   },
@@ -9740,6 +9883,9 @@
   "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-tx-mckinney-513wd--2501-w-university-dr--wing-d-bldg/fpga-engineering-intern--summer-2027--onsite-_01880037": {
    "workday": "2026-10-06T17:09:21+00:00"
   },
+  "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-tx-mckinney-513wd--2501-w-university-dr--wing-d-bldg/mission-analyst-intern---summer-2027--onsite-_01883059": {
+   "simplify": "2026-10-23T19:07:57+00:00"
+  },
   "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-tx-mckinney-513wd--2501-w-university-dr--wing-d-bldg/rf-systems-engineer-intern--onsite-_01880592": {
    "workday": "2026-10-14T00:35:12+00:00"
   },
@@ -9957,6 +10103,9 @@
   "url:https://hcmportal.wd5.myworkdayjobs.com/search/job/us---bayonne-center-njbay/xmlname-2027-industrial-engineering-summer-intern---bayonne-nj_r26030793": {
    "workday": "2026-10-02T05:21:11+00:00"
   },
+  "url:https://hcmportal.wd5.myworkdayjobs.com/search/job/us---charlotte-hub-nccha/xmlname-2027-summer-engineering-intern_r26039411": {
+   "workday": "2026-10-23T19:07:57+00:00"
+  },
   "url:https://hcmportal.wd5.myworkdayjobs.com/search/job/us---chicago-area-consolidation-hub-ilhod/xmlname-2027-summer-engineering-intern_r26039037": {
    "workday": "2026-10-22T14:07:04+00:00"
   },
@@ -9969,8 +10118,17 @@
   "url:https://hcmportal.wd5.myworkdayjobs.com/search/job/us---is-maryland-mdroa/ups-technology-group-summer-2027-internship---md_r26029757": {
    "workday": "2026-10-02T05:21:11+00:00"
   },
+  "url:https://hcmportal.wd5.myworkdayjobs.com/search/job/us---jacksonville-fljac/xmlname-2027-summer-engineering-intern_r26039407": {
+   "workday": "2026-10-23T19:07:57+00:00"
+  },
   "url:https://hcmportal.wd5.myworkdayjobs.com/search/job/us---jefferson-hub-iljef/xmlname-2027-industrial-engineering-summer-intern---chicago-il_r26030597": {
    "workday": "2026-10-02T05:21:11+00:00"
+  },
+  "url:https://hcmportal.wd5.myworkdayjobs.com/search/job/us---little-rock-arlit/xmlname-2027-summer-engineering-intern_r26039408": {
+   "workday": "2026-10-23T19:07:57+00:00"
+  },
+  "url:https://hcmportal.wd5.myworkdayjobs.com/search/job/us---orlando-hub-florl/xmlname-2027-summer-engineering-intern_r26031120": {
+   "workday": "2026-10-23T19:07:57+00:00"
   },
   "url:https://hcmportal.wd5.myworkdayjobs.com/search/job/us---portland-hub-orpor/xmlname-2027-industrial-engineering-summer-intern---portland--or_r26030709": {
    "workday": "2026-10-02T05:21:11+00:00"
@@ -10003,6 +10161,9 @@
   },
   "url:https://hcmportal.wd5.myworkdayjobs.com/search/job/us---utah-regional-hub-utlke/xmlname-2027-industrial-engineering-summer-intern---salt-lake-city--ut_r26030699": {
    "workday": "2026-10-03T08:00:55+00:00"
+  },
+  "url:https://hcmportal.wd5.myworkdayjobs.com/search/job/us---whites-creek-hub-tnwhi/xmlname-2027-summer-engineering-intern_r26039409": {
+   "workday": "2026-10-23T19:07:57+00:00"
   },
   "url:https://hcsc.wd1.myworkdayjobs.com/hcsc_external/job/downers-grove-3500-lacey-road/early-careers---technology-delivery-analyst-intern_r0059497": {
    "workday": "2026-10-02T06:08:32+00:00"
@@ -11059,6 +11220,9 @@
   "url:https://ing.wd3.myworkdayjobs.com/icsgblcor/job/hbp-amsterdam---haarlerbergpark/internship---ai-software-engineer_req-10123203": {
    "workday": "2026-10-21T09:23:38+00:00"
   },
+  "url:https://ing.wd3.myworkdayjobs.com/icsgblcor/job/hbp-amsterdam---haarlerbergpark/internship-ing-ai-engineering_req-10121015": {
+   "workday": "2026-10-23T19:07:57+00:00"
+  },
   "url:https://ing.wd3.myworkdayjobs.com/icsgblcor/job/hbp-amsterdam---haarlerbergpark/power-platform-intern_req-10121923": {
    "workday": "2026-10-20T21:37:05+00:00"
   },
@@ -11133,6 +11297,12 @@
    "speedyapply": "2026-10-02T05:21:11+00:00",
    "workday": "2026-10-02T06:08:32+00:00"
   },
+  "url:https://insperity.wd12.myworkdayjobs.com/nsp/job/kingwood-tx/rotational-ai-intern_jr103460": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
+  },
+  "url:https://insperity.wd12.myworkdayjobs.com/nsp/job/kingwood-tx/rotational-technology-intern_jr103457": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
+  },
   "url:https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/acton-massachusetts/co-op--devops-engineer--january---june-2027--hybrid-_req-2026-18027": {
    "speedyapply": "2026-10-02T05:21:11+00:00"
   },
@@ -11149,7 +11319,8 @@
    "workday": "2026-10-02T06:08:32+00:00"
   },
   "url:https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/acton-massachusetts/co-op--software-development-engineer-in-test--january---june-2027--hybrid-_req-2026-18026": {
-   "speedyapply": "2026-10-02T05:21:11+00:00"
+   "speedyapply": "2026-10-02T05:21:11+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/acton-massachusetts/co-op--supplier-development-engineering---mechanical--january-june-2027--onsite-_req-2026-18209": {
    "workday": "2026-10-02T06:08:32+00:00"
@@ -11898,6 +12069,9 @@
    "greenhouse": "2026-10-08T17:07:05+00:00",
    "simplify": "2026-10-09T00:07:26+00:00"
   },
+  "url:https://job-boards.eu.greenhouse.io/mangroup/jobs/5012806101": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
+  },
   "url:https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4952609101": {
    "simplify": "2026-10-02T05:21:11+00:00"
   },
@@ -11959,7 +12133,8 @@
   },
   "url:https://job-boards.greenhouse.io/aidashinc/jobs/4436057009": {
    "greenhouse": "2026-10-16T18:07:05+00:00",
-   "speedyapply": "2026-10-16T17:37:05+00:00"
+   "speedyapply": "2026-10-16T17:37:05+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://job-boards.greenhouse.io/amca/jobs/4253828009": {
    "greenhouse": "2026-10-02T05:21:11+00:00"
@@ -12049,7 +12224,8 @@
    "speedyapply": "2026-10-10T17:20:06+00:00"
   },
   "url:https://job-boards.greenhouse.io/arcesiumllc/jobs/5257199007": {
-   "greenhouse": "2026-10-10T18:07:05+00:00"
+   "greenhouse": "2026-10-10T18:07:05+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://job-boards.greenhouse.io/arcesiumllc/jobs/5257236007": {
    "greenhouse": "2026-10-10T18:07:05+00:00"
@@ -12834,7 +13010,8 @@
    "speedyapply": "2026-10-10T17:20:06+00:00"
   },
   "url:https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8015835003": {
-   "greenhouse": "2026-10-09T15:38:28+00:00"
+   "greenhouse": "2026-10-09T15:38:28+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://job-boards.greenhouse.io/generalmatter/jobs/5376051008": {
    "greenhouse": "2026-10-02T06:08:32+00:00"
@@ -13302,7 +13479,8 @@
   },
   "url:https://job-boards.greenhouse.io/muonspace/jobs/5252680007": {
    "greenhouse": "2026-10-02T06:08:32+00:00",
-   "speedyapply": "2026-10-02T05:21:11+00:00"
+   "speedyapply": "2026-10-02T05:21:11+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://job-boards.greenhouse.io/muonspace/jobs/5253432007": {
    "greenhouse": "2026-10-02T06:08:32+00:00"
@@ -13851,6 +14029,9 @@
   "url:https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4455114009": {
    "greenhouse": "2026-10-15T23:48:58+00:00"
   },
+  "url:https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4460200009": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
+  },
   "url:https://job-boards.greenhouse.io/solutions/jobs/4711210006": {
    "greenhouse": "2026-10-06T07:39:03+00:00",
    "simplify": "2026-10-06T07:07:03+00:00"
@@ -13948,7 +14129,8 @@
   },
   "url:https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4723980006": {
    "greenhouse": "2026-10-23T00:07:04+00:00",
-   "simplify": "2026-10-22T23:57:50+00:00"
+   "simplify": "2026-10-22T23:57:50+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://job-boards.greenhouse.io/tanium/jobs/8176322": {
    "greenhouse": "2026-10-02T05:21:11+00:00"
@@ -13993,7 +14175,8 @@
    "greenhouse": "2026-10-07T07:41:42+00:00"
   },
   "url:https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256686007": {
-   "greenhouse": "2026-10-07T07:41:42+00:00"
+   "greenhouse": "2026-10-07T07:41:42+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256691007": {
    "greenhouse": "2026-10-07T07:41:42+00:00"
@@ -14008,7 +14191,8 @@
    "greenhouse": "2026-10-14T10:34:03+00:00"
   },
   "url:https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264424007": {
-   "greenhouse": "2026-10-14T10:34:03+00:00"
+   "greenhouse": "2026-10-14T10:34:03+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://job-boards.greenhouse.io/testnisc/jobs/8167883": {
    "greenhouse": "2026-10-02T05:21:11+00:00",
@@ -14189,6 +14373,14 @@
   "url:https://job-boards.greenhouse.io/transmarketgroup/jobs/5262802007?gh_jid=5262802007": {
    "vanshb03": "2026-10-17T19:18:45+00:00"
   },
+  "url:https://job-boards.greenhouse.io/twitch/jobs/8886605002": {
+   "speedyapply": "2026-10-23T19:07:57+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00"
+  },
+  "url:https://job-boards.greenhouse.io/twitch/jobs/8886748002": {
+   "speedyapply": "2026-10-23T19:07:57+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00"
+  },
   "url:https://job-boards.greenhouse.io/vardaspace/jobs/7824814003": {
    "speedyapply": "2026-10-02T05:21:11+00:00"
   },
@@ -14337,6 +14529,9 @@
   "url:https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4405530009": {
    "greenhouse": "2026-10-02T06:08:32+00:00"
   },
+  "url:https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4423330009": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
+  },
   "url:https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006": {
    "greenhouse": "2026-10-02T06:08:32+00:00",
    "simplify": "2026-10-02T05:21:11+00:00"
@@ -14422,19 +14617,42 @@
   "url:https://jobs.ascension.org/us/en/job/2026-465198": {
    "simplify": "2026-10-14T10:34:03+00:00"
   },
+  "url:https://jobs.ashbyhq.com/1password/00f861d4-2b4a-4159-b6dc-8aed0cde6e39": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
+  },
   "url:https://jobs.ashbyhq.com/1password/412c1aac-13ce-4cc9-9c81-90a9a7a2ee48": {
    "vanshb03": "2026-10-17T19:18:45+00:00"
+  },
+  "url:https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
+  },
+  "url:https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f": {
+   "speedyapply": "2026-10-23T19:07:57+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://jobs.ashbyhq.com/1password/71a3afd1-12b3-4f55-a3bd-fc4e7c46ee37": {
    "vanshb03": "2026-10-22T20:07:03+00:00"
   },
   "url:https://jobs.ashbyhq.com/1password/7f1732a6-5317-4319-82b9-67c62e88d491": {
+   "speedyapply": "2026-10-23T19:07:57+00:00",
    "vanshb03": "2026-10-22T20:07:03+00:00"
+  },
+  "url:https://jobs.ashbyhq.com/1password/8af1359a-c8a2-492b-b567-ae8ae184a8a1": {
+   "speedyapply": "2026-10-23T19:07:57+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://jobs.ashbyhq.com/1password/aac7eea6-ed7c-4871-bbf2-7cb2d5138847": {
    "vanshb03": "2026-10-22T20:07:03+00:00"
   },
+  "url:https://jobs.ashbyhq.com/1password/b2726ac7-dd0d-42f3-93a5-139e18c90779": {
+   "speedyapply": "2026-10-23T19:07:57+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00"
+  },
+  "url:https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
+  },
   "url:https://jobs.ashbyhq.com/1password/c5289ef1-e919-4672-85c5-ee3112f9ddb9": {
+   "speedyapply": "2026-10-23T19:07:57+00:00",
    "vanshb03": "2026-10-22T20:07:03+00:00"
   },
   "url:https://jobs.ashbyhq.com/agzen/4cff4edd-3e9a-4ea1-8138-80c7241a2d3a": {
@@ -14447,7 +14665,8 @@
   },
   "url:https://jobs.ashbyhq.com/allen-control-systems/1cd2b432-9a01-4ae0-8eb2-6ebd9c278b94": {
    "ashby": "2026-10-02T05:21:11+00:00",
-   "speedyapply": "2026-10-02T05:21:11+00:00"
+   "speedyapply": "2026-10-02T05:21:11+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://jobs.ashbyhq.com/allen-control-systems/476bf9ef-17f2-41fd-ae07-ba1090668677": {
    "ashby": "2026-10-13T16:24:27+00:00"
@@ -15052,6 +15271,9 @@
    "speedyapply": "2026-10-02T05:21:11+00:00",
    "vanshb03": "2026-10-02T05:21:11+00:00"
   },
+  "url:https://jobs.ashbyhq.com/heron-power/225d25cd-4b1a-4025-92bf-0624f2261862": {
+   "ashby": "2026-10-23T19:07:57+00:00"
+  },
   "url:https://jobs.ashbyhq.com/heron-power/46097ca0-4093-4a56-9c44-8ec41617bbc0": {
    "ashby": "2026-10-20T18:07:05+00:00"
   },
@@ -15065,6 +15287,9 @@
   },
   "url:https://jobs.ashbyhq.com/heron-power/bae1ec8f-af0b-4f8e-b009-4e459b92e769": {
    "ashby": "2026-10-20T18:07:05+00:00"
+  },
+  "url:https://jobs.ashbyhq.com/hex/f2562cd7-abf2-434b-85ff-0a5016fbf0d6": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://jobs.ashbyhq.com/homebase/a7ab59c0-786e-4675-b684-2ed19b240fb2": {
    "vanshb03": "2026-10-02T05:21:11+00:00"
@@ -15284,6 +15509,9 @@
    "speedyapply": "2026-10-20T17:07:02+00:00",
    "vanshb03": "2026-10-20T22:37:05+00:00"
   },
+  "url:https://jobs.ashbyhq.com/patreon/ace576d6-f480-43b8-a529-549fefb2046d": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
+  },
   "url:https://jobs.ashbyhq.com/patreon/cefe07ab-ba4f-48cc-86b9-a88b1859a95c": {
    "ashby": "2026-10-20T01:07:00+00:00",
    "simplify": "2026-10-20T00:42:25+00:00",
@@ -15463,7 +15691,9 @@
    "speedyapply": "2026-10-02T05:21:11+00:00"
   },
   "url:https://jobs.ashbyhq.com/rivianvw.tech/30c3af69-2dfc-4224-9abc-b2d9c0c41048": {
-   "ashby": "2026-10-22T23:57:50+00:00"
+   "ashby": "2026-10-22T23:57:50+00:00",
+   "speedyapply": "2026-10-23T19:07:57+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://jobs.ashbyhq.com/rivianvw.tech/32f6b882-414f-4bac-959c-83691d120322": {
    "ashby": "2026-10-02T05:21:11+00:00"
@@ -15475,19 +15705,26 @@
    "ashby": "2026-10-09T15:14:20+00:00"
   },
   "url:https://jobs.ashbyhq.com/rivianvw.tech/62e45b20-cbdc-4d16-9466-00bc158b7a7f": {
-   "ashby": "2026-10-22T23:57:50+00:00"
+   "ashby": "2026-10-22T23:57:50+00:00",
+   "speedyapply": "2026-10-23T19:07:57+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://jobs.ashbyhq.com/rivianvw.tech/7967cd44-5469-48b8-b69f-f036e4098464": {
-   "ashby": "2026-10-22T23:57:50+00:00"
+   "ashby": "2026-10-22T23:57:50+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://jobs.ashbyhq.com/rivianvw.tech/7cc3dd48-631f-45ec-ae95-46c7cf05b160": {
-   "ashby": "2026-10-22T23:57:50+00:00"
+   "ashby": "2026-10-22T23:57:50+00:00",
+   "speedyapply": "2026-10-23T19:07:57+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://jobs.ashbyhq.com/rivianvw.tech/a4e49f0a-7e3c-40b1-95a1-28fd907526d0": {
-   "ashby": "2026-10-22T23:57:50+00:00"
+   "ashby": "2026-10-22T23:57:50+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://jobs.ashbyhq.com/rivianvw.tech/b142f138-e300-4e84-8aa5-50ed506d288b": {
-   "ashby": "2026-10-22T23:57:50+00:00"
+   "ashby": "2026-10-22T23:57:50+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://jobs.ashbyhq.com/rivianvw.tech/bc8e38eb-b68c-4234-a06a-99875df7d600": {
    "ashby": "2026-10-02T05:21:11+00:00"
@@ -15501,10 +15738,13 @@
    "speedyapply": "2026-10-02T05:21:11+00:00"
   },
   "url:https://jobs.ashbyhq.com/rivianvw.tech/c6ae5fc4-ac16-450c-ac07-3efd6f0411a1": {
-   "ashby": "2026-10-22T23:57:50+00:00"
+   "ashby": "2026-10-22T23:57:50+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://jobs.ashbyhq.com/rivianvw.tech/cb3559f0-2514-45f1-8d36-a11fa1dded0c": {
-   "ashby": "2026-10-22T23:57:50+00:00"
+   "ashby": "2026-10-22T23:57:50+00:00",
+   "speedyapply": "2026-10-23T19:07:57+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://jobs.ashbyhq.com/rivianvw.tech/d7645387-e536-453b-9b15-61f071a8135b": {
    "ashby": "2026-10-22T23:57:50+00:00"
@@ -15594,7 +15834,9 @@
   },
   "url:https://jobs.ashbyhq.com/skydio/89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd": {
    "ashby": "2026-10-22T20:07:03+00:00",
-   "simplify": "2026-10-22T23:57:50+00:00"
+   "simplify": "2026-10-22T23:57:50+00:00",
+   "speedyapply": "2026-10-23T19:07:57+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52": {
    "ashby": "2026-10-20T21:37:05+00:00",
@@ -15744,6 +15986,9 @@
   "url:https://jobs.ashbyhq.com/valon/b5a62c0c-823c-42dd-8cb5-e4b1455bcc64": {
    "ashby": "2026-10-02T06:08:32+00:00",
    "speedyapply": "2026-10-02T05:21:11+00:00"
+  },
+  "url:https://jobs.ashbyhq.com/veeda-ai/84dfad5c-d790-4c4a-9411-40b676b1abbb": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af": {
    "vanshb03": "2026-10-02T05:21:11+00:00"
@@ -15909,6 +16154,9 @@
   "url:https://jobs.eu.lever.co/quantinuum/72ed2fcf-5236-4632-baac-1b001df7e84f": {
    "speedyapply": "2026-10-02T18:40:08+00:00"
   },
+  "url:https://jobs.eu.lever.co/quantinuum/782bea0b-1959-48cc-8872-1305aece51bf": {
+   "speedyapply": "2026-10-23T19:07:57+00:00"
+  },
   "url:https://jobs.grainger.com/imperialsupplies/job/green-bay-business-analyst-intern-wi-54301-5160/1434550000?ats=successfactors": {
    "simplify": "2026-10-02T05:21:11+00:00"
   },
@@ -16007,6 +16255,9 @@
   },
   "url:https://jobs.l3harris.com/job/tulsa-image-processing-engineer-intern-ok-74115/1442671200?ats=successfactors": {
    "vanshb03": "2026-10-22T20:07:03+00:00"
+  },
+  "url:https://jobs.l3harris.com/job/tulsa-intern,-software-engineer-ok-74115/1442777600?ats=successfactors": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://jobs.lever.co/acronaviation/0cd327f1-0f91-41d0-8b88-093a084fb082": {
    "lever": "2026-10-02T06:08:32+00:00"
@@ -16170,7 +16421,8 @@
   },
   "url:https://jobs.lever.co/hermeus/78008094-ca81-4a0c-9a18-93b30f932acd": {
    "lever": "2026-10-02T05:21:11+00:00",
-   "speedyapply": "2026-10-02T05:21:11+00:00"
+   "speedyapply": "2026-10-02T05:21:11+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://jobs.lever.co/hermeus/9229aa88-f54d-4ecd-85ee-b31f53b4207d": {
    "lever": "2026-10-02T05:21:11+00:00"
@@ -16307,7 +16559,8 @@
    "lever": "2026-10-02T05:21:11+00:00"
   },
   "url:https://jobs.lever.co/palantir/69ab7e24-8f5d-426e-84f7-6d3b2d4a7efd": {
-   "lever": "2026-10-22T23:57:50+00:00"
+   "lever": "2026-10-22T23:57:50+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3": {
    "lever": "2026-10-02T05:21:11+00:00",
@@ -16362,7 +16615,9 @@
    "vanshb03": "2026-10-02T05:21:11+00:00"
   },
   "url:https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb": {
-   "lever": "2026-10-22T23:57:50+00:00"
+   "lever": "2026-10-22T23:57:50+00:00",
+   "speedyapply": "2026-10-23T19:07:57+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0": {
    "lever": "2026-10-02T05:21:11+00:00",
@@ -16424,15 +16679,18 @@
   },
   "url:https://jobs.lever.co/pattern/48945dce-b5ef-43cd-9d85-f8b26ce5b43e": {
    "lever": "2026-10-23T00:07:04+00:00",
-   "simplify": "2026-10-22T23:57:50+00:00"
+   "simplify": "2026-10-22T23:57:50+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://jobs.lever.co/pattern/5c0c1963-87c5-48d7-8da9-0c79121fe443": {
    "lever": "2026-10-23T00:07:04+00:00",
-   "simplify": "2026-10-22T23:57:50+00:00"
+   "simplify": "2026-10-22T23:57:50+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://jobs.lever.co/pattern/ad978732-7171-473d-9400-0a6fc9e23cf7": {
    "lever": "2026-10-23T00:07:04+00:00",
-   "simplify": "2026-10-22T23:57:50+00:00"
+   "simplify": "2026-10-22T23:57:50+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://jobs.lever.co/protective/32a8a257-c5d4-4b77-bf0b-d08dbb93b752": {
    "lever": "2026-10-02T05:21:11+00:00"
@@ -16472,6 +16730,9 @@
    "lever": "2026-10-21T00:37:19+00:00",
    "simplify": "2026-10-21T02:08:43+00:00",
    "vanshb03": "2026-10-21T19:34:08+00:00"
+  },
+  "url:https://jobs.lever.co/shieldai/bef440ce-0365-4de7-9b1e-b1288cdaf7f3": {
+   "lever": "2026-10-23T19:07:57+00:00"
   },
   "url:https://jobs.lever.co/shieldai/c41c41a2-83d8-41a0-8a3b-ff8b84dc1c8a": {
    "lever": "2026-10-02T05:21:11+00:00"
@@ -16530,6 +16791,9 @@
   "url:https://jobs.lever.co/standtogether/e4dd1d3c-79a0-435d-87b3-eac542b4c2b5": {
    "simplify": "2026-10-02T05:21:11+00:00"
   },
+  "url:https://jobs.lever.co/standtogether/f379a7ee-c2b6-47db-b1de-08283462ea6c": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
+  },
   "url:https://jobs.lever.co/thea.energy/6ae6e9bb-ed46-440b-83ca-4152fa8ec0bd": {
    "simplify": "2026-10-04T13:44:13+00:00"
   },
@@ -16540,10 +16804,14 @@
    "lever": "2026-10-02T05:21:11+00:00"
   },
   "url:https://jobs.lever.co/tri/71e99c38-aa29-4414-956d-cc526644b9b7": {
-   "lever": "2026-10-22T20:37:05+00:00"
+   "lever": "2026-10-22T20:37:05+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://jobs.lever.co/viget/938c3301-b358-42e3-afff-123b97b6d290": {
    "lever": "2026-10-09T03:08:09+00:00"
+  },
+  "url:https://jobs.lever.co/viget/969d8237-ec1a-4ec4-ba09-b08bcfcd81c4": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://jobs.lever.co/viget/b18cc87d-fca2-485a-a0f2-ad6197db63f2": {
    "lever": "2026-10-09T03:08:09+00:00",
@@ -16595,7 +16863,8 @@
    "simplify": "2026-10-21T22:37:05+00:00"
   },
   "url:https://jobs.paccar.com/job/kirkland-summer-2027-aftersales-data-analyst-intern-wa-98033/1450518033?ats=successfactors": {
-   "simplify": "2026-10-23T02:07:04+00:00"
+   "simplify": "2026-10-23T02:07:04+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://jobs.paccar.com/job/kirkland-summer-2027-dealer-development-marketing-data-analytics-intern-wa-98033/1449209833?ats=successfactors": {
    "simplify": "2026-10-20T01:50:37+00:00"
@@ -17187,7 +17456,8 @@
    "smartrecruiters": "2026-10-02T05:21:11+00:00"
   },
   "url:https://jobs.smartrecruiters.com/infinitequant/744000157170821": {
-   "smartrecruiters": "2026-10-22T15:37:56+00:00"
+   "smartrecruiters": "2026-10-22T15:37:56+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://jobs.smartrecruiters.com/interco/744000149591449": {
    "smartrecruiters": "2026-10-14T17:37:46+00:00"
@@ -17324,7 +17594,8 @@
    "smartrecruiters": "2026-10-15T21:37:05+00:00"
   },
   "url:https://jobs.smartrecruiters.com/llnl/3743990016164416": {
-   "smartrecruiters": "2026-10-15T21:37:05+00:00"
+   "smartrecruiters": "2026-10-15T21:37:05+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://jobs.smartrecruiters.com/llnl/3743990016164736": {
    "smartrecruiters": "2026-10-15T21:37:05+00:00"
@@ -17382,6 +17653,9 @@
   "url:https://jobs.smartrecruiters.com/paconsulting/744000156517869": {
    "simplify": "2026-10-21T01:37:01+00:00"
   },
+  "url:https://jobs.smartrecruiters.com/paconsulting/744000157427038": {
+   "simplify": "2026-10-23T19:07:57+00:00"
+  },
   "url:https://jobs.smartrecruiters.com/pilotcompany/744000147587219": {
    "smartrecruiters": "2026-10-02T05:21:11+00:00"
   },
@@ -17423,6 +17697,12 @@
   },
   "url:https://jobs.smartrecruiters.com/renesaselectronics/744000156079336": {
    "smartrecruiters": "2026-10-16T21:07:05+00:00"
+  },
+  "url:https://jobs.smartrecruiters.com/renesaselectronics/744000157198610": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
+  },
+  "url:https://jobs.smartrecruiters.com/renesaselectronics/744000157550697": {
+   "smartrecruiters": "2026-10-23T19:07:57+00:00"
   },
   "url:https://jobs.smartrecruiters.com/resultant/744000150785390": {
    "simplify": "2026-10-02T05:21:11+00:00"
@@ -17731,7 +18011,8 @@
    "workday": "2026-10-16T18:07:05+00:00"
   },
   "url:https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/grand-rapids-mi-united-states/software-analytics-co-op_jr-0096723": {
-   "simplify": "2026-10-22T23:57:50+00:00"
+   "simplify": "2026-10-22T23:57:50+00:00",
+   "speedyapply": "2026-10-23T19:07:57+00:00"
   },
   "url:https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/grand-rapids-mi-united-states/software-engineering-intern_jr-0097732": {
    "speedyapply": "2026-10-16T17:37:05+00:00",
@@ -17754,7 +18035,9 @@
    "workday": "2026-10-16T18:07:05+00:00"
   },
   "url:https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/grand-rapids-mi-united-states/software-analytics-co-op_jr-0096723-1": {
-   "simplify": "2026-10-22T23:57:50+00:00"
+   "simplify": "2026-10-22T23:57:50+00:00",
+   "speedyapply": "2026-10-23T19:07:57+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/grand-rapids-mi-united-states/software-engineering-intern_jr-0097732-1": {
    "speedyapply": "2026-10-16T17:37:05+00:00",
@@ -17829,6 +18112,9 @@
    "vanshb03": "2026-10-17T19:18:45+00:00",
    "workday": "2026-10-14T00:35:12+00:00"
   },
+  "url:https://kla.wd1.myworkdayjobs.com/search/job/milpitas-ca/engineering-intern_2642277-1": {
+   "workday": "2026-10-23T19:07:57+00:00"
+  },
   "url:https://kla.wd1.myworkdayjobs.com/search/job/milpitas-ca/mechatronics-engineering-internship_2641518-1": {
    "workday": "2026-10-02T06:08:32+00:00"
   },
@@ -17847,11 +18133,20 @@
   "url:https://kla.wd1.myworkdayjobs.com/search/job/milpitas-ca/product-development-engineer-intern_2641772-2": {
    "workday": "2026-10-02T06:08:32+00:00"
   },
+  "url:https://kla.wd1.myworkdayjobs.com/search/job/milpitas-ca/product-development-engineer-intern_2642130-1": {
+   "workday": "2026-10-23T19:07:57+00:00"
+  },
   "url:https://kla.wd1.myworkdayjobs.com/search/job/milpitas-ca/product-development-engineering-intern_2641562-1": {
    "workday": "2026-10-02T06:08:32+00:00"
   },
   "url:https://kla.wd1.myworkdayjobs.com/search/job/milpitas-ca/product-development-engineering-intern_2642328-1": {
    "workday": "2026-10-23T16:07:03+00:00"
+  },
+  "url:https://kla.wd1.myworkdayjobs.com/search/job/milpitas-ca/product-development-engineering-intern_2642439-1": {
+   "workday": "2026-10-23T19:07:57+00:00"
+  },
+  "url:https://kla.wd1.myworkdayjobs.com/search/job/milpitas-ca/software-engineering-intern---ai-ml-for-diagnostics---calibration_2642129-1": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://kla.wd1.myworkdayjobs.com/search/job/milpitas-ca/software-engineering-intern--c----unix-_2641325-1": {
    "speedyapply": "2026-10-02T05:21:11+00:00",
@@ -17980,8 +18275,14 @@
   "url:https://kla.wd1.myworkdayjobs.com/ur/job/milpitas-ca/product-development-engineering-intern_2642328": {
    "workday": "2026-10-23T16:07:03+00:00"
   },
+  "url:https://kla.wd1.myworkdayjobs.com/ur/job/milpitas-ca/product-development-engineering-intern_2642439": {
+   "workday": "2026-10-23T19:07:57+00:00"
+  },
   "url:https://kla.wd1.myworkdayjobs.com/ur/job/milpitas-ca/software-engineer-intern--c----linux----summer-2027_2641878": {
    "workday": "2026-10-23T16:07:03+00:00"
+  },
+  "url:https://kla.wd1.myworkdayjobs.com/ur/job/milpitas-ca/software-engineering-intern---ai-ml-for-diagnostics---calibration_2642129": {
+   "workday": "2026-10-23T19:07:57+00:00"
   },
   "url:https://kla.wd1.myworkdayjobs.com/ur/job/milpitas-ca/software-engineering-intern--c----unix-_2641325": {
    "speedyapply": "2026-10-06T19:11:18+00:00",
@@ -18181,6 +18482,7 @@
   },
   "url:https://leidos.wd5.myworkdayjobs.com/external/job/huntsville-al/ai-ml-intern_r-00195168": {
    "simplify": "2026-10-22T23:57:50+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00",
    "workday": "2026-10-22T15:37:56+00:00"
   },
   "url:https://leidos.wd5.myworkdayjobs.com/external/job/huntsville-al/electrical-hardware-design-engineering-intern_r-00193394": {
@@ -18981,6 +19283,7 @@
    "workday": "2026-10-06T02:12:18+00:00"
   },
   "url:https://mastercard.wd1.myworkdayjobs.com/campus/job/ofallon-missouri/platform-engineering-intern--summer-2027---st-louis--mo--us_r-284880": {
+   "vanshb03": "2026-10-23T19:07:57+00:00",
    "workday": "2026-10-16T14:15:20+00:00"
   },
   "url:https://mastercard.wd1.myworkdayjobs.com/campus/job/ofallon-missouri/security-engineering---enablement-intern--summer-2027---st-louis--mo--us_r-284927": {
@@ -20225,6 +20528,9 @@
   "url:https://msd.wd5.myworkdayjobs.com/searchjobs/job/usa---massachusetts---cambridge-320-bent-street/xmlname-2027-future-talent-program---ai-ml-biomedical-imaging-and-computational-pathology---intern_r423515": {
    "workday": "2026-10-23T16:07:03+00:00"
   },
+  "url:https://msd.wd5.myworkdayjobs.com/searchjobs/job/usa---massachusetts---cambridge-320-bent-street/xmlname-2027-future-talent-program---data--ai--and-genome-sciences---intern_r423333": {
+   "workday": "2026-10-23T19:07:57+00:00"
+  },
   "url:https://msd.wd5.myworkdayjobs.com/searchjobs/job/usa---massachusetts---cambridge-320-bent-street/xmlname-2027-future-talent-program---data--ai--and-genome-sciences--foundation-models---intern_r423438": {
    "workday": "2026-10-23T16:07:03+00:00"
   },
@@ -20417,6 +20723,9 @@
   "url:https://msd.wd5.myworkdayjobs.com/searchjobs/job/usa---pennsylvania---west-point/xmlname-2027-future-talent-program---vaccines-process-research---development-upstream---co-op_r413130": {
    "workday": "2026-10-02T13:08:13+00:00"
   },
+  "url:https://mtb.wd5.myworkdayjobs.com/campus/job/buffalo-ny/technology-intern---software-engineering--enterprise-api-services-development-team-_r90812": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
+  },
   "url:https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/london/xmlname-2027-mufg-uk-summer-analyst-programme--global-markets---markets-engineering_10080069-wd-1": {
    "simplify": "2026-10-09T13:19:19+00:00"
   },
@@ -20496,6 +20805,9 @@
   },
   "url:https://nasdaq.wd1.myworkdayjobs.com/global_external_site/job/sweden---skolgatan---ume/co-op-student-worker_r0027078": {
    "workday": "2026-10-05T10:12:07+00:00"
+  },
+  "url:https://nasdaq.wd1.myworkdayjobs.com/global_external_site/job/usa---boston---massachusetts/business-development-intern---2027-summer-internship_r0027154": {
+   "workday": "2026-10-23T19:07:57+00:00"
   },
   "url:https://nasdaq.wd1.myworkdayjobs.com/global_external_site/job/usa---new-york-city---new-york/intelligent-automation-intern---2027-summer-internship_r0027113": {
    "simplify": "2026-10-14T22:15:42+00:00",
@@ -20831,6 +21143,7 @@
   },
   "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-texas-san-antonio/xmlname-2027-cyber-software-engineer-intern---san-antonio-tx_r10257311": {
    "simplify": "2026-10-22T23:57:50+00:00",
+   "speedyapply": "2026-10-23T19:07:57+00:00",
    "vanshb03": "2026-10-22T20:07:03+00:00",
    "workday": "2026-10-22T17:36:06+00:00"
   },
@@ -20884,6 +21197,7 @@
   },
   "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-virginia-dulles/xmlname-2027-systems-engineering-internship--ai-experience----dulles-va_r10257423": {
    "simplify": "2026-10-22T23:57:50+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00",
    "workday": "2026-10-22T20:37:05+00:00"
   },
   "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-virginia-mclean/xmlname-2027-college-technical-intern---mclean-va_r10253146": {
@@ -20942,6 +21256,9 @@
    "simplify": "2026-10-02T05:21:11+00:00",
    "speedyapply": "2026-10-02T05:21:11+00:00",
    "workday": "2026-10-02T13:08:13+00:00"
+  },
+  "url:https://nike.wd1.myworkdayjobs.com/nke/job/boston-massachusetts/converse-ai-enablement-graduate-internship_r-96256": {
+   "workday": "2026-10-23T19:07:57+00:00"
   },
   "url:https://nike.wd1.myworkdayjobs.com/nke/job/laakdal-belgium/nike--inc-internship-supply-chain-intelligence_r-92335": {
    "workday": "2026-10-02T05:21:11+00:00"
@@ -21662,6 +21979,9 @@
   "url:https://parsons.wd5.myworkdayjobs.com/search/job/us---in-indianapolis/roadway-engineering-intern---summer-2027_r184488": {
    "workday": "2026-10-02T05:21:11+00:00"
   },
+  "url:https://parsons.wd5.myworkdayjobs.com/search/job/us---ky-lexington/process-engineer-intern--summer-2027_r187663": {
+   "workday": "2026-10-23T19:07:57+00:00"
+  },
   "url:https://parsons.wd5.myworkdayjobs.com/search/job/us---md-baltimore/bridge-engineering-intern---summer-2027_r187084": {
    "workday": "2026-10-12T16:07:05+00:00"
   },
@@ -22024,11 +22344,17 @@
    "simplify": "2026-10-15T22:37:05+00:00",
    "workday": "2026-10-15T18:07:05+00:00"
   },
+  "url:https://psu.wd1.myworkdayjobs.com/psu_staff/job/off-campus---other/r-d-engineer-intern_req_0000083722": {
+   "workday": "2026-10-23T19:07:57+00:00"
+  },
   "url:https://psu.wd1.myworkdayjobs.com/psu_staff/job/penn-state-university-park/engineering-technologist-intern_req_0000077694-1": {
    "workday": "2026-10-15T15:07:44+00:00"
   },
   "url:https://psu.wd1.myworkdayjobs.com/psu_staff/job/penn-state-university-park/guidance-and-control-research---development-internship_req_0000071517-1": {
    "simplify": "2026-10-02T05:21:11+00:00"
+  },
+  "url:https://psu.wd1.myworkdayjobs.com/psu_staff/job/penn-state-university-park/mechanical-engineering-internship_req_0000083725-1": {
+   "workday": "2026-10-23T19:07:57+00:00"
   },
   "url:https://psu.wd1.myworkdayjobs.com/psu_staff/job/penn-state-university-park/opp-lighting-electrical-engineer-intern_req_0000083492-1": {
    "workday": "2026-10-21T15:10:08+00:00"
@@ -22179,7 +22505,8 @@
    "vanshb03": "2026-10-22T20:07:03+00:00"
   },
   "url:https://qualcomm.eightfold.ai/careers/job/446721686396": {
-   "simplify": "2026-10-22T23:57:50+00:00"
+   "simplify": "2026-10-22T23:57:50+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://quantumsignalai.applytojob.com/apply/23a7z79zfn/embedded-and-realtime-software-intern": {
    "speedyapply": "2026-10-02T05:21:11+00:00"
@@ -22232,6 +22559,7 @@
    "workday": "2026-10-02T13:08:13+00:00"
   },
   "url:https://radiancetech.wd12.myworkdayjobs.com/radiance_external/job/ruston-la/microelectronics-engineer-intern_hr102520": {
+   "vanshb03": "2026-10-23T19:07:57+00:00",
    "workday": "2026-10-22T19:07:05+00:00"
   },
   "url:https://ragleinc.applytojob.com/apply/box8uicios/data-engineering-intern-summer-2027": {
@@ -22316,11 +22644,17 @@
   "url:https://rb.wd5.myworkdayjobs.com/frs/job/dallas-tx/xmlname-2027-intern---windows_r-0000033715": {
    "vanshb03": "2026-10-17T19:18:45+00:00"
   },
+  "url:https://rb.wd5.myworkdayjobs.com/frs/job/houston-tx/xmlname-2027-intern---community--engagement---development--houston-_r-0000033568": {
+   "workday": "2026-10-23T19:07:57+00:00"
+  },
   "url:https://rb.wd5.myworkdayjobs.com/frs/job/new-york-ny/xmlname-2027-summer-intern----research-group---junior-intern_r-0000033023": {
    "workday": "2026-10-02T05:21:11+00:00"
   },
   "url:https://rb.wd5.myworkdayjobs.com/frs/job/new-york-ny/xmlname-2027-summer-intern---technology-group---junior_r-0000033072": {
    "workday": "2026-10-02T05:21:11+00:00"
+  },
+  "url:https://rb.wd5.myworkdayjobs.com/frs/job/richmond-va/federal-reserve-summer-2027-research-outreach-intern_r-0000033219": {
+   "workday": "2026-10-23T19:07:57+00:00"
   },
   "url:https://rb.wd5.myworkdayjobs.com/frs/job/richmond-va/federal-reserve-summer-2027-technical-internship_r-0000033194": {
    "workday": "2026-10-06T05:07:05+00:00"
@@ -22333,6 +22667,12 @@
   },
   "url:https://rb.wd5.myworkdayjobs.com/frs/job/st-louis-mo/xmlname-2027-summer-intern---instructional-design---development_r-0000033467": {
    "workday": "2026-10-02T05:21:11+00:00"
+  },
+  "url:https://rb.wd5.myworkdayjobs.com/frs/job/st-louis-mo/xmlname-2027-summer-internship---business-technology_r-0000033461": {
+   "workday": "2026-10-23T19:07:57+00:00"
+  },
+  "url:https://rb.wd5.myworkdayjobs.com/frs/job/st-louis-mo/xmlname-2027-summer-internship---research_r-0000033457": {
+   "workday": "2026-10-23T19:07:57+00:00"
   },
   "url:https://rbc.wd3.myworkdayjobs.com/rbcearlytalent1/job/8081-arco-corporate-driveraleigh/xmlname-2027-capital-markets--quantitative-technology-services-summer--raleigh_r-0000189675": {
    "simplify": "2026-10-06T23:07:05+00:00"
@@ -22391,6 +22731,9 @@
   "url:https://realtyincome.wd108.myworkdayjobs.com/realty_income_careers/job/san-diego-california/technology-intern---multiple-opportunities_r-100339": {
    "simplify": "2026-10-13T01:37:03+00:00"
   },
+  "url:https://recruiting.paylocity.com/recruiting/jobs/details/3814718": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
+  },
   "url:https://recruiting.paylocity.com/recruiting/jobs/details/4476288": {
    "simplify": "2026-10-02T05:21:11+00:00"
   },
@@ -22414,6 +22757,36 @@
   },
   "url:https://recruiting.paylocity.com/recruiting/jobs/details/4537849": {
    "simplify": "2026-10-02T05:21:11+00:00"
+  },
+  "url:https://recruiting.paylocity.com/recruiting/jobs/details/4553447": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
+  },
+  "url:https://recruiting.paylocity.com/recruiting/jobs/details/4553481": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
+  },
+  "url:https://recruiting.paylocity.com/recruiting/jobs/details/4556132": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
+  },
+  "url:https://recruiting.paylocity.com/recruiting/jobs/details/4564633": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
+  },
+  "url:https://recruiting.paylocity.com/recruiting/jobs/details/4575799": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
+  },
+  "url:https://recruiting.paylocity.com/recruiting/jobs/details/4581330": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
+  },
+  "url:https://recruiting.paylocity.com/recruiting/jobs/details/4581377": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
+  },
+  "url:https://recruiting.paylocity.com/recruiting/jobs/details/4587630": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
+  },
+  "url:https://recruiting.paylocity.com/recruiting/jobs/details/4592733": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
+  },
+  "url:https://recruiting.paylocity.com/recruiting/jobs/details/4595767": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://redhat.wd5.myworkdayjobs.com/jobs/job/brno---tech-park-brno---c/internsoftware-engineering-intern---container-tools--brno--czech-republic-_r-059211": {
    "workday": "2026-10-07T22:07:00+00:00"
@@ -22578,7 +22951,8 @@
    "speedyapply": "2026-10-04T17:42:09+00:00"
   },
   "url:https://revvity.wd103.myworkdayjobs.com/external/job/akron/software-integration-co-op--spring-2027-_jr-045618": {
-   "speedyapply": "2026-10-04T17:42:09+00:00"
+   "speedyapply": "2026-10-04T17:42:09+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://rjet.wd108.myworkdayjobs.com/external_career_site/job/carmel-headquarters/data-analytics-intern---summer-2027_jr-007628": {
    "simplify": "2026-10-02T05:21:11+00:00"
@@ -22741,6 +23115,7 @@
    "workday": "2026-10-20T17:07:02+00:00"
   },
   "url:https://rockwellautomation.wd1.myworkdayjobs.com/external-rockwell-automation-early-careers/job/mequon-wisconsin-united-states/firmware-engineer-intern_r26-8321-2": {
+   "speedyapply": "2026-10-23T19:07:57+00:00",
    "workday": "2026-10-22T23:57:50+00:00"
   },
   "url:https://rockwellautomation.wd1.myworkdayjobs.com/external-rockwell-automation-early-careers/job/mequon-wisconsin-united-states/intern--firmware-and-software-test-development_r26-7568": {
@@ -22816,6 +23191,8 @@
    "workday": "2026-10-02T05:21:11+00:00"
   },
   "url:https://rockwellautomation.wd1.myworkdayjobs.com/external_rockwell_automation/job/mequon-wisconsin-united-states/firmware-engineer-intern_r26-8321": {
+   "speedyapply": "2026-10-23T19:07:57+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00",
    "workday": "2026-10-22T23:57:50+00:00"
   },
   "url:https://rockwellautomation.wd1.myworkdayjobs.com/external_rockwell_automation/job/mequon-wisconsin-united-states/intern--firmware-and-software-test-development_r26-7568-1": {
@@ -22863,6 +23240,9 @@
   },
   "url:https://rsm.wd1.myworkdayjobs.com/rsmcareers/job/boston/technology-risk-consulting-intern---summer-2027_jr116339": {
    "workday": "2026-10-06T00:07:05+00:00"
+  },
+  "url:https://rsm.wd1.myworkdayjobs.com/rsmcareers/job/chicago/technology-risk-consulting-intern---summer-2027_jr116271": {
+   "workday": "2026-10-23T19:07:57+00:00"
   },
   "url:https://rsm.wd1.myworkdayjobs.com/rsmcareers/job/chicago/xmlname-2027-elevate-program-and-2028-summer-technology-risk-and-controls-consulting-intern_jr120923": {
    "workday": "2026-10-14T05:23:15+00:00"
@@ -23313,6 +23693,7 @@
    "workday": "2026-10-14T00:35:12+00:00"
   },
   "url:https://selinc.wd1.myworkdayjobs.com/sel/job/washington---pullman/software-engineer-intern_2026-23816": {
+   "speedyapply": "2026-10-23T19:07:57+00:00",
    "workday": "2026-10-22T17:36:06+00:00"
   },
   "url:https://selinc.wd1.myworkdayjobs.com/sel/job/washington---pullman/software-engineer-intern_2026-24190": {
@@ -23836,6 +24217,9 @@
   "url:https://spgi.wd5.myworkdayjobs.com/spgi_careers/job/singapore-sg/market-intelligence-revenue-associate-internship_331961-1": {
    "workday": "2026-10-02T05:21:11+00:00"
   },
+  "url:https://spscommerce.wd108.myworkdayjobs.com/sps/job/us-mn-minneapolis-office/software-engineer-intern_r-001398": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
+  },
   "url:https://staff-emory.icims.com/jobs/172196/job": {
    "speedyapply": "2026-10-02T05:21:11+00:00"
   },
@@ -24006,6 +24390,9 @@
   "url:https://studentopportunities-lutron.icims.com/jobs/5388/job": {
    "speedyapply": "2026-10-14T17:16:21+00:00"
   },
+  "url:https://studentopportunities-lutron.icims.com/jobs/5392/job": {
+   "speedyapply": "2026-10-23T19:07:57+00:00"
+  },
   "url:https://studentopportunities-lutron.icims.com/jobs/5616/job": {
    "speedyapply": "2026-10-13T19:37:06+00:00"
   },
@@ -24115,6 +24502,9 @@
   "url:https://symbotic.wd504.myworkdayjobs.com/symbotic/job/usa-wilmington--ma---hq/co-op---software-engineer_r8111": {
    "speedyapply": "2026-10-02T05:21:11+00:00"
   },
+  "url:https://symbotic.wd504.myworkdayjobs.com/symbotic/job/usa-wilmington--ma---hq/co-op--machine-learning-ops_r8327": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
+  },
   "url:https://symbotic.wd504.myworkdayjobs.com/symbotic/job/usa-wilmington--ma---hq/co-op--robot-manipulation_r8257": {
    "vanshb03": "2026-10-17T19:18:45+00:00"
   },
@@ -24193,6 +24583,9 @@
   },
   "url:https://target.wd5.myworkdayjobs.com/targetcareers/job/777-e-colorado-blvd-pasadenaca-91101-2104/store-executive-intern--store-leadership-intern----greater-pasadena--ca--starting-summer-2027-_r0000449492": {
    "workday": "2026-10-19T17:37:05+00:00"
+  },
+  "url:https://taylor.wd1.myworkdayjobs.com/external/job/oh-remote/enablement-data---insights-intern--temporary-_r30448": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://tcenergy.wd3.myworkdayjobs.com/career_site_tc/job/airdrie-alberta/student-intern--engineering_jr-10738": {
    "workday": "2026-10-02T18:40:08+00:00"
@@ -24930,6 +25323,15 @@
   "url:https://travelers.wd5.myworkdayjobs.com/external/job/wi---brookfield/business-insurance-intern--underwriting-professional-development-program--updp-_r-53088": {
    "workday": "2026-10-08T19:07:05+00:00"
   },
+  "url:https://trimble.wd1.myworkdayjobs.com/trimblecareers/job/canada---richmond-hill-ontario-applanix/automated-test-engineering-intern--16-month-internship-_r58004": {
+   "workday": "2026-10-23T19:07:57+00:00"
+  },
+  "url:https://trimble.wd1.myworkdayjobs.com/trimblecareers/job/canada---richmond-hill-ontario-applanix/navigation---machine-learning-engineering-intern--16-months-_r57980": {
+   "workday": "2026-10-23T19:07:57+00:00"
+  },
+  "url:https://trimble.wd1.myworkdayjobs.com/trimblecareers/job/canada---richmond-hill-ontario-applanix/software-engineering-intern_r57963": {
+   "workday": "2026-10-23T19:07:57+00:00"
+  },
   "url:https://trimble.wd1.myworkdayjobs.com/trimblecareers/job/us---co-westminster/hardware-software-testing-intern_r57677-1": {
    "speedyapply": "2026-10-02T05:21:11+00:00",
    "workday": "2026-10-02T05:21:11+00:00"
@@ -25221,6 +25623,7 @@
   },
   "url:https://uline.wd1.myworkdayjobs.com/uline_careers/job/pleasant-prairie-wi/software-development-internship---summer-2027_r268537": {
    "simplify": "2026-10-22T11:37:01+00:00",
+   "speedyapply": "2026-10-23T19:07:57+00:00",
    "vanshb03": "2026-10-22T20:07:03+00:00",
    "workday": "2026-10-22T09:16:24+00:00"
   },
@@ -25256,11 +25659,15 @@
    "greenhouse": "2026-10-23T00:07:04+00:00"
   },
   "url:https://ursamajor.com/careers?gh_jid=4746825005": {
-   "greenhouse": "2026-10-23T00:07:04+00:00"
+   "greenhouse": "2026-10-23T00:07:04+00:00",
+   "speedyapply": "2026-10-23T19:07:57+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://ursamajor.com/careers?gh_jid=4746827005": {
    "greenhouse": "2026-10-23T00:07:04+00:00",
-   "simplify": "2026-10-22T23:57:50+00:00"
+   "simplify": "2026-10-22T23:57:50+00:00",
+   "speedyapply": "2026-10-23T19:07:57+00:00",
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://ursamajor.com/careers?gh_jid=4746828005": {
    "greenhouse": "2026-10-23T00:07:04+00:00"
@@ -25367,6 +25774,9 @@
   },
   "url:https://uscareers-idemia.icims.com/jobs/8657/job": {
    "simplify": "2026-10-07T23:18:06+00:00"
+  },
+  "url:https://uscareers-idemia.icims.com/jobs/8707/job": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://uscareers-lennox.icims.com/jobs/54804/job": {
    "simplify": "2026-10-02T05:21:11+00:00"
@@ -25539,6 +25949,9 @@
   "url:https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/piedmont-south-carolina-usa/systems-engineer-intern_req-22256": {
    "workday": "2026-10-02T05:21:11+00:00"
   },
+  "url:https://veteransunited.wd1.myworkdayjobs.com/vuhl/job/remote-mo/intern---software-engineer---summer-2027_r6249": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
+  },
   "url:https://viavisolutions.wd1.myworkdayjobs.com/careers/job/germantown-md-usa/software-engineering-co-op_260005140-1": {
    "speedyapply": "2026-10-02T05:21:11+00:00"
   },
@@ -25574,11 +25987,20 @@
   "url:https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/boston-ma/spring-co-op-2027--commercial-analytics_req-31112-1": {
    "simplify": "2026-10-20T17:29:45+00:00"
   },
+  "url:https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/paddington-united-kingdom/international-insights--analytics-and-commercial-operations---summer-intern--10-weeks-_req-30453-1": {
+   "simplify": "2026-10-23T19:07:57+00:00"
+  },
+  "url:https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/paddington-united-kingdom/international-insights--analytics-and-commercial-operations---summer-intern--10-weeks-_req-30453": {
+   "simplify": "2026-10-23T19:07:57+00:00"
+  },
   "url:https://walmart.wd504.myworkdayjobs.com/walmartexternal/job/usa-isd-office---dgtc-ar-bentonville-home-office/summer-2027-intern---data-science-iii_r-2630030": {
    "simplify": "2026-10-02T05:21:11+00:00"
   },
   "url:https://walmart.wd504.myworkdayjobs.com/walmartexternal/job/usa-isd-office---dgtc-ar-bentonville-home-office/summer-2027-intern---software-engineer-ii_r-2630029-1": {
    "simplify": "2026-10-02T05:21:11+00:00"
+  },
+  "url:https://walmart.wd504.myworkdayjobs.com/walmartexternal/job/usa-tx-lancaster-07382-ecomm-fulfillment-services/summer-2027-intern--automation---product-manager---corporate-intern_r-2649739": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://wattswater.wd5.myworkdayjobs.com/intern-external/job/andover-ma-federal-street/it-network-intern--summer-2027_10017567": {
    "workday": "2026-10-02T05:21:11+00:00"
@@ -25923,6 +26345,7 @@
    "workday": "2026-10-10T02:07:05+00:00"
   },
   "url:https://workday.wd5.myworkdayjobs.com/workday_early_career/job/usa-ca-pleasanton/cybersecurity-engineer-intern_jr-0110809": {
+   "vanshb03": "2026-10-23T19:07:57+00:00",
    "workday": "2026-10-10T02:07:05+00:00"
   },
   "url:https://workday.wd5.myworkdayjobs.com/workday_early_career/job/usa-ca-pleasanton/machine-learning-engineer-intern_jr-0110812": {
@@ -25988,6 +26411,18 @@
   },
   "url:https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us": {
    "vanshb03": "2026-10-02T05:21:11+00:00"
+  },
+  "url:https://www.amazon.jobs/en/jobs/10564599/2027-frontier-ai-robotics-internship-undergraduate-united-states-frontier-ai-robotics-frontier-ai-robotics": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
+  },
+  "url:https://www.amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
+  },
+  "url:https://www.amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
+  },
+  "url:https://www.amazon.jobs/en/jobs/10573570/embedded-firmware-co-op-amazon-robotics-spring-2027": {
+   "vanshb03": "2026-10-23T19:07:57+00:00"
   },
   "url:https://www.amazon.jobs/en/jobs/10584121/hardware-development-engineer-intern-winter-2027": {
    "vanshb03": "2026-10-21T00:37:19+00:00"
@@ -26449,7 +26884,8 @@
    "simplify": "2026-10-07T07:41:42+00:00"
   },
   "url:https://www.mongodb.com/careers/job?gh_jid=8209134": {
-   "greenhouse": "2026-10-23T11:44:43+00:00"
+   "greenhouse": "2026-10-23T11:44:43+00:00",
+   "simplify": "2026-10-23T19:07:57+00:00"
   },
   "url:https://www.mongodb.com/careers/job?gh_jid=8258279": {
    "greenhouse": "2026-10-09T13:19:19+00:00"
