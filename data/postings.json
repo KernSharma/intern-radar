@@ -5269,15 +5269,25 @@
   "posted_at": "2026-08-27",
   "source": "simplify"
  },
+ "url:https://aoins.wd5.myworkdayjobs.com/concord/job/bedford-nh/business-systems-analyst-intern_r_14503": {
+  "company": "aoins",
+  "title": "Business Systems Analyst Intern",
+  "url": "https://aoins.wd5.myworkdayjobs.com/concord/job/Bedford-NH/Business-Systems-Analyst-Intern_R_14503",
+  "locations": [
+   "Bedford, NH"
+  ],
+  "posted_at": "2026-10-15",
+  "source": "workday"
+ },
  "url:https://aoins.wd5.myworkdayjobs.com/concord/job/bedford-nh/software-engineer-intern_r_14465": {
-  "company": "Auto-Owners Insurance",
+  "company": "aoins",
   "title": "Software Engineer Intern",
   "url": "https://aoins.wd5.myworkdayjobs.com/concord/job/Bedford-NH/Software-Engineer-Intern_R_14465",
   "locations": [
    "Bedford, NH"
   ],
-  "posted_at": "2026-10-15",
-  "source": "vanshb03"
+  "posted_at": "2026-10-22",
+  "source": "workday"
  },
  "url:https://aoins.wd5.myworkdayjobs.com/en-us/autoowners/job/lansing-mi/business-intelligence-developer-internship---summer-2027_r_14417": {
   "company": "Auto-Owners Insurance",
@@ -6669,15 +6679,135 @@
   "posted_at": "2026-09-23",
   "source": "workday"
  },
- "url:https://asml.wd3.myworkdayjobs.com/asmlext1/job/san-jose-ca-usa/internship---software-engineer-in-test--mod-_j-00354568": {
-  "company": "ASML",
-  "title": "Software Engineer In Test Intern, MOD",
-  "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Software-Engineer-In-Test--MOD-_J-00354568",
+ "url:https://asml.wd3.myworkdayjobs.com/asmlext1/job/eindhoven-netherlands/computer-science---software-engineering--thesis--internship--observability-driven-synthetic-contract-testing_j-00354536": {
+  "company": "asml",
+  "title": "Computer Science | Software Engineering (thesis) internship: observability-driven synthetic contract testing",
+  "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Eindhoven-Netherlands/Computer-Science---Software-Engineering--thesis--internship--observability-driven-synthetic-contract-testing_J-00354536",
   "locations": [
-   "San Jose, CA"
+   "Eindhoven, Netherlands"
+  ],
+  "posted_at": "2026-10-20",
+  "source": "workday"
+ },
+ "url:https://asml.wd3.myworkdayjobs.com/asmlext1/job/eindhoven-netherlands/computer-science---software-engineering-internship--dynamic-test-selection_j-00354538": {
+  "company": "asml",
+  "title": "Computer Science | Software Engineering internship: dynamic test selection",
+  "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Eindhoven-Netherlands/Computer-Science---Software-Engineering-internship--dynamic-test-selection_J-00354538",
+  "locations": [
+   "Eindhoven, Netherlands"
+  ],
+  "posted_at": "2026-10-20",
+  "source": "workday"
+ },
+ "url:https://asml.wd3.myworkdayjobs.com/asmlext1/job/hsinchu-taiwan/cs-hmi--npi-data-analyst-internship---hsinchu_j-00349763": {
+  "company": "asml",
+  "title": "Internship - CS HMI NPI Data Analyst Intern - Hsinchu",
+  "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Hsinchu-Taiwan/CS-HMI--NPI-Data-Analyst-Internship---Hsinchu_J-00349763",
+  "locations": [
+   "Hsinchu, Taiwan"
+  ],
+  "posted_at": "2026-10-20",
+  "source": "workday"
+ },
+ "url:https://asml.wd3.myworkdayjobs.com/asmlext1/job/san-jose-ca-usa/internship---application-software-qa-engineer_j-00354565": {
+  "company": "asml",
+  "title": "Internship - Application Software QA Engineer",
+  "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Application-Software-QA-Engineer_J-00354565",
+  "locations": [
+   "San Jose, CA, USA"
   ],
   "posted_at": "2026-10-23",
-  "source": "vanshb03"
+  "source": "workday"
+ },
+ "url:https://asml.wd3.myworkdayjobs.com/asmlext1/job/san-jose-ca-usa/internship---software-engineer-in-test--mod-_j-00354568": {
+  "company": "asml",
+  "title": "Internship - Software Engineer In Test (MOD)",
+  "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Software-Engineer-In-Test--MOD-_J-00354568",
+  "locations": [
+   "San Jose, CA, USA"
+  ],
+  "posted_at": "2026-10-23",
+  "source": "workday"
+ },
+ "url:https://asml.wd3.myworkdayjobs.com/asmlext1/job/san-jose-ca-usa/internship---software-quality-assurance_j-00354562": {
+  "company": "asml",
+  "title": "Internship - Software Quality Assurance",
+  "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Software-Quality-Assurance_J-00354562",
+  "locations": [
+   "San Jose, CA, USA"
+  ],
+  "posted_at": "2026-10-23",
+  "source": "workday"
+ },
+ "url:https://asml.wd3.myworkdayjobs.com/asmlext1/job/san-jose-ca-usa/internship---software-quality-assurance_j-00354563": {
+  "company": "asml",
+  "title": "Internship - Software Quality Assurance",
+  "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Software-Quality-Assurance_J-00354563",
+  "locations": [
+   "San Jose, CA, USA"
+  ],
+  "posted_at": "2026-10-23",
+  "source": "workday"
+ },
+ "url:https://asml.wd3.myworkdayjobs.com/asmlext1/job/veldhoven-netherlands/computer-science---artificial-intelligence-internship--ai-assisted-scheduler-development_j-00355163": {
+  "company": "asml",
+  "title": "Computer Science | Artificial Intelligence internship: ai-assisted scheduler development",
+  "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Computer-Science---Artificial-Intelligence-internship--ai-assisted-scheduler-development_J-00355163",
+  "locations": [
+   "Veldhoven, Netherlands"
+  ],
+  "posted_at": "2026-10-23",
+  "source": "workday"
+ },
+ "url:https://asml.wd3.myworkdayjobs.com/asmlext1/job/veldhoven-netherlands/computer-science---software-engineering-internship--test-impact-analysis_j-00354297": {
+  "company": "asml",
+  "title": "Computer Science | Software Engineering internship: test impact analysis",
+  "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Computer-Science---Software-Engineering-internship--test-impact-analysis_J-00354297",
+  "locations": [
+   "Veldhoven, Netherlands"
+  ],
+  "posted_at": "2026-10-21",
+  "source": "workday"
+ },
+ "url:https://asml.wd3.myworkdayjobs.com/asmlext1/job/veldhoven-netherlands/computer-science-internship--web-based-application-development_j-00355290": {
+  "company": "asml",
+  "title": "Computer Science internship: web-based application development",
+  "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Computer-Science-internship--web-based-application-development_J-00355290",
+  "locations": [
+   "Veldhoven, Netherlands"
+  ],
+  "posted_at": "2026-10-21",
+  "source": "workday"
+ },
+ "url:https://asml.wd3.myworkdayjobs.com/asmlext1/job/veldhoven-netherlands/cyber-security---information-management-internship--security-assurance---strategy_j-00355033": {
+  "company": "asml",
+  "title": "Cyber Security | Information Management internship: security assurance & strategy",
+  "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Cyber-Security---Information-Management-internship--security-assurance---strategy_J-00355033",
+  "locations": [
+   "Veldhoven, Netherlands"
+  ],
+  "posted_at": "2026-10-21",
+  "source": "workday"
+ },
+ "url:https://asml.wd3.myworkdayjobs.com/asmlext1/job/veldhoven-netherlands/data-science---business-analytics-internship--dashboard-reporting-automation_j-00355547": {
+  "company": "asml",
+  "title": "Data Science | Business Analytics internship: dashboard reporting automation",
+  "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Data-Science---Business-Analytics-internship--dashboard-reporting-automation_J-00355547",
+  "locations": [
+   "Veldhoven, Netherlands"
+  ],
+  "posted_at": "2026-10-22",
+  "source": "workday"
+ },
+ "url:https://asml.wd3.myworkdayjobs.com/asmlext1/job/veldhoven-netherlands/data-science---engineering-internship--optimizing-business-processes_j-00354527-1": {
+  "company": "asml",
+  "title": "Data Science | Engineering internship: optimizing business processes",
+  "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Data-Science---Engineering-internship--optimizing-business-processes_J-00354527-1",
+  "locations": [
+   "Veldhoven, Netherlands"
+  ],
+  "posted_at": "2026-10-20",
+  "source": "workday"
  },
  "url:https://aspentech.wd5.myworkdayjobs.com/aspentech/job/bedford-massachusetts/data-science-intern---summer-2027---bedford--ma_r9459": {
   "company": "aspentech",
@@ -11510,6 +11640,16 @@
   "posted_at": "2026-10-09",
   "source": "greenhouse"
  },
+ "url:https://boards.greenhouse.io/opensesame/jobs/8287886?gh_jid=8287886": {
+  "company": "OpenSesame",
+  "title": "Security Analyst Internship",
+  "url": "https://boards.greenhouse.io/opensesame/jobs/8287886?gh_jid=8287886",
+  "locations": [
+   "Remote"
+  ],
+  "posted_at": "2026-10-15",
+  "source": "greenhouse"
+ },
  "url:https://boards.greenhouse.io/opensesame/jobs/8313424": {
   "company": "OpenSesame",
   "title": "AI Product Builder Intern",
@@ -11520,6 +11660,16 @@
   ],
   "posted_at": "2026-10-22",
   "source": "vanshb03"
+ },
+ "url:https://boards.greenhouse.io/opensesame/jobs/8313424?gh_jid=8313424": {
+  "company": "OpenSesame",
+  "title": "AI Product Builder Intern",
+  "url": "https://boards.greenhouse.io/opensesame/jobs/8313424?gh_jid=8313424",
+  "locations": [
+   "Remote"
+  ],
+  "posted_at": "2026-10-22",
+  "source": "greenhouse"
  },
  "url:https://boards.greenhouse.io/point72/jobs/7297642002?gh_jid=7297642002": {
   "company": "Point72",
@@ -31003,6 +31153,16 @@
   "posted_at": "2026-10-21",
   "source": "speedyapply"
  },
+ "url:https://genpt.wd1.myworkdayjobs.com/careers/job/atlanta-ga-usa/product-pricing-analytics-intern---summer-2027_r26_0000035663": {
+  "company": "genpt",
+  "title": "Product Pricing Analytics Intern - Summer 2027",
+  "url": "https://genpt.wd1.myworkdayjobs.com/careers/job/Atlanta-GA-USA/Product-Pricing-Analytics-Intern---Summer-2027_R26_0000035663",
+  "locations": [
+   "Atlanta, GA, USA"
+  ],
+  "posted_at": "2026-10-23",
+  "source": "workday"
+ },
  "url:https://genpt.wd1.myworkdayjobs.com/en-us/careers/job/birmingham-al-usa/cloud-developer-intern_r26_0000029133": {
   "company": "GPC",
   "title": "Cloud Developer Intern",
@@ -43025,6 +43185,36 @@
   "posted_at": "2026-10-22",
   "source": "vanshb03"
  },
+ "url:https://insperity.wd12.myworkdayjobs.com/nsp/job/kingwood-tx/rotational-ai-intern_jr103460": {
+  "company": "insperity",
+  "title": "Rotational AI Intern",
+  "url": "https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Rotational-AI-Intern_JR103460",
+  "locations": [
+   "Kingwood, TX"
+  ],
+  "posted_at": "2026-10-22",
+  "source": "workday"
+ },
+ "url:https://insperity.wd12.myworkdayjobs.com/nsp/job/kingwood-tx/rotational-data-analytics-intern_jr103458": {
+  "company": "insperity",
+  "title": "Rotational Data Analytics Intern",
+  "url": "https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Rotational-Data-Analytics-Intern_JR103458",
+  "locations": [
+   "Kingwood, TX"
+  ],
+  "posted_at": "2026-10-22",
+  "source": "workday"
+ },
+ "url:https://insperity.wd12.myworkdayjobs.com/nsp/job/kingwood-tx/rotational-technology-intern_jr103457": {
+  "company": "insperity",
+  "title": "Rotational Technology Intern",
+  "url": "https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Rotational-Technology-Intern_JR103457",
+  "locations": [
+   "Kingwood, TX"
+  ],
+  "posted_at": "2026-10-22",
+  "source": "workday"
+ },
  "url:https://insulet.wd5.myworkdayjobs.com/en-us/insuletcareers/job/acton-massachusetts/co-op--devops-engineer--january---june-2027--hybrid-_req-2026-18027": {
   "company": "Insulet",
   "title": "Co-op - DevOps Engineer: January - June 2027 - Hybrid",
@@ -44089,6 +44279,16 @@
   "posted_at": "2026-10-06",
   "source": "simplify"
  },
+ "url:https://jabil.wd5.myworkdayjobs.com/jabil_careers/job/austin-tx/business-development---intake-intern_j2468900-1": {
+  "company": "jabil",
+  "title": "Business Development & Intake Intern",
+  "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Business-Development---Intake-Intern_J2468900-1",
+  "locations": [
+   "Austin, TX"
+  ],
+  "posted_at": "2026-10-23",
+  "source": "workday"
+ },
  "url:https://jabil.wd5.myworkdayjobs.com/jabil_careers/job/clinton-ma/automation-engineering-intern_j2466618": {
   "company": "jabil",
   "title": "Automation Engineering Intern",
@@ -44971,6 +45171,16 @@
   "posted_at": "2026-10-09",
   "source": "simplify"
  },
+ "url:https://jj.wd5.myworkdayjobs.com/jj/job/irvine-california-united-states-of-america/research---development-intern_r-104120": {
+  "company": "jj",
+  "title": "Research & Development Intern",
+  "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Irvine-California-United-States-of-America/Research---Development-Intern_R-104120",
+  "locations": [
+   "Irvine, California, United States of America"
+  ],
+  "posted_at": "2026-10-23",
+  "source": "workday"
+ },
  "url:https://jj.wd5.myworkdayjobs.com/jj/job/irving-texas-united-states-of-america/business-intelligence-co-op_r-097003-1": {
   "company": "Johnson & Johnson",
   "title": "Business Intelligence Co-op",
@@ -45090,6 +45300,16 @@
   ],
   "posted_at": "2026-09-22",
   "source": "simplify"
+ },
+ "url:https://jj.wd5.myworkdayjobs.com/jj/job/new-brunswick-new-jersey-united-states-of-america/technology-2027-spring-co-op_r-095605-1": {
+  "company": "jj",
+  "title": "Technology 2027 Spring Co-Op",
+  "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Technology-2027-Spring-Co-Op_R-095605-1",
+  "locations": [
+   "10 Locations"
+  ],
+  "posted_at": "2026-10-23",
+  "source": "workday"
  },
  "url:https://jj.wd5.myworkdayjobs.com/jj/job/new-brunswick-new-jersey-united-states-of-america/technology-2027-summer-internship_r-095602": {
   "company": "Johnson & Johnson",
@@ -49289,6 +49509,16 @@
   "posted_at": "2026-09-03",
   "source": "greenhouse"
  },
+ "url:https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/8041991003": {
+  "company": "ID.me University Recruiting",
+  "title": "Summer Intern 2027 - Analytics Engineer Intern",
+  "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/8041991003",
+  "locations": [
+   "Mountain View, CA"
+  ],
+  "posted_at": "2026-10-23",
+  "source": "greenhouse"
+ },
  "url:https://job-boards.greenhouse.io/insomniac/jobs/6226344004": {
   "company": "Insomniac Games",
   "title": "Tech Art Intern- Undergraduate",
@@ -52831,13 +53061,13 @@
  },
  "url:https://job-boards.greenhouse.io/twitch/jobs/8886748002": {
   "company": "Twitch",
-  "title": "Undergrad Software Engineering Intern - Grad Year: Spring 2028",
+  "title": "Undergrad Software Engineering Intern (Grad Year: Spring 2028)",
   "url": "https://job-boards.greenhouse.io/twitch/jobs/8886748002",
   "locations": [
    "San Francisco, CA"
   ],
-  "posted_at": "2026-10-23",
-  "source": "speedyapply"
+  "posted_at": "2026-10-22",
+  "source": "greenhouse"
  },
  "url:https://job-boards.greenhouse.io/uvimco/jobs/5300713008": {
   "company": "University of Virginia Investment Management Company (UVIMCO)",
@@ -53329,15 +53559,55 @@
   "posted_at": "2026-09-24",
   "source": "greenhouse"
  },
- "url:https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4423330009": {
-  "company": "Voyager Technologies",
-  "title": "Software Engineering Intern",
-  "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4423330009",
+ "url:https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4423280009": {
+  "company": "Voyager Technologies, Inc.",
+  "title": "2027 Electrical Engineer Intern",
+  "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4423280009",
   "locations": [
-   "Long Beach, CA"
+   "Long Beach"
   ],
   "posted_at": "2026-09-28",
-  "source": "vanshb03"
+  "source": "greenhouse"
+ },
+ "url:https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4423308009": {
+  "company": "Voyager Technologies, Inc.",
+  "title": "2027 Mechanical Engineering Intern",
+  "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4423308009",
+  "locations": [
+   "Long Beach"
+  ],
+  "posted_at": "2026-09-28",
+  "source": "greenhouse"
+ },
+ "url:https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4423330009": {
+  "company": "Voyager Technologies, Inc.",
+  "title": "2027 Software Engineering Intern",
+  "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4423330009",
+  "locations": [
+   "Long Beach"
+  ],
+  "posted_at": "2026-09-28",
+  "source": "greenhouse"
+ },
+ "url:https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4423335009": {
+  "company": "Voyager Technologies, Inc.",
+  "title": "2027 Systems Engineering Intern",
+  "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4423335009",
+  "locations": [
+   "Long Beach"
+  ],
+  "posted_at": "2026-09-28",
+  "source": "greenhouse"
+ },
+ "url:https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4423346009": {
+  "company": "Voyager Technologies, Inc.",
+  "title": "2027 Growth & Business Development Intern",
+  "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4423346009",
+  "locations": [
+   "Long Beach"
+  ],
+  "posted_at": "2026-09-28",
+  "source": "greenhouse"
  },
  "url:https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006": {
   "company": "Walleye Capital Internships",
@@ -55732,15 +56002,25 @@
   "posted_at": "2026-06-01",
   "source": "ashby"
  },
+ "url:https://jobs.ashbyhq.com/hex/45022740-b0ca-4a54-a98b-b90f9b4a9a30": {
+  "company": "hex",
+  "title": "Product Engineer Intern",
+  "url": "https://jobs.ashbyhq.com/hex/45022740-b0ca-4a54-a98b-b90f9b4a9a30",
+  "locations": [
+   "San Francisco"
+  ],
+  "posted_at": "2026-09-09",
+  "source": "ashby"
+ },
  "url:https://jobs.ashbyhq.com/hex/f2562cd7-abf2-434b-85ff-0a5016fbf0d6": {
-  "company": "Hex Technologies",
+  "company": "hex",
   "title": "AI Engineer Intern",
   "url": "https://jobs.ashbyhq.com/hex/f2562cd7-abf2-434b-85ff-0a5016fbf0d6",
   "locations": [
-   "San Francisco, CA"
+   "San Francisco"
   ],
   "posted_at": "2026-10-12",
-  "source": "vanshb03"
+  "source": "ashby"
  },
  "url:https://jobs.ashbyhq.com/homebase/a7ab59c0-786e-4675-b684-2ed19b240fb2": {
   "company": "Homebase",
@@ -57782,14 +58062,14 @@
   "source": "ashby"
  },
  "url:https://jobs.ashbyhq.com/veeda-ai/84dfad5c-d790-4c4a-9411-40b676b1abbb": {
-  "company": "Veeda AI",
-  "title": "Software Engineering Intern",
-  "url": "https://jobs.ashbyhq.com/veeda-ai/84dfad5c-d790-4c4a-9411-40b676b1abbb/application?embed=true",
+  "company": "veeda-ai",
+  "title": "Internship - Software Engineering",
+  "url": "https://jobs.ashbyhq.com/veeda-ai/84dfad5c-d790-4c4a-9411-40b676b1abbb",
   "locations": [
-   "Toronto, Canada"
+   "Toronto"
   ],
   "posted_at": "2026-10-22",
-  "source": "vanshb03"
+  "source": "ashby"
  },
  "url:https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af": {
   "company": "VITAL LYFE",
@@ -61749,6 +62029,36 @@
    "Philadelphia, PA, United States"
   ],
   "posted_at": "2026-10-21",
+  "source": "smartrecruiters"
+ },
+ "url:https://jobs.smartrecruiters.com/aecom2/744000157554150": {
+  "company": "AECOM",
+  "title": "Traffic Engineering Intern - Hiring Event with AECOM - Raleigh",
+  "url": "https://jobs.smartrecruiters.com/AECOM2/744000157554150",
+  "locations": [
+   "Raleigh, NC, United States"
+  ],
+  "posted_at": "2026-10-23",
+  "source": "smartrecruiters"
+ },
+ "url:https://jobs.smartrecruiters.com/aecom2/744000157554987": {
+  "company": "AECOM",
+  "title": "Design Engineering Intern - Networking Event with AECOM – Raleigh, NC",
+  "url": "https://jobs.smartrecruiters.com/AECOM2/744000157554987",
+  "locations": [
+   "Greenville, SC, United States"
+  ],
+  "posted_at": "2026-10-23",
+  "source": "smartrecruiters"
+ },
+ "url:https://jobs.smartrecruiters.com/aecom2/744000157555489": {
+  "company": "AECOM",
+  "title": "Traffic Engineering Intern - Hiring Event with AECOM - Raleigh",
+  "url": "https://jobs.smartrecruiters.com/AECOM2/744000157555489",
+  "locations": [
+   "Greenville, SC, United States"
+  ],
+  "posted_at": "2026-10-23",
   "source": "smartrecruiters"
  },
  "url:https://jobs.smartrecruiters.com/boschgroup/744000082485386": {
@@ -76929,6 +77239,16 @@
   "posted_at": "2026-09-18",
   "source": "workday"
  },
+ "url:https://mtb.wd5.myworkdayjobs.com/campus/job/buffalo-ny/technology-intern---software-engineering--enterprise-api-services-development-team-_r90812": {
+  "company": "mtb",
+  "title": "Technology Intern - Software Engineering (Enterprise API Services Development Team)",
+  "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/Technology-Intern---Software-Engineering--Enterprise-API-Services-Development-Team-_R90812",
+  "locations": [
+   "Buffalo, NY"
+  ],
+  "posted_at": "2026-10-22",
+  "source": "workday"
+ },
  "url:https://mtb.wd5.myworkdayjobs.com/en-us/campus/job/buffalo-ny/technology-intern---software-engineering--enterprise-api-services-development-team-_r90812": {
   "company": "M&T Bank",
   "title": "Technology Intern, Software Engineering, Enterprise API Services Development Team",
@@ -84539,6 +84859,16 @@
   "posted_at": "2026-10-01",
   "source": "workday"
  },
+ "url:https://rb.wd5.myworkdayjobs.com/frs/job/chicago-il/summer-2027-intern-data-science-and-business-analytics_r-0000033609": {
+  "company": "rb",
+  "title": "Summer 2027 Intern-Data Science and Business Analytics",
+  "url": "https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern-Data-Science-and-Business-Analytics_R-0000033609",
+  "locations": [
+   "Chicago, IL"
+  ],
+  "posted_at": "2026-10-01",
+  "source": "workday"
+ },
  "url:https://rb.wd5.myworkdayjobs.com/frs/job/chicago-il/summer-2027-intern-networking-and-computer-engineering_r-0000033610": {
   "company": "rb",
   "title": "Summer 2027 Intern-Networking and Computer Engineering",
@@ -84667,6 +84997,16 @@
    "New York, NY"
   ],
   "posted_at": "2026-09-03",
+  "source": "workday"
+ },
+ "url:https://rb.wd5.myworkdayjobs.com/frs/job/richmond-va/federal-reserve-summer-2027-research-business-survey-internship_r-0000033218": {
+  "company": "rb",
+  "title": "Federal Reserve Summer 2027 Research Business Survey Internship",
+  "url": "https://rb.wd5.myworkdayjobs.com/FRS/job/Richmond-VA/Federal-Reserve-Summer-2027-Research-Business-Survey-Internship_R-0000033218",
+  "locations": [
+   "Richmond, VA"
+  ],
+  "posted_at": "2026-09-23",
   "source": "workday"
  },
  "url:https://rb.wd5.myworkdayjobs.com/frs/job/richmond-va/federal-reserve-summer-2027-research-outreach-intern_r-0000033219": {
@@ -92139,9 +92479,9 @@
   "title": "Store Executive Intern (Store Leadership Intern) – Greater Long Beach, CA (Starting Summer 2027)",
   "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/2270-N-Bellflower-Blvd-Long-BeachCA-90815-2017/Store-Executive-Intern--Store-Leadership-Intern----Long-Beach--CA--Starting-Summer-2027-_R0000450291",
   "locations": [
-   "9 Locations"
+   "4 Locations"
   ],
-  "posted_at": "",
+  "posted_at": "2026-10-23",
   "source": "workday"
  },
  "url:https://target.wd5.myworkdayjobs.com/targetcareers/job/23000-van-buren-blvd-riversideca-92518-2401/operation-manager-intern--starting-summer-2027--flow-distribution-center---riverside--ca_r0000450436": {
@@ -92954,16 +93294,21 @@
   "posted_at": "",
   "source": "workday"
  },
+ "url:https://taylor.wd1.myworkdayjobs.com/external/job/mn-remote/technical-project-analyst-intern--temporary-_r30388": {
+  "company": "taylor",
+  "title": "Technical Project Analyst Intern (Temporary)",
+  "url": "https://taylor.wd1.myworkdayjobs.com/external/job/MN-Remote/Technical-Project-Analyst-Intern--Temporary-_R30388",
+  "locations": [],
+  "posted_at": "2026-10-16",
+  "source": "workday"
+ },
  "url:https://taylor.wd1.myworkdayjobs.com/external/job/oh-remote/enablement-data---insights-intern--temporary-_r30448": {
-  "company": "Taylor",
-  "title": "Enablement Data & Insights Intern",
+  "company": "taylor",
+  "title": "Enablement Data & Insights Intern (Temporary)",
   "url": "https://taylor.wd1.myworkdayjobs.com/external/job/OH-Remote/Enablement-Data---Insights-Intern--Temporary-_R30448",
-  "locations": [
-   "Remote",
-   "United States"
-  ],
+  "locations": [],
   "posted_at": "2026-10-22",
-  "source": "vanshb03"
+  "source": "workday"
  },
  "url:https://tcenergy.wd3.myworkdayjobs.com/career_site_tc/job/airdrie-alberta/student-intern--engineering_jr-10738": {
   "company": "tcenergy",
@@ -98034,15 +98379,14 @@
   "source": "workday"
  },
  "url:https://veteransunited.wd1.myworkdayjobs.com/vuhl/job/remote-mo/intern---software-engineer---summer-2027_r6249": {
-  "company": "Veterans United Home Loans",
-  "title": "Software Engineer Intern",
+  "company": "veteransunited",
+  "title": "Intern - Software Engineer - Summer 2027",
   "url": "https://veteransunited.wd1.myworkdayjobs.com/vuhl/job/Remote-MO/Intern---Software-Engineer---Summer-2027_R6249",
   "locations": [
-   "Remote",
-   "United States"
+   "Remote MO"
   ],
   "posted_at": "2026-10-06",
-  "source": "vanshb03"
+  "source": "workday"
  },
  "url:https://viavisolutions.wd1.myworkdayjobs.com/careers/job/indianapolis-in-usa/electrical---optical-engineering-intern_260005046-1": {
   "company": "viavisolutions",
