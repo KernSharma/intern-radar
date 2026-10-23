@@ -195,7 +195,7 @@
   "ashby:atomicsemi": {
    "ats": "ashby",
    "board": "atomicsemi",
-   "consecutive_errors": 6,
+   "consecutive_errors": 7,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -1989,7 +1989,7 @@
   "ashby:whatnot": {
    "ats": "ashby",
    "board": "whatnot",
-   "consecutive_errors": 6,
+   "consecutive_errors": 7,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -2279,7 +2279,7 @@
   "greenhouse:andurilindustries": {
    "ats": "greenhouse",
    "board": "andurilindustries",
-   "consecutive_errors": 1,
+   "consecutive_errors": 0,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -2287,7 +2287,7 @@
    "first_seen": "2026-10-02T05:21:11+00:00",
    "last_deep_crawl": null,
    "last_match": "2026-10-23T14:59:23+00:00",
-   "last_ok": "2026-10-23T09:58:56+00:00",
+   "last_ok": "2026-10-23T11:44:43+00:00",
    "last_polled": "2026-10-23T14:59:23+00:00",
    "needs_config": false,
    "pinned": false
@@ -6766,7 +6766,7 @@
   "lever:cesiumastro": {
    "ats": "lever",
    "board": "cesiumastro",
-   "consecutive_errors": 3,
+   "consecutive_errors": 4,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -6799,7 +6799,7 @@
   "lever:cscgeneration-2": {
    "ats": "lever",
    "board": "cscgeneration-2",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -8134,7 +8134,7 @@
    "discovered_via": "simplify",
    "first_seen": "2026-10-19T11:13:15+00:00",
    "last_deep_crawl": null,
-   "last_match": "2026-10-23T09:58:56+00:00",
+   "last_match": "2026-10-23T11:44:43+00:00",
    "last_ok": "2026-10-23T14:59:23+00:00",
    "last_polled": "2026-10-23T14:59:23+00:00",
    "needs_config": false,
@@ -10677,7 +10677,7 @@
    "deep_since": null,
    "disabled": false,
    "discovered_via": "simplify",
-   "first_seen": "2026-10-23T14:59:23+00:00",
+   "first_seen": "2026-10-23T11:44:43+00:00",
    "last_deep_crawl": null,
    "last_match": "2026-10-23T14:59:23+00:00",
    "last_ok": null,
@@ -12176,7 +12176,7 @@
   "workday:liveramp.wd5/liverampcareers": {
    "ats": "workday",
    "board": "liveramp.wd5/liverampcareers",
-   "consecutive_errors": 4,
+   "consecutive_errors": 5,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -12577,7 +12577,7 @@
   "workday:mfs.wd1/mfs-careers": {
    "ats": "workday",
    "board": "mfs.wd1/MFS-Careers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -12785,7 +12785,7 @@
   "workday:mpc.wd1/mpccareers": {
    "ats": "workday",
    "board": "mpc.wd1/MPCCareers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -13233,7 +13233,7 @@
   "workday:osv-cci.wd1/ccicareers": {
    "ats": "workday",
    "board": "osv-cci.wd1/CCICareers",
-   "consecutive_errors": 8,
+   "consecutive_errors": 9,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -13250,7 +13250,7 @@
   "workday:osv-rubicon.wd5/magnitecareers": {
    "ats": "workday",
    "board": "osv-rubicon.wd5/MagniteCareers",
-   "consecutive_errors": 8,
+   "consecutive_errors": 9,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -13683,7 +13683,7 @@
   "workday:rbc.wd3/rbcearlytalent1": {
    "ats": "workday",
    "board": "rbc.wd3/RBCEARLYTALENT1",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -13699,7 +13699,7 @@
   "workday:rbc.wd3/rbcglobal1": {
    "ats": "workday",
    "board": "rbc.wd3/rbcglobal1",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
