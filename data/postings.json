@@ -506,7 +506,7 @@
   "locations": [
    "Basel"
   ],
-  "posted_at": "2026-10-20",
+  "posted_at": "2026-10-26",
   "source": "workday"
  },
  "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/bucharest/xmlname-2027-intern---technical-support-engineer_r172702-1": {
@@ -14848,6 +14848,16 @@
    "High Point, NC, US"
   ],
   "posted_at": "2026-10-03",
+  "source": "workday"
+ },
+ "url:https://caci.wd1.myworkdayjobs.com/external/job/high-point-nc-us/technical-project-manager-intern---summer-2027_333955": {
+  "company": "caci",
+  "title": "Technical Project Manager Intern - Summer 2027",
+  "url": "https://caci.wd1.myworkdayjobs.com/external/job/High-Point-NC-US/Technical-Project-Manager-Intern---Summer-2027_333955",
+  "locations": [
+   "High Point, NC, US"
+  ],
+  "posted_at": "2026-10-26",
   "source": "workday"
  },
  "url:https://caci.wd1.myworkdayjobs.com/external/job/lisle-il-us/software-engineering-intern---summer-2027_331742": {
@@ -42223,13 +42233,13 @@
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/cl": {
-  "company": "Commonwealth Fusion Systems",
-  "title": "AI & Infrastructure Engineer Intern",
-  "url": "https://go.vansh.nyc/CL",
+  "company": "Anduril",
+  "title": "Firmware Engineer Intern",
+  "url": "https://go.vansh.nyc/Cl",
   "locations": [
-   "Devens, MA"
+   "Costa Mesa, CA"
   ],
-  "posted_at": "2026-10-15",
+  "posted_at": "2026-10-14",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/cm": {
@@ -44134,12 +44144,11 @@
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/hp": {
-  "company": "Coretek Services",
-  "title": "Data Consultant Co-op",
-  "url": "https://go.vansh.nyc/hP",
+  "company": "Trace Labs",
+  "title": "Robotics Engineer Intern, Hardware & Software",
+  "url": "https://go.vansh.nyc/hp",
   "locations": [
-   "Remote",
-   "United States"
+   "New York, NY"
   ],
   "posted_at": "2026-10-23",
   "source": "vanshb03"
@@ -44992,6 +45001,273 @@
   "posted_at": "2026-10-16",
   "source": "vanshb03"
  },
+ "url:https://go.vansh.nyc/la": {
+  "company": "RTX",
+  "title": "Electrical Engineer Intern",
+  "url": "https://go.vansh.nyc/LA",
+  "locations": [
+   "El Segundo, CA"
+  ],
+  "posted_at": "2026-09-01",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/lb": {
+  "company": "Vanguard",
+  "title": "Application Development Intern",
+  "url": "https://go.vansh.nyc/LB",
+  "locations": [
+   "Dallas, TX"
+  ],
+  "posted_at": "2026-09-01",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/lc": {
+  "company": "Rockwell Automation",
+  "title": "Information Technology Intern",
+  "url": "https://go.vansh.nyc/LC",
+  "locations": [
+   "Milwaukee, WI"
+  ],
+  "posted_at": "2026-09-01",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/ld": {
+  "company": "American Express",
+  "title": "Data Engineer Intern, Enterprise Technology Services",
+  "url": "https://go.vansh.nyc/LD",
+  "locations": [
+   "Sunrise, FL"
+  ],
+  "posted_at": "2026-09-01",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/le": {
+  "company": "Textron",
+  "title": "Autonomy Engineer Intern, Air Systems",
+  "url": "https://go.vansh.nyc/LE",
+  "locations": [
+   "Hunt Valley, MD",
+   "Cockeysville, MD"
+  ],
+  "posted_at": "2026-09-01",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/lf": {
+  "company": "AMD",
+  "title": "Machine Learning/Artificial Intelligence Co-op",
+  "url": "https://go.vansh.nyc/LF",
+  "locations": [
+   "Markham, Canada"
+  ],
+  "posted_at": "2026-09-01",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/lg": {
+  "company": "AMD",
+  "title": "Machine Learning/Artificial Intelligence Co-op",
+  "url": "https://go.vansh.nyc/LG",
+  "locations": [
+   "Markham, Canada"
+  ],
+  "posted_at": "2026-09-01",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/lh": {
+  "company": "AMD",
+  "title": "Graphics Software Engineer Co-op",
+  "url": "https://go.vansh.nyc/LH",
+  "locations": [
+   "Markham, Canada"
+  ],
+  "posted_at": "2026-09-01",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/li": {
+  "company": "AMD",
+  "title": "Hardware Design Engineer Co-op",
+  "url": "https://go.vansh.nyc/LI",
+  "locations": [
+   "Vancouver, Canada"
+  ],
+  "posted_at": "2026-09-01",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/lj": {
+  "company": "AMD",
+  "title": "Diagnostics Design Engineer Co-op",
+  "url": "https://go.vansh.nyc/LJ",
+  "locations": [
+   "Markham, Canada"
+  ],
+  "posted_at": "2026-09-01",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/lk": {
+  "company": "AMD",
+  "title": "Software Engineer Co-op",
+  "url": "https://go.vansh.nyc/LK",
+  "locations": [
+   "Vancouver, Canada"
+  ],
+  "posted_at": "2026-09-01",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/ll": {
+  "company": "AMD",
+  "title": "Firmware Engineer Co-op",
+  "url": "https://go.vansh.nyc/LL",
+  "locations": [
+   "Vancouver, Canada"
+  ],
+  "posted_at": "2026-09-01",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/lm": {
+  "company": "AMD",
+  "title": "Hardware Design Engineer Co-op",
+  "url": "https://go.vansh.nyc/LM",
+  "locations": [
+   "Markham, Canada"
+  ],
+  "posted_at": "2026-09-01",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/ln": {
+  "company": "AMD",
+  "title": "Hardware Design Engineer Co-op",
+  "url": "https://go.vansh.nyc/LN",
+  "locations": [
+   "Markham, Canada"
+  ],
+  "posted_at": "2026-09-01",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/lo": {
+  "company": "AMD",
+  "title": "Graphics Software Engineer Co-op",
+  "url": "https://go.vansh.nyc/LO",
+  "locations": [
+   "Markham, Canada"
+  ],
+  "posted_at": "2026-09-01",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/lp": {
+  "company": "AMD",
+  "title": "Firmware Engineer Co-op",
+  "url": "https://go.vansh.nyc/LP",
+  "locations": [
+   "Vancouver, Canada"
+  ],
+  "posted_at": "2026-09-01",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/lq": {
+  "company": "AMD",
+  "title": "Firmware Engineer Co-op",
+  "url": "https://go.vansh.nyc/LQ",
+  "locations": [
+   "Markham, Canada"
+  ],
+  "posted_at": "2026-09-01",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/lr": {
+  "company": "AMD",
+  "title": "Firmware Engineer Co-op",
+  "url": "https://go.vansh.nyc/LR",
+  "locations": [
+   "Markham, Canada"
+  ],
+  "posted_at": "2026-09-01",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/ls": {
+  "company": "AMD",
+  "title": "Compiler Engineer Co-op",
+  "url": "https://go.vansh.nyc/LS",
+  "locations": [
+   "Austin, TX",
+   "Longmont, CO",
+   "Fishkill, NY",
+   "Fort Collins, CO",
+   "Boxborough, MA"
+  ],
+  "posted_at": "2026-09-01",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/lt": {
+  "company": "AMD",
+  "title": "Compiler Engineer Co-op",
+  "url": "https://go.vansh.nyc/LT",
+  "locations": [
+   "San Jose, CA",
+   "Santa Clara, CA"
+  ],
+  "posted_at": "2026-09-01",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/lu": {
+  "company": "Johns Hopkins Applied Physics Laboratory",
+  "title": "Engineer/SW Developer/Analyst Intern, Maritime Force Engagement Control",
+  "url": "https://go.vansh.nyc/LU",
+  "locations": [
+   "Laurel, MD"
+  ],
+  "posted_at": "2026-09-01",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/lv": {
+  "company": "Johns Hopkins Applied Physics Laboratory",
+  "title": "Software Developer Intern, Tactical System Prototyping and Deployment",
+  "url": "https://go.vansh.nyc/LV",
+  "locations": [
+   "Laurel, MD"
+  ],
+  "posted_at": "2026-09-01",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/lw": {
+  "company": "Johns Hopkins Applied Physics Laboratory",
+  "title": "Cyber Software Engineer Intern, Capabilities Development",
+  "url": "https://go.vansh.nyc/LW",
+  "locations": [
+   "Laurel, MD"
+  ],
+  "posted_at": "2026-09-01",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/lx": {
+  "company": "Kinder Morgan",
+  "title": "Information Technology Intern, Application Development",
+  "url": "https://go.vansh.nyc/LX",
+  "locations": [
+   "Houston, TX"
+  ],
+  "posted_at": "2026-09-01",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/ly": {
+  "company": "OnLogic",
+  "title": "Firmware Engineer Co-op",
+  "url": "https://go.vansh.nyc/LY",
+  "locations": [
+   "South Burlington, VT",
+   "Cary, NC"
+  ],
+  "posted_at": "2026-09-01",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/lz": {
+  "company": "McKesson",
+  "title": "Software Engineer Intern",
+  "url": "https://go.vansh.nyc/LZ",
+  "locations": [
+   "Longmont, CO"
+  ],
+  "posted_at": "2026-09-02",
+  "source": "vanshb03"
+ },
  "url:https://go.vansh.nyc/m": {
   "company": "Tesla",
   "title": "Commercial UI Software Engineer Intern, Energy Engineering",
@@ -45002,6 +45278,378 @@
   "posted_at": "2025-08-21",
   "source": "vanshb03"
  },
+ "url:https://go.vansh.nyc/m0": {
+  "company": "Universal Health Services",
+  "title": "Software Engineer Intern, Data Analytics",
+  "url": "https://go.vansh.nyc/M0",
+  "locations": [
+   "King of Prussia, PA"
+  ],
+  "posted_at": "2026-09-02",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/m1": {
+  "company": "Booz Allen Hamilton",
+  "title": "Electronic Warfare FPGA Engineer Intern",
+  "url": "https://go.vansh.nyc/M1",
+  "locations": [
+   "Beavercreek, OH"
+  ],
+  "posted_at": "2026-09-03",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/m2": {
+  "company": "Caterpillar",
+  "title": "Corporate Intern, Autonomy & Intelligent Systems Engineering",
+  "url": "https://go.vansh.nyc/M2",
+  "locations": [
+   "Peoria, IL",
+   "San Francisco, CA",
+   "Pittsburgh, PA",
+   "Mossville, IL",
+   "Irving, TX"
+  ],
+  "posted_at": "2026-09-03",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/m3": {
+  "company": "Hewlett Packard Enterprise",
+  "title": "ASIC Firmware and Diagnostic Intern",
+  "url": "https://go.vansh.nyc/M3",
+  "locations": [
+   "Bloomington, MN",
+   "Chippewa Falls, WI"
+  ],
+  "posted_at": "2026-09-03",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/m4": {
+  "company": "Hewlett Packard Enterprise",
+  "title": "Pre-Silicon Diagnostics Intern",
+  "url": "https://go.vansh.nyc/M4",
+  "locations": [
+   "Fort Collins, CO"
+  ],
+  "posted_at": "2026-09-03",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/m5": {
+  "company": "Caterpillar",
+  "title": "Corporate Intern, Digital and Analytics",
+  "url": "https://go.vansh.nyc/M5",
+  "locations": [
+   "Peoria, IL",
+   "Chicago, IL",
+   "Irving, TX"
+  ],
+  "posted_at": "2026-09-03",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/m6": {
+  "company": "AMD",
+  "title": "ASIC Verification Engineer Co-op",
+  "url": "https://go.vansh.nyc/M6",
+  "locations": [
+   "Ottawa, Canada"
+  ],
+  "posted_at": "2026-09-03",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/m7": {
+  "company": "Nokia",
+  "title": "DSP Firmware Engineer Co-op",
+  "url": "https://go.vansh.nyc/M7",
+  "locations": [
+   "Ottawa, Canada"
+  ],
+  "posted_at": "2026-09-03",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/m8": {
+  "company": "National Information Solutions Cooperative",
+  "title": "Software Development Intern",
+  "url": "https://go.vansh.nyc/M8",
+  "locations": [
+   "Lake St Louis, MO"
+  ],
+  "posted_at": "2026-09-03",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/m9": {
+  "company": "DIRECTV",
+  "title": "Product Development Intern, DIRECTV for Business",
+  "url": "https://go.vansh.nyc/M9",
+  "locations": [
+   "Clarksburg, MD"
+  ],
+  "posted_at": "2026-09-04",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/ma": {
+  "company": "Pilot Company",
+  "title": "Application Development Intern",
+  "url": "https://go.vansh.nyc/MA",
+  "locations": [
+   "Knoxville, TN"
+  ],
+  "posted_at": "2026-09-09",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/mb": {
+  "company": "Publicis Groupe",
+  "title": "Software Engineer Intern",
+  "url": "https://go.vansh.nyc/MB",
+  "locations": [
+   "Chicago, IL"
+  ],
+  "posted_at": "2026-09-09",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/mc": {
+  "company": "Insulet Corporation",
+  "title": "Embedded Software Engineering Co-op",
+  "url": "https://go.vansh.nyc/MC",
+  "locations": [
+   "Acton, MA"
+  ],
+  "posted_at": "2026-09-10",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/md": {
+  "company": "The Toro Company",
+  "title": "Hardware and Software Engineering Intern",
+  "url": "https://go.vansh.nyc/MD",
+  "locations": [
+   "Perry, OK"
+  ],
+  "posted_at": "2026-09-10",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/me": {
+  "company": "PanAgora",
+  "title": "Equity Intern",
+  "url": "https://go.vansh.nyc/ME",
+  "locations": [
+   "Boston, MA"
+  ],
+  "posted_at": "2026-09-10",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/mf": {
+  "company": "Geotab",
+  "title": "Embedded Developer Intern, Engine Data Reliability",
+  "url": "https://go.vansh.nyc/MF",
+  "locations": [
+   "Oakville, Canada"
+  ],
+  "posted_at": "2026-09-10",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/mg": {
+  "company": "Garmin",
+  "title": "Software Engineer Intern",
+  "url": "https://go.vansh.nyc/MG",
+  "locations": [
+   "Cary, NC"
+  ],
+  "posted_at": "2026-09-10",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/mh": {
+  "company": "The MJ Companies",
+  "title": "Enterprise Data Intern",
+  "url": "https://go.vansh.nyc/MH",
+  "locations": [
+   "Carmel, IN"
+  ],
+  "posted_at": "2026-09-10",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/mi": {
+  "company": "The Toro Company",
+  "title": "Spatial Data R&D Intern",
+  "url": "https://go.vansh.nyc/MI",
+  "locations": [
+   "Bloomington, MN"
+  ],
+  "posted_at": "2026-09-11",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/mj": {
+  "company": "The Toro Company",
+  "title": "Embedded Software Engineer Intern",
+  "url": "https://go.vansh.nyc/MJ",
+  "locations": [
+   "Bloomington, MN"
+  ],
+  "posted_at": "2026-09-11",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/mk": {
+  "company": "Oshkosh",
+  "title": "Autonomy & Active Safety Engineer Intern",
+  "url": "https://go.vansh.nyc/MK",
+  "locations": [
+   "Oshkosh, WI",
+   "Pittsburgh, PA"
+  ],
+  "posted_at": "2026-09-11",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/ml": {
+  "company": "Avis Budget Group",
+  "title": "Transformation Engineer Intern, Accelerate",
+  "url": "https://go.vansh.nyc/ML",
+  "locations": [
+   "Parsippany-Troy Hills, NJ"
+  ],
+  "posted_at": "2026-09-11",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/mm": {
+  "company": "Emerson Electric",
+  "title": "Software Engineer Co-op",
+  "url": "https://go.vansh.nyc/MM",
+  "locations": [
+   "Eden Prairie, MN"
+  ],
+  "posted_at": "2026-09-11",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/mn": {
+  "company": "Definity Financial",
+  "title": "Business Intelligence Co-op",
+  "url": "https://go.vansh.nyc/MN",
+  "locations": [
+   "Toronto, Canada",
+   "Waterloo, Canada"
+  ],
+  "posted_at": "2026-09-11",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/mo": {
+  "company": "Garmin",
+  "title": "Software Engineer Intern",
+  "url": "https://go.vansh.nyc/MO",
+  "locations": [
+   "Tulsa, OK"
+  ],
+  "posted_at": "2026-09-11",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/mp": {
+  "company": "Amazon",
+  "title": "Machine Learning Systems Software Development Engineer Intern, Annapurna Labs",
+  "url": "https://go.vansh.nyc/MP",
+  "locations": [
+   "Toronto, Canada"
+  ],
+  "posted_at": "2026-09-11",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/mq": {
+  "company": "Veeam Software",
+  "title": "Policy Engineering Intern",
+  "url": "https://go.vansh.nyc/MQ",
+  "locations": [
+   "San Jose, CA"
+  ],
+  "posted_at": "2026-09-11",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/mr": {
+  "company": "Constellation Energy",
+  "title": "Information Technology Software Development Intern",
+  "url": "https://go.vansh.nyc/MR",
+  "locations": [
+   "Baltimore, MD"
+  ],
+  "posted_at": "2026-09-12",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/ms": {
+  "company": "Constellation Energy",
+  "title": "IT Data Engineering Intern",
+  "url": "https://go.vansh.nyc/MS",
+  "locations": [
+   "Baltimore, MD"
+  ],
+  "posted_at": "2026-09-12",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/mt": {
+  "company": "Axon",
+  "title": "Software Engineer Intern, R&D Program",
+  "url": "https://go.vansh.nyc/MT",
+  "locations": [
+   "Seattle, WA"
+  ],
+  "posted_at": "2026-09-12",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/mu": {
+  "company": "CACI",
+  "title": "Software Engineer Intern",
+  "url": "https://go.vansh.nyc/MU",
+  "locations": [
+   "Remote",
+   "United States",
+   "Sterling, VA",
+   "Denver, CO"
+  ],
+  "posted_at": "2026-09-14",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/mv": {
+  "company": "Booz Allen",
+  "title": "Applied AI Intern",
+  "url": "https://go.vansh.nyc/MV",
+  "locations": [
+   "Washington, DC"
+  ],
+  "posted_at": "2026-09-14",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/mw": {
+  "company": "Zurn Elkay Water Solutions",
+  "title": "Embedded Hardware Intern",
+  "url": "https://go.vansh.nyc/MW",
+  "locations": [
+   "Milwaukee, WI"
+  ],
+  "posted_at": "2026-09-25",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/mx": {
+  "company": "Manhattan Associates",
+  "title": "Cloud Intern",
+  "url": "https://go.vansh.nyc/MX",
+  "locations": [
+   "Atlanta, GA"
+  ],
+  "posted_at": "2026-10-26",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/my": {
+  "company": "Aerospace Corporation",
+  "title": "Cyber Security Intern",
+  "url": "https://go.vansh.nyc/MY",
+  "locations": [
+   "United States"
+  ],
+  "posted_at": "2026-08-31",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/mz": {
+  "company": "AMD",
+  "title": "Software Engineering Co-op",
+  "url": "https://go.vansh.nyc/MZ",
+  "locations": [
+   "Markham, Canada"
+  ],
+  "posted_at": "2026-09-01",
+  "source": "vanshb03"
+ },
  "url:https://go.vansh.nyc/n": {
   "company": "Tesla",
   "title": "Software Machine Learning Engineer Intern, Reliability Energy Engineering",
@@ -45010,6 +45658,163 @@
    "Palo Alto, CA"
   ],
   "posted_at": "2025-08-21",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/n0": {
+  "company": "AMD",
+  "title": "Software Test Engineering Co-op",
+  "url": "https://go.vansh.nyc/N0",
+  "locations": [
+   "Markham, Canada"
+  ],
+  "posted_at": "2026-09-01",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/n1": {
+  "company": "Elevance Health",
+  "title": "Information Security Co-op",
+  "url": "https://go.vansh.nyc/N1",
+  "locations": [
+   "Indianapolis, IN",
+   "Atlanta, GA"
+  ],
+  "posted_at": "2026-09-01",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/n2": {
+  "company": "Northmarq",
+  "title": "Software Engineering Intern",
+  "url": "https://go.vansh.nyc/N2",
+  "locations": [
+   "Minneapolis, MN"
+  ],
+  "posted_at": "2026-09-02",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/n3": {
+  "company": "Alcon",
+  "title": "Electrical & Computer Engineering Intern",
+  "url": "https://go.vansh.nyc/N3",
+  "locations": [
+   "Fort Worth, TX",
+   "Lake Forest, CA",
+   "Johns Creek, GA",
+   "Houston, TX",
+   "Goleta, CA"
+  ],
+  "posted_at": "2026-09-03",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/n4": {
+  "company": "Springs Window Fashions",
+  "title": "AI Intern, Information Technology",
+  "url": "https://go.vansh.nyc/N4",
+  "locations": [
+   "Middleton, WI"
+  ],
+  "posted_at": "2026-09-04",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/n5": {
+  "company": "Gallup",
+  "title": "DevOps Engineer Intern",
+  "url": "https://go.vansh.nyc/N5",
+  "locations": [
+   "Omaha, NE"
+  ],
+  "posted_at": "2026-09-08",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/n6": {
+  "company": "Activision Blizzard",
+  "title": "Software Engineering Intern",
+  "url": "https://go.vansh.nyc/N6",
+  "locations": [
+   "Sherman Oaks, CA",
+   "Portland, OR",
+   "Santa Monica, CA"
+  ],
+  "posted_at": "2026-09-09",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/n7": {
+  "company": "Navy Federal",
+  "title": "Associate Intern, Security Automation",
+  "url": "https://go.vansh.nyc/N7",
+  "locations": [
+   "Vienna, VA"
+  ],
+  "posted_at": "2026-09-09",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/n8": {
+  "company": "Barnes & Thornburg",
+  "title": "Information Security Intern",
+  "url": "https://go.vansh.nyc/N8",
+  "locations": [
+   "Indianapolis, IN"
+  ],
+  "posted_at": "2026-09-09",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/n9": {
+  "company": "Danaher Corporation",
+  "title": "IT Security Intern",
+  "url": "https://go.vansh.nyc/N9",
+  "locations": [
+   "Coralville, IA"
+  ],
+  "posted_at": "2026-09-10",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/na": {
+  "company": "National Information Solutions Cooperative",
+  "title": "Information Security (Cybersecurity) Intern",
+  "url": "https://go.vansh.nyc/Na",
+  "locations": [
+   "Lake St. Louis, MO"
+  ],
+  "posted_at": "2026-09-10",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/nb": {
+  "company": "National Information Solutions Cooperative",
+  "title": "Information Security (Cybersecurity) Intern",
+  "url": "https://go.vansh.nyc/Nb",
+  "locations": [
+   "Mandan, ND"
+  ],
+  "posted_at": "2026-09-10",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/nc": {
+  "company": "Oshkosh",
+  "title": "Cyber Security Intern",
+  "url": "https://go.vansh.nyc/Nc",
+  "locations": [
+   "Oshkosh, WI"
+  ],
+  "posted_at": "2026-09-11",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/nd": {
+  "company": "Compeer Financial",
+  "title": "Infrastructure Engineering Intern",
+  "url": "https://go.vansh.nyc/Nd",
+  "locations": [
+   "Lakeville, MN"
+  ],
+  "posted_at": "2026-09-11",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/ne": {
+  "company": "Insulet Corporation",
+  "title": "Embedded Software Test Engineering Co-op",
+  "url": "https://go.vansh.nyc/Ne",
+  "locations": [
+   "Acton, MA"
+  ],
+  "posted_at": "2026-09-15",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/o": {
@@ -75691,6 +76496,16 @@
   "posted_at": "2026-10-22",
   "source": "workday"
  },
+ "url:https://leidos.wd5.myworkdayjobs.com/external/job/huntsville-al/electrical-design-engineering-intern_r-00195400": {
+  "company": "leidos",
+  "title": "Electrical Design Engineering Intern",
+  "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Design-Engineering-Intern_R-00195400",
+  "locations": [
+   "Huntsville, AL"
+  ],
+  "posted_at": "2026-10-26",
+  "source": "workday"
+ },
  "url:https://leidos.wd5.myworkdayjobs.com/external/job/huntsville-al/electrical-hardware-design-engineering-intern_r-00193394": {
   "company": "leidos",
   "title": "Electrical Hardware Design Engineering Intern",
@@ -84982,6 +85797,16 @@
   "posted_at": "2026-09-29",
   "source": "speedyapply"
  },
+ "url:https://myhrabc.wd5.myworkdayjobs.com/global/job/conshohocken-pa/edi-it-software-developer-intern_r2612376": {
+  "company": "myhrabc",
+  "title": "EDI IT Software Developer Intern",
+  "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/EDI-IT-Software-Developer-Intern_R2612376",
+  "locations": [
+   "Conshohocken, PA"
+  ],
+  "posted_at": "2026-10-26",
+  "source": "workday"
+ },
  "url:https://myhrabc.wd5.myworkdayjobs.com/global/job/remote-usa/software-intern_r2613763": {
   "company": "Cencora",
   "title": "Software Intern",
@@ -91190,6 +92015,16 @@
   "posted_at": "2026-10-23",
   "source": "workday"
  },
+ "url:https://ptc.wd1.myworkdayjobs.com/ptc/job/boston-ma-usa/software-engineer-intern--summer-2027-_jr112943": {
+  "company": "PTC",
+  "title": "Software Engineer Intern",
+  "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Software-Engineer-Intern--Summer-2027-_JR112943",
+  "locations": [
+   "Boston, MA"
+  ],
+  "posted_at": "2026-10-26",
+  "source": "simplify"
+ },
  "url:https://pwc.wd3.myworkdayjobs.com/en-us/us_entry_level_careers/job/il-rosemont/connected-physical-products-intern---summer-2027_757231wd": {
   "company": "PricewaterhouseCoopers (PwC)",
   "title": "Connected Physical Products Intern - Summer 2027",
@@ -92804,6 +93639,36 @@
   "posted_at": "2026-09-25",
   "source": "workday"
  },
+ "url:https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/410-georgia-st-w-floor-3vancouver/data-engineer--rbc-amplify-2027--vancouver_r-0000191198-2": {
+  "company": "Royal Bank of Canada",
+  "title": "Data Engineer Intern",
+  "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/410-GEORGIA-ST-W-FLOOR-3VANCOUVER/Data-Engineer--RBC-Amplify-2027--Vancouver_R-0000191198-2",
+  "locations": [
+   "Vancouver, BC, Canada"
+  ],
+  "posted_at": "2026-10-26",
+  "source": "simplify"
+ },
+ "url:https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/halifax-nova-scotia-canada/data-engineer--rbc-amplify-2027--halifax_r-0000191195": {
+  "company": "Royal Bank of Canada",
+  "title": "Data Engineer Intern",
+  "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/Data-Engineer--RBC-Amplify-2027--Halifax_R-0000191195",
+  "locations": [
+   "Halifax Regional Municipality, NS, Canada"
+  ],
+  "posted_at": "2026-10-26",
+  "source": "simplify"
+ },
+ "url:https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/halifax-nova-scotia-canada/developer--rbc-amplify-2027--halifax_r-0000191196": {
+  "company": "Royal Bank of Canada",
+  "title": "Developer Intern",
+  "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/Developer--RBC-Amplify-2027--Halifax_R-0000191196",
+  "locations": [
+   "Halifax Regional Municipality, NS, Canada"
+  ],
+  "posted_at": "2026-10-26",
+  "source": "simplify"
+ },
  "url:https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/minneapolis-minnesota-united-states-of-america/summer-2027-wealth-management-technology-internship_r-0000187852": {
   "company": "Royal Bank of Canada",
   "title": "Wealth Management Technology Intern",
@@ -92863,6 +93728,16 @@
   ],
   "posted_at": "2026-09-25",
   "source": "workday"
+ },
+ "url:https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/vancouver-british-columbia-canada/developer--rbc-amplify-2027--vancouver_r-0000191199-2": {
+  "company": "Royal Bank of Canada",
+  "title": "Developer Intern",
+  "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/VANCOUVER-British-Columbia-Canada/Developer--RBC-Amplify-2027--Vancouver_R-0000191199-2",
+  "locations": [
+   "Vancouver, BC, Canada"
+  ],
+  "posted_at": "2026-10-26",
+  "source": "simplify"
  },
  "url:https://realtyincome.wd108.myworkdayjobs.com/realty_income_careers/job/san-diego-california/technology-intern---multiple-opportunities_r-100339": {
   "company": "Realty Income",
@@ -103422,6 +104297,16 @@
   ],
   "posted_at": "2026-10-23",
   "source": "workday"
+ },
+ "url:https://transamerica.wd5.myworkdayjobs.com/auk_jobsite/job/edinburgh-uk/actuarial-intern--summer-2027-_r20063117": {
+  "company": "Aegon Asset Management",
+  "title": "Actuarial Intern",
+  "url": "https://transamerica.wd5.myworkdayjobs.com/AUK_JobSite/job/Edinburgh-UK/Actuarial-Intern--Summer-2027-_R20063117",
+  "locations": [
+   "Edinburgh, UK"
+  ],
+  "posted_at": "2026-10-26",
+  "source": "simplify"
  },
  "url:https://transunion.wd5.myworkdayjobs.com/en-us/transunion/job/white-plains-new-york/financial-services---argus-advisory-internship---summer-2027_19042627": {
   "company": "TransUnion",
