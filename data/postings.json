@@ -386,7 +386,7 @@
   "locations": [
    "USA, OH, Cleveland"
   ],
-  "posted_at": "2026-09-26",
+  "posted_at": "2026-10-26",
   "source": "workday"
  },
  "url:https://abb.wd3.myworkdayjobs.com/external_career_page/job/usa-oh-cleveland/systems-engineering-intern---summer-2027_jr00048328": {
@@ -15300,6 +15300,14 @@
   "posted_at": "2026-10-01",
   "source": "workday"
  },
+ "url:https://cai.wd5.myworkdayjobs.com/computer_aid/job/exoskeleton-design-and-rehabilitation-engineering-intern_r8818": {
+  "company": "cai",
+  "title": "Exoskeleton Design and Rehabilitation Engineering Intern",
+  "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/Exoskeleton-Design-and-Rehabilitation-Engineering-Intern_R8818",
+  "locations": [],
+  "posted_at": "2026-10-26",
+  "source": "workday"
+ },
  "url:https://cai.wd5.myworkdayjobs.com/computer_aid/job/fl-client-state/cloud-security-analyst-intern_r8668": {
   "company": "cai",
   "title": "Cloud Security Analyst Intern",
@@ -27180,17 +27188,14 @@
   "source": "workday"
  },
  "url:https://elevancehealth.wd1.myworkdayjobs.com/elv-et/job/ga-atlanta-740-w-peachtree-st-nw/data-analytics-undergraduate-intern---summer-2027_jr209076": {
-  "company": "Elevance Health",
-  "title": "Data Analytics Intern",
+  "company": "elevancehealth",
+  "title": "Data Analytics Undergraduate Intern - Summer 2027",
   "url": "https://elevancehealth.wd1.myworkdayjobs.com/ELV-ET/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Data-Analytics-Undergraduate-Intern---Summer-2027_JR209076",
   "locations": [
-   "Indianapolis, IN",
-   "Richmond, VA",
-   "Chicago, IL",
-   "Atlanta, GA"
+   "4 Locations"
   ],
-  "posted_at": "2026-10-02",
-  "source": "simplify"
+  "posted_at": "2026-10-20",
+  "source": "workday"
  },
  "url:https://elevancehealth.wd1.myworkdayjobs.com/elv-et/job/ga-atlanta-740-w-peachtree-st-nw/engineering-graduate-intern---summer-2027_jr209082": {
   "company": "elevancehealth",
@@ -27203,17 +27208,14 @@
   "source": "workday"
  },
  "url:https://elevancehealth.wd1.myworkdayjobs.com/elv-et/job/ga-atlanta-740-w-peachtree-st-nw/engineering-undergraduate-intern---summer-2027_jr209081": {
-  "company": "Elevance Health",
-  "title": "Engineering Intern",
+  "company": "elevancehealth",
+  "title": "Engineering Undergraduate Intern - Summer 2027",
   "url": "https://elevancehealth.wd1.myworkdayjobs.com/ELV-ET/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Engineering-Undergraduate-Intern---Summer-2027_JR209081",
   "locations": [
-   "Indianapolis, IN",
-   "Richmond, VA",
-   "Chicago, IL",
-   "Atlanta, GA"
+   "4 Locations"
   ],
-  "posted_at": "2026-10-02",
-  "source": "simplify"
+  "posted_at": "2026-10-20",
+  "source": "workday"
  },
  "url:https://elkay.wd1.myworkdayjobs.com/elkay_external/job/erie-pa/engineering-intern---summer-2027_req-020092": {
   "company": "elkay",
@@ -27426,14 +27428,14 @@
   "source": "workday"
  },
  "url:https://emcins.wd5.myworkdayjobs.com/emc_internships/job/iowa/intern--claims--data-_r6552": {
-  "company": "EMC Insurance",
-  "title": "Claims Intern - Data",
+  "company": "emcins",
+  "title": "Intern- Claims (Data)",
   "url": "https://emcins.wd5.myworkdayjobs.com/EMC_Internships/job/Iowa/Intern--Claims--Data-_R6552",
   "locations": [
    "Iowa"
   ],
-  "posted_at": "2026-09-21",
-  "source": "simplify"
+  "posted_at": "2026-09-26",
+  "source": "workday"
  },
  "url:https://emcins.wd5.myworkdayjobs.com/emc_internships/job/iowa/intern--claims--property-_r6553": {
   "company": "EMC Insurance",
@@ -29423,34 +29425,34 @@
   "source": "simplify"
  },
  "url:https://flir.wd1.myworkdayjobs.com/flircareers/job/us---huntsville-al/eadsim-software-engineering-intern--summer-2027-_req36667": {
-  "company": "Teledyne",
-  "title": "Software Engineer Intern",
+  "company": "flir",
+  "title": "EADSIM Software Engineering Intern (Summer 2027)",
   "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/EADSIM-Software-Engineering-Intern--Summer-2027-_REQ36667",
   "locations": [
-   "Huntsville, AL"
+   "US - Huntsville, AL"
   ],
-  "posted_at": "2026-09-01",
-  "source": "simplify"
+  "posted_at": "2026-10-26",
+  "source": "workday"
  },
  "url:https://flir.wd1.myworkdayjobs.com/flircareers/job/us---huntsville-al/nhrc-software-engineering-internship--summer-2027-_req36193": {
-  "company": "Teledyne",
-  "title": "Software Engineer Intern - NHRC",
+  "company": "flir",
+  "title": "NHRC Software Engineering Internship (Summer 2027)",
   "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193",
   "locations": [
-   "Huntsville, AL"
+   "US - Huntsville, AL"
   ],
-  "posted_at": "2026-08-13",
-  "source": "simplify"
+  "posted_at": "2026-10-26",
+  "source": "workday"
  },
  "url:https://flir.wd1.myworkdayjobs.com/flircareers/job/us---huntsville-al/nhrc-software-engineering-internship--summer-2027-_req36194-2": {
-  "company": "Teledyne",
-  "title": "Software Engineer Intern - NHRC",
+  "company": "flir",
+  "title": "NHRC Software Engineering Internship (Summer 2027)",
   "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36194-2",
   "locations": [
-   "Huntsville, AL"
+   "US - Huntsville, AL"
   ],
-  "posted_at": "2026-08-13",
-  "source": "simplify"
+  "posted_at": "2026-10-26",
+  "source": "workday"
  },
  "url:https://flir.wd1.myworkdayjobs.com/flircareers/job/us---lincoln-ne/computer-engineering-intern_req29119": {
   "company": "flir",
@@ -30073,14 +30075,14 @@
   "source": "simplify"
  },
  "url:https://gaig.wd1.myworkdayjobs.com/gaig_external/job/cincinnati-oh-usa/enterprise-analytics-intern---summer-2027_r9650": {
-  "company": "Great American Insurance Company",
-  "title": "Enterprise Analytics Intern",
+  "company": "gaig",
+  "title": "Enterprise Analytics Intern - Summer 2027",
   "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Enterprise-Analytics-Intern---Summer-2027_R9650",
   "locations": [
-   "Cincinnati, OH"
+   "Cincinnati, OH (USA)"
   ],
   "posted_at": "2026-10-02",
-  "source": "simplify"
+  "source": "workday"
  },
  "url:https://gaig.wd1.myworkdayjobs.com/gaig_external/job/cincinnati-oh-usa/information-technology--it--audit-intern_r9392": {
   "company": "gaig",
@@ -30403,14 +30405,14 @@
   "source": "workday"
  },
  "url:https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/usa-la-bossier-city/gdit-summer-internship-program---summer-2027-ai-network-engineering-internship_rq228934-2": {
-  "company": "General Dynamics Information Technology",
-  "title": "AI Network Engineering Intern",
+  "company": "gdit",
+  "title": "GDIT Summer Internship Program – Summer 2027 AI Network Engineering Internship",
   "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-Network-Engineering-Internship_RQ228934-2",
   "locations": [
-   "Bossier City, LA"
+   "USA LA Bossier City"
   ],
-  "posted_at": "2026-09-23",
-  "source": "simplify"
+  "posted_at": "2026-09-26",
+  "source": "workday"
  },
  "url:https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/usa-la-bossier-city/gdit-summer-internship-program---summer-2027-cybersecurity-associate-internship_rq228929-2": {
   "company": "gdit",
@@ -30423,44 +30425,44 @@
   "source": "workday"
  },
  "url:https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/usa-la-bossier-city/gdit-summer-internship-program---summer-2027-generative-ai-software-development-internship_rq228933-1": {
-  "company": "General Dynamics Information Technology",
-  "title": "Generative AI Software Development Intern",
+  "company": "gdit",
+  "title": "GDIT Summer Internship Program – Summer 2027 Generative AI Software Development Internship",
   "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Generative-AI-Software-Development-Internship_RQ228933-1",
   "locations": [
-   "Bossier City, LA"
+   "USA LA Bossier City"
   ],
-  "posted_at": "2026-09-23",
-  "source": "simplify"
+  "posted_at": "2026-09-26",
+  "source": "workday"
  },
  "url:https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/usa-la-bossier-city/gdit-summer-internship-program---summer-2027-software-development-internship_rq228931-2": {
-  "company": "General Dynamics Information Technology",
-  "title": "Software Development Intern",
+  "company": "gdit",
+  "title": "GDIT Summer Internship Program – Summer 2027 Software Development Internship",
   "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship_RQ228931-2",
   "locations": [
-   "Bossier City, LA"
+   "USA LA Bossier City"
   ],
-  "posted_at": "2026-09-23",
-  "source": "simplify"
+  "posted_at": "2026-09-26",
+  "source": "workday"
  },
  "url:https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/usa-nj-egg-harbor-township/gdit-summer-internship-program---summer-2027-software-development-internship--_rq230643": {
-  "company": "General Dynamics Information Technology",
-  "title": "Software Developer Intern",
+  "company": "gdit",
+  "title": "GDIT Summer Internship Program-Summer 2027 Software Development Internship -Egg Harbor Township New Jersey",
   "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-NJ-Egg-Harbor-Township/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship--_RQ230643",
   "locations": [
-   "Egg Harbor Township, NJ"
+   "USA NJ Egg Harbor Township"
   ],
-  "posted_at": "2026-10-19",
-  "source": "simplify"
+  "posted_at": "2026-10-26",
+  "source": "workday"
  },
  "url:https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/usa-va-falls-church/financial-data-analyst-intern--seasonal-_rq230761": {
-  "company": "General Dynamics Information Technology",
-  "title": "Financial Data Analyst Intern",
+  "company": "gdit",
+  "title": "Financial Data Analyst Intern (Seasonal)",
   "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Financial-Data-Analyst-Intern--Seasonal-_RQ230761",
   "locations": [
-   "Falls Church, VA"
+   "USA VA Falls Church"
   ],
   "posted_at": "2026-10-22",
-  "source": "simplify"
+  "source": "workday"
  },
  "url:https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/usa-va-falls-church/summer-2027-quality-assurance-associate--intern_rq230538": {
   "company": "General Dynamics Information Technology",
@@ -30503,14 +30505,14 @@
   "source": "simplify"
  },
  "url:https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/usa-va-falls-church/technical-intern---ai-and-estimation_rq230646": {
-  "company": "General Dynamics Information Technology",
-  "title": "AI and Estimation Intern",
+  "company": "gdit",
+  "title": "Summer 2027 AI and Estimation Intern",
   "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Technical-Intern---AI-and-Estimation_RQ230646",
   "locations": [
-   "Falls Church, VA"
+   "USA VA Falls Church"
   ],
   "posted_at": "2026-10-21",
-  "source": "simplify"
+  "source": "workday"
  },
  "url:https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/usa-va-falls-church/technical-intern--seasonal-_rq230257": {
   "company": "gdit",
@@ -31364,6 +31366,16 @@
   "posted_at": "2026-09-26",
   "source": "workday"
  },
+ "url:https://generac.wd5.myworkdayjobs.com/external/job/waukesha-wi---usa/engineering-intern-engine-development_jr16276-1": {
+  "company": "generac",
+  "title": "Engineering Intern-Engine Development",
+  "url": "https://generac.wd5.myworkdayjobs.com/external/job/Waukesha-WI---USA/Engineering-Intern-Engine-Development_JR16276-1",
+  "locations": [
+   "Waukesha, WI - USA"
+  ],
+  "posted_at": "2026-10-26",
+  "source": "workday"
+ },
  "url:https://generac.wd5.myworkdayjobs.com/external/job/waukesha-wi---usa/industrial-engineering-intern---summer-2027_jr16999-1": {
   "company": "generac",
   "title": "Industrial Engineering Intern - Summer 2027",
@@ -31555,14 +31567,14 @@
   "source": "workday"
  },
  "url:https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/sunnyvale-california-united-states-of-america/xmlname-2027-summer-intern---ai-ml-engineer--autonomous-vehicle--simulation_jr-202621508": {
-  "company": "General Motors",
-  "title": "AI/ML Engineer Intern - Autonomous Vehicle: Simulation",
+  "company": "generalmotors",
+  "title": "2027 Summer Intern - AI/ML Engineer, Autonomous Vehicle: Simulation",
   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508",
   "locations": [
-   "Sunnyvale, CA"
+   "Sunnyvale, California, United States of America"
   ],
   "posted_at": "2026-10-01",
-  "source": "simplify"
+  "source": "workday"
  },
  "url:https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/sunnyvale-california-united-states-of-america/xmlname-2027-summer-intern---autonomous-driving-software-engineer--bachelor-s---master-s-_jr-202622064": {
   "company": "General Motors",
@@ -31615,14 +31627,14 @@
   "source": "workday"
  },
  "url:https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/sunnyvale-california-united-states-of-america/xmlname-2027-summer-intern---software-engineer--autonomous-vehicle--simulation_jr-202621503": {
-  "company": "General Motors",
-  "title": "Simulation Intern - Software Engineer - Autonomous Vehicle: Simulation",
+  "company": "generalmotors",
+  "title": "2027 Summer Intern - Software Engineer, Autonomous Vehicle: Simulation",
   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Engineer--Autonomous-Vehicle--Simulation_JR-202621503",
   "locations": [
-   "Sunnyvale, CA"
+   "Sunnyvale, California, United States of America"
   ],
   "posted_at": "2026-10-01",
-  "source": "simplify"
+  "source": "workday"
  },
  "url:https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/sunnyvale-california-united-states-of-america/xmlname-2027-summer-intern--ai-research--embodied-ai--masters-_jr-202622535": {
   "company": "generalmotors",
@@ -31695,15 +31707,14 @@
   "source": "workday"
  },
  "url:https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/warren-michigan-united-states-of-america/xmlname-2027-summer-intern---ai---hardware-analytics--adpt_jr-202621756": {
-  "company": "General Motors",
-  "title": "Summer Intern - AI & Hardware Analytics - Adpt",
+  "company": "generalmotors",
+  "title": "2027 Summer Intern – AI & Hardware Analytics, ADPT",
   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756",
   "locations": [
-   "Milford, MI",
-   "Warren, MI"
+   "2 Locations"
   ],
   "posted_at": "2026-10-05",
-  "source": "simplify"
+  "source": "workday"
  },
  "url:https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/warren-michigan-united-states-of-america/xmlname-2027-summer-intern---digital-product--embedded-and-systems-engineering_jr-202620513": {
   "company": "generalmotors",
@@ -31846,14 +31857,14 @@
   "source": "workday"
  },
  "url:https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/warren-michigan-united-states-of-america/xmlname-2027-summer-intern--ai-ml-engineer--mapping_jr-202621778": {
-  "company": "General Motors",
-  "title": "AI/ML Engineer Intern - Mapping",
+  "company": "generalmotors",
+  "title": "2027 Summer Intern, AI/ML Engineer, Mapping",
   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping_JR-202621778",
   "locations": [
-   "Warren, MI"
+   "Warren, Michigan, United States of America"
   ],
-  "posted_at": "2026-10-05",
-  "source": "simplify"
+  "posted_at": "2026-10-06",
+  "source": "workday"
  },
  "url:https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/warren-michigan-united-states-of-america/xmlname-2027-summer-intern--global-customer-research-intern--master-mba-degree-_jr-202619679": {
   "company": "generalmotors",
@@ -32610,6 +32621,16 @@
   "posted_at": "2026-10-10",
   "source": "workday"
  },
+ "url:https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/queretaro/document-controller-intern---grid-engineering_r5056137-2": {
+  "company": "gevernova",
+  "title": "Document Controller Intern – Grid Engineering",
+  "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Queretaro/Document-Controller-Intern---Grid-Engineering_R5056137-2",
+  "locations": [
+   "Queretaro"
+  ],
+  "posted_at": "2026-10-26",
+  "source": "workday"
+ },
  "url:https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/remote/field-engineer-intern_r5054427-1": {
   "company": "gevernova",
   "title": "Field Engineer Intern",
@@ -33201,6 +33222,16 @@
   "posted_at": "2026-10-10",
   "source": "workday"
  },
+ "url:https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/queretaro/document-controller-intern---grid-engineering_r5056137-3": {
+  "company": "gevernova",
+  "title": "Document Controller Intern – Grid Engineering",
+  "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Queretaro/Document-Controller-Intern---Grid-Engineering_R5056137-3",
+  "locations": [
+   "Queretaro"
+  ],
+  "posted_at": "2026-10-26",
+  "source": "workday"
+ },
  "url:https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/remote/field-engineer-intern_r5054427-2": {
   "company": "gevernova",
   "title": "Field Engineer Intern",
@@ -33442,24 +33473,24 @@
   "source": "workday"
  },
  "url:https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/atlanta-georgia/data-engineering-internship_r-57330": {
-  "company": "Gordon Food Service",
-  "title": "Data Engineering Intern - Atlanta Tech Hub - Data Engineering",
+  "company": "gfs",
+  "title": "Data Engineering Internship",
   "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Data-Engineering-Internship_R-57330",
   "locations": [
-   "Atlanta, GA"
+   "Atlanta, Georgia"
   ],
-  "posted_at": "2026-09-17",
-  "source": "simplify"
+  "posted_at": "2026-09-26",
+  "source": "workday"
  },
  "url:https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/atlanta-georgia/data-science-engineer-internship_r-57243-1": {
-  "company": "Gordon Food Service",
-  "title": "Data Science Engineer Intern",
+  "company": "gfs",
+  "title": "Data Science Engineer Internship",
   "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Data-Science-Engineer-Internship_R-57243-1",
   "locations": [
-   "Atlanta, GA"
+   "Atlanta, Georgia"
   ],
-  "posted_at": "2026-09-16",
-  "source": "simplify"
+  "posted_at": "2026-09-26",
+  "source": "workday"
  },
  "url:https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/atlanta-georgia/it-infrastructure-project-support-internship_r-56286": {
   "company": "gfs",
@@ -33552,14 +33583,14 @@
   "source": "simplify"
  },
  "url:https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/wyoming-michigan/mmsc-category-technology-internship_r-57187": {
-  "company": "Gordon Food Service",
-  "title": "Category Technology Intern - MMSC",
+  "company": "gfs",
+  "title": "MMSC Category Technology Internship",
   "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/MMSC-Category-Technology-Internship_R-57187",
   "locations": [
-   "Wyoming, MI"
+   "Wyoming, Michigan"
   ],
-  "posted_at": "2026-09-14",
-  "source": "simplify"
+  "posted_at": "2026-09-26",
+  "source": "workday"
  },
  "url:https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/wyoming-michigan/na-category-insights-analyst-intern_r-57366-1": {
   "company": "Gordon Food Service",
@@ -33572,14 +33603,14 @@
   "source": "simplify"
  },
  "url:https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/wyoming-michigan/software-engineer-intern--low-code-_r-57375": {
-  "company": "Gordon Food Service",
-  "title": "Software Engineer Intern - Low Code",
+  "company": "gfs",
+  "title": "Software Engineer Intern (Low Code)",
   "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Software-Engineer-Intern--Low-Code-_R-57375",
   "locations": [
-   "Wyoming, MI"
+   "Wyoming, Michigan"
   ],
-  "posted_at": "2026-09-18",
-  "source": "simplify"
+  "posted_at": "2026-09-26",
+  "source": "workday"
  },
  "url:https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/wyoming-michigan/software-engineer-intern--transportation-routing--_r-58374": {
   "company": "gfs",
@@ -33622,14 +33653,14 @@
   "source": "simplify"
  },
  "url:https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/wyoming-michigan/vendor---customer-master-data-internship_r-57341": {
-  "company": "Gordon Food Service",
-  "title": "Vendor & Customer Master Data Intern - Master Data",
+  "company": "gfs",
+  "title": "Vendor & Customer Master Data Internship",
   "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Vendor---Customer-Master-Data-Internship_R-57341",
   "locations": [
-   "Wyoming, MI"
+   "Wyoming, Michigan"
   ],
-  "posted_at": "2026-09-17",
-  "source": "simplify"
+  "posted_at": "2026-09-26",
+  "source": "workday"
  },
  "url:https://gilead.wd1.myworkdayjobs.com/en-us/gileadcareers/job/united-states---california---foster-city/intern---development---devops-business-strategy-leader_r0054772": {
   "company": "Gilead Sciences",
@@ -34202,15 +34233,14 @@
   "source": "workday"
  },
  "url:https://globalfoundries.wd1.myworkdayjobs.com/external/job/usa---california---santa-clara/ai-software-intern--summer-2027-_jr-2604029": {
-  "company": "GlobalFoundries",
-  "title": "AI Software Intern",
+  "company": "globalfoundries",
+  "title": "AI Software Intern (Summer 2027)",
   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/AI-Software-Intern--Summer-2027-_JR-2604029",
   "locations": [
-   "Santa Clara, CA",
-   "Richardson, TX"
+   "2 Locations"
   ],
   "posted_at": "2026-10-21",
-  "source": "simplify"
+  "source": "workday"
  },
  "url:https://globalfoundries.wd1.myworkdayjobs.com/external/job/usa---new-york---malta/advanced-manufacturing-engineering-intern--process---equipment--summer-2027-_jr-2604578": {
   "company": "globalfoundries",
@@ -34334,15 +34364,14 @@
   "source": "workday"
  },
  "url:https://globalfoundries.wd1.myworkdayjobs.com/external/job/usa---texas---austin/software-engineering-intern--summer-2027-_jr-2604039": {
-  "company": "GlobalFoundries",
-  "title": "Software Engineer Intern",
+  "company": "globalfoundries",
+  "title": "Software Engineering Intern (Summer 2027)",
   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Software-Engineering-Intern--Summer-2027-_JR-2604039",
   "locations": [
-   "Austin, TX",
-   "Santa Clara, CA"
+   "2 Locations"
   ],
   "posted_at": "2026-10-09",
-  "source": "simplify"
+  "source": "workday"
  },
  "url:https://globalfoundries.wd1.myworkdayjobs.com/external/job/usa---texas---richardson/ai-ml-systems-engineering-intern--summer-2027-_jr-2604051": {
   "company": "GlobalFoundries",
@@ -36524,6 +36553,16 @@
   "posted_at": "2026-10-22",
   "source": "workday"
  },
+ "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ca-san-diego-sd1--8650-balboa-ave--san-antonio-bldg/software-engineering--intern--summer-2027-_01884532": {
+  "company": "globalhr",
+  "title": "Software Engineering  Intern (Summer 2027)",
+  "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-DIEGO-SD1--8650-Balboa-Ave--SAN-ANTONIO-BLDG/Software-Engineering--Intern--Summer-2027-_01884532",
+  "locations": [
+   "US-CA-SAN DIEGO-SD1 ~ 8650 Balboa Ave ~ SAN ANTONIO BLDG"
+  ],
+  "posted_at": "2026-10-26",
+  "source": "workday"
+ },
  "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ca-san-diego-sd1--8650-balboa-ave--san-antonio-bldg/systems-engineering-intern--summer-2027-_01879193": {
   "company": "globalhr",
   "title": "Systems Engineering Intern (Summer 2027)",
@@ -38131,7 +38170,7 @@
   "locations": [
    "US-MA-ANDOVER-AN1 ~ 350 Lowell St ~ AN1 ESSEX BLDG"
   ],
-  "posted_at": "2026-10-15",
+  "posted_at": "2026-10-26",
   "source": "workday"
  },
  "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ma-andover-an1--350-lowell-st--an1-essex-bldg/quality-engineering-intern--summer-2027-_01879150": {
@@ -42309,16 +42348,13 @@
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/ch": {
-  "company": "Tessera Labs",
-  "title": "Full Stack Software Engineer Intern",
-  "url": "https://go.vansh.nyc/CH",
+  "company": "Whataburger",
+  "title": "Data Scientist Intern",
+  "url": "https://go.vansh.nyc/Ch",
   "locations": [
-   "San Jose, CA",
-   "Remote",
-   "United States",
-   "New York, NY"
+   "San Antonio, TX"
   ],
-  "posted_at": "2026-10-15",
+  "posted_at": "2026-10-14",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/ci": {
@@ -42658,23 +42694,25 @@
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/de": {
-  "company": "Light & Wonder",
-  "title": "Software Engineering Intern",
-  "url": "https://go.vansh.nyc/dE",
+  "company": "DriveWealth",
+  "title": "AI Engineer Intern, AI Consulting Associate Program",
+  "url": "https://go.vansh.nyc/de",
   "locations": [
-   "Las Vegas, NV"
+   "Chicago, IL",
+   "NYC"
   ],
-  "posted_at": "2026-10-21",
+  "posted_at": "2026-10-20",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/df": {
-  "company": "Light & Wonder",
-  "title": "Software Engineer Intern",
-  "url": "https://go.vansh.nyc/dF",
+  "company": "DriveWealth",
+  "title": "Product Owner Intern, AI Consulting Associate Program",
+  "url": "https://go.vansh.nyc/df",
   "locations": [
-   "Las Vegas, NV"
+   "Chicago, IL",
+   "NYC"
   ],
-  "posted_at": "2026-10-21",
+  "posted_at": "2026-10-20",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/dg": {
@@ -47297,53 +47335,64 @@
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/sr": {
-  "company": "Seagate Technology",
-  "title": "Machine Learning for Corporate Strategy Intern",
-  "url": "https://go.vansh.nyc/Sr",
+  "company": "Highmark Health",
+  "title": "Software Engineer Intern",
+  "url": "https://go.vansh.nyc/SR",
   "locations": [
-   "Bloomington, MN"
+   "Remote",
+   "United States"
   ],
-  "posted_at": "2026-10-18",
+  "posted_at": "2026-10-26",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/ss": {
-  "company": "Seagate Technology",
-  "title": "Embedded Software Engineer Intern",
-  "url": "https://go.vansh.nyc/Ss",
+  "company": "Highmark Health",
+  "title": "Enterprise Architecture Software Engineer & Architect Intern",
+  "url": "https://go.vansh.nyc/SS",
   "locations": [
-   "Longmont, CO"
+   "Pittsburgh, PA"
   ],
-  "posted_at": "2026-10-18",
+  "posted_at": "2026-10-26",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/st": {
-  "company": "Seagate Technology",
-  "title": "Recording Media R&D Intern, AI & Data Science",
-  "url": "https://go.vansh.nyc/St",
+  "company": "Northrop Grumman",
+  "title": "Software Engineering Intern",
+  "url": "https://go.vansh.nyc/ST",
   "locations": [
-   "Fremont, CA"
+   "Beavercreek, OH"
   ],
-  "posted_at": "2026-10-18",
+  "posted_at": "2026-10-26",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/su": {
-  "company": "Zipline",
-  "title": "System Test Automation Intern",
-  "url": "https://go.vansh.nyc/Su",
+  "company": "Altera",
+  "title": "Undergrad Technical Intern",
+  "url": "https://go.vansh.nyc/SU",
   "locations": [
-   "South San Francisco, CA"
+   "Toronto, Canada"
   ],
-  "posted_at": "2026-10-19",
+  "posted_at": "2026-10-26",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/sv": {
-  "company": "Zipline",
-  "title": "System Test Automation Intern",
-  "url": "https://go.vansh.nyc/Sv",
+  "company": "Glean",
+  "title": "Software Engineer Intern",
+  "url": "https://go.vansh.nyc/SV",
   "locations": [
-   "South San Francisco, CA"
+   "Mountain View, CA"
   ],
-  "posted_at": "2026-10-19",
+  "posted_at": "2026-10-26",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/sw": {
+  "company": "AbbVie",
+  "title": "Cybersecurity Intern, Business Technology Solutions",
+  "url": "https://go.vansh.nyc/SW",
+  "locations": [
+   "North Chicago, IL"
+  ],
+  "posted_at": "2026-10-26",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/sx": {
@@ -54898,14 +54947,14 @@
   "source": "workday"
  },
  "url:https://jj.wd5.myworkdayjobs.com/jj/job/spring-house-pennsylvania-united-states-of-america/laboratory-automation-systems-intern_r-103027": {
-  "company": "jj",
+  "company": "Johnson & Johnson",
   "title": "Laboratory Automation Systems Intern",
   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Laboratory-Automation-Systems-Intern_R-103027",
   "locations": [
-   "Spring House, Pennsylvania, United States of America"
+   "Spring House, PA"
   ],
   "posted_at": "2026-10-23",
-  "source": "workday"
+  "source": "simplify"
  },
  "url:https://jj.wd5.myworkdayjobs.com/jj/job/spring-house-pennsylvania-united-states-of-america/tds-cgt-cell-development-co-op_r-104293": {
   "company": "jj",
@@ -58203,10 +58252,10 @@
   "title": "Software Engineer Intern",
   "url": "https://job-boards.greenhouse.io/gardacp/jobs/6146213004",
   "locations": [
-   "New York, New York, United States"
+   "New York City, NY"
   ],
-  "posted_at": "2026-08-18",
-  "source": "greenhouse"
+  "posted_at": "2026-08-19",
+  "source": "speedyapply"
  },
  "url:https://job-boards.greenhouse.io/gardacp/jobs/6163540004": {
   "company": "Garda Capital Partners",
@@ -58520,12 +58569,22 @@
  },
  "url:https://job-boards.greenhouse.io/gleanwork/jobs/4595665005": {
   "company": "Glean",
-  "title": "Software Engineer, Intern (Summer 2027)",
+  "title": "Software Engineer Intern",
   "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4595665005",
   "locations": [
    "Mountain View, CA"
   ],
-  "posted_at": "2025-09-03",
+  "posted_at": "2026-10-01",
+  "source": "simplify"
+ },
+ "url:https://job-boards.greenhouse.io/gleanwork/jobs/4747670005": {
+  "company": "Glean",
+  "title": "Software Engineer, Intern (Summer 2027)",
+  "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4747670005",
+  "locations": [
+   "Mountain View, CA"
+  ],
+  "posted_at": "2026-10-26",
   "source": "greenhouse"
  },
  "url:https://job-boards.greenhouse.io/glossgenius/jobs/7978666003": {
@@ -61066,13 +61125,13 @@
  },
  "url:https://job-boards.greenhouse.io/schonfeld/jobs/8171692": {
   "company": "Schonfeld",
-  "title": "Data Science Intern",
+  "title": "2027 Data Science Intern",
   "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171692",
   "locations": [
-   "NYC"
+   "New York, New York, United States"
   ],
   "posted_at": "2026-09-04",
-  "source": "simplify"
+  "source": "greenhouse"
  },
  "url:https://job-boards.greenhouse.io/schonfeld/jobs/8171696": {
   "company": "Schonfeld",
@@ -63093,14 +63152,14 @@
   "source": "greenhouse"
  },
  "url:https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006": {
-  "company": "Walleye Capital Internships",
-  "title": "Quantic – Quantitative Developer Intern (Summer 2027)",
+  "company": "Walleye Capital",
+  "title": "Quantitative Developer Intern",
   "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
   "locations": [
    "Boston, MA"
   ],
-  "posted_at": "2026-06-01",
-  "source": "greenhouse"
+  "posted_at": "2026-06-10",
+  "source": "simplify"
  },
  "url:https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4716166006": {
   "company": "Walleye Capital Internships",
@@ -70819,6 +70878,36 @@
    "Worcester, MA, United States"
   ],
   "posted_at": "2026-10-22",
+  "source": "smartrecruiters"
+ },
+ "url:https://jobs.smartrecruiters.com/abbvie/3743990016414086": {
+  "company": "AbbVie",
+  "title": "2027 Business Technology Solutions Intern - Cybersecurity (Undergraduate)",
+  "url": "https://jobs.smartrecruiters.com/AbbVie/3743990016414086",
+  "locations": [
+   "North Chicago, IL, United States"
+  ],
+  "posted_at": "2026-10-26",
+  "source": "smartrecruiters"
+ },
+ "url:https://jobs.smartrecruiters.com/abbvie/3743990016414967": {
+  "company": "AbbVie",
+  "title": "2027 Automation & Process Analytics Technology Co-Op (June - Dec)",
+  "url": "https://jobs.smartrecruiters.com/AbbVie/3743990016414967",
+  "locations": [
+   "Worcester, MA, United States"
+  ],
+  "posted_at": "2026-10-26",
+  "source": "smartrecruiters"
+ },
+ "url:https://jobs.smartrecruiters.com/abbvie/3743990016416476": {
+  "company": "AbbVie",
+  "title": "2027 Injection Device Development Intern (Undergraduate)",
+  "url": "https://jobs.smartrecruiters.com/AbbVie/3743990016416476",
+  "locations": [
+   "North Chicago, IL, United States"
+  ],
+  "posted_at": "2026-10-26",
   "source": "smartrecruiters"
  },
  "url:https://jobs.smartrecruiters.com/aecom2/744000142212720": {
@@ -81701,6 +81790,16 @@
   "posted_at": "2026-09-30",
   "source": "workday"
  },
+ "url:https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/santa-clara-ca/test-engineering-intern--bs---summer-2027_2604537": {
+  "company": "marvell",
+  "title": "Test Engineering Intern, BS - Summer 2027",
+  "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Test-Engineering-Intern--BS---Summer-2027_2604537",
+  "locations": [
+   "3 Locations"
+  ],
+  "posted_at": "2026-10-26",
+  "source": "workday"
+ },
  "url:https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/santa-clara-ca/test-engineering-intern--ms---summer-2027_2604002": {
   "company": "marvell",
   "title": "Test Engineering Intern, MS - Summer 2027",
@@ -87502,6 +87601,16 @@
   ],
   "posted_at": "2026-09-29",
   "source": "speedyapply"
+ },
+ "url:https://myhrabc.wd5.myworkdayjobs.com/global/job/conshohocken-pa/ai-intern_r2613670": {
+  "company": "myhrabc",
+  "title": "AI Intern",
+  "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/AI-Intern_R2613670",
+  "locations": [
+   "Conshohocken, PA"
+  ],
+  "posted_at": "2026-10-26",
+  "source": "workday"
  },
  "url:https://myhrabc.wd5.myworkdayjobs.com/global/job/conshohocken-pa/edi-it-software-developer-intern_r2612376": {
   "company": "myhrabc",
@@ -105692,6 +105801,16 @@
   "posted_at": "2026-10-08",
   "source": "workday"
  },
+ "url:https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/logan-utah-usa/sr-operations-data-analytics-intern_r-01366619": {
+  "company": "thermofisher",
+  "title": "Sr. Operations Data Analytics Intern",
+  "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Logan-Utah-USA/Sr-Operations-Data-Analytics-Intern_R-01366619",
+  "locations": [
+   "Logan, Utah, USA"
+  ],
+  "posted_at": "2026-10-26",
+  "source": "workday"
+ },
  "url:https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/mississauga-canada/lab-execution-systems-co-op_r-01366616": {
   "company": "thermofisher",
   "title": "Lab Execution Systems Co-Op",
@@ -113286,6 +113405,26 @@
   "posted_at": "2026-10-26",
   "source": "greenhouse"
  },
+ "url:https://www.samsara.com/company/careers/roles/8325371?gh_jid=8325371": {
+  "company": "Samsara",
+  "title": "Account Development Representative Intern - Phoenix",
+  "url": "https://www.samsara.com/company/careers/roles/8325371?gh_jid=8325371",
+  "locations": [
+   "Phoenix, Arizona, United States"
+  ],
+  "posted_at": "2026-10-26",
+  "source": "greenhouse"
+ },
+ "url:https://www.samsara.com/company/careers/roles/8325373?gh_jid=8325373": {
+  "company": "Samsara",
+  "title": "Account Development Representative Intern - Atlanta",
+  "url": "https://www.samsara.com/company/careers/roles/8325373?gh_jid=8325373",
+  "locations": [
+   "Atlanta, Georgia, United States"
+  ],
+  "posted_at": "2026-10-26",
+  "source": "greenhouse"
+ },
  "url:https://www.shopify.com/careers/canada-engineering-internships-winter-2026_04cf2b87-6660-45c7-95f2-e734b7844612": {
   "company": "Shopify",
   "title": "Engineering and Data Intern",
@@ -114647,6 +114786,16 @@
    "2 Locations"
   ],
   "posted_at": "2026-09-17",
+  "source": "workday"
+ },
+ "url:https://xcelenergy.wd1.myworkdayjobs.com/external/job/eau-claire-wi-54702/dam-safety-engineer-intern--wi_jr115604-2": {
+  "company": "xcelenergy",
+  "title": "Civil Engineering, Hydropower Intern - WI",
+  "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Eau-Claire-WI-54702/Dam-Safety-Engineer-Intern--WI_JR115604-2",
+  "locations": [
+   "Eau Claire, WI, 54702"
+  ],
+  "posted_at": "2026-10-26",
   "source": "workday"
  },
  "url:https://xcelenergy.wd1.myworkdayjobs.com/external/job/eau-claire-wi-54702/renewables-engineering-intern---wi_jr115672-1": {
