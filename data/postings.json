@@ -300,14 +300,14 @@
   "source": "simplify"
  },
  "url:https://abb.wd3.myworkdayjobs.com/external_career_page/job/usa-nc-cary/ai-engineering--erp-intern--summer-2027_jr00048711": {
-  "company": "ABB",
-  "title": "AI Engineering ERP Intern",
+  "company": "abb",
+  "title": "AI Engineering, ERP Intern- Summer 2027",
   "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--ERP-Intern--Summer-2027_JR00048711",
   "locations": [
-   "Cary, NC"
+   "USA, NC, Cary"
   ],
-  "posted_at": "2026-10-06",
-  "source": "simplify"
+  "posted_at": "2026-10-07",
+  "source": "workday"
  },
  "url:https://abb.wd3.myworkdayjobs.com/external_career_page/job/usa-nc-cary/is-common-infrastructure-intern--summer-2027_jr00047125": {
   "company": "abb",
@@ -29350,6 +29350,16 @@
    "US - Wilsonville, OR"
   ],
   "posted_at": "2026-10-23",
+  "source": "workday"
+ },
+ "url:https://flir.wd1.myworkdayjobs.com/flircareers/job/us---woodridge-il/college-intern---technical_req36728": {
+  "company": "flir",
+  "title": "College Intern - Technical",
+  "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Woodridge-IL/College-Intern---Technical_REQ36728",
+  "locations": [
+   "US - Woodridge, IL"
+  ],
+  "posted_at": "2026-10-26",
   "source": "workday"
  },
  "url:https://fmr.wd1.myworkdayjobs.com/en-us/fidelitycareers/job/one-destiny-way-westlake-tx/summer-2027-undergraduate-internship---software_2134524": {
@@ -82046,14 +82056,14 @@
   "source": "workday"
  },
  "url:https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/mineral-wells-tx/intern--software-engineering_r-26-19965": {
-  "company": "moog",
-  "title": "Intern, Software Engineering",
+  "company": "Moog",
+  "title": "Software Engineer Intern",
   "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19965",
   "locations": [
    "Mineral Wells, TX"
   ],
-  "posted_at": "2026-10-23",
-  "source": "workday"
+  "posted_at": "2026-10-08",
+  "source": "simplify"
  },
  "url:https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/torrance-ca/intern--actuation-engineering_r-26-19536": {
   "company": "moog",
@@ -91404,6 +91414,16 @@
   "company": "rb",
   "title": "Summer 2027 Intern-Cloud Engineering",
   "url": "https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern-Cloud-Engineering_R-0000033614",
+  "locations": [
+   "Chicago, IL"
+  ],
+  "posted_at": "2026-10-02",
+  "source": "workday"
+ },
+ "url:https://rb.wd5.myworkdayjobs.com/frs/job/chicago-il/summer-2027-intern-computer-science-and-software-engineering_r-0000033637": {
+  "company": "rb",
+  "title": "Summer 2027 Intern-Computer Science and Software Engineering",
+  "url": "https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern-Computer-Science-and-Software-Engineering_R-0000033637",
   "locations": [
    "Chicago, IL"
   ],
