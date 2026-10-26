@@ -300,14 +300,14 @@
   "source": "simplify"
  },
  "url:https://abb.wd3.myworkdayjobs.com/external_career_page/job/usa-nc-cary/ai-engineering--erp-intern--summer-2027_jr00048711": {
-  "company": "abb",
-  "title": "AI Engineering, ERP Intern- Summer 2027",
+  "company": "ABB",
+  "title": "AI Engineering ERP Intern",
   "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--ERP-Intern--Summer-2027_JR00048711",
   "locations": [
-   "USA, NC, Cary"
+   "Cary, NC"
   ],
   "posted_at": "2026-10-06",
-  "source": "workday"
+  "source": "simplify"
  },
  "url:https://abb.wd3.myworkdayjobs.com/external_career_page/job/usa-nc-cary/is-common-infrastructure-intern--summer-2027_jr00047125": {
   "company": "abb",
@@ -25646,6 +25646,16 @@
   "posted_at": "2026-09-22",
   "source": "simplify"
  },
+ "url:https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/gaffney-sc-us/mechatronics-engineering-intern---vehicle-architecture-and-controls_dt-20389-1": {
+  "company": "dtna",
+  "title": "Mechatronics Engineering Intern – Vehicle Architecture and Controls",
+  "url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Gaffney-SC-US/Mechatronics-Engineering-Intern---Vehicle-Architecture-and-Controls_DT-20389-1",
+  "locations": [
+   "Gaffney, SC US"
+  ],
+  "posted_at": "2026-10-26",
+  "source": "workday"
+ },
  "url:https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/gastonia-nc-us/automation-engineer-intern_dt-19944-1": {
   "company": "dtna",
   "title": "Automation Engineer Intern",
@@ -29443,6 +29453,16 @@
    "2 Locations"
   ],
   "posted_at": "2026-10-06",
+  "source": "workday"
+ },
+ "url:https://flir.wd1.myworkdayjobs.com/flircareers/job/us---portsmouth-nh-tdy/quality-engineer-intern_req35284": {
+  "company": "flir",
+  "title": "Quality Engineer Intern",
+  "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Portsmouth-NH-TDY/Quality-Engineer-Intern_REQ35284",
+  "locations": [
+   "US - Portsmouth, NH (TDY)"
+  ],
+  "posted_at": "2026-10-26",
   "source": "workday"
  },
  "url:https://flir.wd1.myworkdayjobs.com/flircareers/job/us---wilsonville-or/mechanical-engineering-intern---cw_req37514": {
@@ -48859,6 +48879,26 @@
   "posted_at": "2026-10-19",
   "source": "simplify"
  },
+ "url:https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/pa-working-at-home---pennsylvania/summer-2027-software-engineer-engen-graduate-intern_j289845": {
+  "company": "highmarkhealth",
+  "title": "Summer 2027 Software Engineer enGen Graduate Intern",
+  "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Software-Engineer-enGen-Graduate-Intern_J289845",
+  "locations": [
+   "51 Locations"
+  ],
+  "posted_at": "2026-10-26",
+  "source": "workday"
+ },
+ "url:https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/pa-working-at-home---pennsylvania/summer-2027-software-engineer-engen-undergraduate-intern_j289812": {
+  "company": "highmarkhealth",
+  "title": "Summer 2027 Software Engineer enGen Undergraduate Intern",
+  "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Software-Engineer-enGen-Undergraduate-Intern_J289812",
+  "locations": [
+   "PA, Working at Home - Pennsylvania"
+  ],
+  "posted_at": "2026-10-26",
+  "source": "workday"
+ },
  "url:https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/pittsburgh-pa-15222-fap-5th-avenue-place/summer-2027-artificial-intelligence--operations--undergraduate-intern_j287476": {
   "company": "highmarkhealth",
   "title": "Summer 2027 Artificial Intelligence (Operations) Undergraduate Intern",
@@ -48887,6 +48927,16 @@
    "Pittsburgh PA, 15222, FAP, 5th Avenue Place"
   ],
   "posted_at": "2026-10-07",
+  "source": "workday"
+ },
+ "url:https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/pittsburgh-pa-15222-pap-penn-avenue-place/summer-2027-data-analyst-engen-undergraduate-intern_j286826": {
+  "company": "highmarkhealth",
+  "title": "Summer 2027 Data Analyst enGen Undergraduate Intern",
+  "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Data-Analyst-enGen-Undergraduate-Intern_J286826",
+  "locations": [
+   "Pittsburgh PA, 15222, PAP, Penn Avenue Place"
+  ],
+  "posted_at": "2026-10-26",
   "source": "workday"
  },
  "url:https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/pittsburgh-pa-15222-pap-penn-avenue-place/summer-2027-hmig-undergraduate-financial-analytics-intern_j286836": {
@@ -67471,14 +67521,14 @@
   "source": "ashby"
  },
  "url:https://jobs.ashbyhq.com/tessera-labs/892bb150-8c98-47f4-a8b6-93633ecb2ea7": {
-  "company": "tessera-labs",
-  "title": "Software Engineering Intern, Full Stack",
+  "company": "Tessera Labs",
+  "title": "Software Engineering Intern - Full Stack",
   "url": "https://jobs.ashbyhq.com/tessera-labs/892bb150-8c98-47f4-a8b6-93633ecb2ea7",
   "locations": [
-   "San Jose Office (HQ)"
+   "San Jose, CA"
   ],
-  "posted_at": "2026-10-15",
-  "source": "ashby"
+  "posted_at": "2026-10-16",
+  "source": "speedyapply"
  },
  "url:https://jobs.ashbyhq.com/the-exploration-company/2493c3ce-e861-4a66-97a1-df97ff016cd4": {
   "company": "the-exploration-company",
@@ -83141,6 +83191,16 @@
   "posted_at": "2026-09-26",
   "source": "workday"
  },
+ "url:https://michelinhr.wd3.myworkdayjobs.com/michelin/job/peosta-ia/xmlname-2027-summer-supply-chain-engineer-intern---peosta--ia-_r-2026030726": {
+  "company": "michelinhr",
+  "title": "2027 Summer Supply Chain Engineer Intern  (Peosta, IA)",
+  "url": "https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/PEOSTA-IA/XMLNAME-2027-Summer-Supply-Chain-Engineer-Intern---Peosta--IA-_R-2026030726",
+  "locations": [
+   "PEOSTA, IA"
+  ],
+  "posted_at": "2026-10-26",
+  "source": "workday"
+ },
  "url:https://michelinhr.wd3.myworkdayjobs.com/michelin/job/tan-uyen/automation-engineer-internship_r-2026038912": {
   "company": "michelinhr",
   "title": "Automation Engineer Internship",
@@ -88779,6 +88839,16 @@
   ],
   "posted_at": "2026-09-30",
   "source": "simplify"
+ },
+ "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-ohio-beavercreek/xmlname-2027-software-engineering-intern---beavercreek-oh_r10257656": {
+  "company": "ngc",
+  "title": "2027 Software Engineering Intern - Beavercreek OH",
+  "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Software-Engineering-Intern---Beavercreek-OH_R10257656",
+  "locations": [
+   "United States-Ohio-Beavercreek"
+  ],
+  "posted_at": "2026-10-26",
+  "source": "workday"
  },
  "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-ohio-cincinnati/xmlname-2027-cyber-software-engineer-intern---cincinnati-oh_r10249186": {
   "company": "ngc",
@@ -98375,6 +98445,16 @@
   "posted_at": "",
   "source": "workday"
  },
+ "url:https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/california---san-francisco/summer-2027-intern---applied-scientist--optimization_jr363005-1": {
+  "company": "salesforce",
+  "title": "Summer 2027 Intern - Applied Scientist, Optimization",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Applied-Scientist--Optimization_JR363005-1",
+  "locations": [
+   "2 Locations"
+  ],
+  "posted_at": "2026-10-26",
+  "source": "workday"
+ },
  "url:https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/california---san-francisco/summer-2027-intern---product-gtm-strategy_jr362217-1": {
   "company": "salesforce",
   "title": "Summer 2027 Intern - Product GTM Strategy",
@@ -104123,6 +104203,16 @@
   ],
   "posted_at": "2026-09-16",
   "source": "simplify"
+ },
+ "url:https://tel.wd3.myworkdayjobs.com/tel-careers/job/fremont/electrical-engineer-intern_r26-01999": {
+  "company": "tel",
+  "title": "Electrical Engineer Intern",
+  "url": "https://tel.wd3.myworkdayjobs.com/tel-careers/job/Fremont/Electrical-Engineer-Intern_R26-01999",
+  "locations": [
+   "Fremont"
+  ],
+  "posted_at": "2026-10-26",
+  "source": "workday"
  },
  "url:https://tel.wd3.myworkdayjobs.com/tel-careers/job/hillsboro-qrs-shared/process-engineer-2027-summer-intern_r26-01589": {
   "company": "tel",
