@@ -36264,6 +36264,16 @@
   "posted_at": "2026-10-11",
   "source": "workday"
  },
+ "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ca-el-segundo-e01--2000-e-el-segundo-blvd--bldg-e01/mechanical-engineer-intern--summer-2027-_01884278": {
+  "company": "globalhr",
+  "title": "Mechanical Engineer Intern (Summer 2027)",
+  "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Mechanical-Engineer-Intern--Summer-2027-_01884278",
+  "locations": [
+   "US-CA-EL SEGUNDO-E01 ~ 2000 E El Segundo Blvd ~ BLDG E01"
+  ],
+  "posted_at": "2026-10-26",
+  "source": "workday"
+ },
  "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ca-el-segundo-e01--2000-e-el-segundo-blvd--bldg-e01/rf-systems-engineer-intern--summer-2027-_01880552": {
   "company": "globalhr",
   "title": "RF Systems Engineer Intern (Summer 2027)",
@@ -38263,6 +38273,16 @@
   ],
   "posted_at": "2026-09-29",
   "source": "simplify"
+ },
+ "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ma-woburn-wb1--235-presidential-way--spencer-bldg/systems-engineering-co-op_01884039": {
+  "company": "globalhr",
+  "title": "Systems Engineering Co-op",
+  "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Systems-Engineering-Co-op_01884039",
+  "locations": [
+   "2 Locations"
+  ],
+  "posted_at": "2026-10-26",
+  "source": "workday"
  },
  "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ma-woburn-wb2--225-presidential-way--goddard-bldg/internship---raytheon-systems-security-engineer--onsite_01874703": {
   "company": "globalhr",
@@ -45829,6 +45849,295 @@
   "posted_at": "2025-08-03",
   "source": "vanshb03"
  },
+ "url:https://go.vansh.nyc/oa": {
+  "company": "Hewlett Packard Enterprise",
+  "title": "Software Engineer Intern",
+  "url": "https://go.vansh.nyc/OA",
+  "locations": [
+   "Andover, MA",
+   "Bloomington, MN",
+   "San Jose, CA",
+   "Spring, TX",
+   "Durham, NC",
+   "Westford, MA",
+   "Chippewa Falls, WI",
+   "Fort Collins, CO",
+   "Sunnyvale, CA",
+   "Roseville, CA"
+  ],
+  "posted_at": "2026-08-28",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/ob": {
+  "company": "Hewlett Packard Enterprise",
+  "title": "Product Management Intern",
+  "url": "https://go.vansh.nyc/OB",
+  "locations": [
+   "Andover, MA",
+   "Bloomington, MN",
+   "San Jose, CA",
+   "Spring, TX",
+   "Durham, NC",
+   "Westford, MA",
+   "Chippewa Falls, WI",
+   "Fort Collins, CO",
+   "Sunnyvale, CA",
+   "Roseville, CA"
+  ],
+  "posted_at": "2026-08-28",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/oc": {
+  "company": "fab2",
+  "title": "Embedded Software Engineer Intern",
+  "url": "https://go.vansh.nyc/OC",
+  "locations": [
+   "San Francisco, CA",
+   "Austin, TX"
+  ],
+  "posted_at": "2026-08-28",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/od": {
+  "company": "Hewlett Packard Enterprise",
+  "title": "Data Science Intern",
+  "url": "https://go.vansh.nyc/OD",
+  "locations": [
+   "Andover, MA",
+   "Bloomington, MN",
+   "San Jose, CA",
+   "Spring, TX",
+   "Durham, NC",
+   "Westford, MA",
+   "Chippewa Falls, WI",
+   "Fort Collins, CO",
+   "Sunnyvale, CA",
+   "Roseville, CA"
+  ],
+  "posted_at": "2026-08-30",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/oe": {
+  "company": "CACI",
+  "title": "Software Engineer Co-op",
+  "url": "https://go.vansh.nyc/OE",
+  "locations": [
+   "Danbury, CT"
+  ],
+  "posted_at": "2026-08-31",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/of": {
+  "company": "Royal Bank of Canada",
+  "title": "Data Engineer Intern",
+  "url": "https://go.vansh.nyc/OF",
+  "locations": [
+   "Vancouver, Canada"
+  ],
+  "posted_at": "2026-10-26",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/og": {
+  "company": "Royal Bank of Canada",
+  "title": "Developer Intern",
+  "url": "https://go.vansh.nyc/OG",
+  "locations": [
+   "Halifax, Canada"
+  ],
+  "posted_at": "2026-10-26",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/oh": {
+  "company": "Royal Bank of Canada",
+  "title": "Developer Intern",
+  "url": "https://go.vansh.nyc/OH",
+  "locations": [
+   "Vancouver, Canada"
+  ],
+  "posted_at": "2026-10-26",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/oi": {
+  "company": "CVS Health",
+  "title": "Innovation & Technology Intern, Data Engineering",
+  "url": "https://go.vansh.nyc/OI",
+  "locations": [
+   "Irving, TX"
+  ],
+  "posted_at": "2026-10-26",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/oj": {
+  "company": "Royal Bank of Canada",
+  "title": "Data Engineer Intern",
+  "url": "https://go.vansh.nyc/OJ",
+  "locations": [
+   "Halifax, Canada"
+  ],
+  "posted_at": "2026-10-26",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/ok": {
+  "company": "Palantir Technologies",
+  "title": "Information Security Engineer Intern",
+  "url": "https://go.vansh.nyc/OK",
+  "locations": [
+   "New York, NY"
+  ],
+  "posted_at": "2022-08-03",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/ol": {
+  "company": "AMD",
+  "title": "Software Test Engineering Co-op",
+  "url": "https://go.vansh.nyc/OL",
+  "locations": [
+   "Austin, TX"
+  ],
+  "posted_at": "2026-08-25",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/om": {
+  "company": "AMD",
+  "title": "Software Test Engineering Co-op",
+  "url": "https://go.vansh.nyc/OM",
+  "locations": [
+   "San Jose, CA"
+  ],
+  "posted_at": "2026-08-25",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/on": {
+  "company": "PennState University",
+  "title": "Cyber Security Engineer Intern",
+  "url": "https://go.vansh.nyc/ON",
+  "locations": [
+   "University Park, PA"
+  ],
+  "posted_at": "2026-08-27",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/oo": {
+  "company": "Juniper Networks",
+  "title": "Cloud Engineer Intern",
+  "url": "https://go.vansh.nyc/OO",
+  "locations": [
+   "Spring, TX",
+   "Westford, MA",
+   "Ft. Collins, CO",
+   "Chippewa Falls, WI",
+   "Durham, NC",
+   "Sunnyvale, CA",
+   "Roseville, CA",
+   "San Jose, CA",
+   "Bloomington, MN",
+   "Andover, MA"
+  ],
+  "posted_at": "2026-08-28",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/op": {
+  "company": "Aerospace Corporation",
+  "title": "Software Engineering Intern",
+  "url": "https://go.vansh.nyc/OP",
+  "locations": [
+   "United States"
+  ],
+  "posted_at": "2026-08-28",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/oq": {
+  "company": "Aerospace Corporation",
+  "title": "Embedded Engineering Intern",
+  "url": "https://go.vansh.nyc/OQ",
+  "locations": [
+   "United States"
+  ],
+  "posted_at": "2026-08-28",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/or": {
+  "company": "Aerospace Corporation",
+  "title": "Software AI Intern",
+  "url": "https://go.vansh.nyc/OR",
+  "locations": [
+   "United States"
+  ],
+  "posted_at": "2026-08-28",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/os": {
+  "company": "SK Hynix Memory Solution",
+  "title": "SSD Firmware Development Engineer Intern",
+  "url": "https://go.vansh.nyc/OS",
+  "locations": [
+   "San Jose, CA"
+  ],
+  "posted_at": "2026-08-31",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/ot": {
+  "company": "Procter & Gamble (P&G)",
+  "title": "IT Security Intern",
+  "url": "https://go.vansh.nyc/OT",
+  "locations": [
+   "Cincinnati, OH"
+  ],
+  "posted_at": "2026-09-30",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/ou": {
+  "company": "Honeywell",
+  "title": "Embedded Engineer Intern",
+  "url": "https://go.vansh.nyc/Ou",
+  "locations": [
+   "United States"
+  ],
+  "posted_at": "2026-08-25",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/ov": {
+  "company": "Compeer Financial",
+  "title": "Engineering Intern",
+  "url": "https://go.vansh.nyc/Ov",
+  "locations": [
+   "Sun Prairie, WI",
+   "Mankato, MN",
+   "Bloomington, IL"
+  ],
+  "posted_at": "2026-08-25",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/ow": {
+  "company": "DV Trading",
+  "title": "Futures & Options Trading Analyst Intern",
+  "url": "https://go.vansh.nyc/Ow",
+  "locations": [
+   "New York, NY"
+  ],
+  "posted_at": "2026-08-26",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/oy": {
+  "company": "Booz Allen Hamilton",
+  "title": "Software Developer Intern",
+  "url": "https://go.vansh.nyc/Oy",
+  "locations": [
+   "San Diego, CA"
+  ],
+  "posted_at": "2026-08-27",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/oz": {
+  "company": "IMC Trading",
+  "title": "Performance Engineer Intern",
+  "url": "https://go.vansh.nyc/Oz",
+  "locations": [
+   "Chicago, IL"
+  ],
+  "posted_at": "2026-08-27",
+  "source": "vanshb03"
+ },
  "url:https://go.vansh.nyc/p": {
   "company": "Tesla",
   "title": "Machine Learning Engineer Intern, Noise Vibration Harshness Engineering",
@@ -45839,6 +46148,98 @@
   "posted_at": "2025-08-03",
   "source": "vanshb03"
  },
+ "url:https://go.vansh.nyc/pr": {
+  "company": "DriveTime",
+  "title": "Data Analytics Intern",
+  "url": "https://go.vansh.nyc/PR",
+  "locations": [
+   "Dallas, TX",
+   "Tempe, AZ"
+  ],
+  "posted_at": "2026-10-13",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/ps": {
+  "company": "Covestro",
+  "title": "Supply Chain Application Developer Co-op",
+  "url": "https://go.vansh.nyc/PS",
+  "locations": [
+   "Pittsburgh, PA"
+  ],
+  "posted_at": "2026-10-14",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/pt": {
+  "company": "Acuity",
+  "title": "Software Engineer Intern",
+  "url": "https://go.vansh.nyc/PT",
+  "locations": [
+   "Sheboygan, WI"
+  ],
+  "posted_at": "2026-10-22",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/pu": {
+  "company": "Space Dynamics Laboratory",
+  "title": "FPGA Electrical Engineer Intern, Civil & Commercial Space",
+  "url": "https://go.vansh.nyc/PU",
+  "locations": [
+   "North Logan, UT"
+  ],
+  "posted_at": "2026-10-01",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/pv": {
+  "company": "American Bankers Association",
+  "title": "Quantitative Research Intern",
+  "url": "https://go.vansh.nyc/PV",
+  "locations": [
+   "Washington, DC"
+  ],
+  "posted_at": "2026-10-02",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/pw": {
+  "company": "Cadence Solutions",
+  "title": "Product Management Intern",
+  "url": "https://go.vansh.nyc/PW",
+  "locations": [
+   "Remote",
+   "United States"
+  ],
+  "posted_at": "2026-10-06",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/px": {
+  "company": "Amazon",
+  "title": "Business Intelligence Engineer Intern",
+  "url": "https://go.vansh.nyc/PX",
+  "locations": [
+   "Seattle, WA"
+  ],
+  "posted_at": "2026-10-08",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/py": {
+  "company": "Realty Income",
+  "title": "Technology Intern",
+  "url": "https://go.vansh.nyc/PY",
+  "locations": [
+   "San Diego, CA"
+  ],
+  "posted_at": "2026-10-12",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/pz": {
+  "company": "General Dynamics Mission Systems, Inc.",
+  "title": "EE/Computer Engineer Intern",
+  "url": "https://go.vansh.nyc/PZ",
+  "locations": [
+   "Manassas, VA"
+  ],
+  "posted_at": "2026-09-28",
+  "source": "vanshb03"
+ },
  "url:https://go.vansh.nyc/q": {
   "company": "Tesla",
   "title": "Chassis Validation Engineer Intern, Vehicle Firmware",
@@ -45847,6 +46248,107 @@
    "Palo Alto, CA"
   ],
   "posted_at": "2025-08-08",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/q0": {
+  "company": "Qualcomm",
+  "title": "Digital Design Engineer Intern",
+  "url": "https://go.vansh.nyc/Q0",
+  "locations": [
+   "Toronto, Canada"
+  ],
+  "posted_at": "2026-09-18",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/q1": {
+  "company": "General Motors",
+  "title": "Data Governance Engineer Intern",
+  "url": "https://go.vansh.nyc/Q1",
+  "locations": [
+   "Warren, MI"
+  ],
+  "posted_at": "2026-09-28",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/q2": {
+  "company": "Analog Devices",
+  "title": "Information Technology Intern",
+  "url": "https://go.vansh.nyc/Q2",
+  "locations": [
+   "Wilmington, MA",
+   "Camas, WA"
+  ],
+  "posted_at": "2026-09-16",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/q3": {
+  "company": "EHC",
+  "title": "Data Management Intern",
+  "url": "https://go.vansh.nyc/Q3",
+  "locations": [
+   "Birmingham, AL"
+  ],
+  "posted_at": "2026-09-18",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/q4": {
+  "company": "AMD",
+  "title": "AGS Libraries Co-op",
+  "url": "https://go.vansh.nyc/Q4",
+  "locations": [
+   "Calgary, Canada"
+  ],
+  "posted_at": "2026-09-01",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/q5": {
+  "company": "Johns Hopkins Applied Physics Laboratory",
+  "title": "Weapon Control Intern",
+  "url": "https://go.vansh.nyc/Q5",
+  "locations": [
+   "Laurel, MD"
+  ],
+  "posted_at": "2026-09-01",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/q6": {
+  "company": "Lawrence Livermore National Laboratory (LLNL)",
+  "title": "Computing Intern",
+  "url": "https://go.vansh.nyc/Q6",
+  "locations": [
+   "Livermore, CA"
+  ],
+  "posted_at": "2026-09-01",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/q7": {
+  "company": "Textron",
+  "title": "Software Engineer Intern",
+  "url": "https://go.vansh.nyc/Q7",
+  "locations": [
+   "Augusta, GA"
+  ],
+  "posted_at": "2026-09-02",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/q8": {
+  "company": "Medpace",
+  "title": "Python Intern",
+  "url": "https://go.vansh.nyc/Q8",
+  "locations": [
+   "Cincinnati, OH"
+  ],
+  "posted_at": "2026-08-24",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/q9": {
+  "company": "Aerospace Corporation",
+  "title": "Semiconductor Engineering Intern",
+  "url": "https://go.vansh.nyc/Q9",
+  "locations": [
+   "United States"
+  ],
+  "posted_at": "2026-08-28",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/r": {
@@ -80920,6 +81422,16 @@
   "posted_at": "2026-10-07",
   "source": "workday"
  },
+ "url:https://medtronic.wd1.myworkdayjobs.com/medtroniccareers/job/new-delhi-delhi-india/co-op-apprentice--non-tech-_r68685-1": {
+  "company": "medtronic",
+  "title": "Co-op/Apprentice (Non-Tech)",
+  "url": "https://medtronic.wd1.myworkdayjobs.com/medtroniccareers/job/New-Delhi-Delhi-India/Co-op-Apprentice--Non-Tech-_R68685-1",
+  "locations": [
+   "New Delhi, Delhi, India"
+  ],
+  "posted_at": "2026-10-06",
+  "source": "workday"
+ },
  "url:https://medtronic.wd1.myworkdayjobs.com/medtroniccareers/job/pont-de-claix-rhne-alpes-france/intern--graduate--non-tech-_r79562-1": {
   "company": "medtronic",
   "title": "Intern: Graduate( Non-Tech)",
@@ -81138,6 +81650,16 @@
    "Mthatha, Eastern Cape, South Africa"
   ],
   "posted_at": "2026-10-07",
+  "source": "workday"
+ },
+ "url:https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/new-delhi-delhi-india/co-op-apprentice--non-tech-_r68685": {
+  "company": "medtronic",
+  "title": "Co-op/Apprentice (Non-Tech)",
+  "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/New-Delhi-Delhi-India/Co-op-Apprentice--Non-Tech-_R68685",
+  "locations": [
+   "New Delhi, Delhi, India"
+  ],
+  "posted_at": "2026-10-06",
   "source": "workday"
  },
  "url:https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/pont-de-claix-rhne-alpes-france/intern--graduate--non-tech-_r79562": {
@@ -92016,14 +92538,24 @@
   "source": "workday"
  },
  "url:https://ptc.wd1.myworkdayjobs.com/ptc/job/boston-ma-usa/software-engineer-intern--summer-2027-_jr112943": {
-  "company": "PTC",
-  "title": "Software Engineer Intern",
+  "company": "ptc",
+  "title": "Software Engineer Intern (Summer 2027)",
   "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Software-Engineer-Intern--Summer-2027-_JR112943",
   "locations": [
-   "Boston, MA"
+   "Boston, MA, USA"
   ],
   "posted_at": "2026-10-26",
-  "source": "simplify"
+  "source": "workday"
+ },
+ "url:https://ptc.wd1.myworkdayjobs.com/ptc/job/budapest-hungary/software-developer---intern_jr110893-1": {
+  "company": "ptc",
+  "title": "Software Developer Intern",
+  "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Budapest-Hungary/Software-Developer---Intern_JR110893-1",
+  "locations": [
+   "Budapest, Hungary"
+  ],
+  "posted_at": "2026-10-06",
+  "source": "workday"
  },
  "url:https://pwc.wd3.myworkdayjobs.com/en-us/us_entry_level_careers/job/il-rosemont/connected-physical-products-intern---summer-2027_757231wd": {
   "company": "PricewaterhouseCoopers (PwC)",
@@ -93499,6 +94031,16 @@
   "posted_at": "2026-08-11",
   "source": "simplify"
  },
+ "url:https://rbc.wd3.myworkdayjobs.com/rbcearlytalent1/job/410-georgia-st-w-floor-3vancouver/data-engineer--rbc-amplify-2027--vancouver_r-0000191198": {
+  "company": "Royal Bank of Canada",
+  "title": "Data Engineer Intern - Amplify 2027",
+  "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/410-GEORGIA-ST-W-FLOOR-3VANCOUVER/Data-Engineer--RBC-Amplify-2027--Vancouver_R-0000191198",
+  "locations": [
+   "Vancouver, BC, Canada"
+  ],
+  "posted_at": "2026-10-26",
+  "source": "simplify"
+ },
  "url:https://rbc.wd3.myworkdayjobs.com/rbcearlytalent1/job/8081-arco-corporate-driveraleigh/xmlname-2027-capital-markets--quantitative-technology-services-summer--raleigh_r-0000189675": {
   "company": "Royal Bank of Canada",
   "title": "Capital Markets Intern - Quantitative Technology Services",
@@ -93507,6 +94049,46 @@
    "Raleigh, NC"
   ],
   "posted_at": "2026-10-06",
+  "source": "simplify"
+ },
+ "url:https://rbc.wd3.myworkdayjobs.com/rbcearlytalent1/job/calgary-alberta-canada/data-engineer--rbc-amplify-2027--calgary_r-0000191201": {
+  "company": "Royal Bank of Canada",
+  "title": "Data Engineer Intern",
+  "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/CALGARY-Alberta-Canada/Data-Engineer--RBC-Amplify-2027--Calgary_R-0000191201",
+  "locations": [
+   "Calgary, AB, Canada"
+  ],
+  "posted_at": "2026-10-26",
+  "source": "simplify"
+ },
+ "url:https://rbc.wd3.myworkdayjobs.com/rbcearlytalent1/job/calgary-alberta-canada/developer--rbc-amplify-2027--calgary_r-0000191202-1": {
+  "company": "Royal Bank of Canada",
+  "title": "Developer Intern",
+  "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/CALGARY-Alberta-Canada/Developer--RBC-Amplify-2027--Calgary_R-0000191202-1",
+  "locations": [
+   "Calgary, AB, Canada"
+  ],
+  "posted_at": "2026-10-26",
+  "source": "simplify"
+ },
+ "url:https://rbc.wd3.myworkdayjobs.com/rbcearlytalent1/job/halifax-nova-scotia-canada/data-engineer--rbc-amplify-2027--halifax_r-0000191195-1": {
+  "company": "Royal Bank of Canada",
+  "title": "Data Engineer Intern",
+  "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/HALIFAX-Nova-Scotia-Canada/Data-Engineer--RBC-Amplify-2027--Halifax_R-0000191195-1",
+  "locations": [
+   "Halifax Regional Municipality, NS, Canada"
+  ],
+  "posted_at": "2026-10-26",
+  "source": "simplify"
+ },
+ "url:https://rbc.wd3.myworkdayjobs.com/rbcearlytalent1/job/halifax-nova-scotia-canada/developer--rbc-amplify-2027--halifax_r-0000191196-1": {
+  "company": "Royal Bank of Canada",
+  "title": "Developer Intern",
+  "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/HALIFAX-Nova-Scotia-Canada/Developer--RBC-Amplify-2027--Halifax_R-0000191196-1",
+  "locations": [
+   "Bedford, NS, Canada"
+  ],
+  "posted_at": "2026-10-26",
   "source": "simplify"
  },
  "url:https://rbc.wd3.myworkdayjobs.com/rbcearlytalent1/job/jersey-city-new-jersey-united-states-of-america/xmlname-2027-capital-markets--quantitative-technology-services-summer-analyst_r-0000187859": {
@@ -93529,6 +94111,16 @@
   "posted_at": "2026-09-22",
   "source": "simplify"
  },
+ "url:https://rbc.wd3.myworkdayjobs.com/rbcearlytalent1/job/montral-quebec-canada/dveloppeur--rbc-amplifie-2027--montral---developer--rbc-amplify-2027--montreal_r-0000191206-1": {
+  "company": "Royal Bank of Canada",
+  "title": "Developer Intern - RBC Amplify",
+  "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MONTRAL-Quebec-Canada/dveloppeur--RBC-amplifie-2027--Montral---Developer--RBC-Amplify-2027--Montreal_R-0000191206-1",
+  "locations": [
+   "Montreal, QC, Canada"
+  ],
+  "posted_at": "2026-10-26",
+  "source": "simplify"
+ },
  "url:https://rbc.wd3.myworkdayjobs.com/rbcearlytalent1/job/new-york-new-york-united-states-of-america/xmlname-2027-capital-markets--global-markets-quantitative-trading-summer-analyst_r-0000183468-1": {
   "company": "Royal Bank of Canada",
   "title": "Quantitative Trading Summer Analyst - Global Markets",
@@ -93547,6 +94139,36 @@
    "NYC"
   ],
   "posted_at": "2026-09-02",
+  "source": "simplify"
+ },
+ "url:https://rbc.wd3.myworkdayjobs.com/rbcearlytalent1/job/toronto-ontario-canada/data-engineer--rbc-amplify-2027--toronto_r-0000191192-1": {
+  "company": "Royal Bank of Canada",
+  "title": "Data Engineer Intern",
+  "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Data-Engineer--RBC-Amplify-2027--Toronto_R-0000191192-1",
+  "locations": [
+   "Toronto, ON, Canada"
+  ],
+  "posted_at": "2026-10-26",
+  "source": "simplify"
+ },
+ "url:https://rbc.wd3.myworkdayjobs.com/rbcearlytalent1/job/toronto-ontario-canada/developer--rbc-amplify-2027--toronto_r-0000187114-1": {
+  "company": "Royal Bank of Canada",
+  "title": "Developer Intern",
+  "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000187114-1",
+  "locations": [
+   "Toronto, ON, Canada"
+  ],
+  "posted_at": "2026-10-26",
+  "source": "simplify"
+ },
+ "url:https://rbc.wd3.myworkdayjobs.com/rbcearlytalent1/job/toronto-ontario-canada/developer--rbc-amplify-2027--toronto_r-0000191193-1": {
+  "company": "Royal Bank of Canada",
+  "title": "Developer Intern",
+  "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000191193-1",
+  "locations": [
+   "Toronto, ON, Canada"
+  ],
+  "posted_at": "2026-10-26",
   "source": "simplify"
  },
  "url:https://rbc.wd3.myworkdayjobs.com/rbcearlytalent1/job/toronto-ontario-canada/xmlname-2027-capital-markets--global-equities--ai-engineer--16-months--co-op-_r-0000187401-1": {
@@ -93638,6 +94260,16 @@
   ],
   "posted_at": "2026-09-25",
   "source": "workday"
+ },
+ "url:https://rbc.wd3.myworkdayjobs.com/rbcearlytalent1/job/vancouver-british-columbia-canada/developer--rbc-amplify-2027--vancouver_r-0000191199": {
+  "company": "Royal Bank of Canada",
+  "title": "Developer Intern",
+  "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/VANCOUVER-British-Columbia-Canada/Developer--RBC-Amplify-2027--Vancouver_R-0000191199",
+  "locations": [
+   "Vancouver, BC, Canada"
+  ],
+  "posted_at": "2026-10-26",
+  "source": "simplify"
  },
  "url:https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/410-georgia-st-w-floor-3vancouver/data-engineer--rbc-amplify-2027--vancouver_r-0000191198-2": {
   "company": "Royal Bank of Canada",
@@ -98835,6 +99467,16 @@
    "Mississauga, Canada – Meadowvale Office (HQ)"
   ],
   "posted_at": "2026-10-13",
+  "source": "workday"
+ },
+ "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-intern---android--may-2027---12-months-_r10620": {
+  "company": "soti",
+  "title": "Software Developer Intern - Android (May 2027 - 12 Months)",
+  "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10620",
+  "locations": [
+   "Mississauga, Canada – Meadowvale Office (HQ)"
+  ],
+  "posted_at": "2026-10-26",
   "source": "workday"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-intern---soti-mobicontrol-apple-hq--january-2027-12-months-_r10551-2": {
@@ -104238,6 +104880,16 @@
   "posted_at": "2026-10-06",
   "source": "workday"
  },
+ "url:https://tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers/job/greenville-south-carolina/engineering-intern_jr-18684": {
+  "company": "tranetechnologies",
+  "title": "Engineering Intern",
+  "url": "https://tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers/job/Greenville-South-Carolina/Engineering-Intern_JR-18684",
+  "locations": [
+   "Greenville, South Carolina"
+  ],
+  "posted_at": "2026-10-26",
+  "source": "workday"
+ },
  "url:https://tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers/job/king-of-prussia-pennsylvania/xmlname-2027-energy-engineering-intern_jr-15160-1": {
   "company": "tranetechnologies",
   "title": "2027 Energy Engineering Intern",
@@ -107669,6 +108321,18 @@
    "Charlotte, NC"
   ],
   "posted_at": "2026-07-06",
+  "source": "simplify"
+ },
+ "url:https://wd1.myworkdaysite.com/recruiting/wf/wellsfargojobs/job/charlotte-nc/xmlname-2027-technology-summer-internship---early-careers--data-engineering-_r-583066": {
+  "company": "Wells Fargo",
+  "title": "Technology Intern - Early Careers - Data Engineering",
+  "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Data-Engineering-_R-583066",
+  "locations": [
+   "Iselin, Woodbridge Township, NJ",
+   "Charlotte, NC",
+   "Irving, TX"
+  ],
+  "posted_at": "2026-10-26",
   "source": "simplify"
  },
  "url:https://wd1.myworkdaysite.com/recruiting/wf/wellsfargojobs/job/charlotte-nc/xmlname-2027-technology-summer-internship---early-careers--software-engineering-_r-574285": {
