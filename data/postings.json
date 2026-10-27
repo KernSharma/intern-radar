@@ -48008,6 +48008,154 @@
   "posted_at": "2026-10-27",
   "source": "vanshb03"
  },
+ "url:https://go.vansh.nyc/v0": {
+  "company": "Pilot Company",
+  "title": "Program Intern, Cloud Operations",
+  "url": "https://go.vansh.nyc/V0",
+  "locations": [
+   "Knoxville, TN"
+  ],
+  "posted_at": "2026-09-09",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/v1": {
+  "company": "Oceaneering",
+  "title": "ROV Software Intern",
+  "url": "https://go.vansh.nyc/V1",
+  "locations": [
+   "Austin, TX"
+  ],
+  "posted_at": "2026-09-23",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/v2": {
+  "company": "Oceaneering",
+  "title": "Software Intern, C++",
+  "url": "https://go.vansh.nyc/V2",
+  "locations": [
+   "Austin, TX"
+  ],
+  "posted_at": "2026-09-23",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/v3": {
+  "company": "Oceaneering",
+  "title": "IT/OT Cybersecurity Intern",
+  "url": "https://go.vansh.nyc/V3",
+  "locations": [
+   "Houston, TX"
+  ],
+  "posted_at": "2026-10-01",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/v4": {
+  "company": "Tevora",
+  "title": "Cybersecurity Intern, Enterprise Risk Management",
+  "url": "https://go.vansh.nyc/V4",
+  "locations": [
+   "Irvine, CA",
+   "Fairfax, VA"
+  ],
+  "posted_at": "2026-10-06",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/v5": {
+  "company": "Tevora",
+  "title": "Cybersecurity Intern, Federal",
+  "url": "https://go.vansh.nyc/V5",
+  "locations": [
+   "Fairfax, VA",
+   "Irvine, CA"
+  ],
+  "posted_at": "2026-10-06",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/v6": {
+  "company": "Tevora",
+  "title": "Cybersecurity Intern, Healthcare",
+  "url": "https://go.vansh.nyc/V6",
+  "locations": [
+   "Irvine, CA",
+   "Fairfax, VA"
+  ],
+  "posted_at": "2026-10-06",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/v7": {
+  "company": "Tevora",
+  "title": "Cybersecurity Intern, ISO",
+  "url": "https://go.vansh.nyc/V7",
+  "locations": [
+   "Irvine, CA",
+   "Fairfax, VA"
+  ],
+  "posted_at": "2026-10-06",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/v8": {
+  "company": "Tevora",
+  "title": "Cybersecurity Intern, Payments",
+  "url": "https://go.vansh.nyc/V8",
+  "locations": [
+   "Fairfax, VA",
+   "Irvine, CA"
+  ],
+  "posted_at": "2026-10-06",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/v9": {
+  "company": "Tevora",
+  "title": "Cybersecurity Intern, Solutions",
+  "url": "https://go.vansh.nyc/V9",
+  "locations": [
+   "Irvine, CA",
+   "Fairfax, VA"
+  ],
+  "posted_at": "2026-10-06",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/va": {
+  "company": "Tevora",
+  "title": "Cybersecurity Intern, Threat",
+  "url": "https://go.vansh.nyc/Va",
+  "locations": [
+   "Irvine, CA",
+   "Fairfax, VA"
+  ],
+  "posted_at": "2026-10-06",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/vb": {
+  "company": "Blackberry",
+  "title": "Software Testing Development Intern, QNX",
+  "url": "https://go.vansh.nyc/Vb",
+  "locations": [
+   "Ottawa, Canada"
+  ],
+  "posted_at": "2026-10-27",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/vc": {
+  "company": "Cencora",
+  "title": "AI Intern",
+  "url": "https://go.vansh.nyc/Vc",
+  "locations": [
+   "Conshohocken, PA"
+  ],
+  "posted_at": "2026-10-27",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/vd": {
+  "company": "Rockwell Automation",
+  "title": "Cybersecurity Intern",
+  "url": "https://go.vansh.nyc/Vd",
+  "locations": [
+   "Milwaukee, WI",
+   "Chelmsford, MA"
+  ],
+  "posted_at": "2026-10-27",
+  "source": "vanshb03"
+ },
  "url:https://go.vansh.nyc/x": {
   "company": "Tesla",
   "title": "Fullstack C++ Engineer Intern, Vehicle User Interface",
@@ -95022,14 +95170,14 @@
   "source": "workday"
  },
  "url:https://ptc.wd1.myworkdayjobs.com/ptc/job/boston-ma-usa/software-engineer-intern--summer-2027-_jr112943": {
-  "company": "ptc",
-  "title": "Software Engineer Intern (Summer 2027)",
+  "company": "PTC",
+  "title": "Software Engineer Intern",
   "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Software-Engineer-Intern--Summer-2027-_JR112943",
   "locations": [
-   "Boston, MA, USA"
+   "Boston, MA"
   ],
   "posted_at": "2026-10-26",
-  "source": "workday"
+  "source": "simplify"
  },
  "url:https://ptc.wd1.myworkdayjobs.com/ptc/job/budapest-hungary/software-developer---intern_jr110893-1": {
   "company": "ptc",
@@ -115173,7 +115321,7 @@
  },
  "url:https://www.tower-research.com/open-positions?gh_jid=8037860": {
   "company": "Tower Research Capital",
-  "title": "Quantitative Trader/Researcher Summer Internship 2027 (2028 Graduates)",
+  "title": "Quantitative Trader/Researcher Summer Internship 2027",
   "url": "https://www.tower-research.com/open-positions/?gh_jid=8037860",
   "locations": [
    "London"
