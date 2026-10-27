@@ -47908,6 +47908,16 @@
   "posted_at": "2026-10-27",
   "source": "vanshb03"
  },
+ "url:https://go.vansh.nyc/ud": {
+  "company": "Sherwin-Williams",
+  "title": "R&D Product Systems Intern",
+  "url": "https://go.vansh.nyc/UD",
+  "locations": [
+   "Cleveland, OH"
+  ],
+  "posted_at": "2026-10-27",
+  "source": "vanshb03"
+ },
  "url:https://go.vansh.nyc/uy": {
   "company": "Niantic Spatial",
   "title": "Software Engineer Intern, Native SDK & Mobile Platforms",
@@ -54976,14 +54986,14 @@
   "source": "workday"
  },
  "url:https://jj.wd5.myworkdayjobs.com/jj/job/cincinnati-ohio-united-states-of-america/quality-data-science-co-op---summer-2027_r-103629": {
-  "company": "jj",
-  "title": "Quality Data Science Co-Op , Summer 2027",
+  "company": "Johnson & Johnson",
+  "title": "Quality Data Science Co-op",
   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-Op---Summer-2027_R-103629",
   "locations": [
-   "Cincinnati, Ohio, United States of America"
+   "Cincinnati, OH"
   ],
-  "posted_at": "2026-10-20",
-  "source": "workday"
+  "posted_at": "2026-10-19",
+  "source": "simplify"
  },
  "url:https://jj.wd5.myworkdayjobs.com/jj/job/cincinnati-ohio-united-states-of-america/quality-data-science-co-op--spring-2027_r-095792": {
   "company": "Johnson & Johnson",
@@ -55196,14 +55206,14 @@
   "source": "workday"
  },
  "url:https://jj.wd5.myworkdayjobs.com/jj/job/horsham-pennsylvania-united-states-of-america/strategic-insight-and-analytics-co-op-off-cycle--march---august-_r-103640": {
-  "company": "jj",
-  "title": "Strategic Insight and Analytics Co-Op Off-Cycle (March - August)",
+  "company": "Johnson & Johnson",
+  "title": "Strategic Insight and Analytics Co-op",
   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Strategic-Insight-and-Analytics-Co-Op-Off-Cycle--March---August-_R-103640",
   "locations": [
-   "Horsham, Pennsylvania, United States of America"
+   "Horsham, PA"
   ],
-  "posted_at": "2026-10-10",
-  "source": "workday"
+  "posted_at": "2026-10-09",
+  "source": "simplify"
  },
  "url:https://jj.wd5.myworkdayjobs.com/jj/job/irvine-california-united-states-of-america/research---development-intern_r-104120": {
   "company": "jj",
@@ -55670,14 +55680,14 @@
   "source": "workday"
  },
  "url:https://jj.wd5.myworkdayjobs.com/jj/job/spring-house-pennsylvania-united-states-of-america/laboratory-automation-systems-intern_r-103027": {
-  "company": "jj",
+  "company": "Johnson & Johnson",
   "title": "Laboratory Automation Systems Intern",
   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Laboratory-Automation-Systems-Intern_R-103027",
   "locations": [
-   "Spring House, Pennsylvania, United States of America"
+   "Spring House, PA"
   ],
-  "posted_at": "2026-10-24",
-  "source": "workday"
+  "posted_at": "2026-10-23",
+  "source": "simplify"
  },
  "url:https://jj.wd5.myworkdayjobs.com/jj/job/spring-house-pennsylvania-united-states-of-america/tds-cgt-cell-development-co-op_r-104293": {
   "company": "jj",
@@ -64742,62 +64752,97 @@
   "posted_at": "2026-04-22",
   "source": "vanshb03"
  },
- "url:https://jobs.ashbyhq.com/aurora-operations-inc/a90b7522-4e66-4247-b9ec-7e2bb50b78f4": {
-  "company": "Aurora Innovation",
-  "title": "Behavior and Planning Intern - ML Research",
-  "url": "https://jobs.ashbyhq.com/aurora-operations-inc/a90b7522-4e66-4247-b9ec-7e2bb50b78f4/application?embed=true",
+ "url:https://jobs.ashbyhq.com/aurora-operations-inc/058e3b3a-dd13-4736-84a8-b19d5de2c9f5": {
+  "company": "aurora-operations-inc",
+  "title": "Safety & Systems Engineering Intern",
+  "url": "https://jobs.ashbyhq.com/aurora-operations-inc/058e3b3a-dd13-4736-84a8-b19d5de2c9f5",
   "locations": [
-   "SF",
-   "Pittsburgh, PA",
-   "Mountain View, CA"
+   "Mountain View, CA",
+   "Pittsburgh, PA"
   ],
   "posted_at": "2026-09-24",
-  "source": "simplify"
+  "source": "ashby"
+ },
+ "url:https://jobs.ashbyhq.com/aurora-operations-inc/475a24d7-a058-4f86-be8f-fd6be679af9c": {
+  "company": "aurora-operations-inc",
+  "title": "AI Engineer Intern",
+  "url": "https://jobs.ashbyhq.com/aurora-operations-inc/475a24d7-a058-4f86-be8f-fd6be679af9c",
+  "locations": [
+   "Mountain View, CA",
+   "Pittsburgh, PA",
+   "Seattle, WA"
+  ],
+  "posted_at": "2026-10-08",
+  "source": "ashby"
+ },
+ "url:https://jobs.ashbyhq.com/aurora-operations-inc/688f13a4-2cc4-4f3f-a5b4-0056bc580224": {
+  "company": "aurora-operations-inc",
+  "title": "Perception & Mapping Intern",
+  "url": "https://jobs.ashbyhq.com/aurora-operations-inc/688f13a4-2cc4-4f3f-a5b4-0056bc580224",
+  "locations": [
+   "Mountain View, CA",
+   "San Francisco, CA",
+   "Pittsburgh, PA"
+  ],
+  "posted_at": "2026-09-24",
+  "source": "ashby"
+ },
+ "url:https://jobs.ashbyhq.com/aurora-operations-inc/a90b7522-4e66-4247-b9ec-7e2bb50b78f4": {
+  "company": "aurora-operations-inc",
+  "title": "Behavior & Planning (ML Research) Intern",
+  "url": "https://jobs.ashbyhq.com/aurora-operations-inc/a90b7522-4e66-4247-b9ec-7e2bb50b78f4",
+  "locations": [
+   "Mountain View, CA",
+   "San Francisco, CA",
+   "Pittsburgh, PA"
+  ],
+  "posted_at": "2026-09-24",
+  "source": "ashby"
  },
  "url:https://jobs.ashbyhq.com/aurora-operations-inc/bc852c2c-945f-4a1e-b383-54a0f6e0ace9": {
-  "company": "Aurora Innovation",
-  "title": "Full Stack Engineer Intern",
-  "url": "https://jobs.ashbyhq.com/aurora-operations-inc/bc852c2c-945f-4a1e-b383-54a0f6e0ace9/application?embed=true",
+  "company": "aurora-operations-inc",
+  "title": "Full Stack Intern",
+  "url": "https://jobs.ashbyhq.com/aurora-operations-inc/bc852c2c-945f-4a1e-b383-54a0f6e0ace9",
   "locations": [
-   "Pittsburgh, PA",
-   "Mountain View, CA"
+   "Mountain View, CA",
+   "Pittsburgh, PA"
   ],
   "posted_at": "2026-09-24",
-  "source": "simplify"
+  "source": "ashby"
  },
  "url:https://jobs.ashbyhq.com/aurora-operations-inc/c823b343-ba1f-4ff3-84ce-965ee9952c12": {
-  "company": "Aurora Innovation",
-  "title": "Core Autonomy Software Intern - C++",
-  "url": "https://jobs.ashbyhq.com/aurora-operations-inc/c823b343-ba1f-4ff3-84ce-965ee9952c12/application?embed=true",
+  "company": "aurora-operations-inc",
+  "title": "Core Autonomy Software (C++) Intern",
+  "url": "https://jobs.ashbyhq.com/aurora-operations-inc/c823b343-ba1f-4ff3-84ce-965ee9952c12",
   "locations": [
-   "Pittsburgh, PA",
-   "Mountain View, CA"
+   "Mountain View, CA",
+   "Pittsburgh, PA"
   ],
   "posted_at": "2026-09-25",
-  "source": "simplify"
+  "source": "ashby"
  },
  "url:https://jobs.ashbyhq.com/aurora-operations-inc/da4c8e2e-0571-4503-94d9-234da86f83b0": {
-  "company": "Aurora Innovation",
-  "title": "Data & ML Platform Engineer Intern",
-  "url": "https://jobs.ashbyhq.com/aurora-operations-inc/da4c8e2e-0571-4503-94d9-234da86f83b0/application?embed=true",
+  "company": "aurora-operations-inc",
+  "title": "Data & ML Platform Engineering Intern",
+  "url": "https://jobs.ashbyhq.com/aurora-operations-inc/da4c8e2e-0571-4503-94d9-234da86f83b0",
   "locations": [
-   "SF",
-   "Pittsburgh, PA",
-   "Mountain View, CA"
+   "Mountain View, CA",
+   "San Francisco, CA",
+   "Pittsburgh, PA"
   ],
   "posted_at": "2026-09-24",
-  "source": "simplify"
+  "source": "ashby"
  },
  "url:https://jobs.ashbyhq.com/aurora-operations-inc/f63bb8e2-9ead-4322-beb9-4bcbdbbe14bd": {
-  "company": "Aurora Innovation",
+  "company": "aurora-operations-inc",
   "title": "Simulation Engineering Intern",
-  "url": "https://jobs.ashbyhq.com/aurora-operations-inc/f63bb8e2-9ead-4322-beb9-4bcbdbbe14bd/application?embed=true",
+  "url": "https://jobs.ashbyhq.com/aurora-operations-inc/f63bb8e2-9ead-4322-beb9-4bcbdbbe14bd",
   "locations": [
-   "SF",
-   "Mountain View, CA"
+   "Mountain View, CA",
+   "San Francisco, CA"
   ],
   "posted_at": "2026-09-24",
-  "source": "simplify"
+  "source": "ashby"
  },
  "url:https://jobs.ashbyhq.com/barnes/1881dbc0-846e-4805-968f-4e27d663f7b0": {
   "company": "barnes",
@@ -90140,14 +90185,14 @@
   "source": "workday"
  },
  "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-virginia-dulles/xmlname-2027-systems-engineering-internship--ai-experience----dulles-va_r10257423": {
-  "company": "ngc",
-  "title": "2027 Systems Engineering Internship (AI Experience) - Dulles VA",
+  "company": "Northrop Grumman",
+  "title": "Systems Engineering Intern - AI Experience",
   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423",
   "locations": [
-   "United States-Virginia-Dulles"
+   "Dulles, VA"
   ],
-  "posted_at": "2026-10-23",
-  "source": "workday"
+  "posted_at": "2026-10-22",
+  "source": "simplify"
  },
  "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-virginia-mclean/xmlname-2027-college-technical-intern---mclean-va_r10253146": {
   "company": "Northrop Grumman",
