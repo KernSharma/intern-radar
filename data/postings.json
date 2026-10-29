@@ -12344,14 +12344,14 @@
   "source": "vanshb03"
  },
  "url:https://bmo.wd3.myworkdayjobs.com/external/job/toronto-on-can/bmo-capital-markets-quantitative-trading-analyst---12-16-month-co-op_r260029657": {
-  "company": "bmo",
-  "title": "BMO Capital Markets Quantitative Trading Analyst – 12–16 Month Co-op",
+  "company": "Bank of Montreal",
+  "title": "Quantitative Trading Analyst Co-op",
   "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Quantitative-Trading-Analyst---12-16-Month-Co-op_R260029657",
   "locations": [
-   "Toronto, ON, CAN"
+   "Toronto, ON, Canada"
   ],
   "posted_at": "2026-10-29",
-  "source": "workday"
+  "source": "simplify"
  },
  "url:https://bmo.wd3.myworkdayjobs.com/external/job/toronto-on-can/junior-cloud-engineer--summer-2027--co-op-internship----16-months_r260029417-1": {
   "company": "bmo",
@@ -22417,6 +22417,16 @@
   "posted_at": "2026-09-14",
   "source": "simplify"
  },
+ "url:https://cibc.wd3.myworkdayjobs.com/campus/job/toronto-on/junior-technical-writer-co-op_2622456": {
+  "company": "cibc",
+  "title": "Junior Technical Writer co-op",
+  "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Junior-Technical-Writer-co-op_2622456",
+  "locations": [
+   "Toronto, ON"
+  ],
+  "posted_at": "2026-10-29",
+  "source": "workday"
+ },
  "url:https://cibc.wd3.myworkdayjobs.com/campus/job/toronto-on/machine-learning-engineer-co-op_2621721": {
   "company": "cibc",
   "title": "Machine Learning Engineer Co-op",
@@ -27240,7 +27250,7 @@
   "locations": [
    "Byesville, OH US"
   ],
-  "posted_at": "2026-10-22",
+  "posted_at": "2026-10-29",
   "source": "workday"
  },
  "url:https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/cleveland-nc-us/logistics-engineer-intern_dt-20179-1": {
@@ -27471,6 +27481,76 @@
    "Portland, OR US"
   ],
   "posted_at": "2026-10-13",
+  "source": "workday"
+ },
+ "url:https://dtna.wd5.myworkdayjobs.com/dtna_external/job/byesville-oh-us/engineering-co-op-intern_dt-19725": {
+  "company": "dtna",
+  "title": "Engineering Co-op Intern",
+  "url": "https://dtna.wd5.myworkdayjobs.com/dtna_external/job/Byesville-OH-US/Engineering-Co-op-Intern_DT-19725",
+  "locations": [
+   "Byesville, OH US"
+  ],
+  "posted_at": "2026-10-29",
+  "source": "workday"
+ },
+ "url:https://dtna.wd5.myworkdayjobs.com/dtna_external/job/gaffney-sc-us/mechanical-product-design-engineering-intern_dt-20440-1": {
+  "company": "dtna",
+  "title": "Mechanical Product Design Engineering Intern",
+  "url": "https://dtna.wd5.myworkdayjobs.com/dtna_external/job/Gaffney-SC-US/Mechanical-Product-Design-Engineering-Intern_DT-20440-1",
+  "locations": [
+   "Gaffney, SC US"
+  ],
+  "posted_at": "2026-10-28",
+  "source": "workday"
+ },
+ "url:https://dtna.wd5.myworkdayjobs.com/dtna_external/job/gaffney-sc-us/mechatronics-engineering-intern---vehicle-architecture-and-controls_dt-20389": {
+  "company": "dtna",
+  "title": "Mechatronics Engineering Intern – Vehicle Architecture and Controls",
+  "url": "https://dtna.wd5.myworkdayjobs.com/dtna_external/job/Gaffney-SC-US/Mechatronics-Engineering-Intern---Vehicle-Architecture-and-Controls_DT-20389",
+  "locations": [
+   "Gaffney, SC US"
+  ],
+  "posted_at": "2026-10-26",
+  "source": "workday"
+ },
+ "url:https://dtna.wd5.myworkdayjobs.com/dtna_external/job/high-point-nc-us/manufacturing-engineering---problem-solving-intern_dt-20470": {
+  "company": "dtna",
+  "title": "Manufacturing Engineering - Problem Solving Intern",
+  "url": "https://dtna.wd5.myworkdayjobs.com/dtna_external/job/High-Point-NC-US/Manufacturing-Engineering---Problem-Solving-Intern_DT-20470",
+  "locations": [
+   "High Point, NC US"
+  ],
+  "posted_at": "2026-10-29",
+  "source": "workday"
+ },
+ "url:https://dtna.wd5.myworkdayjobs.com/dtna_external/job/portland-or-us/concept-development-modeler--technician--intern_dt-20445": {
+  "company": "dtna",
+  "title": "Concept Development Modeler/ Technician  Intern",
+  "url": "https://dtna.wd5.myworkdayjobs.com/dtna_external/job/Portland-OR-US/Concept-Development-Modeler--Technician--Intern_DT-20445",
+  "locations": [
+   "Portland, OR US"
+  ],
+  "posted_at": "2026-10-28",
+  "source": "workday"
+ },
+ "url:https://dtna.wd5.myworkdayjobs.com/dtna_external/job/portland-or-us/mechanical-product-validation-engineering-intern_dt-20436": {
+  "company": "dtna",
+  "title": "Mechanical Product Validation Engineering Intern",
+  "url": "https://dtna.wd5.myworkdayjobs.com/dtna_external/job/Portland-OR-US/Mechanical-Product-Validation-Engineering-Intern_DT-20436",
+  "locations": [
+   "Portland, OR US"
+  ],
+  "posted_at": "2026-10-28",
+  "source": "workday"
+ },
+ "url:https://dtna.wd5.myworkdayjobs.com/dtna_external/job/portland-or-us/software-release-management-intern_dt-20432": {
+  "company": "dtna",
+  "title": "Software Release Management Intern",
+  "url": "https://dtna.wd5.myworkdayjobs.com/dtna_external/job/Portland-OR-US/Software-Release-Management-Intern_DT-20432",
+  "locations": [
+   "Portland, OR US"
+  ],
+  "posted_at": "2026-10-28",
   "source": "workday"
  },
  "url:https://dtna.wd5.myworkdayjobs.com/en-us/dtna_external/job/portland-or-us/software-release-management-intern_dt-20432": {
@@ -39770,7 +39850,7 @@
   "locations": [
    "US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108"
   ],
-  "posted_at": "2026-10-01",
+  "posted_at": "2026-10-29",
   "source": "workday"
  },
  "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ia-cedar-rapids-108--400-collins-rd-ne--bldg-108/materials-engineering-lab-co-op--spring-summer-2027-_01870991": {
@@ -48683,13 +48763,18 @@
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/oi": {
-  "company": "CVS Health",
-  "title": "Innovation & Technology Intern, Data Engineering",
-  "url": "https://go.vansh.nyc/OI",
+  "company": "AMD",
+  "title": "Machine Learning Co-op",
+  "url": "https://go.vansh.nyc/Oi",
   "locations": [
-   "Irving, TX"
+   "Rochester, NY",
+   "Austin, TX",
+   "Longmont, CO",
+   "Fishkill, NY",
+   "Fort Collins, CO",
+   "Boxborough, MA"
   ],
-  "posted_at": "2026-10-26",
+  "posted_at": "2026-08-21",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/oj": {
@@ -51891,6 +51976,16 @@
   "url": "https://go.vansh.nyc/Zm",
   "locations": [
    "East Hartford, CT"
+  ],
+  "posted_at": "2026-10-29",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/zo": {
+  "company": "Toyota Research Institute",
+  "title": "Human Interactive Driving Research Intern, Learning-Based Control for Safe Autonomous Driving",
+  "url": "https://go.vansh.nyc/Zo",
+  "locations": [
+   "Los Altos, CA"
   ],
   "posted_at": "2026-10-29",
   "source": "vanshb03"
@@ -61811,6 +61906,16 @@
    "San Francisco"
   ],
   "posted_at": "2026-09-30",
+  "source": "greenhouse"
+ },
+ "url:https://job-boards.greenhouse.io/astranis/jobs/4725805006": {
+  "company": "Astranis",
+  "title": "Procurement Intern (Winter 2027)",
+  "url": "https://job-boards.greenhouse.io/astranis/jobs/4725805006",
+  "locations": [
+   "San Francisco"
+  ],
+  "posted_at": "2026-10-29",
   "source": "greenhouse"
  },
  "url:https://job-boards.greenhouse.io/atoms/jobs/8356071002": {
@@ -73739,14 +73844,14 @@
   "source": "ashby"
  },
  "url:https://jobs.ashbyhq.com/subtotal/3891929c-0ee6-46ea-a833-4efba2862801": {
-  "company": "Subtotal",
+  "company": "subtotal",
   "title": "Software Engineering Intern",
   "url": "https://jobs.ashbyhq.com/subtotal/3891929c-0ee6-46ea-a833-4efba2862801",
   "locations": [
-   "USA"
+   "United States"
   ],
   "posted_at": "2026-10-28",
-  "source": "speedyapply"
+  "source": "ashby"
  },
  "url:https://jobs.ashbyhq.com/superhuman%20platform%20inc/5f1f25ee-709d-4ae0-ada4-d1f243bde89c": {
   "company": "Superhuman",
@@ -77029,6 +77134,16 @@
    "Los Altos, CA"
   ],
   "posted_at": "2026-08-17",
+  "source": "lever"
+ },
+ "url:https://jobs.lever.co/tri/33c33641-756d-4cd1-8238-0100af2224b8": {
+  "company": "tri",
+  "title": "Human Interactive Driving Research Intern, Perception for Driving at the Limits",
+  "url": "https://jobs.lever.co/tri/33c33641-756d-4cd1-8238-0100af2224b8",
+  "locations": [
+   "Los Altos, CA"
+  ],
+  "posted_at": "2026-10-29",
   "source": "lever"
  },
  "url:https://jobs.lever.co/tri/63d61db3-ac43-4c0d-8b9b-5006e3b92149": {
@@ -80808,6 +80923,76 @@
   "posted_at": "2026-10-29",
   "source": "smartrecruiters"
  },
+ "url:https://jobs.smartrecruiters.com/intuitive/744000147091674": {
+  "company": "Intuitive",
+  "title": "Mechanical Engineering Intern",
+  "url": "https://jobs.smartrecruiters.com/Intuitive/744000147091674",
+  "locations": [
+   "Sunnyvale, CA, United States"
+  ],
+  "posted_at": "2026-09-02",
+  "source": "smartrecruiters"
+ },
+ "url:https://jobs.smartrecruiters.com/intuitive/744000147092239": {
+  "company": "Intuitive",
+  "title": "Manufacturing/Equipment/Supplier Engineering Intern (Mechanical or Biomedical Engineering Majors)",
+  "url": "https://jobs.smartrecruiters.com/Intuitive/744000147092239",
+  "locations": [
+   "Sunnyvale, CA, United States"
+  ],
+  "posted_at": "2026-09-02",
+  "source": "smartrecruiters"
+ },
+ "url:https://jobs.smartrecruiters.com/intuitive/744000151714759": {
+  "company": "Intuitive",
+  "title": "AI Research Intern",
+  "url": "https://jobs.smartrecruiters.com/Intuitive/744000151714759",
+  "locations": [
+   "Sunnyvale, CA, United States"
+  ],
+  "posted_at": "2026-09-24",
+  "source": "smartrecruiters"
+ },
+ "url:https://jobs.smartrecruiters.com/intuitive/744000158312151": {
+  "company": "Intuitive",
+  "title": "AI Research Intern",
+  "url": "https://jobs.smartrecruiters.com/Intuitive/744000158312151",
+  "locations": [
+   "Sunnyvale, CA, United States"
+  ],
+  "posted_at": "2026-10-28",
+  "source": "smartrecruiters"
+ },
+ "url:https://jobs.smartrecruiters.com/intuitive/744000158313154": {
+  "company": "Intuitive",
+  "title": "Health Economics & Outcomes Research (HEOR) Intern",
+  "url": "https://jobs.smartrecruiters.com/Intuitive/744000158313154",
+  "locations": [
+   "Sunnyvale, CA, United States"
+  ],
+  "posted_at": "2026-10-28",
+  "source": "smartrecruiters"
+ },
+ "url:https://jobs.smartrecruiters.com/intuitive/744000158313717": {
+  "company": "Intuitive",
+  "title": "Robotics Engineering Intern",
+  "url": "https://jobs.smartrecruiters.com/Intuitive/744000158313717",
+  "locations": [
+   "Sunnyvale, CA, United States"
+  ],
+  "posted_at": "2026-10-28",
+  "source": "smartrecruiters"
+ },
+ "url:https://jobs.smartrecruiters.com/intuitive/744000158313919": {
+  "company": "Intuitive",
+  "title": "Manufacturing Software Engineering Intern",
+  "url": "https://jobs.smartrecruiters.com/Intuitive/744000158313919",
+  "locations": [
+   "Sunnyvale, CA, United States"
+  ],
+  "posted_at": "2026-10-28",
+  "source": "smartrecruiters"
+ },
  "url:https://jobs.smartrecruiters.com/intuitive/744000158313919-manufacturing-software-engineering-intern?oga=true": {
   "company": "Intuitive",
   "title": "Manufacturing Software Engineering Intern",
@@ -80817,6 +81002,16 @@
   ],
   "posted_at": "2026-10-28",
   "source": "speedyapply"
+ },
+ "url:https://jobs.smartrecruiters.com/intuitive/744000158334809": {
+  "company": "Intuitive",
+  "title": "System Engineer Intern",
+  "url": "https://jobs.smartrecruiters.com/Intuitive/744000158334809",
+  "locations": [
+   "Blacksburg, VA, United States"
+  ],
+  "posted_at": "2026-10-28",
+  "source": "smartrecruiters"
  },
  "url:https://jobs.smartrecruiters.com/linkedin3/744000156616169": {
   "company": "LinkedIn",
@@ -85798,6 +85993,16 @@
   "posted_at": "2026-10-05",
   "source": "simplify"
  },
+ "url:https://leidos.wd5.myworkdayjobs.com/external/job/annapolis-junction-md/software-developer-intern_r-00195829": {
+  "company": "leidos",
+  "title": "Software Developer Intern",
+  "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00195829",
+  "locations": [
+   "Annapolis Junction, MD"
+  ],
+  "posted_at": "2026-10-29",
+  "source": "workday"
+ },
  "url:https://leidos.wd5.myworkdayjobs.com/external/job/arlington-va/cybersecurity-intern_r-00195531": {
   "company": "leidos",
   "title": "Cybersecurity Intern",
@@ -89342,7 +89547,7 @@
   "locations": [
    "Burlington, VT"
   ],
-  "posted_at": "2026-09-28",
+  "posted_at": "2026-09-29",
   "source": "workday"
  },
  "url:https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/burlington-vt/test-solutions-engineering-intern--bs---summer-2027_2603835-1": {
@@ -119481,6 +119686,196 @@
    "US - Foster City, CA"
   ],
   "posted_at": "2026-10-27",
+  "source": "workday"
+ },
+ "url:https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/at---vienna-austria/consulting---analytics-summer-intern_ref089631w": {
+  "company": "visa",
+  "title": "Consulting & Analytics Summer Intern",
+  "url": "https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/AT---Vienna-Austria/Consulting---Analytics-Summer-Intern_REF089631W",
+  "locations": [
+   "AT - Vienna, Austria"
+  ],
+  "posted_at": "2026-10-27",
+  "source": "workday"
+ },
+ "url:https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/ch---zurich-switzerland/consulting---analytics-summer-intern_ref089624w": {
+  "company": "visa",
+  "title": "Consulting & Analytics Summer Intern",
+  "url": "https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/CH---Zurich-Switzerland/Consulting---Analytics-Summer-Intern_REF089624W",
+  "locations": [
+   "CH - Zurich, Switzerland"
+  ],
+  "posted_at": "2026-10-27",
+  "source": "workday"
+ },
+ "url:https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/cz---prague-czech-republic/consulting---analytics-intern_ref089750w": {
+  "company": "visa",
+  "title": "Consulting & Analytics Intern",
+  "url": "https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/CZ---Prague-Czech-Republic/Consulting---Analytics-Intern_REF089750W",
+  "locations": [
+   "CZ - Prague, Czech Republic"
+  ],
+  "posted_at": "2026-10-22",
+  "source": "workday"
+ },
+ "url:https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/de---frankfurt-germany/consulting---analytics-summer-intern_ref089625w": {
+  "company": "visa",
+  "title": "Consulting & Analytics Summer Intern",
+  "url": "https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/DE---Frankfurt-Germany/Consulting---Analytics-Summer-Intern_REF089625W",
+  "locations": [
+   "DE - Frankfurt, Germany"
+  ],
+  "posted_at": "2026-10-28",
+  "source": "workday"
+ },
+ "url:https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/fr---paris-france/consulting---analytics-intern_ref089747w-2": {
+  "company": "visa",
+  "title": "Consulting & Analytics Intern",
+  "url": "https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/FR---Paris-France/Consulting---Analytics-Intern_REF089747W-2",
+  "locations": [
+   "FR - Paris, France"
+  ],
+  "posted_at": "2026-10-26",
+  "source": "workday"
+ },
+ "url:https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/gb---london-united-kingdom/data-science-intern_ref086121w": {
+  "company": "visa",
+  "title": "Data Science Intern",
+  "url": "https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/GB---London-United-Kingdom/Data-Science-Intern_REF086121W",
+  "locations": [
+   "GB - London, United Kingdom"
+  ],
+  "posted_at": "2026-10-23",
+  "source": "workday"
+ },
+ "url:https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/hu---budapest-hungary/consulting---analytics-intern_ref089753w": {
+  "company": "visa",
+  "title": "Consulting & Analytics Intern",
+  "url": "https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/HU---Budapest-Hungary/Consulting---Analytics-Intern_REF089753W",
+  "locations": [
+   "HU - Budapest, Hungary"
+  ],
+  "posted_at": "2026-10-22",
+  "source": "workday"
+ },
+ "url:https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/in---bengaluru-india/cybersecurity-intern_ref084100w": {
+  "company": "visa",
+  "title": "Cybersecurity Intern",
+  "url": "https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/IN---Bengaluru-India/Cybersecurity-Intern_REF084100W",
+  "locations": [
+   "IN - Bengaluru, India"
+  ],
+  "posted_at": "2026-10-16",
+  "source": "workday"
+ },
+ "url:https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/in---bengaluru-india/sw-engineer-intern_ref083508w": {
+  "company": "visa",
+  "title": "SW Engineer Intern",
+  "url": "https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/IN---Bengaluru-India/SW-Engineer-Intern_REF083508W",
+  "locations": [
+   "IN - Bengaluru, India"
+  ],
+  "posted_at": "2026-10-16",
+  "source": "workday"
+ },
+ "url:https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/in---bengaluru-india/sw-engineer-intern_ref083510w": {
+  "company": "visa",
+  "title": "SW Engineer Intern",
+  "url": "https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/IN---Bengaluru-India/SW-Engineer-Intern_REF083510W",
+  "locations": [
+   "IN - Bengaluru, India"
+  ],
+  "posted_at": "2026-10-28",
+  "source": "workday"
+ },
+ "url:https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/in---bengaluru-india/sw-engineer-intern_ref084029w": {
+  "company": "visa",
+  "title": "SW Engineer Intern",
+  "url": "https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/IN---Bengaluru-India/SW-Engineer-Intern_REF084029W",
+  "locations": [
+   "IN - Bengaluru, India"
+  ],
+  "posted_at": "2026-10-23",
+  "source": "workday"
+ },
+ "url:https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/in---bengaluru-india/sw-engineer-intern_ref084031w": {
+  "company": "visa",
+  "title": "SW Engineer Intern",
+  "url": "https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/IN---Bengaluru-India/SW-Engineer-Intern_REF084031W",
+  "locations": [
+   "IN - Bengaluru, India"
+  ],
+  "posted_at": "2026-10-23",
+  "source": "workday"
+ },
+ "url:https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/nl---amsterdam-netherlands/consulting---analytics-summer-intern_ref089622w": {
+  "company": "visa",
+  "title": "Consulting & Analytics Summer Intern",
+  "url": "https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/NL---Amsterdam-Netherlands/Consulting---Analytics-Summer-Intern_REF089622W",
+  "locations": [
+   "NL - Amsterdam, Netherlands"
+  ],
+  "posted_at": "2026-10-27",
+  "source": "workday"
+ },
+ "url:https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/pl---warsaw-poland/consulting---analytics-intern_ref089690w": {
+  "company": "visa",
+  "title": "Consulting & Analytics Intern",
+  "url": "https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/PL---Warsaw-Poland/Consulting---Analytics-Intern_REF089690W",
+  "locations": [
+   "PL - Warsaw, Poland"
+  ],
+  "posted_at": "2026-10-21",
+  "source": "workday"
+ },
+ "url:https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/pl---warsaw-poland/software-engineer-intern_ref085485w": {
+  "company": "visa",
+  "title": "Software Engineer Intern",
+  "url": "https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/PL---Warsaw-Poland/Software-Engineer-Intern_REF085485W",
+  "locations": [
+   "PL - Warsaw, Poland"
+  ],
+  "posted_at": "2026-10-23",
+  "source": "workday"
+ },
+ "url:https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/pl---warsaw-poland/software-engineer-intern_ref085656w": {
+  "company": "visa",
+  "title": "Software Engineer Intern",
+  "url": "https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/PL---Warsaw-Poland/Software-Engineer-Intern_REF085656W",
+  "locations": [
+   "PL - Warsaw, Poland"
+  ],
+  "posted_at": "2026-10-26",
+  "source": "workday"
+ },
+ "url:https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/pl---warsaw-poland/software-engineer-intern_ref089675w": {
+  "company": "visa",
+  "title": "Software Engineer Intern",
+  "url": "https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/PL---Warsaw-Poland/Software-Engineer-Intern_REF089675W",
+  "locations": [
+   "PL - Warsaw, Poland"
+  ],
+  "posted_at": "2026-10-21",
+  "source": "workday"
+ },
+ "url:https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/sk---bratislava-slovakia/consulting---analytics-intern_ref089754w": {
+  "company": "visa",
+  "title": "Consulting & Analytics Intern",
+  "url": "https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/SK---Bratislava-Slovakia/Consulting---Analytics-Intern_REF089754W",
+  "locations": [
+   "SK - Bratislava, Slovakia"
+  ],
+  "posted_at": "2026-10-22",
+  "source": "workday"
+ },
+ "url:https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/us---foster-city-ca/software-engineer--intern---foster-city-2027_ref088587w-3": {
+  "company": "visa",
+  "title": "Software Engineer, Intern - Foster City 2027",
+  "url": "https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF088587W-3",
+  "locations": [
+   "US - Foster City, CA"
+  ],
+  "posted_at": "2026-10-29",
   "source": "workday"
  },
  "url:https://voloridge-investment-management.hiringthing.com/job/1013126/quantitative-developer-intern-2027?s=lif&jr_id=69eaa8e4dc35f7132c4ab803": {
