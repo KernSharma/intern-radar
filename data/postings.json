@@ -115885,6 +115885,20 @@
   "posted_at": "2026-08-03",
   "source": "simplify"
  },
+ "url:https://uline.wd1.myworkdayjobs.com/en-us/uline_careers/job/pleasant-prairie-wi/sales-analyst-internship---summer-2027_r268774": {
+  "company": "Uline",
+  "title": "Sales Analyst Intern",
+  "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Sales-Analyst-Internship---Summer-2027_R268774",
+  "locations": [
+   "Waukegan, IL",
+   "Milwaukee, WI",
+   "Glenview, IL",
+   "Pleasant Prairie, WI",
+   "Kenosha, WI"
+  ],
+  "posted_at": "2026-10-29",
+  "source": "simplify"
+ },
  "url:https://uline.wd1.myworkdayjobs.com/en-us/uline_careers/job/pleasant-prairie-wi/software-development-internship---summer-2027_r265684": {
   "company": "Uline",
   "title": "Software Development Internship - Summer 2027",
@@ -122320,13 +122334,23 @@
  },
  "url:https://www.tower-research.ca/postes-vacants?gh_jid=8212194": {
   "company": "Capital de Recherche Tower",
-  "title": "Software Developer Intern",
+  "title": "Copy of Stagiaire en développement de logiciels (été 2027) / Software Developer Intern (Summer 2027)",
   "url": "https://www.tower-research.ca/postes-vacants/?gh_jid=8212194",
   "locations": [
-   "Montreal, QC, Canada"
+   "Montreal"
   ],
   "posted_at": "2026-09-17",
-  "source": "simplify"
+  "source": "greenhouse"
+ },
+ "url:https://www.tower-research.ca/postes-vacants?gh_jid=8286965": {
+  "company": "Capital de Recherche Tower",
+  "title": "Machine Learning Intern",
+  "url": "https://www.tower-research.ca/postes-vacants/?gh_jid=8286965",
+  "locations": [
+   "Montreal"
+  ],
+  "posted_at": "2026-10-15",
+  "source": "greenhouse"
  },
  "url:https://www.tower-research.com/open-positions?gh_jid=7011493": {
   "company": "Tower Research Capital",
