@@ -20689,13 +20689,14 @@
  },
  "url:https://careers.withwaymo.com/jobs?gh_jid=8198218": {
   "company": "Waymo",
-  "title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
+  "title": "Software Engineering Intern - Commercialization",
   "url": "https://careers.withwaymo.com/jobs?gh_jid=8198218",
   "locations": [
-   "Mountain View, California, United States; San Francisco, California, United States"
+   "SF",
+   "Mountain View, CA"
   ],
   "posted_at": "2026-09-14",
-  "source": "greenhouse"
+  "source": "simplify"
  },
  "url:https://careers.withwaymo.com/jobs?gh_jid=8201252": {
   "company": "Waymo",
@@ -25962,14 +25963,17 @@
   "source": "workday"
  },
  "url:https://cvshealth.wd1.myworkdayjobs.com/cvs_health_careers/job/az---scottsdale/innovation-technology-internship-software-engineering--platform---applications-summer-2027-undergrad_r1081193": {
-  "company": "cvshealth",
-  "title": "Innovation & Technology Internship-Software Engineering:Platform & Applications-Summer2027 Undergrad",
+  "company": "CVS Health",
+  "title": "Software Engineer Intern - Platform & Applications",
   "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Scottsdale/Innovation-Technology-Internship-Software-Engineering--Platform---Applications-Summer-2027-Undergrad_R1081193",
   "locations": [
-   "4 Locations"
+   "Dallas, TX",
+   "Scottsdale, AZ",
+   "Hartford, CT",
+   "Woonsocket, RI"
   ],
-  "posted_at": "2026-10-28",
-  "source": "workday"
+  "posted_at": "2026-10-22",
+  "source": "simplify"
  },
  "url:https://cvshealth.wd1.myworkdayjobs.com/cvs_health_careers/job/ct---hartford/innovation---technology-internship---tech-strategy-ops---business-analytics-summer-2027--undergrad-_r1080789-1": {
   "company": "cvshealth",
@@ -52074,6 +52078,26 @@
   "company": "Toyota Research Institute",
   "title": "Human Interactive Driving Research Intern, Perception for Driving at the Limits",
   "url": "https://go.vansh.nyc/Zu",
+  "locations": [
+   "Los Altos, CA"
+  ],
+  "posted_at": "2026-10-29",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/zw": {
+  "company": "PTC",
+  "title": "Arena Engineering Intern",
+  "url": "https://go.vansh.nyc/Zw",
+  "locations": [
+   "San Mateo, CA"
+  ],
+  "posted_at": "2026-10-29",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/zx": {
+  "company": "Toyota Research Institute",
+  "title": "Robotics Intern, Human-Machine Interaction Research",
+  "url": "https://go.vansh.nyc/Zx",
   "locations": [
    "Los Altos, CA"
   ],
@@ -97284,7 +97308,7 @@
   "locations": [
    "United States-California-Woodland Hills"
   ],
-  "posted_at": "2026-10-21",
+  "posted_at": "2026-10-29",
   "source": "workday"
  },
  "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-colorado-aurora/xmlname-2027-software-engineering-intern---aurora-co_r10256243": {
