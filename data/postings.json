@@ -59,6 +59,17 @@
   "posted_at": "2026-10-28",
   "source": "greenhouse"
  },
+ "url:http://www.altmansolon.com/careers/student-opportunities?gh_jid=4977111101": {
+  "company": "Altman Solon",
+  "title": "Data Analyst Intern",
+  "url": "http://www.altmansolon.com/careers/student-opportunities?gh_jid=4977111101",
+  "locations": [
+   "Boston, MA",
+   "NYC"
+  ],
+  "posted_at": "2026-09-15",
+  "source": "simplify"
+ },
  "url:https://3m.wd1.myworkdayjobs.com/en-us/search/job/us-minnesota-maplewood/internship---2027-undergraduate-business-analytics-intern---consumer-business-group--cbg-_r01171049": {
   "company": "3M",
   "title": "Business Analyst Intern - Consumer Business Group",
@@ -54170,9 +54181,49 @@
   "posted_at": "2026-10-29",
   "source": "workday"
  },
+ "url:https://hp.wd5.myworkdayjobs.com/externalcareersite/job/san-francisco-california-united-states-of-america/software-engineering-intern---hp-iq_uni4806-1": {
+  "company": "hp",
+  "title": "Software Engineering Intern - HP IQ",
+  "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806-1",
+  "locations": [
+   "San Francisco, California, United States of America"
+  ],
+  "posted_at": "2026-10-29",
+  "source": "workday"
+ },
+ "url:https://hp.wd5.myworkdayjobs.com/externalcareersite/job/san-francisco-california-united-states-of-america/software-engineering-intern--connectivity---hp-iq_uni4812-1": {
+  "company": "hp",
+  "title": "Software Engineering Intern, Connectivity - HP IQ",
+  "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Connectivity---HP-IQ_UNI4812-1",
+  "locations": [
+   "San Francisco, California, United States of America"
+  ],
+  "posted_at": "2026-10-29",
+  "source": "workday"
+ },
+ "url:https://hp.wd5.myworkdayjobs.com/externalcareersite/job/san-francisco-california-united-states-of-america/software-product-security-intern---hp-iq_uni4810-2": {
+  "company": "hp",
+  "title": "Software Product Security Intern - HP IQ",
+  "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Product-Security-Intern---HP-IQ_UNI4810-2",
+  "locations": [
+   "San Francisco, California, United States of America"
+  ],
+  "posted_at": "2026-10-29",
+  "source": "workday"
+ },
+ "url:https://hp.wd5.myworkdayjobs.com/externalcareersite/job/san-francisco-california-united-states-of-america/software-quality-assurance-intern_uni4802-1": {
+  "company": "hp",
+  "title": "Software Quality Assurance Intern",
+  "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802-1",
+  "locations": [
+   "San Francisco, California, United States of America"
+  ],
+  "posted_at": "2026-10-29",
+  "source": "workday"
+ },
  "url:https://hp.wd5.myworkdayjobs.com/externalcareersite/job/san-francisco-california-united-states-of-america/software-systems-intern_uni4801-1": {
   "company": "hp",
-  "title": "Software Systems Intern",
+  "title": "Software Systems Intern - HP IQ",
   "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Systems-Intern_UNI4801-1",
   "locations": [
    "San Francisco, California, United States of America"
@@ -54510,9 +54561,49 @@
   "posted_at": "2026-10-29",
   "source": "workday"
  },
+ "url:https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/san-francisco-california-united-states-of-america/software-engineering-intern---hp-iq_uni4806": {
+  "company": "hp",
+  "title": "Software Engineering Intern - HP IQ",
+  "url": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806",
+  "locations": [
+   "San Francisco, California, United States of America"
+  ],
+  "posted_at": "2026-10-29",
+  "source": "workday"
+ },
+ "url:https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/san-francisco-california-united-states-of-america/software-engineering-intern--connectivity---hp-iq_uni4812": {
+  "company": "hp",
+  "title": "Software Engineering Intern, Connectivity - HP IQ",
+  "url": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Connectivity---HP-IQ_UNI4812",
+  "locations": [
+   "San Francisco, California, United States of America"
+  ],
+  "posted_at": "2026-10-29",
+  "source": "workday"
+ },
+ "url:https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/san-francisco-california-united-states-of-america/software-product-security-intern---hp-iq_uni4810-1": {
+  "company": "hp",
+  "title": "Software Product Security Intern - HP IQ",
+  "url": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Product-Security-Intern---HP-IQ_UNI4810-1",
+  "locations": [
+   "San Francisco, California, United States of America"
+  ],
+  "posted_at": "2026-10-29",
+  "source": "workday"
+ },
+ "url:https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/san-francisco-california-united-states-of-america/software-quality-assurance-intern_uni4802": {
+  "company": "hp",
+  "title": "Software Quality Assurance Intern",
+  "url": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802",
+  "locations": [
+   "San Francisco, California, United States of America"
+  ],
+  "posted_at": "2026-10-29",
+  "source": "workday"
+ },
  "url:https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/san-francisco-california-united-states-of-america/software-systems-intern_uni4801": {
   "company": "hp",
-  "title": "Software Systems Intern",
+  "title": "Software Systems Intern - HP IQ",
   "url": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Systems-Intern_UNI4801",
   "locations": [
    "San Francisco, California, United States of America"
@@ -59776,6 +59867,56 @@
   ],
   "posted_at": "2026-10-15",
   "source": "greenhouse"
+ },
+ "url:https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065656": {
+  "company": "Akuna Capital",
+  "title": "Quantitative Research Intern",
+  "url": "https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065656",
+  "locations": [
+   "Chicago, IL"
+  ],
+  "posted_at": "2026-07-15",
+  "source": "simplify"
+ },
+ "url:https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065670": {
+  "company": "Akuna Capital",
+  "title": "Quantitative Research Intern",
+  "url": "https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065670",
+  "locations": [
+   "Chicago, IL"
+  ],
+  "posted_at": "2026-07-15",
+  "source": "simplify"
+ },
+ "url:https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065680": {
+  "company": "Akuna Capital",
+  "title": "Quantitative Research Intern",
+  "url": "https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065680",
+  "locations": [
+   "Chicago, IL"
+  ],
+  "posted_at": "2026-07-15",
+  "source": "simplify"
+ },
+ "url:https://job-boards.greenhouse.io/akunacapitaloci/jobs/8066880": {
+  "company": "Akuna Capital",
+  "title": "Quantitative Development & Strategy Intern",
+  "url": "https://job-boards.greenhouse.io/akunacapitaloci/jobs/8066880",
+  "locations": [
+   "Chicago, IL"
+  ],
+  "posted_at": "2026-07-15",
+  "source": "simplify"
+ },
+ "url:https://job-boards.greenhouse.io/akunacapitaloci/jobs/8066884": {
+  "company": "Akuna Capital",
+  "title": "Quantitative Development & Strategy Intern",
+  "url": "https://job-boards.greenhouse.io/akunacapitaloci/jobs/8066884",
+  "locations": [
+   "Chicago, IL"
+  ],
+  "posted_at": "2026-07-15",
+  "source": "simplify"
  },
  "url:https://job-boards.greenhouse.io/amca/jobs/4253828009": {
   "company": "Amca",
@@ -69344,7 +69485,7 @@
   "locations": [
    "San Jose"
   ],
-  "posted_at": "2026-09-15",
+  "posted_at": "2026-10-29",
   "source": "ashby"
  },
  "url:https://jobs.ashbyhq.com/etched/5f1f5739-3b58-467c-b351-ff183c94d96d": {
