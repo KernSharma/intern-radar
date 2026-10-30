@@ -7223,7 +7223,7 @@
   "locations": [
    "CAN Kanata (2), ON - WR"
   ],
-  "posted_at": "2026-10-24",
+  "posted_at": "2026-10-23",
   "source": "workday"
  },
  "url:https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/can-kanata-2-on---wr/engineering-intern_j000704365": {
@@ -22683,6 +22683,16 @@
   "company": "cibc",
   "title": "Content Strategy and Development Co-op",
   "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Content-Strategy-and-Development-Co-op_2622509-1",
+  "locations": [
+   "Toronto, ON"
+  ],
+  "posted_at": "2026-10-30",
+  "source": "workday"
+ },
+ "url:https://cibc.wd3.myworkdayjobs.com/campus/job/toronto-on/corporate-security-coordinator-co-op_2622551": {
+  "company": "cibc",
+  "title": "Corporate Security Coordinator Co-op",
+  "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Corporate-Security-Coordinator-Co-op_2622551",
   "locations": [
    "Toronto, ON"
   ],
@@ -42730,13 +42740,13 @@
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/10b": {
-  "company": "Carnegie Mellon SEI",
-  "title": "Full-Stack Software Development Intern",
-  "url": "https://go.vansh.nyc/10B",
+  "company": "Synopsys",
+  "title": "Technical Engineer Intern",
+  "url": "https://go.vansh.nyc/10b",
   "locations": [
-   "Pittsburgh, PA"
+   "Ottawa, Canada"
   ],
-  "posted_at": "2026-10-30",
+  "posted_at": "2026-10-29",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/10c": {
@@ -42809,33 +42819,43 @@
   "posted_at": "2026-10-30",
   "source": "vanshb03"
  },
- "url:https://go.vansh.nyc/10k": {
-  "company": "Dee Zee",
-  "title": "Software Development Intern",
-  "url": "https://go.vansh.nyc/10k",
+ "url:https://go.vansh.nyc/10j": {
+  "company": "Salesforce",
+  "title": "AI Labs Intern, Emerging Talent",
+  "url": "https://go.vansh.nyc/10J",
   "locations": [
-   "Des Moines, IA"
-  ],
-  "posted_at": "2026-10-29",
-  "source": "vanshb03"
- },
- "url:https://go.vansh.nyc/10l": {
-  "company": "Axon",
-  "title": "Software Engineer Intern",
-  "url": "https://go.vansh.nyc/10l",
-  "locations": [
-   "Seattle, WA",
-   "Arlington, VA"
+   "San Francisco, CA",
+   "Seattle, WA"
   ],
   "posted_at": "2026-10-30",
   "source": "vanshb03"
  },
- "url:https://go.vansh.nyc/10m": {
-  "company": "Qualcomm",
-  "title": "Soft IP Engineer Co-op",
-  "url": "https://go.vansh.nyc/10m",
+ "url:https://go.vansh.nyc/10k": {
+  "company": "Harmonic",
+  "title": "Software Engineer Intern",
+  "url": "https://go.vansh.nyc/10K",
   "locations": [
-   "Ottawa, Canada"
+   "San Jose, CA"
+  ],
+  "posted_at": "2026-10-28",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/10l": {
+  "company": "Emerson Electric",
+  "title": "Software Engineering Intern",
+  "url": "https://go.vansh.nyc/10L",
+  "locations": [
+   "Austin, TX"
+  ],
+  "posted_at": "2026-10-29",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/10m": {
+  "company": "Ensco",
+  "title": "Information Security Intern",
+  "url": "https://go.vansh.nyc/10M",
+  "locations": [
+   "Melbourne, FL"
   ],
   "posted_at": "2026-10-30",
   "source": "vanshb03"
@@ -60284,14 +60304,14 @@
   "source": "workday"
  },
  "url:https://jainglobal.wd5.myworkdayjobs.com/externalsite/job/new-york-new-york/compliance-technology-intern_jr100607": {
-  "company": "jainglobal",
+  "company": "Jain Global",
   "title": "Compliance Technology Intern",
   "url": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Compliance-Technology-Intern_JR100607",
   "locations": [
-   "New York, New York"
+   "NYC"
   ],
-  "posted_at": "2026-10-30",
-  "source": "workday"
+  "posted_at": "2026-10-14",
+  "source": "simplify"
  },
  "url:https://jainglobal.wd5.myworkdayjobs.com/externalsite/job/new-york-new-york/data-engineer-intern_jr100605-1": {
   "company": "jainglobal",
@@ -69617,6 +69637,26 @@
   "posted_at": "2026-10-20",
   "source": "simplify"
  },
+ "url:https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748297005": {
+  "company": "The New York Times",
+  "title": "Creative Development Intern, NYT Wirecutter",
+  "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748297005",
+  "locations": [
+   "New York, NY"
+  ],
+  "posted_at": "2026-10-30",
+  "source": "greenhouse"
+ },
+ "url:https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748484005": {
+  "company": "The New York Times",
+  "title": "Backend Engineering Intern, NYT Wirecutter",
+  "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748484005",
+  "locations": [
+   "International"
+  ],
+  "posted_at": "2026-10-30",
+  "source": "greenhouse"
+ },
  "url:https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383231008": {
   "company": "The Nuclear Company",
   "title": "Summer 2027 AI/ML Engineering Intern",
@@ -69922,15 +69962,25 @@
   "posted_at": "2026-10-22",
   "source": "greenhouse"
  },
+ "url:https://job-boards.greenhouse.io/twosixtechnologies/jobs/6228304004": {
+  "company": "Two Six Technologies",
+  "title": "Summer Research Intern",
+  "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/6228304004",
+  "locations": [
+   "Arlington, Virginia"
+  ],
+  "posted_at": "2026-10-26",
+  "source": "greenhouse"
+ },
  "url:https://job-boards.greenhouse.io/twosixtechnologies/jobs/6236518004": {
   "company": "Two Six Technologies",
   "title": "Systems Software Engineering Intern",
   "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/6236518004",
   "locations": [
-   "Arlington, VA"
+   "Arlington, Virginia"
   ],
   "posted_at": "2026-10-29",
-  "source": "speedyapply"
+  "source": "greenhouse"
  },
  "url:https://job-boards.greenhouse.io/uvimco/jobs/5300713008": {
   "company": "University of Virginia Investment Management Company (UVIMCO)",
@@ -71458,6 +71508,16 @@
    "Austin, TX"
   ],
   "posted_at": "2026-09-08",
+  "source": "ashby"
+ },
+ "url:https://jobs.ashbyhq.com/base-power/0594dd17-1291-4802-90fb-14e0d775d2d6": {
+  "company": "base-power",
+  "title": "Manufacturing Test Engineering Intern",
+  "url": "https://jobs.ashbyhq.com/base-power/0594dd17-1291-4802-90fb-14e0d775d2d6",
+  "locations": [
+   "Austin, TX"
+  ],
+  "posted_at": "2026-10-30",
   "source": "ashby"
  },
  "url:https://jobs.ashbyhq.com/base-power/0f7fefdb-7218-40c6-893f-859b08fb3935": {
@@ -77084,6 +77144,16 @@
   "posted_at": "2026-10-15",
   "source": "lever"
  },
+ "url:https://jobs.lever.co/cfsenergy/faa295da-2f67-41af-88aa-516f118e38e3": {
+  "company": "cfsenergy",
+  "title": "Intern - Structural Engineer - Summer 2027",
+  "url": "https://jobs.lever.co/cfsenergy/faa295da-2f67-41af-88aa-516f118e38e3",
+  "locations": [
+   "Devens, MA"
+  ],
+  "posted_at": "2026-10-30",
+  "source": "lever"
+ },
  "url:https://jobs.lever.co/crestoperations/776e2e50-9c77-41d7-9c51-05cd1075f2ab": {
   "company": "crestoperations",
   "title": "Beta Engineering Summer 2027 Internship",
@@ -78720,6 +78790,16 @@
    "Los Altos, CA"
   ],
   "posted_at": "2026-10-29",
+  "source": "lever"
+ },
+ "url:https://jobs.lever.co/tri/9c851b9d-169d-4bb3-b164-828098e077e7": {
+  "company": "tri",
+  "title": "Accelerated Science Intern, Representation Learning for Molecules and Materials",
+  "url": "https://jobs.lever.co/tri/9c851b9d-169d-4bb3-b164-828098e077e7",
+  "locations": [
+   "Los Altos, CA"
+  ],
+  "posted_at": "2026-10-30",
   "source": "lever"
  },
  "url:https://jobs.lever.co/tri/dcc68e06-e6a6-4cb5-b0a9-282ab9c16dc8": {
@@ -82412,6 +82492,26 @@
   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158774734",
   "locations": [
    "Grand Rapids, MI, United States"
+  ],
+  "posted_at": "2026-10-30",
+  "source": "smartrecruiters"
+ },
+ "url:https://jobs.smartrecruiters.com/boschgroup/744000158818407": {
+  "company": "Bosch Group",
+  "title": "Logistics Materials Intern/Co-Op - Spring 2027",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158818407",
+  "locations": [
+   "Florence, KY, United States"
+  ],
+  "posted_at": "2026-10-30",
+  "source": "smartrecruiters"
+ },
+ "url:https://jobs.smartrecruiters.com/boschgroup/744000158818709": {
+  "company": "Bosch Group",
+  "title": "Quality Engineering Intern / Co-op - Spring 2027",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158818709",
+  "locations": [
+   "Florence, KY, United States"
   ],
   "posted_at": "2026-10-30",
   "source": "smartrecruiters"
@@ -107798,7 +107898,7 @@
   "locations": [
    "2 Locations"
   ],
-  "posted_at": "2026-10-28",
+  "posted_at": "2026-10-30",
   "source": "workday"
  },
  "url:https://revantage.wd1.myworkdayjobs.com/revantage/job/remote---illinois/quantitative-developer-intern_jr104315": {
@@ -118059,34 +118159,35 @@
   "source": "workday"
  },
  "url:https://tmobile.wd1.myworkdayjobs.com/external/job/overland-park-kansas/summer-2027-assoc-ai-engineer-internship_req380484": {
-  "company": "tmobile",
-  "title": "Summer 2027 Assoc AI Engineer Internship",
+  "company": "T-Mobile",
+  "title": "Associate AI Engineer Intern",
   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Assoc-AI-Engineer-Internship_REQ380484",
   "locations": [
-   "Overland Park, Kansas"
+   "Overland Park, KS"
   ],
   "posted_at": "2026-10-29",
-  "source": "workday"
+  "source": "simplify"
  },
  "url:https://tmobile.wd1.myworkdayjobs.com/external/job/overland-park-kansas/summer-2027-assoc-ai-engineer-internship_req380492": {
-  "company": "tmobile",
-  "title": "Summer 2027 Assoc AI Engineer Internship",
+  "company": "T-Mobile",
+  "title": "Associate AI Engineer Intern",
   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Assoc-AI-Engineer-Internship_REQ380492",
   "locations": [
-   "2 Locations"
+   "Frisco, TX",
+   "Overland Park, KS"
   ],
   "posted_at": "2026-10-28",
-  "source": "workday"
+  "source": "simplify"
  },
  "url:https://tmobile.wd1.myworkdayjobs.com/external/job/overland-park-kansas/summer-2027-software-engineering-internship_req380441": {
-  "company": "tmobile",
-  "title": "Summer 2027 Software Engineering Internship",
+  "company": "T-Mobile",
+  "title": "Software Engineer Intern",
   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380441",
   "locations": [
-   "Overland Park, Kansas"
+   "Overland Park, KS"
   ],
   "posted_at": "2026-10-28",
-  "source": "workday"
+  "source": "simplify"
  },
  "url:https://tower-research.com/open-positions?gh_jid=8044334": {
   "company": "Tower Research",
@@ -118858,14 +118959,14 @@
   "source": "simplify"
  },
  "url:https://trustage.wd1.myworkdayjobs.com/trustage/job/wisconsin---remote/enterprise-information---technology-internship--hybrid-_r-012155": {
-  "company": "trustage",
-  "title": "Information Technology - Development and Infrastructure Internship (hybrid)",
+  "company": "TruStage",
+  "title": "Information Technology Development and Infrastructure Intern",
   "url": "https://trustage.wd1.myworkdayjobs.com/TruStage/job/Wisconsin---Remote/Enterprise-Information---Technology-Internship--Hybrid-_R-012155",
   "locations": [
-   "Wisconsin - Remote"
+   "Madison, WI"
   ],
-  "posted_at": "2026-10-20",
-  "source": "workday"
+  "posted_at": "2026-09-09",
+  "source": "simplify"
  },
  "url:https://trwd.wd1.myworkdayjobs.com/trwdcareers/job/fort-worth-tx/summer-2027-energy-intern--t047-_jr100217": {
   "company": "Tarrant Regional Water District",
