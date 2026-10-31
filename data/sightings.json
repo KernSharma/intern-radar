@@ -11466,6 +11466,15 @@
   "url:https://go.vansh.nyc/11g": {
    "vanshb03": "2026-10-30T23:37:00+00:00"
   },
+  "url:https://go.vansh.nyc/11i": {
+   "vanshb03": "2026-10-31T01:37:00+00:00"
+  },
+  "url:https://go.vansh.nyc/11j": {
+   "vanshb03": "2026-10-31T01:37:00+00:00"
+  },
+  "url:https://go.vansh.nyc/11k": {
+   "vanshb03": "2026-10-31T01:37:00+00:00"
+  },
   "url:https://go.vansh.nyc/11s": {
    "vanshb03": "2026-10-31T00:07:00+00:00"
   },
@@ -17455,6 +17464,9 @@
   "url:https://job-boards.greenhouse.io/devtechnology/jobs/8728292002": {
    "greenhouse": "2026-10-02T05:21:11+00:00",
    "simplify": "2026-10-02T05:21:11+00:00"
+  },
+  "url:https://job-boards.greenhouse.io/divergent/jobs/5393519008": {
+   "simplify": "2026-10-31T01:37:00+00:00"
   },
   "url:https://job-boards.greenhouse.io/doordashcanada/jobs/8170944": {
    "greenhouse": "2026-10-02T05:21:11+00:00",
@@ -27237,6 +27249,9 @@
   "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-california-san-diego/xmlname-2027-intern---guidance-navigation-and-control-engineer_r10256435": {
    "workday": "2026-10-16T19:07:05+00:00"
   },
+  "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-california-san-diego/xmlname-2027-intern-product-support---data-scientist_r10258679": {
+   "workday": "2026-10-31T01:37:00+00:00"
+  },
   "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-california-san-diego/xmlname-2027-manufacturing-engineer-intern---san-diego-ca_r10255134": {
    "workday": "2026-10-08T02:48:54+00:00"
   },
@@ -27902,6 +27917,7 @@
    "workday": "2026-10-02T05:21:11+00:00"
   },
   "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-internships--deep-learning-computer-architecture_jr2023491": {
+   "simplify": "2026-10-31T01:37:00+00:00",
    "workday": "2026-10-02T05:21:11+00:00"
   },
   "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-internships--deep-learning_jr2023497-1": {
