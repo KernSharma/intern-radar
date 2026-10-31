@@ -130,6 +130,16 @@
   "posted_at": "2026-10-01",
   "source": "workday"
  },
+ "url:https://a16z.com/about/jobs?gh_jid=8046730003": {
+  "company": "Andreessen Horowitz",
+  "title": "Research Intern - Frontier",
+  "url": "https://a16z.com/about/jobs/?gh_jid=8046730003",
+  "locations": [
+   "NYC"
+  ],
+  "posted_at": "2026-10-30",
+  "source": "simplify"
+ },
  "url:https://aaaie.wd1.myworkdayjobs.com/csaacareers2/job/arizona---home-teleworkers/data-science-intern_r8002": {
   "company": "aaaie",
   "title": "Data Science Intern",
@@ -43275,63 +43285,156 @@
   "posted_at": "2026-10-30",
   "source": "vanshb03"
  },
- "url:https://go.vansh.nyc/11s": {
-  "company": "OLG",
-  "title": "Front End Developer Intern",
-  "url": "https://go.vansh.nyc/11s",
+ "url:https://go.vansh.nyc/11m": {
+  "company": "Sephora",
+  "title": "AI Automation Intern, WMS & DC Systems",
+  "url": "https://go.vansh.nyc/11M",
   "locations": [
-   "Toronto, Canada",
-   "Sault Ste. Marie, Canada"
+   "United States"
   ],
-  "posted_at": "2026-10-30",
+  "posted_at": "2026-10-27",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/11n": {
+  "company": "Sephora",
+  "title": "AI Platform Infrastructure Intern, Technology",
+  "url": "https://go.vansh.nyc/11N",
+  "locations": [
+   "United States"
+  ],
+  "posted_at": "2026-10-27",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/11o": {
+  "company": "Toshiba International Corporation",
+  "title": "Firmware Engineer Intern",
+  "url": "https://go.vansh.nyc/11O",
+  "locations": [
+   "San Jose, CA"
+  ],
+  "posted_at": "2026-10-27",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/11q": {
+  "company": "Sephora",
+  "title": "AI & Distribution Analytics Intern",
+  "url": "https://go.vansh.nyc/11Q",
+  "locations": [
+   "United States"
+  ],
+  "posted_at": "2026-10-28",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/11r": {
+  "company": "Paccar",
+  "title": "Data Engineer Intern",
+  "url": "https://go.vansh.nyc/11R",
+  "locations": [
+   "United States"
+  ],
+  "posted_at": "2026-10-28",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/11s": {
+  "company": "Verition Group",
+  "title": "AI Associate Intern, Equity Long/Short",
+  "url": "https://go.vansh.nyc/11S",
+  "locations": [
+   "New York, NY",
+   "Miami, FL",
+   "Greenwich, CT",
+   "Norwalk, CT",
+   "San Francisco, CA"
+  ],
+  "posted_at": "2026-10-28",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/11t": {
-  "company": "University of Miami",
-  "title": "Data Science & AI Intern",
-  "url": "https://go.vansh.nyc/11t",
+  "company": "Beli",
+  "title": "Software Engineer Intern",
+  "url": "https://go.vansh.nyc/11T",
   "locations": [
-   "Miami, FL"
+   "New York, NY"
   ],
-  "posted_at": "2026-10-30",
+  "posted_at": "2026-10-28",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/11u": {
-  "company": "Keysight Technologies",
-  "title": "FPGA Design Intern",
-  "url": "https://go.vansh.nyc/11u",
+  "company": "Beli",
+  "title": "Data Science Intern",
+  "url": "https://go.vansh.nyc/11U",
   "locations": [
-   "Calabasas, CA"
+   "New York, NY"
   ],
-  "posted_at": "2026-10-30",
+  "posted_at": "2026-10-28",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/11v": {
-  "company": "Qualcomm",
-  "title": "Camera Systems Intern",
-  "url": "https://go.vansh.nyc/11v",
+  "company": "Syntiant",
+  "title": "DevOps Machine Learning Infrastructure Intern",
+  "url": "https://go.vansh.nyc/11V",
   "locations": [
-   "Vancouver, Canada"
+   "Irvine, CA"
   ],
-  "posted_at": "2026-10-30",
+  "posted_at": "2026-10-29",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/11w": {
-  "company": "Elucid",
-  "title": "Software Engineer Intern",
-  "url": "https://go.vansh.nyc/11w",
+  "company": "Mativ",
+  "title": "Cybersecurity Intern",
+  "url": "https://go.vansh.nyc/11W",
   "locations": [
-   "Boston, MA"
+   "Alpharetta, GA"
+  ],
+  "posted_at": "2026-10-29",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/11x": {
+  "company": "Benchmark Space Systems",
+  "title": "Software Engineering Intern",
+  "url": "https://go.vansh.nyc/11X",
+  "locations": [
+   "Burlington, VT"
+  ],
+  "posted_at": "2026-10-29",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/11y": {
+  "company": "Mativ",
+  "title": "Data Science and Business Analytics Intern",
+  "url": "https://go.vansh.nyc/11Y",
+  "locations": [
+   "Alpharetta, GA"
+  ],
+  "posted_at": "2026-10-29",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/11z": {
+  "company": "HCSC",
+  "title": "Cybersecurity Operations Intern",
+  "url": "https://go.vansh.nyc/11Z",
+  "locations": [
+   "Chicago, IL"
+  ],
+  "posted_at": "2026-10-29",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/121": {
+  "company": "Nintendo",
+  "title": "Software Engineer Intern, Graphics",
+  "url": "https://go.vansh.nyc/121",
+  "locations": [
+   "Redmond, WA"
   ],
   "posted_at": "2026-10-30",
   "source": "vanshb03"
  },
- "url:https://go.vansh.nyc/11z": {
-  "company": "Qualcomm",
-  "title": "Camera HW ASIC Verification Intern",
-  "url": "https://go.vansh.nyc/11z",
+ "url:https://go.vansh.nyc/122": {
+  "company": "OTTO Engineering",
+  "title": "Embedded Software Intern, Communications",
+  "url": "https://go.vansh.nyc/122",
   "locations": [
-   "Vancouver, Canada"
+   "Carpentersville, IL"
   ],
   "posted_at": "2026-10-30",
   "source": "vanshb03"
@@ -47493,14 +47596,13 @@
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/fs": {
-  "company": "Amazon",
-  "title": "Software Engineer Intern, Embedded Systems",
-  "url": "https://go.vansh.nyc/FS",
+  "company": "Astera Labs",
+  "title": "Platform Software Diagnostics Intern",
+  "url": "https://go.vansh.nyc/Fs",
   "locations": [
-   "Redmond, WA",
-   "Northridge, CA"
+   "San Jose, CA"
   ],
-  "posted_at": "2026-10-07",
+  "posted_at": "2026-10-06",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/ft": {
@@ -52931,13 +53033,13 @@
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/yp": {
-  "company": "Qualcomm",
-  "title": "Deep Learning Research Intern",
-  "url": "https://go.vansh.nyc/YP",
+  "company": "Marvell",
+  "title": "Data Science Intern",
+  "url": "https://go.vansh.nyc/Yp",
   "locations": [
-   "Markham, Canada"
+   "Boise, ID"
   ],
-  "posted_at": "2026-10-29",
+  "posted_at": "2026-10-28",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/yq": {
