@@ -1,29 +1,29 @@
-# intern-radar weekly health — 2026-W44
+# intern-radar weekly health — 2026-W45
 
-Runs this week: 198
+Runs this week: 238
 
 | family | matched postings | unique finds (30 d) |
 |---|---|---|
-| ashby | 55274 | 173 |
-| greenhouse | 186821 | 781 |
-| lever | 25762 | 99 |
-| simplify | 239283 | 908 |
-| smartrecruiters | 40460 | 250 |
-| speedyapply | 149915 | 317 |
-| vanshb03 | 138015 | 950 |
-| workday | 430564 | 3847 |
+| ashby | 75558 | 198 |
+| greenhouse | 235061 | 745 |
+| lever | 34378 | 133 |
+| simplify | 301473 | 735 |
+| smartrecruiters | 47861 | 255 |
+| speedyapply | 179991 | 276 |
+| vanshb03 | 341366 | 1362 |
+| workday | 540089 | 3310 |
 
 ## Head start over simplify (median hours, n ≥ 5)
 
-- ashby: +0.0 h (n=76)
-- greenhouse: +0.0 h (n=219)
-- lever: +0.0 h (n=26)
-- smartrecruiters: +0.0 h (n=22)
-- speedyapply: +0.0 h (n=365)
-- vanshb03: -17.0 h (n=167)
-- workday: +0.0 h (n=619)
+- ashby: +0.0 h (n=89)
+- greenhouse: +0.0 h (n=202)
+- lever: +0.0 h (n=23)
+- smartrecruiters: +0.0 h (n=16)
+- speedyapply: -17.0 h (n=297)
+- vanshb03: -19.2 h (n=144)
+- workday: +1.4 h (n=505)
 
-## Disabled boards (11)
+## Disabled boards (13)
 
 - ashby:atomicsemi
 - ashby:maximor
@@ -36,14 +36,17 @@ Runs this week: 198
 - greenhouse:visiersolutionsinc
 - greenhouse:webflow
 - workday:comcast.wd5/comcast_careers
+- workday:mii.wd5/universityrecruiting
+- workday:sallie-mae.wd5/careers
 
-## Deep (consider pinning) boards (50)
+## Deep (consider pinning) boards (53)
 
 - workday:asml.wd3/asmlext1
 - workday:barclays.wd3/external_career_site_barclays
 - workday:basspro.wd1/careers
 - workday:caci.wd1/external
 - workday:campbellsoup.wd5/externalcareers_globalsite
+- workday:caresource.wd1/caresource
 - workday:cisco.wd5/cisco_careers
 - workday:clearwateranalytics.wd1/clearwater_analytics_careers
 - workday:cox.wd1/cox_external_career_site_1
@@ -66,6 +69,7 @@ Runs this week: 198
 - workday:invesco.wd1/ivz
 - workday:jci.wd5/jci
 - workday:jj.wd5/jj
+- workday:kla.wd1/ur
 - workday:labcorp.wd1/external
 - workday:lowes.wd5/lws_external_cs
 - workday:micron.wd1/external
@@ -89,6 +93,7 @@ Runs this week: 198
 - workday:tjx.wd1/tjx_external
 - workday:usaa.wd1/usaajobswd
 - workday:verizon.wd12/verizon-careers
+- workday:visa.wd5/visa_talent_portal
 
 ## Needs config boards (0)
 
