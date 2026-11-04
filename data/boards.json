@@ -1980,7 +1980,7 @@
    "discovered_via": "simplify",
    "first_seen": "2026-10-20T17:29:45+00:00",
    "last_deep_crawl": null,
-   "last_match": "2026-11-03T23:40:09+00:00",
+   "last_match": "2026-11-04T00:49:58+00:00",
    "last_ok": "2026-11-04T03:12:18+00:00",
    "last_polled": "2026-11-04T03:12:18+00:00",
    "needs_config": false,
@@ -2245,7 +2245,7 @@
   "ashby:whatnot": {
    "ats": "ashby",
    "board": "whatnot",
-   "consecutive_errors": 6,
+   "consecutive_errors": 7,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -4751,7 +4751,7 @@
    "deep_since": null,
    "disabled": false,
    "discovered_via": "simplify",
-   "first_seen": "2026-11-04T03:12:18+00:00",
+   "first_seen": "2026-11-04T00:49:58+00:00",
    "last_deep_crawl": null,
    "last_match": "2026-11-04T03:12:18+00:00",
    "last_ok": null,
@@ -7550,7 +7550,7 @@
   "lever:cesiumastro": {
    "ats": "lever",
    "board": "cesiumastro",
-   "consecutive_errors": 6,
+   "consecutive_errors": 7,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -7567,7 +7567,7 @@
   "lever:cfsenergy": {
    "ats": "lever",
    "board": "cfsenergy",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -7887,7 +7887,7 @@
   "lever:shieldai": {
    "ats": "lever",
    "board": "shieldai",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -7935,7 +7935,7 @@
   "lever:simberobotics": {
    "ats": "lever",
    "board": "simberobotics",
-   "consecutive_errors": 6,
+   "consecutive_errors": 7,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -7968,7 +7968,7 @@
   "lever:standtogether": {
    "ats": "lever",
    "board": "standtogether",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -7984,7 +7984,7 @@
   "lever:stradaeducation": {
    "ats": "lever",
    "board": "stradaeducation",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
