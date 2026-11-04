@@ -692,7 +692,7 @@
   "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a": {
    "ats": "ashby",
    "board": "f7d8749a-72d6-407c-bf98-292ea630c73a",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -2245,7 +2245,7 @@
   "ashby:whatnot": {
    "ats": "ashby",
    "board": "whatnot",
-   "consecutive_errors": 8,
+   "consecutive_errors": 9,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -7566,7 +7566,7 @@
   "lever:cesiumastro": {
    "ats": "lever",
    "board": "cesiumastro",
-   "consecutive_errors": 8,
+   "consecutive_errors": 9,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -7615,7 +7615,7 @@
   "lever:cscgeneration-2": {
    "ats": "lever",
    "board": "cscgeneration-2",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -7663,7 +7663,7 @@
   "lever:futo-org": {
    "ats": "lever",
    "board": "futo-org",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -7679,7 +7679,7 @@
   "lever:hermeus": {
    "ats": "lever",
    "board": "hermeus",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -7951,7 +7951,7 @@
   "lever:simberobotics": {
    "ats": "lever",
    "board": "simberobotics",
-   "consecutive_errors": 8,
+   "consecutive_errors": 9,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -13409,7 +13409,7 @@
   "workday:liveramp.wd5/liverampcareers": {
    "ats": "workday",
    "board": "liveramp.wd5/liverampcareers",
-   "consecutive_errors": 2,
+   "consecutive_errors": 3,
    "deep": false,
    "deep_since": null,
    "disabled": false,
