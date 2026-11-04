@@ -2245,7 +2245,7 @@
   "ashby:whatnot": {
    "ats": "ashby",
    "board": "whatnot",
-   "consecutive_errors": 4,
+   "consecutive_errors": 5,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -7534,7 +7534,7 @@
   "lever:cesiumastro": {
    "ats": "lever",
    "board": "cesiumastro",
-   "consecutive_errors": 4,
+   "consecutive_errors": 5,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -7919,7 +7919,7 @@
   "lever:simberobotics": {
    "ats": "lever",
    "board": "simberobotics",
-   "consecutive_errors": 4,
+   "consecutive_errors": 5,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -10880,7 +10880,7 @@
   "workday:cenovus.wd3/careers": {
    "ats": "workday",
    "board": "cenovus.wd3/careers",
-   "consecutive_errors": 1,
+   "consecutive_errors": 2,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -10896,7 +10896,7 @@
   "workday:centene.wd5/centene_external": {
    "ats": "workday",
    "board": "centene.wd5/Centene_External",
-   "consecutive_errors": 1,
+   "consecutive_errors": 2,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -14499,7 +14499,7 @@
   "workday:osv-cci.wd1/ccicareers": {
    "ats": "workday",
    "board": "osv-cci.wd1/CCICareers",
-   "consecutive_errors": 7,
+   "consecutive_errors": 8,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -15366,7 +15366,7 @@
   "workday:sallie-mae.wd5/careers": {
    "ats": "workday",
    "board": "sallie-mae.wd5/Careers",
-   "consecutive_errors": 2,
+   "consecutive_errors": 3,
    "deep": false,
    "deep_since": null,
    "disabled": false,
