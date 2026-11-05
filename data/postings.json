@@ -17349,6 +17349,16 @@
   "posted_at": "2026-10-06",
   "source": "workday"
  },
+ "url:https://cadence.wd1.myworkdayjobs.com/external_careers/job/shanghai/intern---design-engineering_r56890": {
+  "company": "cadence",
+  "title": "Intern - Design Engineering",
+  "url": "https://cadence.wd1.myworkdayjobs.com/external_careers/job/SHANGHAI/Intern---Design-Engineering_R56890",
+  "locations": [
+   "SHANGHAI"
+  ],
+  "posted_at": "2026-11-05",
+  "source": "workday"
+ },
  "url:https://cadence.wd1.myworkdayjobs.com/external_careers/job/shanghai/intern-product-engineer_r55847": {
   "company": "cadence",
   "title": "intern-product engineer",
@@ -21767,13 +21777,14 @@
  },
  "url:https://careers.withwaymo.com/jobs?gh_jid=8198218": {
   "company": "Waymo",
-  "title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
+  "title": "Software Engineering Intern - Commercialization",
   "url": "https://careers.withwaymo.com/jobs?gh_jid=8198218",
   "locations": [
-   "Mountain View, California, United States; San Francisco, California, United States"
+   "SF",
+   "Mountain View, CA"
   ],
   "posted_at": "2026-09-14",
-  "source": "greenhouse"
+  "source": "simplify"
  },
  "url:https://careers.withwaymo.com/jobs?gh_jid=8201252": {
   "company": "Waymo",
@@ -102743,6 +102754,16 @@
    "MSB, Singapore"
   ],
   "posted_at": "2026-10-24",
+  "source": "workday"
+ },
+ "url:https://micron.wd1.myworkdayjobs.com/external/job/msb-singapore/intern---package-development-engineering_jr115868": {
+  "company": "micron",
+  "title": "Intern - Package Development Engineering",
+  "url": "https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Package-Development-Engineering_JR115868",
+  "locations": [
+   "MSB, Singapore"
+  ],
+  "posted_at": "2026-11-05",
   "source": "workday"
  },
  "url:https://micron.wd1.myworkdayjobs.com/external/job/msb-singapore/intern---product-development-engineer_jr108915": {
