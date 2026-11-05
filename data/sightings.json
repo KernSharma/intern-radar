@@ -2919,12 +2919,6 @@
   "url:https://boards.greenhouse.io/andurilindustries/jobs/5255902007?gh_jid=5255902007": {
    "greenhouse": "2026-10-07T11:20:07+00:00"
   },
-  "url:https://boards.greenhouse.io/andurilindustries/jobs/5257674007?gh_jid=5257674007": {
-   "greenhouse": "2026-10-06T00:07:05+00:00"
-  },
-  "url:https://boards.greenhouse.io/andurilindustries/jobs/5257682007?gh_jid=5257682007": {
-   "greenhouse": "2026-10-06T00:07:05+00:00"
-  },
   "url:https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007": {
    "greenhouse": "2026-10-06T00:37:05+00:00",
    "vanshb03": "2026-10-23T19:07:57+00:00"
@@ -8205,9 +8199,6 @@
   "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ia-cedar-rapids-131--5450-c-ave-ne--bldg-131/summer-engineering-intern--summer-2027-_01882181": {
    "workday": "2026-10-13T20:07:05+00:00"
   },
-  "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ia-cedar-rapids-131--5450-c-ave-ne--bldg-131/systems-engineering-co-op---boeing-platforms-displays--summer-fall-_01871761": {
-   "workday": "2026-10-06T00:07:05+00:00"
-  },
   "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ia-cedar-rapids-131--5450-c-ave-ne--bldg-131/xmlname-2027-summer-fall-co-op--ags-software-engineering--onsite-_01871646": {
    "speedyapply": "2026-11-03T23:14:50+00:00"
   },
@@ -9887,6 +9878,15 @@
   },
   "url:https://go.vansh.nyc/1hc": {
    "vanshb03": "2026-11-05T00:07:04+00:00"
+  },
+  "url:https://go.vansh.nyc/1hf": {
+   "vanshb03": "2026-11-05T00:37:05+00:00"
+  },
+  "url:https://go.vansh.nyc/1hg": {
+   "vanshb03": "2026-11-05T00:37:05+00:00"
+  },
+  "url:https://go.vansh.nyc/1hh": {
+   "vanshb03": "2026-11-05T00:37:05+00:00"
   },
   "url:https://go.vansh.nyc/1k": {
    "vanshb03": "2026-10-25T08:37:01+00:00"
@@ -20346,9 +20346,6 @@
   "url:https://jobs.smartrecruiters.com/llnl/3743990015817376": {
    "smartrecruiters": "2026-11-01T13:12:59+00:00"
   },
-  "url:https://jobs.smartrecruiters.com/llnl/3743990015908136": {
-   "smartrecruiters": "2026-10-06T00:07:05+00:00"
-  },
   "url:https://jobs.smartrecruiters.com/llnl/3743990015908146": {
    "smartrecruiters": "2026-10-06T00:37:05+00:00"
   },
@@ -23387,6 +23384,9 @@
    "speedyapply": "2026-11-04T19:37:05+00:00",
    "workday": "2026-11-03T23:14:50+00:00"
   },
+  "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-california-redondo-beach/xmlname-2027-guidance-navigation-and-control-engineer-intern---redondo-beach-ca_r10259386": {
+   "workday": "2026-11-05T00:37:05+00:00"
+  },
   "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-california-redondo-beach/xmlname-2027-mechanical-engineer-intern--redondo-beach-ca_r10258669": {
    "workday": "2026-10-30T19:37:01+00:00"
   },
@@ -25366,14 +25366,6 @@
   "url:https://regeneron.wd1.myworkdayjobs.com/careers/job/tarrytown/xmlname-2027-summer-intern-research-core-facilities--lab-automation---sample-management_r52556-1": {
    "workday": "2026-10-28T15:37:05+00:00"
   },
-  "url:https://relx.wd3.myworkdayjobs.com/risksolutions/job/alpharetta-ga-alderman/data-analyst-intern_r119377": {
-   "simplify": "2026-10-05T23:37:05+00:00",
-   "workday": "2026-10-06T00:07:05+00:00"
-  },
-  "url:https://relx.wd3.myworkdayjobs.com/risksolutions/job/alpharetta-ga-alderman/data-science-intern_r118955": {
-   "simplify": "2026-10-05T23:37:05+00:00",
-   "workday": "2026-10-06T00:07:05+00:00"
-  },
   "url:https://relx.wd3.myworkdayjobs.com/risksolutions/job/alpharetta-ga-alderman/voice-of-customer---customer-insights-intern_r118938": {
    "workday": "2026-11-03T17:47:04+00:00"
   },
@@ -25706,9 +25698,6 @@
   },
   "url:https://roguefitness.wd1.myworkdayjobs.com/roguefitness_external_careers/job/columbus-ohio/manufacturing-engineer-intern_r-103003": {
    "workday": "2026-10-20T01:07:00+00:00"
-  },
-  "url:https://rsm.wd1.myworkdayjobs.com/rsmcareers/job/boston/technology-risk-consulting-intern---summer-2027_jr116339": {
-   "workday": "2026-10-06T00:07:05+00:00"
   },
   "url:https://rsm.wd1.myworkdayjobs.com/rsmcareers/job/chicago/technology-risk-consulting-intern---summer-2027_jr116271": {
    "workday": "2026-10-23T19:07:57+00:00"
