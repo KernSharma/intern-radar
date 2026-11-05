@@ -12391,14 +12391,14 @@
   "source": "simplify"
  },
  "url:https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/glasgow-campus/xmlname-2027-technology-developer-summer-internship-programme-glasgow_jr-0000129387": {
-  "company": "barclays",
-  "title": "2027 Technology Developer Summer Internship Programme Glasgow",
+  "company": "Barclays",
+  "title": "Technology Developer Intern",
   "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Glasgow_JR-0000129387",
   "locations": [
-   "Glasgow Campus"
+   "Glasgow, UK"
   ],
-  "posted_at": "2026-11-02",
-  "source": "workday"
+  "posted_at": "2026-09-09",
+  "source": "simplify"
  },
  "url:https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/hong-kong-cheung-kong-center/quantitative-analytics-associate-off-cycle-internship-2027-hong-kong_jr-0000117565": {
   "company": "barclays",
@@ -12441,14 +12441,14 @@
   "source": "simplify"
  },
  "url:https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/knutsford-radbroke-hall/xmlname-2027-technology-developer-summer-internship-programme-knutsford_jr-0000129381": {
-  "company": "barclays",
-  "title": "2027 Technology Developer Summer Internship Programme Knutsford",
+  "company": "Barclays",
+  "title": "Technology Developer Intern",
   "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Knutsford_JR-0000129381",
   "locations": [
-   "Knutsford, Radbroke Hall"
+   "Knutsford, UK"
   ],
-  "posted_at": "2026-11-02",
-  "source": "workday"
+  "posted_at": "2026-09-09",
+  "source": "simplify"
  },
  "url:https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/new-york-745-7th-avenue/chief-client-office---client-data---engineering-group-summer-internship-program-2027-new-york-city_jr-0000137731": {
   "company": "Barclays",
@@ -17937,6 +17937,16 @@
   "posted_at": "2026-10-06",
   "source": "workday"
  },
+ "url:https://campus-americas.icims.com/jobs/26269/ai-research-intern-%28phd%29%2c-2027-summer-u.s./job": {
+  "company": "Atlassian",
+  "title": "AI Research Intern",
+  "url": "https://campus-americas.icims.com/jobs/26269/ai-research-intern-%28phd%29%2c-2027-summer-u.s./job",
+  "locations": [
+   "SF"
+  ],
+  "posted_at": "2026-10-26",
+  "source": "simplify"
+ },
  "url:https://campus-americas.icims.com/jobs/26270/research-intern%2c-2027-summer-u.s./job": {
   "company": "Atlassian",
   "title": "Research Intern",
@@ -17967,6 +17977,18 @@
    "Richmond, BC, Canada"
   ],
   "posted_at": "2026-09-03",
+  "source": "simplify"
+ },
+ "url:https://campus-libertymutual.icims.com/jobs/122764/job?mobile=true&needsRedirect=false": {
+  "company": "Liberty Mutual",
+  "title": "Analyst Development Intern",
+  "url": "https://campus-libertymutual.icims.com/jobs/122764/job?mobile=true&needsRedirect=false",
+  "locations": [
+   "Boston, MA",
+   "Seattle, WA",
+   "Plano, TX"
+  ],
+  "posted_at": "2026-11-05",
   "source": "simplify"
  },
  "url:https://campus-libertymutual.icims.com/jobs/261797/job?mobile=true&needsRedirect=false": {
@@ -18330,6 +18352,16 @@
   ],
   "posted_at": "2026-10-06",
   "source": "workday"
+ },
+ "url:https://career-portal-wolfandco.icims.com/jobs/1599/job?mobile=true&needsRedirect=false": {
+  "company": "Wolf & Company",
+  "title": "AI & Automation Intern",
+  "url": "https://career-portal-wolfandco.icims.com/jobs/1599/job?mobile=true&needsRedirect=false",
+  "locations": [
+   "Boston, MA"
+  ],
+  "posted_at": "2026-10-14",
+  "source": "simplify"
  },
  "url:https://career-schwab.icims.com/jobs/126227/job?mobile=true&needsRedirect=false": {
   "company": "Charles Schwab",
@@ -18754,6 +18786,26 @@
   "posted_at": "2026-09-29",
   "source": "speedyapply"
  },
+ "url:https://careers-gdms.icims.com/jobs/75128/job?mobile=true&needsRedirect=false": {
+  "company": "General Dynamics Mission Systems",
+  "title": "Software Engineering Intern",
+  "url": "https://careers-gdms.icims.com/jobs/75128/job?mobile=true&needsRedirect=false",
+  "locations": [
+   "Manassas, VA"
+  ],
+  "posted_at": "2026-11-05",
+  "source": "simplify"
+ },
+ "url:https://careers-gdms.icims.com/jobs/75131/job?mobile=true&needsRedirect=false": {
+  "company": "General Dynamics Mission Systems",
+  "title": "Software Engineering Intern",
+  "url": "https://careers-gdms.icims.com/jobs/75131/job?mobile=true&needsRedirect=false",
+  "locations": [
+   "Lakewood, OH"
+  ],
+  "posted_at": "2026-11-05",
+  "source": "simplify"
+ },
  "url:https://careers-gdms.icims.com/jobs/75159/software-engineer-%e2%80%93-intern-conversion/job": {
   "company": "General Dynamics Mission Systems",
   "title": "Software Engineer - Intern Conversion",
@@ -19055,6 +19107,16 @@
   "posted_at": "2026-10-20",
   "source": "vanshb03"
  },
+ "url:https://careers-novelis.icims.com/jobs/53836/job?mobile=true&needsRedirect=false": {
+  "company": "Novelis",
+  "title": "Automotive Engineering Co-op",
+  "url": "https://careers-novelis.icims.com/jobs/53836/job?mobile=true&needsRedirect=false",
+  "locations": [
+   "Kennesaw, GA"
+  ],
+  "posted_at": "2026-11-05",
+  "source": "simplify"
+ },
  "url:https://careers-peraton.icims.com/jobs/169665/job?mobile=true&needsRedirect=false": {
   "company": "Peraton",
   "title": "Software Engineer Intern",
@@ -19076,6 +19138,19 @@
   "posted_at": "2026-09-09",
   "source": "speedyapply"
  },
+ "url:https://careers-peraton.icims.com/jobs/170120/job?mobile=true&needsRedirect=false": {
+  "company": "Peraton",
+  "title": "Cyber Research Intern",
+  "url": "https://careers-peraton.icims.com/jobs/170120/job?mobile=true&needsRedirect=false",
+  "locations": [
+   "West Lafayette, IN",
+   "Basking Ridge, Bernards, NJ",
+   "Silver Spring, MD",
+   "Bedford, NH"
+  ],
+  "posted_at": "2026-11-05",
+  "source": "simplify"
+ },
  "url:https://careers-peraton.icims.com/jobs/170320/job?mobile=true&needsRedirect=false": {
   "company": "Peraton",
   "title": "Data Science Intern",
@@ -19085,6 +19160,16 @@
    "Herndon, VA"
   ],
   "posted_at": "2026-09-09",
+  "source": "simplify"
+ },
+ "url:https://careers-peraton.icims.com/jobs/171546/job?mobile=true&needsRedirect=false": {
+  "company": "Peraton",
+  "title": "Social Media & Marketing Analyst Intern",
+  "url": "https://careers-peraton.icims.com/jobs/171546/job?mobile=true&needsRedirect=false",
+  "locations": [
+   "San Diego, CA"
+  ],
+  "posted_at": "2026-11-05",
   "source": "simplify"
  },
  "url:https://careers-peraton.icims.com/jobs/171547/job?mobile=true&needsRedirect=false": {
@@ -26627,6 +26712,46 @@
    "Wilmington, NC"
   ],
   "posted_at": "2026-09-01",
+  "source": "simplify"
+ },
+ "url:https://corporatejobs-alaskaair.icims.com/jobs/21208/job?mobile=true&needsRedirect=false": {
+  "company": "Alaska Air Group",
+  "title": "Guest Products Analyst Intern",
+  "url": "https://corporatejobs-alaskaair.icims.com/jobs/21208/job?mobile=true&needsRedirect=false",
+  "locations": [
+   "SeaTac, WA"
+  ],
+  "posted_at": "2026-11-02",
+  "source": "simplify"
+ },
+ "url:https://corporatejobs-alaskaair.icims.com/jobs/21277/job?mobile=true&needsRedirect=false": {
+  "company": "Alaska Air Group",
+  "title": "Software Engineer Intern",
+  "url": "https://corporatejobs-alaskaair.icims.com/jobs/21277/job?mobile=true&needsRedirect=false",
+  "locations": [
+   "SeaTac, WA"
+  ],
+  "posted_at": "2026-11-02",
+  "source": "simplify"
+ },
+ "url:https://corporatejobs-alaskaair.icims.com/jobs/21281/job?mobile=true&needsRedirect=false": {
+  "company": "Alaska Air Group",
+  "title": "VR Development Intern",
+  "url": "https://corporatejobs-alaskaair.icims.com/jobs/21281/job?mobile=true&needsRedirect=false",
+  "locations": [
+   "Renton, WA"
+  ],
+  "posted_at": "2026-11-02",
+  "source": "simplify"
+ },
+ "url:https://corporatejobs-alaskaair.icims.com/jobs/21286/job?mobile=true&needsRedirect=false": {
+  "company": "Alaska Air Group",
+  "title": "BI Analyst Intern",
+  "url": "https://corporatejobs-alaskaair.icims.com/jobs/21286/job?mobile=true&needsRedirect=false",
+  "locations": [
+   "Renton, WA"
+  ],
+  "posted_at": "2026-11-02",
   "source": "simplify"
  },
  "url:https://costar.wd1.myworkdayjobs.com/costar_campus/job/irvine-us/summer-2027-technology-intern---irvine--ca_r39673": {
@@ -49293,103 +49418,135 @@
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/1hh": {
-  "company": "Ryder System",
-  "title": "IT Intern",
-  "url": "https://go.vansh.nyc/1hh",
+  "company": "American Family Insurance Group",
+  "title": "Enterprise Data Intern",
+  "url": "https://go.vansh.nyc/1hH",
   "locations": [
-   "Coral Gables, FL"
+   "Madison, WI"
   ],
-  "posted_at": "2026-11-04",
+  "posted_at": "2026-11-05",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/1hi": {
-  "company": "Badger Meter",
-  "title": "Firmware Test Engineer Intern",
-  "url": "https://go.vansh.nyc/1hi",
+  "company": "DraftKings",
+  "title": "Software Engineer Intern",
+  "url": "https://go.vansh.nyc/1hI",
   "locations": [
-   "Milwaukee, WI"
+   "Boston, MA"
+  ],
+  "posted_at": "2026-11-05",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/1hj": {
+  "company": "Genesys",
+  "title": "Web Software Developer Intern, WFM",
+  "url": "https://go.vansh.nyc/1hJ",
+  "locations": [
+   "Toronto, Canada"
   ],
   "posted_at": "2026-11-05",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/1hk": {
-  "company": "PlayStation Waterloo Co-Op",
-  "title": "Software Developer Co-op",
-  "url": "https://go.vansh.nyc/1hk",
+  "company": "Genesys",
+  "title": "Software Engineering Intern",
+  "url": "https://go.vansh.nyc/1hK",
   "locations": [
-   "Waterloo, Canada"
+   "Indianapolis, IN"
   ],
-  "posted_at": "2026-11-03",
+  "posted_at": "2026-11-05",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/1hl": {
-  "company": "Aerospace Corporation",
-  "title": "Intern Bachelors Embedded Eng",
-  "url": "https://go.vansh.nyc/1hl",
+  "company": "NCR Atleos",
+  "title": "Technology Intern",
+  "url": "https://go.vansh.nyc/1hL",
   "locations": [
-   "Kanata, Canada"
+   "Atlanta, GA",
+   "Frisco, TX"
   ],
-  "posted_at": "2026-11-04",
+  "posted_at": "2026-11-05",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/1hm": {
-  "company": "University Corporation for Atmospheric Research",
-  "title": "SIParCS Undergraduate Student Intern",
-  "url": "https://go.vansh.nyc/1hm",
+  "company": "NCR Atleos",
+  "title": "Data Science Intern",
+  "url": "https://go.vansh.nyc/1hM",
   "locations": [
-   "Boulder, CO"
+   "Atlanta, GA",
+   "Frisco, TX"
   ],
-  "posted_at": "2026-11-04",
+  "posted_at": "2026-11-05",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/1hn": {
-  "company": "Keysight Technologies",
-  "title": "R&D DSP/FPGA Design Automation Intern",
-  "url": "https://go.vansh.nyc/1hn",
+  "company": "Tencent",
+  "title": "Game Research & Development Intern, Engine Research",
+  "url": "https://go.vansh.nyc/1hN",
   "locations": [
-   "Santa Rosa, CA"
+   "Los Angeles, CA"
   ],
   "posted_at": "2026-11-05",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/1ho": {
-  "company": "Qualcomm",
-  "title": "Machine Learning Engineering Intern",
-  "url": "https://go.vansh.nyc/1ho",
+  "company": "Tencent",
+  "title": "Game Research & Development Intern, Engine Research",
+  "url": "https://go.vansh.nyc/1hO",
   "locations": [
-   "Markham, Canada"
+   "Bellevue, WA"
   ],
   "posted_at": "2026-11-05",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/1hp": {
-  "company": "Qualcomm",
-  "title": "Display IP FPGA Emulation Intern",
-  "url": "https://go.vansh.nyc/1hp",
+  "company": "Tencent",
+  "title": "Hunyuan Multimodal Algorithm Researcher Intern, Omni-Modal",
+  "url": "https://go.vansh.nyc/1hP",
   "locations": [
-   "Markham, Canada"
+   "Palo Alto, CA"
   ],
   "posted_at": "2026-11-05",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/1hq": {
-  "company": "DataVisor",
-  "title": "Software Engineer Intern",
-  "url": "https://go.vansh.nyc/1hq",
+  "company": "Tencent",
+  "title": "Site Reliability Engineer (SRE) Intern, AI Infrastructure",
+  "url": "https://go.vansh.nyc/1hQ",
   "locations": [
-   "Vancouver, Canada"
+   "Palo Alto, CA"
+  ],
+  "posted_at": "2026-11-05",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/1hr": {
+  "company": "General Dynamics Information Technology",
+  "title": "Cybersecurity Associate Intern",
+  "url": "https://go.vansh.nyc/1hR",
+  "locations": [
+   "Bossier City, LA"
+  ],
+  "posted_at": "2026-11-05",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/1hs": {
+  "company": "General Dynamics Information Technology",
+  "title": "AI/ML Data Science and Engineering Intern",
+  "url": "https://go.vansh.nyc/1hS",
+  "locations": [
+   "Bossier City, LA"
   ],
   "posted_at": "2026-11-05",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/1ht": {
-  "company": "Wolters Kluwer",
-  "title": "Front-End Developer Intern",
-  "url": "https://go.vansh.nyc/1ht",
+  "company": "General Dynamics Information Technology",
+  "title": "AI/ML Software Development and Engineering Intern",
+  "url": "https://go.vansh.nyc/1hT",
   "locations": [
-   "Sherbrooke, Canada"
+   "Bossier City, LA"
   ],
-  "posted_at": "2026-11-04",
+  "posted_at": "2026-11-05",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/1hv": {
@@ -52308,13 +52465,13 @@
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/cd": {
-  "company": "Ciena",
-  "title": "Embedded Software Developer Intern",
-  "url": "https://go.vansh.nyc/CD",
+  "company": "Kinaxis",
+  "title": "Cloud Developer Intern, Platform Engineering",
+  "url": "https://go.vansh.nyc/cD",
   "locations": [
-   "Ottawa, Canada"
+   "Ottawa, ON"
   ],
-  "posted_at": "2026-10-15",
+  "posted_at": "2026-10-20",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/ce": {
@@ -93090,6 +93247,26 @@
   "posted_at": "2026-09-14",
   "source": "simplify"
  },
+ "url:https://jobs.statefarm.com/jobs/46049?icims=1": {
+  "company": "State Farm",
+  "title": "Magnet Program @ University of Illinois Urbana-Champaign Intern",
+  "url": "https://jobs.statefarm.com/jobs/46049?icims=1",
+  "locations": [
+   "Champaign, IL"
+  ],
+  "posted_at": "2026-11-05",
+  "source": "simplify"
+ },
+ "url:https://jobs.statefarm.com/jobs/46301?icims=1": {
+  "company": "State Farm",
+  "title": "Magnet Program Intern",
+  "url": "https://jobs.statefarm.com/jobs/46301?icims=1",
+  "locations": [
+   "Tempe, AZ"
+  ],
+  "posted_at": "2026-11-05",
+  "source": "simplify"
+ },
  "url:https://jobs.uhsinc.com/jobs/367247?icims=1": {
   "company": "Universal Health Services",
   "title": "Software Engineer Intern - Data Analytics",
@@ -118004,7 +118181,7 @@
   "locations": [
    "Croatia"
   ],
-  "posted_at": "2026-11-04",
+  "posted_at": "2026-11-05",
   "source": "workday"
  },
  "url:https://roche.wd3.myworkdayjobs.com/roche-ext/job/kaiseraugst/internship---ai-metadata-augmentation_202609-123518": {
