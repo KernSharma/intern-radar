@@ -12441,14 +12441,14 @@
   "source": "simplify"
  },
  "url:https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/knutsford-radbroke-hall/xmlname-2027-technology-developer-summer-internship-programme-knutsford_jr-0000129381": {
-  "company": "Barclays",
-  "title": "Technology Developer Intern",
+  "company": "barclays",
+  "title": "2027 Technology Developer Summer Internship Programme Knutsford",
   "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Knutsford_JR-0000129381",
   "locations": [
-   "Knutsford, UK"
+   "Knutsford, Radbroke Hall"
   ],
-  "posted_at": "2026-09-09",
-  "source": "simplify"
+  "posted_at": "2026-11-02",
+  "source": "workday"
  },
  "url:https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/new-york-745-7th-avenue/chief-client-office---client-data---engineering-group-summer-internship-program-2027-new-york-city_jr-0000137731": {
   "company": "Barclays",
@@ -21400,6 +21400,17 @@
    "Reston, VA"
   ],
   "posted_at": "2026-09-30",
+  "source": "simplify"
+ },
+ "url:https://careers.noblis.org/jobs/28097?icims=1&lang=en-us": {
+  "company": "Noblis",
+  "title": "Data Science and Innovation Intern",
+  "url": "https://careers.noblis.org/jobs/28097?icims=1&lang=en-us",
+  "locations": [
+   "Springfield, VA",
+   "Reston, VA"
+  ],
+  "posted_at": "2026-11-02",
   "source": "simplify"
  },
  "url:https://careers.phillips66.com/job/bartlesville-west-2027-university-intern-eri-analytical-solutions-ok-74004/1439555700?ats=successfactors": {
@@ -49669,60 +49680,75 @@
   "posted_at": "2026-11-05",
   "source": "vanshb03"
  },
- "url:https://go.vansh.nyc/1hv": {
-  "company": "John Deere",
-  "title": "Product Engineering Student Intern",
-  "url": "https://go.vansh.nyc/1hv",
+ "url:https://go.vansh.nyc/1hu": {
+  "company": "ViaSat",
+  "title": "Software Engineer Intern",
+  "url": "https://go.vansh.nyc/1hU",
   "locations": [
-   "Urbandale, IA"
+   "Germantown, MD"
   ],
-  "posted_at": "2026-11-05",
+  "posted_at": "2026-11-02",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/1hv": {
+  "company": "ViaSat",
+  "title": "Digital and Programmable Logic Engineer Intern",
+  "url": "https://go.vansh.nyc/1hV",
+  "locations": [
+   "Tempe, AZ"
+  ],
+  "posted_at": "2026-11-02",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/1hw": {
-  "company": "PayPal",
-  "title": "Software Engineer Intern",
-  "url": "https://go.vansh.nyc/1hw",
+  "company": "General Dynamics Mission Systems",
+  "title": "Electrical Engineering Intern, FPGA",
+  "url": "https://go.vansh.nyc/1hW",
   "locations": [
-   "Austin, TX",
-   "San Jose, CA",
-   "Chicago, IL",
-   "Omaha, NE",
-   "Scottsdale, AZ"
+   "Middletown, RI"
   ],
-  "posted_at": "2026-11-05",
+  "posted_at": "2026-11-03",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/1hx": {
-  "company": "PayPal",
-  "title": "Mobile Engineer Intern",
-  "url": "https://go.vansh.nyc/1hx",
+  "company": "General Dynamics Mission Systems",
+  "title": "Software Engineer Intern",
+  "url": "https://go.vansh.nyc/1hX",
   "locations": [
-   "Austin, TX",
-   "San Jose, CA",
-   "Chicago, IL",
-   "Omaha, NE",
-   "Scottsdale, AZ"
+   "Port Orchard, WA"
   ],
-  "posted_at": "2026-11-05",
+  "posted_at": "2026-11-04",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/1hy": {
-  "company": "PayPal",
-  "title": "Data Scientist Intern",
-  "url": "https://go.vansh.nyc/1hy",
+  "company": "Constellation Energy",
+  "title": "Renewable Energy Intern",
+  "url": "https://go.vansh.nyc/1hY",
   "locations": [
-   "San Jose, CA"
+   "Houston, TX"
+  ],
+  "posted_at": "2026-11-04",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/1hz": {
+  "company": "Peraton",
+  "title": "Cyber Research Intern",
+  "url": "https://go.vansh.nyc/1hZ",
+  "locations": [
+   "West Lafayette, IN",
+   "Basking Ridge, NJ",
+   "Silver Spring, MD",
+   "Bedford, NH"
   ],
   "posted_at": "2026-11-05",
   "source": "vanshb03"
  },
- "url:https://go.vansh.nyc/1hz": {
-  "company": "PayPal",
-  "title": "Machine Learning Engineer Intern",
-  "url": "https://go.vansh.nyc/1hz",
+ "url:https://go.vansh.nyc/1i0": {
+  "company": "General Dynamics Mission Systems",
+  "title": "FPGA Engineer Intern",
+  "url": "https://go.vansh.nyc/1i0",
   "locations": [
-   "San Jose, CA"
+   "Manassas, VA"
   ],
   "posted_at": "2026-11-05",
   "source": "vanshb03"
@@ -128421,6 +128447,26 @@
   "posted_at": "2026-11-04",
   "source": "workday"
  },
+ "url:https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/brno-czechia/intern---software-engineering_r-01374064": {
+  "company": "thermofisher",
+  "title": "Intern – Software Engineering",
+  "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Software-Engineering_R-01374064",
+  "locations": [
+   "Brno, Czechia"
+  ],
+  "posted_at": "2026-11-05",
+  "source": "workday"
+ },
+ "url:https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/brno-czechia/intern---software-firmware-test_r-01374007": {
+  "company": "thermofisher",
+  "title": "Intern – Software/Firmware Test",
+  "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Software-Firmware-Test_R-01374007",
+  "locations": [
+   "Brno, Czechia"
+  ],
+  "posted_at": "2026-11-05",
+  "source": "workday"
+ },
  "url:https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/brno-czechia/intern---system-engineering_r-01374025": {
   "company": "thermofisher",
   "title": "Intern - System Engineering",
@@ -128449,6 +128495,16 @@
    "Eindhoven, Netherlands"
   ],
   "posted_at": "2026-10-09",
+  "source": "workday"
+ },
+ "url:https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/eindhoven-netherlands/internship---build-an-agentic-software-refactoring-workflow_r-01374031-1": {
+  "company": "thermofisher",
+  "title": "Internship - Build an agentic software refactoring workflow",
+  "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Internship---Build-an-agentic-software-refactoring-workflow_R-01374031-1",
+  "locations": [
+   "Eindhoven, Netherlands"
+  ],
+  "posted_at": "2026-11-05",
   "source": "workday"
  },
  "url:https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/eindhoven-netherlands/internship-position--data-processing-and-microscopy-analysis-intern_r-01374054": {
