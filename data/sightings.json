@@ -3271,9 +3271,6 @@
   "url:https://boards.greenhouse.io/spacex/jobs/8636144002?gh_jid=8636144002": {
    "greenhouse": "2026-11-01T16:07:04+00:00"
   },
-  "url:https://boeing.wd1.myworkdayjobs.com/external_careers/job/aus---port-melbourne-australia/intern---information-technology_jr2026525809-1": {
-   "workday": "2026-10-07T04:07:04+00:00"
-  },
   "url:https://boeing.wd1.myworkdayjobs.com/external_careers/job/can---richmond-canada/analytics-business-operations-intern--commercial-services-_jr2026526157-1": {
    "workday": "2026-10-15T13:11:00+00:00"
   },
@@ -8205,9 +8202,6 @@
   "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ca-el-segundo-r01--2000-e-imperial-hwy--bldg-r01/electrical-engineering-intern--summer-2027-_01867428": {
    "workday": "2026-10-22T19:37:03+00:00"
   },
-  "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ca-el-segundo-r01--2000-e-imperial-hwy--bldg-r01/systems-engineering-test-equipment-intern--summer-2027-_01879955": {
-   "workday": "2026-10-07T04:07:04+00:00"
-  },
   "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ca-fairfield-3530--3530-branscombe-rd--branscombe/quality-engineering-intern--summer-2027-_01882706": {
    "workday": "2026-10-15T19:39:52+00:00"
   },
@@ -10446,6 +10440,9 @@
   },
   "url:https://go.vansh.nyc/1jy": {
    "vanshb03": "2026-11-06T00:37:04+00:00"
+  },
+  "url:https://go.vansh.nyc/1jz": {
+   "vanshb03": "2026-11-06T07:37:00+00:00"
   },
   "url:https://go.vansh.nyc/1k": {
    "vanshb03": "2026-10-25T08:37:01+00:00"
@@ -13716,6 +13713,7 @@
    "workday": "2026-10-19T18:37:05+00:00"
   },
   "url:https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/pittsburgh-pa-15222-fap-5th-avenue-place/summer-2027-market-analytics-graduate-intern_j285906": {
+   "simplify": "2026-11-06T07:37:00+00:00",
    "workday": "2026-11-06T03:39:57+00:00"
   },
   "url:https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/pittsburgh-pa-15222-pap-penn-avenue-place/summer-2027-data-analyst-engen-undergraduate-intern_j286826": {
@@ -20172,10 +20170,12 @@
    "lever": "2026-11-06T00:37:04+00:00"
   },
   "url:https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520": {
-   "lever": "2026-11-06T00:37:04+00:00"
+   "lever": "2026-11-06T00:37:04+00:00",
+   "simplify": "2026-11-06T07:37:00+00:00"
   },
   "url:https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20": {
-   "lever": "2026-11-06T00:37:04+00:00"
+   "lever": "2026-11-06T00:37:04+00:00",
+   "simplify": "2026-11-06T07:37:00+00:00"
   },
   "url:https://jobs.lever.co/zoox/ad992e12-39da-4046-b766-45f928924575": {
    "vanshb03": "2026-10-17T19:18:45+00:00"
@@ -23063,12 +23063,6 @@
   },
   "url:https://micron.wd1.myworkdayjobs.com/external/job/fab-10nx-singapore/intern---hvm-pee-photo--ai-_jr112979": {
    "workday": "2026-10-08T02:48:54+00:00"
-  },
-  "url:https://micron.wd1.myworkdayjobs.com/external/job/fab-10nx-singapore/intern---nand-probe-product-engineering--test-mode-integration-_jr113345": {
-   "workday": "2026-10-07T04:07:04+00:00"
-  },
-  "url:https://micron.wd1.myworkdayjobs.com/external/job/fab-10nx-singapore/intern---nand-process-and-equipment-engineer_jr114294": {
-   "workday": "2026-10-07T05:37:00+00:00"
   },
   "url:https://micron.wd1.myworkdayjobs.com/external/job/fab-10nx-singapore/intern---nand-product-development-engineer_jr111283": {
    "workday": "2026-10-24T00:37:04+00:00"
@@ -27730,6 +27724,9 @@
   "url:https://tel.wd3.myworkdayjobs.com/tel-careers/job/fremont/electrical-engineer-intern_r26-01999": {
    "workday": "2026-10-26T18:07:06+00:00"
   },
+  "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/ai-game-ai-research-intern_r106377-1": {
+   "workday": "2026-11-06T07:37:00+00:00"
+  },
   "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/australia-new-south-wales-sydney/controllable-video-generation-research-intern_r108305-1": {
    "workday": "2026-10-26T02:07:00+00:00"
   },
@@ -27741,6 +27738,9 @@
   },
   "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/france-paris/business-development-intern--kol-endorsements---partnerships_r107822-1": {
    "workday": "2026-11-01T17:07:05+00:00"
+  },
+  "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/japan-tokyo-atago-mori-tower/nlp-research-intern_r108352-1": {
+   "workday": "2026-11-06T07:37:00+00:00"
   },
   "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/japan-tokyo-business-tower/business-development-intern--open-_r108031": {
    "workday": "2026-11-01T17:07:05+00:00"
@@ -27774,6 +27774,9 @@
   },
   "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/new-zealand-auckland/research-intern--large-language-models_r108344-1": {
    "workday": "2026-11-05T08:07:00+00:00"
+  },
+  "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/new-zealand-auckland/unreal-engine-programmer-intern_r108355-1": {
+   "workday": "2026-11-06T07:37:00+00:00"
   },
   "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/singapore-capitasky/ai-compute-intern_r108149": {
    "workday": "2026-11-01T16:07:04+00:00"
