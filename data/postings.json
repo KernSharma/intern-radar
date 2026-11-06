@@ -640,6 +640,16 @@
   "posted_at": "2026-10-19",
   "source": "workday"
  },
+ "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/london/xmlname-2027-intern---research-scientist_r173345": {
+  "company": "adobe",
+  "title": "2027 Intern - Research Scientist",
+  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/London/XMLNAME-2027-Intern---Research-Scientist_R173345",
+  "locations": [
+   "London"
+  ],
+  "posted_at": "2026-11-06",
+  "source": "workday"
+ },
  "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/new-york/xmlname-2027-intern---digital-strategy-analyst_r171828": {
   "company": "adobe",
   "title": "2027 Intern - Digital Strategy Analyst, Strategic Advisory",
@@ -13451,6 +13461,16 @@
   "posted_at": "2026-10-20",
   "source": "workday"
  },
+ "url:https://bmo.wd3.myworkdayjobs.com/campus/job/toronto-on-can/quantitative-analyst--summer-2027--co-op-internship----4-months_r260031097-1": {
+  "company": "bmo",
+  "title": "Quantitative Analyst, Summer 2027 (Co-op/Internship) - 4 Months",
+  "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097-1",
+  "locations": [
+   "Toronto, ON, CAN"
+  ],
+  "posted_at": "2026-11-06",
+  "source": "workday"
+ },
  "url:https://bmo.wd3.myworkdayjobs.com/campus/job/toronto-on-can/quantitative-developer--alpha-research-team----gam--summer-2027--co-op-internship----12-months_r260026715": {
   "company": "bmo",
   "title": "Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months",
@@ -13509,6 +13529,16 @@
    "Toronto, ON, CAN"
   ],
   "posted_at": "2026-10-19",
+  "source": "workday"
+ },
+ "url:https://bmo.wd3.myworkdayjobs.com/external/job/toronto-on-can/quantitative-analyst--summer-2027--co-op-internship----4-months_r260031097": {
+  "company": "bmo",
+  "title": "Quantitative Analyst, Summer 2027 (Co-op/Internship) - 4 Months",
+  "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097",
+  "locations": [
+   "Toronto, ON, CAN"
+  ],
+  "posted_at": "2026-11-06",
   "source": "workday"
  },
  "url:https://bmo.wd3.myworkdayjobs.com/external/job/toronto-on-can/quantitative-developer--alpha-research-team----gam--summer-2027--co-op-internship----12-months_r260026715-3": {
@@ -28136,14 +28166,14 @@
   "source": "speedyapply"
  },
  "url:https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/usa---arlington-va/intelligence-intern---summer-2027_r30605": {
-  "company": "crowdstrike",
-  "title": "Intelligence Intern - Summer 2027",
+  "company": "CrowdStrike",
+  "title": "Intelligence Intern",
   "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Arlington-VA/Intelligence-Intern---Summer-2027_R30605",
   "locations": [
-   "USA - Arlington, VA"
+   "Arlington County, Arlington, VA"
   ],
   "posted_at": "2026-11-05",
-  "source": "workday"
+  "source": "simplify"
  },
  "url:https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/usa---sunnyvale-ca/sales-data-analytics-intern_r30801": {
   "company": "CrowdStrike",
@@ -41725,7 +41755,7 @@
   "locations": [
    "US-MA-ANDOVER-AN1 ~ 350 Lowell St ~ AN1 ESSEX BLDG"
   ],
-  "posted_at": "2026-11-05",
+  "posted_at": "2026-11-06",
   "source": "workday"
  },
  "url:https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/us-ma-andover-ar2--362-lowell-st--ar2-plymouth-bldg/digital-technology-intern--summer-2027-_01871051-1": {
@@ -88103,57 +88133,97 @@
   "posted_at": "2026-09-16",
   "source": "lever"
  },
- "url:https://jobs.lever.co/matchgroup/54a814d1-9a73-43d7-a266-c933ffd99ce3": {
-  "company": "Tinder",
-  "title": "Backend Engineer Intern",
-  "url": "https://jobs.lever.co/matchgroup/54a814d1-9a73-43d7-a266-c933ffd99ce3/apply",
+ "url:https://jobs.lever.co/matchgroup/107da1ee-5b8a-4a1b-9d75-5ba3d597116c": {
+  "company": "matchgroup",
+  "title": "Technical Project Management Intern",
+  "url": "https://jobs.lever.co/matchgroup/107da1ee-5b8a-4a1b-9d75-5ba3d597116c",
   "locations": [
-   "Palo Alto, CA",
-   "LA"
+   "Los Angeles, California"
   ],
   "posted_at": "2026-11-06",
-  "source": "simplify"
+  "source": "lever"
+ },
+ "url:https://jobs.lever.co/matchgroup/54a814d1-9a73-43d7-a266-c933ffd99ce3": {
+  "company": "matchgroup",
+  "title": "Backend Engineer Intern",
+  "url": "https://jobs.lever.co/matchgroup/54a814d1-9a73-43d7-a266-c933ffd99ce3",
+  "locations": [
+   "Palo Alto, California",
+   "Los Angeles, California"
+  ],
+  "posted_at": "2026-11-06",
+  "source": "lever"
  },
  "url:https://jobs.lever.co/matchgroup/573621f6-9931-4e39-840a-1d04171be2ff": {
-  "company": "Tinder",
+  "company": "matchgroup",
   "title": "Data Scientist Intern",
-  "url": "https://jobs.lever.co/matchgroup/573621f6-9931-4e39-840a-1d04171be2ff/apply",
+  "url": "https://jobs.lever.co/matchgroup/573621f6-9931-4e39-840a-1d04171be2ff",
   "locations": [
-   "SF"
+   "San Francisco, California"
   ],
   "posted_at": "2026-11-06",
-  "source": "simplify"
+  "source": "lever"
+ },
+ "url:https://jobs.lever.co/matchgroup/69396299-e587-4063-aef6-0ce2fd66e9ee": {
+  "company": "matchgroup",
+  "title": "AI Product Engineer",
+  "url": "https://jobs.lever.co/matchgroup/69396299-e587-4063-aef6-0ce2fd66e9ee",
+  "locations": [
+   "Vancouver, British Columbia"
+  ],
+  "posted_at": "2026-09-18",
+  "source": "lever"
+ },
+ "url:https://jobs.lever.co/matchgroup/72a9642b-a289-4c49-bc9b-53880c1dc870": {
+  "company": "matchgroup",
+  "title": "Data Science Internship",
+  "url": "https://jobs.lever.co/matchgroup/72a9642b-a289-4c49-bc9b-53880c1dc870",
+  "locations": [
+   "Ghent, Belgium"
+  ],
+  "posted_at": "2026-11-06",
+  "source": "lever"
  },
  "url:https://jobs.lever.co/matchgroup/860a839a-5be3-44dc-916f-eb2e71d67d72": {
-  "company": "Tinder",
+  "company": "matchgroup",
   "title": "Machine Learning Engineer Intern",
-  "url": "https://jobs.lever.co/matchgroup/860a839a-5be3-44dc-916f-eb2e71d67d72/apply",
+  "url": "https://jobs.lever.co/matchgroup/860a839a-5be3-44dc-916f-eb2e71d67d72",
   "locations": [
-   "Palo Alto, CA"
+   "Palo Alto, California"
   ],
   "posted_at": "2026-11-06",
-  "source": "simplify"
+  "source": "lever"
  },
  "url:https://jobs.lever.co/matchgroup/cda906dd-c02a-4bbc-b533-1636d58958ef": {
-  "company": "Tinder",
+  "company": "matchgroup",
   "title": "iOS Engineer Intern",
-  "url": "https://jobs.lever.co/matchgroup/cda906dd-c02a-4bbc-b533-1636d58958ef/apply",
+  "url": "https://jobs.lever.co/matchgroup/cda906dd-c02a-4bbc-b533-1636d58958ef",
   "locations": [
-   "Palo Alto, CA",
-   "LA"
+   "Los Angeles, California",
+   "Palo Alto, California"
   ],
   "posted_at": "2026-11-06",
-  "source": "simplify"
+  "source": "lever"
+ },
+ "url:https://jobs.lever.co/matchgroup/e2747122-5e35-4230-9d54-8d274dd0a713": {
+  "company": "matchgroup",
+  "title": "User Experience Research Intern",
+  "url": "https://jobs.lever.co/matchgroup/e2747122-5e35-4230-9d54-8d274dd0a713",
+  "locations": [
+   "Los Angeles, California"
+  ],
+  "posted_at": "2026-11-06",
+  "source": "lever"
  },
  "url:https://jobs.lever.co/matchgroup/f0e29495-4dd2-4bc5-9ceb-31d36f0b5a9d": {
-  "company": "Tinder",
+  "company": "matchgroup",
   "title": "Android Engineer Intern",
-  "url": "https://jobs.lever.co/matchgroup/f0e29495-4dd2-4bc5-9ceb-31d36f0b5a9d/apply",
+  "url": "https://jobs.lever.co/matchgroup/f0e29495-4dd2-4bc5-9ceb-31d36f0b5a9d",
   "locations": [
-   "LA"
+   "Los Angeles, California"
   ],
   "posted_at": "2026-11-06",
-  "source": "simplify"
+  "source": "lever"
  },
  "url:https://jobs.lever.co/multiplylabs/8203fbb3-4d42-4f6a-ae64-f05c3dcf0e9b": {
   "company": "multiplylabs",
