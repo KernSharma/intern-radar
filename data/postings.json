@@ -57204,13 +57204,26 @@
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/lz": {
-  "company": "McKesson",
+  "company": "AeroVironment",
   "title": "Software Engineer Intern",
-  "url": "https://go.vansh.nyc/LZ",
+  "url": "https://go.vansh.nyc/Lz",
   "locations": [
-   "Longmont, CO"
+   "Germantown, MD",
+   "Annapolis Junction, MD",
+   "Pottstown, PA",
+   "Albuquerque, NM",
+   "Sunrise, FL",
+   "Arlington, VA",
+   "Melbourne, FL",
+   "Petaluma, CA",
+   "Minneapolis, MN",
+   "San Luis Obispo, CA",
+   "Huntsville, AL",
+   "San Diego, CA",
+   "Moorpark, CA",
+   "Simi Valley, CA"
   ],
-  "posted_at": "2026-09-02",
+  "posted_at": "2026-09-01",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/m": {
@@ -69322,14 +69335,14 @@
   "source": "workday"
  },
  "url:https://jainglobal.wd5.myworkdayjobs.com/externalsite/job/new-york-new-york/compliance-technology-intern_jr100607": {
-  "company": "jainglobal",
+  "company": "Jain Global",
   "title": "Compliance Technology Intern",
   "url": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Compliance-Technology-Intern_JR100607",
   "locations": [
-   "New York, New York"
+   "NYC"
   ],
-  "posted_at": "2026-10-30",
-  "source": "workday"
+  "posted_at": "2026-10-14",
+  "source": "simplify"
  },
  "url:https://jainglobal.wd5.myworkdayjobs.com/externalsite/job/new-york-new-york/data-engineer-intern_jr100605-1": {
   "company": "jainglobal",
@@ -92918,6 +92931,26 @@
   "posted_at": "2026-11-04",
   "source": "smartrecruiters"
  },
+ "url:https://jobs.smartrecruiters.com/boschgroup/744000160208440": {
+  "company": "Bosch Group",
+  "title": "Motorsport Software and Data Analytics Graduate Intern",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160208440",
+  "locations": [
+   "Farmington Hills, MI, United States"
+  ],
+  "posted_at": "2026-11-06",
+  "source": "smartrecruiters"
+ },
+ "url:https://jobs.smartrecruiters.com/boschgroup/744000160208785": {
+  "company": "Bosch Group",
+  "title": "HR Service Intern (Year Round)",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160208785",
+  "locations": [
+   "Farmington Hills, MI, United States"
+  ],
+  "posted_at": "2026-11-06",
+  "source": "smartrecruiters"
+ },
  "url:https://jobs.smartrecruiters.com/captechconsulting/744000155019115": {
   "company": "CapTech Consulting",
   "title": "Consulting Internship: Software Engineering (Summer 2027)",
@@ -116230,6 +116263,16 @@
   "posted_at": "2026-10-06",
   "source": "workday"
  },
+ "url:https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/warszawa/healthcare-systems-support-intern--all-genders-_594410": {
+  "company": "philips",
+  "title": "Healthcare Systems Support Intern (all genders)",
+  "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Warszawa/Healthcare-Systems-Support-Intern--all-genders-_594410",
+  "locations": [
+   "Warszawa"
+  ],
+  "posted_at": "2026-11-06",
+  "source": "workday"
+ },
  "url:https://physicalreasoning.ai/join/software-engineering-intern": {
   "company": "Physical Reasoning",
   "title": "Software Engineering Intern",
@@ -130933,6 +130976,16 @@
    "Brno, Czechia"
   ],
   "posted_at": "2026-10-10",
+  "source": "workday"
+ },
+ "url:https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/eindhoven-netherlands/intern---autonomous-lab-concept-development-for-an-electron-microscope_r-01374130": {
+  "company": "thermofisher",
+  "title": "Intern - Autonomous Lab Concept Development for an Electron Microscope",
+  "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Intern---Autonomous-Lab-Concept-Development-for-an-Electron-Microscope_R-01374130",
+  "locations": [
+   "Eindhoven, Netherlands"
+  ],
+  "posted_at": "2026-11-06",
   "source": "workday"
  },
  "url:https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/eindhoven-netherlands/intern-software-engineer---infrastructure-as-code_r-01366282-1": {
