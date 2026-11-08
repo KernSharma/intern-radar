@@ -42891,14 +42891,14 @@
   "source": "workday"
  },
  "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-co-aurora-s77--16470-e-hughes-dr--bldg-s77/software-engineering--intern--summer-2027-_01881520": {
-  "company": "globalhr",
-  "title": "Software Engineering  Intern (Summer 2027)",
+  "company": "RTX",
+  "title": "Software Engineer Intern",
   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering--Intern--Summer-2027-_01881520",
   "locations": [
-   "US-CO-AURORA-S77 ~ 16470 E Hughes Dr ~ BLDG S77"
+   "Aurora, CO"
   ],
-  "posted_at": "2026-10-23",
-  "source": "workday"
+  "posted_at": "2026-10-22",
+  "source": "simplify"
  },
  "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-co-aurora-s77--16470-e-hughes-dr--bldg-s77/software-engineering-intern--summer-2027---open-_01873623": {
   "company": "RTX",
@@ -52394,64 +52394,64 @@
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/1ma": {
-  "company": "Dayton Freight",
-  "title": "Business Intelligence Intern",
-  "url": "https://go.vansh.nyc/1ma",
+  "company": "General Dynamics Mission Systems",
+  "title": "Software Engineering Intern",
+  "url": "https://go.vansh.nyc/1mA",
   "locations": [
-   "Dayton, OH"
+   "Manassas, VA"
   ],
-  "posted_at": "2026-11-07",
+  "posted_at": "2026-11-05",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/1mb": {
-  "company": "Kinaxis",
-  "title": "Developer Co-op, Machine Learning",
-  "url": "https://go.vansh.nyc/1mb",
+  "company": "KLA",
+  "title": "Software Intern",
+  "url": "https://go.vansh.nyc/1mB",
+  "locations": [
+   "Milpitas, CA"
+  ],
+  "posted_at": "2026-11-06",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/1mc": {
+  "company": "T-Mobile",
+  "title": "Software Engineer Intern",
+  "url": "https://go.vansh.nyc/1mC",
+  "locations": [
+   "Bellevue, WA"
+  ],
+  "posted_at": "2026-11-06",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/1md": {
+  "company": "L.L.Bean",
+  "title": "Business Analyst/Data Analyst Intern",
+  "url": "https://go.vansh.nyc/1mD",
+  "locations": [
+   "Freeport, ME"
+  ],
+  "posted_at": "2026-11-06",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/1me": {
+  "company": "Conifer Health Solutions",
+  "title": "BI Developer Intern",
+  "url": "https://go.vansh.nyc/1mE",
+  "locations": [
+   "Dallas, TX"
+  ],
+  "posted_at": "2026-09-21",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/1mf": {
+  "company": "UMG Contingent Worker Company",
+  "title": "Data Engineer Co-op",
+  "url": "https://go.vansh.nyc/1mF",
   "locations": [
    "Remote",
    "United States"
   ],
-  "posted_at": "2026-11-07",
-  "source": "vanshb03"
- },
- "url:https://go.vansh.nyc/1mc": {
-  "company": "Kinaxis",
-  "title": "Full Stack Developer Intern, C#",
-  "url": "https://go.vansh.nyc/1mc",
-  "locations": [
-   "Ottawa, Canada"
-  ],
-  "posted_at": "2026-11-07",
-  "source": "vanshb03"
- },
- "url:https://go.vansh.nyc/1md": {
-  "company": "Kinaxis",
-  "title": "Developer Intern, Back End Technologies",
-  "url": "https://go.vansh.nyc/1md",
-  "locations": [
-   "Ottawa, Canada"
-  ],
-  "posted_at": "2026-11-07",
-  "source": "vanshb03"
- },
- "url:https://go.vansh.nyc/1me": {
-  "company": "Springs Window Fashions",
-  "title": "Textile Engineering Analytics & Software Intern",
-  "url": "https://go.vansh.nyc/1me",
-  "locations": [
-   "Middleton, WI"
-  ],
-  "posted_at": "2026-11-07",
-  "source": "vanshb03"
- },
- "url:https://go.vansh.nyc/1mf": {
-  "company": "Springs Window Fashions",
-  "title": "Software Engineering Intern",
-  "url": "https://go.vansh.nyc/1mf",
-  "locations": [
-   "Long Island City, NY"
-  ],
-  "posted_at": "2026-11-07",
+  "posted_at": "2026-11-08",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/1mg": {
@@ -52523,6 +52523,87 @@
    "United States"
   ],
   "posted_at": "2026-11-06",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/1ms": {
+  "company": "Group 1 Automotive",
+  "title": "IT Intern",
+  "url": "https://go.vansh.nyc/1ms",
+  "locations": [
+   "Houston, TX"
+  ],
+  "posted_at": "2026-11-07",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/1mt": {
+  "company": "Rambus",
+  "title": "Digital Design Intern",
+  "url": "https://go.vansh.nyc/1mt",
+  "locations": [
+   "Johns Creek, GA"
+  ],
+  "posted_at": "2026-11-07",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/1mu": {
+  "company": "Rockefeller Capital Management",
+  "title": "Analyst Intern, Core Platforms",
+  "url": "https://go.vansh.nyc/1mu",
+  "locations": [
+   "Hamilton, NJ"
+  ],
+  "posted_at": "2026-11-07",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/1mv": {
+  "company": "Rockefeller Capital Management",
+  "title": "Analyst Intern, Information Security",
+  "url": "https://go.vansh.nyc/1mv",
+  "locations": [
+   "New York, NY"
+  ],
+  "posted_at": "2026-11-07",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/1mw": {
+  "company": "SDSU Research Foundation",
+  "title": "Undergraduate Student Intern, Port Contamination Project",
+  "url": "https://go.vansh.nyc/1mw",
+  "locations": [
+   "San Diego, CA"
+  ],
+  "posted_at": "2026-11-07",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/1mx": {
+  "company": "United Wholesale Mortgage",
+  "title": "Technology Intern Program",
+  "url": "https://go.vansh.nyc/1mx",
+  "locations": [
+   "Remote",
+   "United States"
+  ],
+  "posted_at": "2026-11-07",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/1my": {
+  "company": "West Bend Insurance",
+  "title": "Data Solution Engineer Intern",
+  "url": "https://go.vansh.nyc/1my",
+  "locations": [
+   "West Bend, WI"
+  ],
+  "posted_at": "2026-11-07",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/1mz": {
+  "company": "General Dynamics Mission Systems",
+  "title": "Software Engineering Intern",
+  "url": "https://go.vansh.nyc/1mz",
+  "locations": [
+   "Lakewood, OH"
+  ],
+  "posted_at": "2026-11-05",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/1s": {
@@ -55362,13 +55443,13 @@
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/cc": {
-  "company": "Pebl",
-  "title": "Software Engineering Intern",
-  "url": "https://go.vansh.nyc/Cc",
+  "company": "Dominion Energy",
+  "title": "Electric Transmission Asset Analyst Intern - Digital Solutions Team",
+  "url": "https://go.vansh.nyc/cc",
   "locations": [
-   "Toronto, Canada"
+   "Glen Allen, VA"
   ],
-  "posted_at": "2026-10-13",
+  "posted_at": "2026-10-19",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/cd": {
@@ -99699,14 +99780,14 @@
   "source": "workday"
  },
  "url:https://kla.wd1.myworkdayjobs.com/ur/job/milpitas-ca/software-engineer-intern--c----linux----summer-2027_2641878": {
-  "company": "kla",
-  "title": "Software Engineer Intern (C++, Linux) – Summer 2027",
-  "url": "https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/Software-Engineer-Intern--C----Linux----Summer-2027_2641878",
+  "company": "KLA Corporation",
+  "title": "Software Engineer Intern - C++ - Linux",
+  "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer-Intern--C----Linux----Summer-2027_2641878",
   "locations": [
    "Milpitas, CA"
   ],
-  "posted_at": "2026-10-24",
-  "source": "workday"
+  "posted_at": "2026-10-23",
+  "source": "simplify"
  },
  "url:https://kla.wd1.myworkdayjobs.com/ur/job/milpitas-ca/software-engineer-intern_2642721": {
   "company": "kla",
@@ -99939,14 +100020,15 @@
   "source": "workday"
  },
  "url:https://labcorp.wd1.myworkdayjobs.com/external/job/durham-nc/co-op---full-stack-life-sciences-engineer_2639083": {
-  "company": "labcorp",
-  "title": "Co-op - Full-Stack Life Sciences Engineer",
+  "company": "LabCorp",
+  "title": "Full-Stack Life Sciences Software Engineer Co-op",
   "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Co-op---Full-Stack-Life-Sciences-Engineer_2639083",
   "locations": [
-   "Durham NC"
+   "Durham, NC",
+   "Burlington, NC"
   ],
-  "posted_at": "2026-11-03",
-  "source": "workday"
+  "posted_at": "2026-11-02",
+  "source": "simplify"
  },
  "url:https://labcorp.wd1.myworkdayjobs.com/external/job/durham-nc/intern---facilities---engineering_2635310": {
   "company": "labcorp",
@@ -112656,24 +112738,24 @@
   "source": "simplify"
  },
  "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-colorado-colorado-springs/xmlname-2027-software-engineering-intern---colorado-springs_r10256259": {
-  "company": "ngc",
-  "title": "2027 Software Engineering Intern - Colorado Springs",
+  "company": "Northrop Grumman",
+  "title": "Software Engineer Intern",
   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256259",
   "locations": [
-   "United States-Colorado-Colorado Springs"
+   "Colorado Springs, CO"
   ],
-  "posted_at": "2026-11-03",
-  "source": "workday"
+  "posted_at": "2026-10-16",
+  "source": "simplify"
  },
  "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-colorado-colorado-springs/xmlname-2027-software-engineering-intern---colorado-springs_r10257803": {
-  "company": "ngc",
-  "title": "2027 Software Engineering Intern - Colorado Springs",
+  "company": "Northrop Grumman",
+  "title": "Software Engineer Intern",
   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10257803",
   "locations": [
-   "United States-Colorado-Colorado Springs"
+   "Colorado Springs, CO"
   ],
-  "posted_at": "2026-11-03",
-  "source": "workday"
+  "posted_at": "2026-10-27",
+  "source": "simplify"
  },
  "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-colorado-colorado-springs/xmlname-2027-systems-engineering-intern---colorado-springs-co_r10256088": {
   "company": "ngc",
@@ -126780,7 +126862,7 @@
   "locations": [
    "Colorado Springs, CO"
   ],
-  "posted_at": "2026-10-08",
+  "posted_at": "2026-10-09",
   "source": "workday"
  },
  "url:https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/colorado-springs-co/mechanical-engineer-i--for-2026-interns-only-_r0030590": {
@@ -131749,7 +131831,7 @@
   "locations": [
    "Australia-New South Wales-Sydney"
   ],
-  "posted_at": "2026-10-08",
+  "posted_at": "2026-10-09",
   "source": "workday"
  },
  "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/australia-new-south-wales-sydney/unreal-engine-programmer-intern_r108327-1": {
@@ -131769,7 +131851,7 @@
   "locations": [
    "France-Paris"
   ],
-  "posted_at": "2026-10-08",
+  "posted_at": "2026-10-09",
   "source": "workday"
  },
  "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/indonesia-jakarta/tencent-cloud---solution-architecture-intern--gen-ai---cloud-indoensia-_r108354": {
@@ -131809,7 +131891,7 @@
   "locations": [
    "Japan-Tokyo-Business Tower"
   ],
-  "posted_at": "2026-10-08",
+  "posted_at": "2026-10-09",
   "source": "workday"
  },
  "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/japan-tokyo-business-tower/game-engineer--intern-_r107485-1": {
@@ -131819,7 +131901,7 @@
   "locations": [
    "Japan-Tokyo-Business Tower"
   ],
-  "posted_at": "2026-10-08",
+  "posted_at": "2026-10-09",
   "source": "workday"
  },
  "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/japan-tokyo-business-tower/game-research---development-intern--engine-research_r107024": {
@@ -131829,7 +131911,7 @@
   "locations": [
    "Japan-Tokyo-Business Tower"
   ],
-  "posted_at": "2026-10-08",
+  "posted_at": "2026-10-09",
   "source": "workday"
  },
  "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/japan-tokyo-mori-tower/tci-jp-business-development-intern-_r107887": {
@@ -131839,7 +131921,7 @@
   "locations": [
    "Japan-Tokyo-Mori Tower"
   ],
-  "posted_at": "2026-10-08",
+  "posted_at": "2026-10-09",
   "source": "workday"
  },
  "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/malaysia-kuala-lumpur/business-development-intern_r107011": {
@@ -131849,7 +131931,7 @@
   "locations": [
    "Malaysia-Kuala Lumpur"
   ],
-  "posted_at": "2026-10-08",
+  "posted_at": "2026-10-09",
   "source": "workday"
  },
  "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/malaysia-kuala-lumpur/game-site-reliability-engineer-intern--malaysia-_r107623": {
@@ -131859,7 +131941,7 @@
   "locations": [
    "Malaysia-Kuala Lumpur"
   ],
-  "posted_at": "2026-10-08",
+  "posted_at": "2026-10-09",
   "source": "workday"
  },
  "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/malaysia-kuala-lumpur/tencent-cloud---business-development-interns--malaysia-_r107835": {
@@ -131899,7 +131981,7 @@
   "locations": [
    "New Zealand-Auckland"
   ],
-  "posted_at": "2026-10-08",
+  "posted_at": "2026-10-09",
   "source": "workday"
  },
  "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/new-zealand-auckland/research-intern--large-language-models_r108344-1": {
@@ -131969,7 +132051,7 @@
   "locations": [
    "Singapore-CapitaSky"
   ],
-  "posted_at": "2026-10-08",
+  "posted_at": "2026-10-09",
   "source": "workday"
  },
  "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/singapore-capitasky/cloud-engineer-intern_r107771": {
@@ -131979,7 +132061,7 @@
   "locations": [
    "Singapore-CapitaSky"
   ],
-  "posted_at": "2026-10-08",
+  "posted_at": "2026-10-09",
   "source": "workday"
  },
  "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/singapore-capitasky/coding-agent-research-intern_r108097": {
@@ -132009,7 +132091,7 @@
   "locations": [
    "Singapore-CapitaSky"
   ],
-  "posted_at": "2026-10-08",
+  "posted_at": "2026-10-09",
   "source": "workday"
  },
  "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/singapore-capitasky/data-engineer-intern_r108218": {
@@ -132029,7 +132111,7 @@
   "locations": [
    "Singapore-CapitaSky"
   ],
-  "posted_at": "2026-10-08",
+  "posted_at": "2026-10-09",
   "source": "workday"
  },
  "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/singapore-capitasky/data-science-intern--data-analytics---ai-_r108216": {
@@ -132049,7 +132131,7 @@
   "locations": [
    "Singapore-CapitaSky"
   ],
-  "posted_at": "2026-10-08",
+  "posted_at": "2026-10-09",
   "source": "workday"
  },
  "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/singapore-capitasky/data-science-intern_r107361-1": {
@@ -132059,7 +132141,7 @@
   "locations": [
    "Singapore-CapitaSky"
   ],
-  "posted_at": "2026-10-08",
+  "posted_at": "2026-10-09",
   "source": "workday"
  },
  "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/singapore-capitasky/data-scientist-intern_r107754": {
@@ -132069,7 +132151,7 @@
   "locations": [
    "Singapore-CapitaSky"
   ],
-  "posted_at": "2026-10-08",
+  "posted_at": "2026-10-09",
   "source": "workday"
  },
  "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/singapore-capitasky/game-ml-researcher-intern_r107258-1": {
@@ -132079,7 +132161,7 @@
   "locations": [
    "Singapore-CapitaSky"
   ],
-  "posted_at": "2026-10-08",
+  "posted_at": "2026-10-09",
   "source": "workday"
  },
  "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/singapore-capitasky/game-site-reliability-engineer-intern_r107377": {
@@ -132089,7 +132171,7 @@
   "locations": [
    "Singapore-CapitaSky"
   ],
-  "posted_at": "2026-10-08",
+  "posted_at": "2026-10-09",
   "source": "workday"
  },
  "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/singapore-capitasky/hunyuan-multimodal-reinforcement-learning--rl--research-intern_r107383": {
@@ -132099,7 +132181,7 @@
   "locations": [
    "Singapore-CapitaSky"
   ],
-  "posted_at": "2026-10-08",
+  "posted_at": "2026-10-09",
   "source": "workday"
  },
  "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/singapore-capitasky/interactive-vision-model-research-intern_r108277": {
@@ -132149,7 +132231,7 @@
   "locations": [
    "Singapore-CapitaSky"
   ],
-  "posted_at": "2026-10-08",
+  "posted_at": "2026-10-09",
   "source": "workday"
  },
  "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/singapore-capitasky/tencent-cloud---edge-platform-product-solutions-architecture-intern---singapore_r107906": {
@@ -132169,7 +132251,7 @@
   "locations": [
    "Singapore-CapitaSky"
   ],
-  "posted_at": "2026-10-08",
+  "posted_at": "2026-10-09",
   "source": "workday"
  },
  "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/singapore-capitasky/wechat---backend-engineer-intern_r107928": {
@@ -132199,7 +132281,7 @@
   "locations": [
    "Singapore-CapitaSky"
   ],
-  "posted_at": "2026-10-08",
+  "posted_at": "2026-10-09",
   "source": "workday"
  },
  "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/singapore-capitasky/world-model-research-intern_r108096": {
@@ -132219,7 +132301,7 @@
   "locations": [
    "Singapore-CapitaSky"
   ],
-  "posted_at": "2026-10-08",
+  "posted_at": "2026-10-09",
   "source": "workday"
  },
  "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/singapore-capitasky/xmlname-3d-model--scene--and-avatar-generation-algorithm-research-intern_r106126-1": {
@@ -132239,7 +132321,7 @@
   "locations": [
    "S.Korea-Seoul"
   ],
-  "posted_at": "2026-10-08",
+  "posted_at": "2026-10-09",
   "source": "workday"
  },
  "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/skorea-seoul/nlp-research-intern_r108056": {
@@ -132249,7 +132331,7 @@
   "locations": [
    "S.Korea-Seoul"
   ],
-  "posted_at": "2026-10-08",
+  "posted_at": "2026-10-09",
   "source": "workday"
  },
  "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/skorea-seoul/tci-kr-business-development-intern_r107790": {
@@ -132259,7 +132341,7 @@
   "locations": [
    "S.Korea-Seoul"
   ],
-  "posted_at": "2026-10-08",
+  "posted_at": "2026-10-09",
   "source": "workday"
  },
  "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/thailand-bangkok/business-development-intern_r107012": {
@@ -132269,7 +132351,7 @@
   "locations": [
    "Thailand-Bangkok"
   ],
-  "posted_at": "2026-10-08",
+  "posted_at": "2026-10-09",
   "source": "workday"
  },
  "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/united-kingdom-london/ai-native-game-design-intern_r108252-1": {
@@ -132289,7 +132371,7 @@
   "locations": [
    "United Kingdom-London"
   ],
-  "posted_at": "2026-10-08",
+  "posted_at": "2026-10-09",
   "source": "workday"
  },
  "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/united-kingdom-london/game-development-tools-intern--ai-focus-_r108251": {
@@ -132379,7 +132461,7 @@
   "locations": [
    "US-California-Los Angeles"
   ],
-  "posted_at": "2026-10-08",
+  "posted_at": "2026-10-09",
   "source": "workday"
  },
  "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/us-california-palo-alto/cloud-media-services-intern_r107794": {
@@ -132409,7 +132491,7 @@
   "locations": [
    "US-California-Palo Alto"
   ],
-  "posted_at": "2026-10-08",
+  "posted_at": "2026-10-09",
   "source": "workday"
  },
  "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/us-california-palo-alto/data-science-intern_r108213": {
@@ -132429,7 +132511,7 @@
   "locations": [
    "US-California-Palo Alto"
   ],
-  "posted_at": "2026-10-08",
+  "posted_at": "2026-10-09",
   "source": "workday"
  },
  "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/us-california-palo-alto/hunyuan-multimodal-algorithm-researcher-intern-omni-modal---_r107051": {
@@ -132439,7 +132521,7 @@
   "locations": [
    "US-California-Palo Alto"
   ],
-  "posted_at": "2026-10-08",
+  "posted_at": "2026-10-09",
   "source": "workday"
  },
  "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/us-california-palo-alto/it-operations-intern_r108176-2": {
@@ -132499,7 +132581,7 @@
   "locations": [
    "US-California-Palo Alto"
   ],
-  "posted_at": "2026-10-08",
+  "posted_at": "2026-10-09",
   "source": "workday"
  },
  "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/us-washington-bellevue/game-research---development-intern--engine-research_r107363-1": {
@@ -132519,7 +132601,7 @@
   "locations": [
    "US-Washington-Bellevue"
   ],
-  "posted_at": "2026-10-08",
+  "posted_at": "2026-10-09",
   "source": "workday"
  },
  "url:https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042": {
