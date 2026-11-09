@@ -23634,14 +23634,18 @@
   "source": "workday"
  },
  "url:https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/mossville-illinois/xmlname-2027-summer-corporate-intern---autonomy---intelligent-systems-engineering_r0000392394": {
-  "company": "cat",
-  "title": "2027 Summer Corporate Intern - Autonomy & Intelligent Systems Engineering",
+  "company": "Caterpillar",
+  "title": "Corporate Intern - Autonomy & Intelligent Systems Engineering",
   "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Autonomy---Intelligent-Systems-Engineering_R0000392394",
   "locations": [
-   "6 Locations"
+   "Peoria, IL",
+   "SF",
+   "Pittsburgh, PA",
+   "Mossville, IL",
+   "Irving, TX"
   ],
-  "posted_at": "2026-10-10",
-  "source": "workday"
+  "posted_at": "2026-09-03",
+  "source": "simplify"
  },
  "url:https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/nashville-tennessee/xmlname-2027-summer-intern---information-technology_r0000387802": {
   "company": "cat",
@@ -23654,14 +23658,16 @@
   "source": "workday"
  },
  "url:https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/peoria-illinois/xmlname-2027-summer-corporate-intern---digital-and-analytics_r0000392335": {
-  "company": "cat",
-  "title": "2027 Summer Corporate Intern – Digital and Analytics",
+  "company": "Caterpillar",
+  "title": "Corporate Intern - Digital and Analytics",
   "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Digital-and-Analytics_R0000392335",
   "locations": [
-   "3 Locations"
+   "Peoria, IL",
+   "Chicago, IL",
+   "Irving, TX"
   ],
-  "posted_at": "2026-10-10",
-  "source": "workday"
+  "posted_at": "2026-09-03",
+  "source": "simplify"
  },
  "url:https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/peoria-illinois/xmlname-2027-summer-corporate-intern---product-support-engineering_r0000391403": {
   "company": "cat",
@@ -117768,6 +117774,16 @@
   ],
   "posted_at": "2026-11-06",
   "source": "speedyapply"
+ },
+ "url:https://paypal.wd1.myworkdayjobs.com/jobs/job/bangalore-karnataka-india/software-engineer-intern_r0138921": {
+  "company": "paypal",
+  "title": "Software Engineer Intern",
+  "url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Software-Engineer-Intern_R0138921",
+  "locations": [
+   "2 Locations"
+  ],
+  "posted_at": "2026-11-09",
+  "source": "workday"
  },
  "url:https://paypal.wd1.myworkdayjobs.com/jobs/job/san-jose-california-united-states-of-america/cybersecurity-intern---summer-2027_r0138587": {
   "company": "paypal",
