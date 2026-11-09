@@ -1,47 +1,51 @@
-# intern-radar weekly health — 2026-W45
+# intern-radar weekly health — 2026-W46
 
-Runs this week: 238
+Runs this week: 217
 
 | family | matched postings | unique finds (30 d) |
 |---|---|---|
-| ashby | 75558 | 198 |
-| greenhouse | 235061 | 745 |
-| lever | 34378 | 133 |
-| simplify | 301473 | 735 |
-| smartrecruiters | 47861 | 255 |
-| speedyapply | 179991 | 276 |
-| vanshb03 | 341366 | 1362 |
-| workday | 540089 | 3310 |
+| ashby | 69787 | 204 |
+| greenhouse | 218968 | 762 |
+| lever | 37603 | 152 |
+| simplify | 293376 | 829 |
+| smartrecruiters | 42860 | 274 |
+| speedyapply | 161201 | 266 |
+| vanshb03 | 434760 | 1828 |
+| workday | 496450 | 3548 |
 
 ## Head start over simplify (median hours, n ≥ 5)
 
-- ashby: +0.0 h (n=89)
-- greenhouse: +0.0 h (n=202)
-- lever: +0.0 h (n=23)
-- smartrecruiters: +0.0 h (n=16)
-- speedyapply: -17.0 h (n=297)
-- vanshb03: -19.2 h (n=144)
-- workday: +1.4 h (n=505)
+- ashby: +0.0 h (n=92)
+- greenhouse: +0.0 h (n=221)
+- lever: +0.0 h (n=34)
+- smartrecruiters: +0.0 h (n=20)
+- speedyapply: -17.0 h (n=333)
+- vanshb03: -19.2 h (n=143)
+- workday: +0.5 h (n=535)
 
-## Disabled boards (13)
+## Disabled boards (16)
 
 - ashby:atomicsemi
 - ashby:maximor
+- greenhouse:altmansoloncampus
 - greenhouse:amplitude
 - greenhouse:carbonrobotics
 - greenhouse:clickhouse
 - greenhouse:glossgenius
 - greenhouse:oldmissioncapital
+- greenhouse:pretiuminternships2027
 - greenhouse:temporaltechnologies
 - greenhouse:visiersolutionsinc
 - greenhouse:webflow
 - workday:comcast.wd5/comcast_careers
 - workday:mii.wd5/universityrecruiting
-- workday:sallie-mae.wd5/careers
+- workday:nxp.wd3/careers
+- workday:osv-rubicon.wd5/magnitecareers
 
-## Deep (consider pinning) boards (53)
+## Deep (consider pinning) boards (55)
 
 - workday:asml.wd3/asmlext1
+- workday:astrazeneca.wd3/careers
 - workday:barclays.wd3/external_career_site_barclays
 - workday:basspro.wd1/careers
 - workday:caci.wd1/external
@@ -81,6 +85,7 @@ Runs this week: 238
 - workday:pae.wd1/amentum_careers
 - workday:paloaltonetworks.wd5/hidden-private-pawn-temp-gateway-147258369
 - workday:pwc.wd3/us_entry_level_careers
+- workday:rbc.wd3/rbcglobal1
 - workday:regeneron.wd1/careers
 - workday:roche.wd3/roche-ext
 - workday:roche.wd3/rog-a2o-gene
