@@ -917,7 +917,7 @@
   "locations": [
    "Shreveport, LA"
   ],
-  "posted_at": "2026-10-08",
+  "posted_at": "2026-11-09",
   "source": "workday"
  },
  "url:https://aep.wd1.myworkdayjobs.com/aepcareersite/job/tulsa-ok/engineering-intern---tulsa--ok-and-nearby-areas_r18664": {
@@ -5712,14 +5712,14 @@
   "source": "workday"
  },
  "url:https://amgen.wd1.myworkdayjobs.com/careers/job/united-states---remote/grad-intern---r-d-tsrs-data-sciences-operations---analytic--summer-2027-_r-260585": {
-  "company": "amgen",
-  "title": "Grad Intern – R&D TSRS Data Sciences Operations & Analytic (Summer 2027)",
+  "company": "Amgen",
+  "title": "Graduate Intern",
   "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---R-D-TSRS-Data-Sciences-Operations---Analytic--Summer-2027-_R-260585",
   "locations": [
-   "United States - Remote"
+   "Remote in USA"
   ],
   "posted_at": "2026-11-04",
-  "source": "workday"
+  "source": "simplify"
  },
  "url:https://amgen.wd1.myworkdayjobs.com/careers/job/united-states---remote/grad-intern---software-engineer---amgen-s-technology---medical-organizations--summer-2027-_r-255745": {
   "company": "Amgen",
@@ -26207,6 +26207,16 @@
   "posted_at": "2026-10-23",
   "source": "vanshb03"
  },
+ "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/san-jose-california-us/software-engineer-full-stack---backend-i--intern----united-states_2024647-1": {
+  "company": "cisco",
+  "title": "Software Engineer Full-Stack / Backend I (Intern) – United States",
+  "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Intern----United-States_2024647-1",
+  "locations": [
+   "3 Locations"
+  ],
+  "posted_at": "2026-11-09",
+  "source": "workday"
+ },
  "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/san-jose-california-us/software-engineer-full-stack---backend-i--intern----united-states_2025924": {
   "company": "cisco",
   "title": "Software Engineer Full Stack / Backend I (Intern) – United States",
@@ -35975,14 +35985,14 @@
   "source": "workday"
  },
  "url:https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/usa-nj-egg-harbor-township/gdit-summer-internship-program---summer-2027-software-development-internship--_rq230643": {
-  "company": "gdit",
-  "title": "GDIT Summer Internship Program-Summer 2027 Software Development Internship -Egg Harbor Township New Jersey",
+  "company": "General Dynamics Information Technology",
+  "title": "Software Developer Intern",
   "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-NJ-Egg-Harbor-Township/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship--_RQ230643",
   "locations": [
-   "USA NJ Egg Harbor Township"
+   "Egg Harbor Township, NJ"
   ],
-  "posted_at": "2026-11-02",
-  "source": "workday"
+  "posted_at": "2026-10-19",
+  "source": "simplify"
  },
  "url:https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/usa-va-falls-church/financial-data-analyst-intern--seasonal-_rq230761": {
   "company": "gdit",
@@ -53275,6 +53285,48 @@
   "posted_at": "2026-10-28",
   "source": "vanshb03"
  },
+ "url:https://go.vansh.nyc/1og": {
+  "company": "Red Ventures",
+  "title": "Launch Program Data Science Intern",
+  "url": "https://go.vansh.nyc/1og",
+  "locations": [
+   "Charlotte, NC"
+  ],
+  "posted_at": "2026-09-25",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/1oh": {
+  "company": "SageSure",
+  "title": "Software Engineer Intern",
+  "url": "https://go.vansh.nyc/1oh",
+  "locations": [
+   "Chicago, IL",
+   "Jersey City, NJ",
+   "Mountain View, CA"
+  ],
+  "posted_at": "2026-10-28",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/1oi": {
+  "company": "SageSure",
+  "title": "Data Science Intern",
+  "url": "https://go.vansh.nyc/1oi",
+  "locations": [
+   "Jersey City, NJ"
+  ],
+  "posted_at": "2026-10-28",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/1oj": {
+  "company": "SageSure",
+  "title": "Data Science Product Analyst Intern",
+  "url": "https://go.vansh.nyc/1oj",
+  "locations": [
+   "Fairfield, CA"
+  ],
+  "posted_at": "2026-10-29",
+  "source": "vanshb03"
+ },
  "url:https://go.vansh.nyc/1s": {
   "company": "Pinterest",
   "title": "Software Engineer Intern",
@@ -59203,12 +59255,26 @@
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/ly": {
-  "company": "OnLogic",
-  "title": "Firmware Engineer Co-op",
-  "url": "https://go.vansh.nyc/LY",
+  "company": "AeroVironment",
+  "title": "Embedded Software Engineer Intern",
+  "url": "https://go.vansh.nyc/Ly",
   "locations": [
-   "South Burlington, VT",
-   "Cary, NC"
+   "Dayton, OH",
+   "Annapolis Junction, MD",
+   "Pottstown, PA",
+   "Albuquerque, NM",
+   "Sunrise, FL",
+   "Arlington, VA",
+   "Melbourne, FL",
+   "Petaluma, CA",
+   "Centreville, VA",
+   "Lawrence, KS",
+   "Minneapolis, MN",
+   "San Luis Obispo, CA",
+   "Huntsville, AL",
+   "San Diego, CA",
+   "Moorpark, CA",
+   "Simi Valley, CA"
   ],
   "posted_at": "2026-09-01",
   "source": "vanshb03"
@@ -59583,13 +59649,13 @@
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/mv": {
-  "company": "Booz Allen",
-  "title": "Applied AI Intern",
-  "url": "https://go.vansh.nyc/MV",
+  "company": "Coinbase",
+  "title": "Data Engineer Intern",
+  "url": "https://go.vansh.nyc/Mv",
   "locations": [
-   "Washington, DC"
+   "San Francisco, CA"
   ],
-  "posted_at": "2026-09-14",
+  "posted_at": "2026-09-09",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/mw": {
@@ -77854,6 +77920,16 @@
   "posted_at": "2026-10-14",
   "source": "greenhouse"
  },
+ "url:https://job-boards.greenhouse.io/kensingtontours/jobs/5289223007": {
+  "company": "Kensington",
+  "title": "BI/Data Analyst Intern",
+  "url": "https://job-boards.greenhouse.io/kensingtontours/jobs/5289223007",
+  "locations": [
+   "Toronto, ON, Canada"
+  ],
+  "posted_at": "2026-11-09",
+  "source": "greenhouse"
+ },
  "url:https://job-boards.greenhouse.io/khanacademy/jobs/8250259": {
   "company": "Khan Academy",
   "title": "Software Engineer Intern - Summer 2027",
@@ -93336,6 +93412,16 @@
   "posted_at": "2026-11-05",
   "source": "smartrecruiters"
  },
+ "url:https://jobs.smartrecruiters.com/aecom2/744000160640529": {
+  "company": "AECOM",
+  "title": "Mechanical Engineering Intern",
+  "url": "https://jobs.smartrecruiters.com/AECOM2/744000160640529",
+  "locations": [
+   "Roanoke, VA, United States"
+  ],
+  "posted_at": "2026-11-09",
+  "source": "smartrecruiters"
+ },
  "url:https://jobs.smartrecruiters.com/boschgroup/744000082485386": {
   "company": "Bosch Group",
   "title": "MFG Test Technician Intern",
@@ -96517,6 +96603,26 @@
    "San Francisco, CALIFORNIA, United States"
   ],
   "posted_at": "2026-11-05",
+  "source": "smartrecruiters"
+ },
+ "url:https://jobs.smartrecruiters.com/nbcuniversal3/744000160639019": {
+  "company": "NBCUniversal",
+  "title": "Universal Television Entertainment Production, Development & Programming Internships – Summer 2027",
+  "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160639019",
+  "locations": [
+   "Universal City, CA, United States"
+  ],
+  "posted_at": "2026-11-09",
+  "source": "smartrecruiters"
+ },
+ "url:https://jobs.smartrecruiters.com/nbcuniversal3/744000160639069": {
+  "company": "NBCUniversal",
+  "title": "Universal Television Entertainment Production, Development & Programming Internships – Summer 2027",
+  "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160639069",
+  "locations": [
+   "New York, NY, United States"
+  ],
+  "posted_at": "2026-11-09",
   "source": "smartrecruiters"
  },
  "url:https://jobs.smartrecruiters.com/paconsulting/744000156260214": {
@@ -105837,7 +105943,7 @@
   "locations": [
    "Santiago, Chile"
   ],
-  "posted_at": "2026-10-30",
+  "posted_at": "2026-11-09",
   "source": "workday"
  },
  "url:https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/santo-domingo-dominican-republic/internship-program--americas--2027---dominican-republic_r-288238-1": {
@@ -114954,6 +115060,16 @@
   "posted_at": "2026-11-05",
   "source": "workday"
  },
+ "url:https://novanta.wd5.myworkdayjobs.com/novanta-careers/job/brno/master-data-intern--part-time-_r009887": {
+  "company": "novanta",
+  "title": "Master Data Intern (Part-time)",
+  "url": "https://novanta.wd5.myworkdayjobs.com/novanta-careers/job/Brno/Master-Data-Intern--Part-time-_R009887",
+  "locations": [
+   "Brno"
+  ],
+  "posted_at": "2026-11-09",
+  "source": "workday"
+ },
  "url:https://novatechengineering.applytojob.com/apply/prjzdfwzee/software-development-coop-located-onsite-in-willmar-mn": {
   "company": "Nova-Tech Engineering",
   "title": "Software Development Co-Op - Located Onsite in Willmar - MN",
@@ -121601,7 +121717,7 @@
   "locations": [
    "Cleveland, OH"
   ],
-  "posted_at": "2026-10-02",
+  "posted_at": "2026-11-09",
   "source": "workday"
  },
  "url:https://rb.wd5.myworkdayjobs.com/frs/job/cleveland-oh/research-intern---2027_r-0000033640": {
@@ -121611,7 +121727,7 @@
   "locations": [
    "Cleveland, OH"
   ],
-  "posted_at": "2026-10-02",
+  "posted_at": "2026-11-09",
   "source": "workday"
  },
  "url:https://rb.wd5.myworkdayjobs.com/frs/job/cleveland-oh/scs---advanced-analytics-intern---2027_r-0000033622": {
