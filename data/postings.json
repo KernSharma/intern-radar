@@ -9560,14 +9560,14 @@
   "source": "simplify"
  },
  "url:https://athene.wd5.myworkdayjobs.com/athene_careers/job/west-des-moines-iowa/operations-reporting---analytics-intern_r255268": {
-  "company": "athene",
+  "company": "Athene",
   "title": "Operations Reporting & Analytics Intern",
   "url": "https://athene.wd5.myworkdayjobs.com/athene_careers/job/West-Des-Moines-Iowa/Operations-Reporting---Analytics-Intern_R255268",
   "locations": [
-   "West Des Moines, Iowa"
+   "West Des Moines, IA"
   ],
-  "posted_at": "",
-  "source": "workday"
+  "posted_at": "2026-10-21",
+  "source": "simplify"
  },
  "url:https://athene.wd5.myworkdayjobs.com/athene_careers/job/west-des-moines-iowa/software-developer-internship-_r255125": {
   "company": "Athene",
@@ -25323,6 +25323,16 @@
   "posted_at": "",
   "source": "workday"
  },
+ "url:https://ciena.wd5.myworkdayjobs.com/careers/job/ottawa/hardware-engineering-co-op--4-months-_r032055": {
+  "company": "ciena",
+  "title": "Hardware Engineering Co-op (4 Months)",
+  "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Engineering-Co-op--4-Months-_R032055",
+  "locations": [
+   "Ottawa"
+  ],
+  "posted_at": "2026-11-09",
+  "source": "workday"
+ },
  "url:https://ciena.wd5.myworkdayjobs.com/careers/job/ottawa/hardware-engineering-co-op--winter-2027-_r032054": {
   "company": "ciena",
   "title": "Hardware Engineering Co-op (Winter 2027)",
@@ -26443,6 +26453,16 @@
    "London, UK"
   ],
   "posted_at": "2026-09-01",
+  "source": "simplify"
+ },
+ "url:https://citi.wd5.myworkdayjobs.com/2/job/london--united-kingdom/technology---application-development--summer-analyst--united-kingdom---london--2027_261007037": {
+  "company": "Citi",
+  "title": "Summer Analyst Intern - Application Development",
+  "url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Technology---Application-Development--Summer-Analyst--United-Kingdom---London--2027_261007037",
+  "locations": [
+   "London, UK"
+  ],
+  "posted_at": "2026-11-09",
   "source": "simplify"
  },
  "url:https://citi.wd5.myworkdayjobs.com/2/job/mississauga-ontario-canada/technology--application-development--summer-analyst--mississauga--canada--2027_261003301": {
@@ -28563,7 +28583,7 @@
   "locations": [
    "Chicago IL USA"
   ],
-  "posted_at": "2026-10-09",
+  "posted_at": "2026-10-10",
   "source": "workday"
  },
  "url:https://crowe.wd12.myworkdayjobs.com/external_careers/job/chicago-il-usa/risk-technology-intern_r-71051": {
@@ -36457,6 +36477,16 @@
    "Muskegon"
   ],
   "posted_at": "2026-10-14",
+  "source": "workday"
+ },
+ "url:https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/niskayuna/ge-aerospace-research---controls---optimization-internship--2027_r5043004-1": {
+  "company": "geaerospace",
+  "title": "GE Aerospace Research - Controls & Optimization Internship, 2027",
+  "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Niskayuna/GE-Aerospace-Research---Controls---Optimization-Internship--2027_R5043004-1",
+  "locations": [
+   "Niskayuna"
+  ],
+  "posted_at": "2026-11-09",
   "source": "workday"
  },
  "url:https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/pomigliano-darco/intern---airfoils-manufacturing-engineer_r5039304-1": {
@@ -53403,6 +53433,70 @@
   "posted_at": "2026-11-09",
   "source": "vanshb03"
  },
+ "url:https://go.vansh.nyc/1ol": {
+  "company": "Apache Industrial",
+  "title": "AI Implementation Intern",
+  "url": "https://go.vansh.nyc/1ol",
+  "locations": [
+   "Houston, TX"
+  ],
+  "posted_at": "2026-11-09",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/1om": {
+  "company": "General Dynamics Mission Systems",
+  "title": "Full-Stack Software Engineer Intern",
+  "url": "https://go.vansh.nyc/1om",
+  "locations": [
+   "Chantilly, VA",
+   "Pittsfield, MA",
+   "Scottsdale, AZ"
+  ],
+  "posted_at": "2026-11-09",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/1on": {
+  "company": "General Dynamics Mission Systems",
+  "title": "Full-Stack Application Development Intern",
+  "url": "https://go.vansh.nyc/1on",
+  "locations": [
+   "Chantilly, VA",
+   "Pittsfield, MA",
+   "Scottsdale, AZ"
+  ],
+  "posted_at": "2026-11-09",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/1oo": {
+  "company": "Paccar",
+  "title": "Data Analyst Intern",
+  "url": "https://go.vansh.nyc/1oo",
+  "locations": [
+   "Chillicothe, OH"
+  ],
+  "posted_at": "2026-11-09",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/1op": {
+  "company": "Zoetis",
+  "title": "IT/OT Security Intern",
+  "url": "https://go.vansh.nyc/1op",
+  "locations": [
+   "Kalamazoo, MI"
+  ],
+  "posted_at": "2026-11-09",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/1oq": {
+  "company": "CACI",
+  "title": "Cyber Security Intern",
+  "url": "https://go.vansh.nyc/1oq",
+  "locations": [
+   "Sterling, VA"
+  ],
+  "posted_at": "2026-11-09",
+  "source": "vanshb03"
+ },
  "url:https://go.vansh.nyc/1s": {
   "company": "Pinterest",
   "title": "Software Engineer Intern",
@@ -61071,14 +61165,13 @@
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/rv": {
-  "company": "TPG",
-  "title": "Research Assistant Intern, Data Analytics and Reporting",
-  "url": "https://go.vansh.nyc/RV",
+  "company": "Qualcomm",
+  "title": "IT Infrastructure & Cloud Engineering Intern",
+  "url": "https://go.vansh.nyc/Rv",
   "locations": [
-   "Remote",
-   "United States"
+   "San Diego, CA"
   ],
-  "posted_at": "2026-10-21",
+  "posted_at": "2026-10-18",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/rw": {
@@ -72128,6 +72221,16 @@
   "posted_at": "2026-10-21",
   "source": "workday"
  },
+ "url:https://jj.wd5.myworkdayjobs.com/jj/job/beerse-antwerp-belgium/internship---integrated-data-analytics-and-reporting_r-109909": {
+  "company": "jj",
+  "title": "Internship - Integrated Data Analytics and Reporting",
+  "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Beerse-Antwerp-Belgium/Internship---Integrated-Data-Analytics-and-Reporting_R-109909",
+  "locations": [
+   "Beerse, Antwerp, Belgium"
+  ],
+  "posted_at": "2026-11-09",
+  "source": "workday"
+ },
  "url:https://jj.wd5.myworkdayjobs.com/jj/job/cambridge-massachusetts-united-states-of-america/summer-intern--digital-signal--imaging-ai_r-103933": {
   "company": "jj",
   "title": "Summer intern, Digital Signal/ Imaging AI",
@@ -76021,6 +76124,16 @@
   "posted_at": "2026-09-29",
   "source": "greenhouse"
  },
+ "url:https://job-boards.greenhouse.io/enova/jobs/8366036": {
+  "company": "Enova International",
+  "title": "Analytics Internship Summer 2027 (Hybrid)",
+  "url": "https://job-boards.greenhouse.io/enova/jobs/8366036",
+  "locations": [
+   "Chicago, IL"
+  ],
+  "posted_at": "2026-11-09",
+  "source": "greenhouse"
+ },
  "url:https://job-boards.greenhouse.io/eqtcorporation/jobs/5420621008": {
   "company": "EQT Corporation",
   "title": "Midstream Facilities Engineer Intern",
@@ -76494,14 +76607,14 @@
   "source": "greenhouse"
  },
  "url:https://job-boards.greenhouse.io/formlabsinternships/jobs/8223362": {
-  "company": "Formlabs Internships",
-  "title": "Desktop Software Intern (Summer 2027)",
+  "company": "Formlabs",
+  "title": "Desktop Software Intern - Summer 2027",
   "url": "https://job-boards.greenhouse.io/formlabsinternships/jobs/8223362",
   "locations": [
    "Somerville, MA"
   ],
-  "posted_at": "2026-09-28",
-  "source": "greenhouse"
+  "posted_at": "2026-09-29",
+  "source": "speedyapply"
  },
  "url:https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003": {
   "company": "Freeform",
@@ -96761,6 +96874,96 @@
   "posted_at": "2026-11-09",
   "source": "smartrecruiters"
  },
+ "url:https://jobs.smartrecruiters.com/nbcuniversal3/744000160648454": {
+  "company": "NBCUniversal",
+  "title": "Global Security & Intelligence Internships – Summer 2027",
+  "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160648454",
+  "locations": [
+   "Universal City, CA, United States"
+  ],
+  "posted_at": "2026-11-09",
+  "source": "smartrecruiters"
+ },
+ "url:https://jobs.smartrecruiters.com/nbcuniversal3/744000160649909": {
+  "company": "NBCUniversal",
+  "title": "Global Security & Intelligence Internships – Summer 2027",
+  "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160649909",
+  "locations": [
+   "New York, NY, United States"
+  ],
+  "posted_at": "2026-11-09",
+  "source": "smartrecruiters"
+ },
+ "url:https://jobs.smartrecruiters.com/nbcuniversal3/744000160649935": {
+  "company": "NBCUniversal",
+  "title": "Media Tech: Data, AI & Machine Learning Internships – Summer 2027",
+  "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160649935",
+  "locations": [
+   "Universal City, CA, United States"
+  ],
+  "posted_at": "2026-11-09",
+  "source": "smartrecruiters"
+ },
+ "url:https://jobs.smartrecruiters.com/nbcuniversal3/744000160650767": {
+  "company": "NBCUniversal",
+  "title": "Media Tech: Data, AI & Machine Learning Internships – Summer 2027",
+  "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160650767",
+  "locations": [
+   "New York, NY, United States"
+  ],
+  "posted_at": "2026-11-09",
+  "source": "smartrecruiters"
+ },
+ "url:https://jobs.smartrecruiters.com/nbcuniversal3/744000160651979": {
+  "company": "NBCUniversal",
+  "title": "Film Production & Development Internships – Summer 2027",
+  "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160651979",
+  "locations": [
+   "North Hollywood, CA, United States"
+  ],
+  "posted_at": "2026-11-09",
+  "source": "smartrecruiters"
+ },
+ "url:https://jobs.smartrecruiters.com/nbcuniversal3/744000160652254": {
+  "company": "NBCUniversal",
+  "title": "Media Tech: Product & Engineering Internships – Summer 2027",
+  "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160652254",
+  "locations": [
+   "Universal City, CA, United States"
+  ],
+  "posted_at": "2026-11-09",
+  "source": "smartrecruiters"
+ },
+ "url:https://jobs.smartrecruiters.com/nbcuniversal3/744000160652809": {
+  "company": "NBCUniversal",
+  "title": "Media Tech: Product & Engineering Internships – Summer 2027",
+  "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160652809",
+  "locations": [
+   "New York, NY, United States"
+  ],
+  "posted_at": "2026-11-09",
+  "source": "smartrecruiters"
+ },
+ "url:https://jobs.smartrecruiters.com/nbcuniversal3/744000160653439": {
+  "company": "NBCUniversal",
+  "title": "Media Tech: Product & Engineering Internships – Summer 2027",
+  "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160653439",
+  "locations": [
+   "Miami, FL, United States"
+  ],
+  "posted_at": "2026-11-09",
+  "source": "smartrecruiters"
+ },
+ "url:https://jobs.smartrecruiters.com/nbcuniversal3/744000160654878": {
+  "company": "NBCUniversal",
+  "title": "Media Tech: Cybersecurity, Governance & Security Engineering Internships – Summer 2027",
+  "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160654878",
+  "locations": [
+   "New York, NY, United States"
+  ],
+  "posted_at": "2026-11-09",
+  "source": "smartrecruiters"
+ },
  "url:https://jobs.smartrecruiters.com/paconsulting/744000156260214": {
   "company": "PA Consulting",
   "title": "Digital Intern - Digital - Digital & Data",
@@ -112517,7 +112720,7 @@
   "locations": [
    "Omaha, NE"
   ],
-  "posted_at": "2026-11-03",
+  "posted_at": "2026-11-09",
   "source": "workday"
  },
  "url:https://nebraskablue.wd1.myworkdayjobs.com/bcbsne/job/omaha-ne/healthcare-analytics-intern--starts-summer-2027_jr101437": {
