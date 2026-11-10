@@ -1861,6 +1861,7 @@
    "workday": "2026-11-03T17:47:04+00:00"
   },
   "url:https://artofproblemsolving.com/careers/job/8199296003?gh_jid=8199296003": {
+   "greenhouse": "2026-11-10T00:37:03+00:00",
    "simplify": "2026-11-10T00:07:05+00:00"
   },
   "url:https://asml.wd3.myworkdayjobs.com/asmlext1/job/delft-netherlands/computer-science---engineering-internship--performance-data-platform_j-00356806": {
@@ -4367,9 +4368,6 @@
   },
   "url:https://careers.jhuapl.edu/jobs/59901?icims=1": {
    "simplify": "2026-11-01T13:12:59+00:00"
-  },
-  "url:https://careers.jhuapl.edu/jobs/60432?icims=1": {
-   "simplify": "2026-10-11T00:29:04+00:00"
   },
   "url:https://careers.jhuapl.edu/jobs/60673?icims=1&lang=en-us": {
    "simplify": "2026-11-10T00:07:05+00:00"
@@ -7007,7 +7005,17 @@
    "simplify": "2026-11-01T13:12:59+00:00"
   },
   "url:https://fortrea.wd1.myworkdayjobs.com/fortrea/job/durham/aiml-rapid-development-studio-internship_266655": {
-   "simplify": "2026-11-10T00:07:05+00:00"
+   "simplify": "2026-11-10T00:07:05+00:00",
+   "workday": "2026-11-10T00:37:03+00:00"
+  },
+  "url:https://fortrea.wd1.myworkdayjobs.com/fortrea/job/leeds/internship_265818": {
+   "workday": "2026-11-10T00:37:03+00:00"
+  },
+  "url:https://fortrea.wd1.myworkdayjobs.com/fortrea/job/mexico-city/statistical-programmer--internship_265103": {
+   "workday": "2026-11-10T00:37:03+00:00"
+  },
+  "url:https://fortrea.wd1.myworkdayjobs.com/fortrea/job/warsaw/intern-it-product--commercial-_266138": {
+   "workday": "2026-11-10T00:37:03+00:00"
   },
   "url:https://franklin-electric.pinpointhq.com/en/postings/6599b7d3-a9c3-4156-9251-07249e42d998": {
    "speedyapply": "2026-11-01T13:12:59+00:00"
@@ -7567,6 +7575,9 @@
   "url:https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/bellevue/ge-vernova---agi---grid-foundational-models-intern---summer-2027_r5054820-2": {
    "simplify": "2026-10-14T15:07:05+00:00"
   },
+  "url:https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/bellevue/ge-vernova---energy-optimization-software-engineer-intern---summer-2027_r5050022-1": {
+   "workday": "2026-11-10T00:37:03+00:00"
+  },
   "url:https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/bellevue/ge-vernova---project-engineer-intern---summer-2027_r5050023-1": {
    "workday": "2026-10-16T14:12:13+00:00"
   },
@@ -7673,6 +7684,9 @@
   "url:https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/bellevue/ge-vernova---agi---grid-foundational-models-intern---summer-2027_r5054820-3": {
    "simplify": "2026-10-14T15:07:05+00:00",
    "vanshb03": "2026-10-17T19:18:45+00:00"
+  },
+  "url:https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/bellevue/ge-vernova---energy-optimization-software-engineer-intern---summer-2027_r5050022-2": {
+   "workday": "2026-11-10T00:37:03+00:00"
   },
   "url:https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/bellevue/ge-vernova---gridos-project-engineer-intern---summer-2027_r5050244-2": {
    "workday": "2026-11-08T19:07:05+00:00"
@@ -10957,6 +10971,9 @@
   },
   "url:https://go.vansh.nyc/1pd": {
    "vanshb03": "2026-11-09T21:37:00+00:00"
+  },
+  "url:https://go.vansh.nyc/1pe": {
+   "vanshb03": "2026-11-10T00:37:03+00:00"
   },
   "url:https://go.vansh.nyc/1pf": {
    "vanshb03": "2026-11-09T22:07:05+00:00"
@@ -17768,6 +17785,12 @@
   "url:https://job-boards.greenhouse.io/scm/jobs/721895": {
    "greenhouse": "2026-11-01T16:07:04+00:00"
   },
+  "url:https://job-boards.greenhouse.io/scoutmotors/jobs/5287122007": {
+   "greenhouse": "2026-11-10T00:37:03+00:00"
+  },
+  "url:https://job-boards.greenhouse.io/scoutmotors/jobs/5287136007": {
+   "greenhouse": "2026-11-10T00:37:03+00:00"
+  },
   "url:https://job-boards.greenhouse.io/scoutmotors/jobs/5287137007": {
    "simplify": "2026-11-10T00:07:05+00:00"
   },
@@ -19920,7 +19943,11 @@
    "vanshb03": "2026-10-24T05:07:29+00:00"
   },
   "url:https://jobs.ashbyhq.com/uipath/4983eab7-099d-4c77-9a5a-8dde72084c04": {
+   "ashby": "2026-11-10T00:37:03+00:00",
    "simplify": "2026-11-10T00:07:05+00:00"
+  },
+  "url:https://jobs.ashbyhq.com/uipath/f6857594-645c-4833-aa5b-763e9759b555": {
+   "ashby": "2026-11-10T00:37:03+00:00"
   },
   "url:https://jobs.ashbyhq.com/valon/b5a62c0c-823c-42dd-8cb5-e4b1455bcc64": {
    "ashby": "2026-11-01T16:07:04+00:00",
@@ -30776,13 +30803,31 @@
   "url:https://www.amazon.jobs/jobs/10593521/apply": {
    "speedyapply": "2026-10-31T17:37:00+00:00"
   },
+  "url:https://www.biodesix.com/careers/current-openings?gh_jid=4475004009": {
+   "greenhouse": "2026-11-10T00:37:03+00:00"
+  },
+  "url:https://www.biodesix.com/careers/current-openings?gh_jid=4475020009": {
+   "greenhouse": "2026-11-10T00:37:03+00:00"
+  },
+  "url:https://www.biodesix.com/careers/current-openings?gh_jid=4480188009": {
+   "greenhouse": "2026-11-10T00:37:03+00:00"
+  },
+  "url:https://www.biodesix.com/careers/current-openings?gh_jid=4482559009": {
+   "greenhouse": "2026-11-10T00:37:03+00:00"
+  },
   "url:https://www.biodesix.com/careers/current-openings?gh_jid=4485182009": {
+   "greenhouse": "2026-11-10T00:37:03+00:00",
    "simplify": "2026-11-10T00:07:05+00:00"
   },
   "url:https://www.biodesix.com/careers/current-openings?gh_jid=4485306009": {
+   "greenhouse": "2026-11-10T00:37:03+00:00",
    "simplify": "2026-11-10T00:07:05+00:00"
   },
+  "url:https://www.biodesix.com/careers/current-openings?gh_jid=4485323009": {
+   "greenhouse": "2026-11-10T00:37:03+00:00"
+  },
   "url:https://www.biodesix.com/careers/current-openings?gh_jid=4485410009": {
+   "greenhouse": "2026-11-10T00:37:03+00:00",
    "simplify": "2026-11-10T00:07:05+00:00"
   },
   "url:https://www.brex.com/careers/8935242002?gh_jid=8935242002": {

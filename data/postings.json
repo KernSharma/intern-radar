@@ -8289,13 +8289,13 @@
  },
  "url:https://artofproblemsolving.com/careers/job/8199296003?gh_jid=8199296003": {
   "company": "Art of Problem Solving",
-  "title": "Software Engineer Intern",
+  "title": "Software Engineering Intern",
   "url": "https://artofproblemsolving.com/careers/job/8199296003?gh_jid=8199296003",
   "locations": [
-   "San Diego, CA"
+   "San Diego, California, United States"
   ],
   "posted_at": "2026-11-09",
-  "source": "simplify"
+  "source": "greenhouse"
  },
  "url:https://asml.wd3.myworkdayjobs.com/asmlext1/job/delft-netherlands/computer-science---engineering-internship--performance-data-platform_j-00356806": {
   "company": "asml",
@@ -12760,7 +12760,7 @@
   "locations": [
    "WI-Milwaukee"
   ],
-  "posted_at": "2026-11-07",
+  "posted_at": "2026-11-10",
   "source": "workday"
  },
  "url:https://baird.wd1.myworkdayjobs.com/careers/job/wi-milwaukee/internship---hr---talent-development--year-round-_r20261114-1": {
@@ -35416,14 +35416,44 @@
   "source": "simplify"
  },
  "url:https://fortrea.wd1.myworkdayjobs.com/fortrea/job/durham/aiml-rapid-development-studio-internship_266655": {
-  "company": "Fortrea",
-  "title": "AIML Rapid Development Studio Intern",
+  "company": "fortrea",
+  "title": "AIML Rapid Development Studio Internship",
   "url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Durham/AIML-Rapid-Development-Studio-Internship_266655",
   "locations": [
-   "Remote in USA"
+   "Durham"
   ],
-  "posted_at": "2026-11-09",
-  "source": "simplify"
+  "posted_at": "2026-11-10",
+  "source": "workday"
+ },
+ "url:https://fortrea.wd1.myworkdayjobs.com/fortrea/job/leeds/internship_265818": {
+  "company": "fortrea",
+  "title": "IT Internship - UK",
+  "url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Leeds/Internship_265818",
+  "locations": [
+   "Leeds"
+  ],
+  "posted_at": "2026-10-21",
+  "source": "workday"
+ },
+ "url:https://fortrea.wd1.myworkdayjobs.com/fortrea/job/mexico-city/statistical-programmer--internship_265103": {
+  "company": "fortrea",
+  "title": "Statistical Programmer, Internship",
+  "url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Mexico-City/Statistical-Programmer--Internship_265103",
+  "locations": [
+   "Mexico City"
+  ],
+  "posted_at": "2026-10-11",
+  "source": "workday"
+ },
+ "url:https://fortrea.wd1.myworkdayjobs.com/fortrea/job/warsaw/intern-it-product--commercial-_266138": {
+  "company": "fortrea",
+  "title": "Intern IT Product (Commercial)",
+  "url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Warsaw/Intern-IT-Product--Commercial-_266138",
+  "locations": [
+   "Warsaw"
+  ],
+  "posted_at": "2026-10-20",
+  "source": "workday"
  },
  "url:https://franklin-electric.pinpointhq.com/en/postings/6599b7d3-a9c3-4156-9251-07249e42d998": {
   "company": "Franklin Electric",
@@ -38390,6 +38420,16 @@
   "posted_at": "2026-09-15",
   "source": "workday"
  },
+ "url:https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/bellevue/ge-vernova---energy-optimization-software-engineer-intern---summer-2027_r5050022-1": {
+  "company": "gevernova",
+  "title": "GE Vernova - Energy Optimization Software Engineer Intern - Summer 2027",
+  "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050022-1",
+  "locations": [
+   "Bellevue"
+  ],
+  "posted_at": "2026-11-10",
+  "source": "workday"
+ },
  "url:https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/bellevue/ge-vernova---gridos-project-engineer-intern---summer-2027_r5050244-1": {
   "company": "gevernova",
   "title": "GE Vernova - GridOS Project Engineer Intern - Summer 2027",
@@ -39025,6 +39065,16 @@
    "Bellevue"
   ],
   "posted_at": "2026-09-15",
+  "source": "workday"
+ },
+ "url:https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/bellevue/ge-vernova---energy-optimization-software-engineer-intern---summer-2027_r5050022-2": {
+  "company": "gevernova",
+  "title": "GE Vernova - Energy Optimization Software Engineer Intern - Summer 2027",
+  "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050022-2",
+  "locations": [
+   "Bellevue"
+  ],
+  "posted_at": "2026-11-10",
   "source": "workday"
  },
  "url:https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/bellevue/ge-vernova---gridos-project-engineer-intern---summer-2027_r5050244-2": {
@@ -54045,11 +54095,21 @@
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/1pd": {
-  "company": "i3",
-  "title": "Cybersecurity Intern",
-  "url": "https://go.vansh.nyc/1pd",
+  "company": "Trimble",
+  "title": "Software Engineer Intern",
+  "url": "https://go.vansh.nyc/1pD",
   "locations": [
-   "Huntsville, AL"
+   "Lake Oswego, OR"
+  ],
+  "posted_at": "2026-11-09",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/1pe": {
+  "company": "Ecmtek",
+  "title": "Developer Intern, Python Development",
+  "url": "https://go.vansh.nyc/1pE",
+  "locations": [
+   "Nashville, TN"
   ],
   "posted_at": "2026-11-09",
   "source": "vanshb03"
@@ -66762,7 +66822,7 @@
   "locations": [
    "Frankfurt, Germany"
   ],
-  "posted_at": "2026-10-30",
+  "posted_at": "2026-10-31",
   "source": "workday"
  },
  "url:https://hl.wd1.myworkdayjobs.com/campus/job/new-york-ny-usa/summer-2027-research-intern--portfolio-valuation--new-york_r3535": {
@@ -71511,7 +71571,7 @@
   "locations": [
    "Mexico, Guadalajara"
   ],
-  "posted_at": "2026-10-14",
+  "posted_at": "2026-11-10",
   "source": "workday"
  },
  "url:https://intel.wd1.myworkdayjobs.com/external/job/mexico-guadalajara/development-tools-software-intern_jr0285211": {
@@ -81538,6 +81598,26 @@
   "posted_at": "",
   "source": "greenhouse"
  },
+ "url:https://job-boards.greenhouse.io/scoutmotors/jobs/5287122007": {
+  "company": "Scout Motors",
+  "title": "Intern, IT",
+  "url": "https://job-boards.greenhouse.io/scoutmotors/jobs/5287122007",
+  "locations": [
+   "Charlotte, North Carolina, United States"
+  ],
+  "posted_at": "2026-11-09",
+  "source": "greenhouse"
+ },
+ "url:https://job-boards.greenhouse.io/scoutmotors/jobs/5287136007": {
+  "company": "Scout Motors",
+  "title": "Intern, Engineering",
+  "url": "https://job-boards.greenhouse.io/scoutmotors/jobs/5287136007",
+  "locations": [
+   "Blythewood, SC; Charlotte, NC; Novi, Michigan"
+  ],
+  "posted_at": "2026-11-09",
+  "source": "greenhouse"
+ },
  "url:https://job-boards.greenhouse.io/scoutmotors/jobs/5287137007": {
   "company": "Scout Motors",
   "title": "Digital Products Intern",
@@ -89396,14 +89476,24 @@
   "source": "ashby"
  },
  "url:https://jobs.ashbyhq.com/uipath/4983eab7-099d-4c77-9a5a-8dde72084c04": {
-  "company": "UiPath",
+  "company": "uipath",
   "title": "Software Engineer Intern",
-  "url": "https://jobs.ashbyhq.com/uipath/4983eab7-099d-4c77-9a5a-8dde72084c04/application?embed=true",
+  "url": "https://jobs.ashbyhq.com/uipath/4983eab7-099d-4c77-9a5a-8dde72084c04",
   "locations": [
-   "Bellevue, WA"
+   "Bellevue"
   ],
   "posted_at": "2026-11-09",
-  "source": "simplify"
+  "source": "ashby"
+ },
+ "url:https://jobs.ashbyhq.com/uipath/f6857594-645c-4833-aa5b-763e9759b555": {
+  "company": "uipath",
+  "title": "AI Engineer Intern",
+  "url": "https://jobs.ashbyhq.com/uipath/f6857594-645c-4833-aa5b-763e9759b555",
+  "locations": [
+   "Bellevue"
+  ],
+  "posted_at": "2026-11-09",
+  "source": "ashby"
  },
  "url:https://jobs.ashbyhq.com/valon/b5a62c0c-823c-42dd-8cb5-e4b1455bcc64": {
   "company": "valon",
@@ -144663,35 +144753,85 @@
   "posted_at": "2026-10-15",
   "source": "speedyapply"
  },
+ "url:https://www.biodesix.com/careers/current-openings?gh_jid=4475004009": {
+  "company": "Biodesix, Inc.",
+  "title": "Laboratory Research Internship (Undergraduate)",
+  "url": "https://www.biodesix.com/careers/current-openings?gh_jid=4475004009",
+  "locations": [
+   "Louisville, CO"
+  ],
+  "posted_at": "2026-11-02",
+  "source": "greenhouse"
+ },
+ "url:https://www.biodesix.com/careers/current-openings?gh_jid=4475020009": {
+  "company": "Biodesix, Inc.",
+  "title": "Clinical Development Internship (Undergraduate)",
+  "url": "https://www.biodesix.com/careers/current-openings?gh_jid=4475020009",
+  "locations": [
+   "Louisville, CO"
+  ],
+  "posted_at": "2026-11-02",
+  "source": "greenhouse"
+ },
+ "url:https://www.biodesix.com/careers/current-openings?gh_jid=4480188009": {
+  "company": "Biodesix, Inc.",
+  "title": "Business Development Internship (Graduate)",
+  "url": "https://www.biodesix.com/careers/current-openings?gh_jid=4480188009",
+  "locations": [
+   "Louisville, CO"
+  ],
+  "posted_at": "2026-11-04",
+  "source": "greenhouse"
+ },
+ "url:https://www.biodesix.com/careers/current-openings?gh_jid=4482559009": {
+  "company": "Biodesix, Inc.",
+  "title": "Quality Engineering Internship (Undergraduate)",
+  "url": "https://www.biodesix.com/careers/current-openings?gh_jid=4482559009",
+  "locations": [
+   "Louisville, CO"
+  ],
+  "posted_at": "2026-11-05",
+  "source": "greenhouse"
+ },
  "url:https://www.biodesix.com/careers/current-openings?gh_jid=4485182009": {
-  "company": "Biodesix",
-  "title": "Data Analytics & Business Intelligence Intern",
+  "company": "Biodesix, Inc.",
+  "title": "Data Analytics & Business Intelligence Internship (Undergrad/Graduate)",
   "url": "https://www.biodesix.com/careers/current-openings?gh_jid=4485182009",
   "locations": [
    "Louisville, CO"
   ],
   "posted_at": "2026-11-09",
-  "source": "simplify"
+  "source": "greenhouse"
  },
  "url:https://www.biodesix.com/careers/current-openings?gh_jid=4485306009": {
-  "company": "Biodesix",
-  "title": "AI Research & Development Intern",
+  "company": "Biodesix, Inc.",
+  "title": "AI Research & Development Internship (Undergraduate)",
   "url": "https://www.biodesix.com/careers/current-openings?gh_jid=4485306009",
   "locations": [
    "Louisville, CO"
   ],
   "posted_at": "2026-11-09",
-  "source": "simplify"
+  "source": "greenhouse"
+ },
+ "url:https://www.biodesix.com/careers/current-openings?gh_jid=4485323009": {
+  "company": "Biodesix, Inc.",
+  "title": "IT Service Desk Internship (Undergrad/Graduate)",
+  "url": "https://www.biodesix.com/careers/current-openings?gh_jid=4485323009",
+  "locations": [
+   "Louisville, CO"
+  ],
+  "posted_at": "2026-11-09",
+  "source": "greenhouse"
  },
  "url:https://www.biodesix.com/careers/current-openings?gh_jid=4485410009": {
-  "company": "Biodesix",
-  "title": "Software Development Intern",
+  "company": "Biodesix, Inc.",
+  "title": "Software Development & AI Internship (Undergrad/Graduate)",
   "url": "https://www.biodesix.com/careers/current-openings?gh_jid=4485410009",
   "locations": [
    "Louisville, CO"
   ],
   "posted_at": "2026-11-09",
-  "source": "simplify"
+  "source": "greenhouse"
  },
  "url:https://www.brex.com/careers/8935242002?gh_jid=8935242002": {
   "company": "Brex",
