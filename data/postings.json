@@ -14080,14 +14080,14 @@
   "source": "greenhouse"
  },
  "url:https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007": {
-  "company": "Anduril",
+  "company": "Anduril Industries",
   "title": "2027 Flight Software Engineer Intern",
   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007",
   "locations": [
-   "Costa Mesa, CA"
+   "Costa Mesa, California, United States"
   ],
   "posted_at": "2026-09-15",
-  "source": "speedyapply"
+  "source": "greenhouse"
  },
  "url:https://boards.greenhouse.io/andurilindustries/jobs/5252665007?gh_jid=5252665007": {
   "company": "Anduril Industries",
@@ -14190,14 +14190,14 @@
   "source": "vanshb03"
  },
  "url:https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007": {
-  "company": "Anduril",
+  "company": "Anduril Industries",
   "title": "2027 Firmware Engineer Intern",
   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007",
   "locations": [
-   "Costa Mesa, CA"
+   "Costa Mesa, California, United States"
   ],
-  "posted_at": "2026-10-14",
-  "source": "speedyapply"
+  "posted_at": "2026-10-13",
+  "source": "greenhouse"
  },
  "url:https://boards.greenhouse.io/andurilindustries/jobs/5268689007?gh_jid=5268689007": {
   "company": "Anduril Industries",
@@ -26643,7 +26643,7 @@
   "locations": [
    "2 Locations"
   ],
-  "posted_at": "2026-10-26",
+  "posted_at": "2026-11-10",
   "source": "workday"
  },
  "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/san-jose-california-us/hardware-engineer-ii--co-op----united-states_2025375": {
@@ -26727,6 +26727,16 @@
   ],
   "posted_at": "2026-10-23",
   "source": "vanshb03"
+ },
+ "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/san-jose-california-us/software-engineer-embedded-systems-i--intern----united-states_2024641-1": {
+  "company": "cisco",
+  "title": "Software Engineer Embedded Systems I (Intern) - United States",
+  "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Intern----United-States_2024641-1",
+  "locations": [
+   "3 Locations"
+  ],
+  "posted_at": "2026-11-10",
+  "source": "workday"
  },
  "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/san-jose-california-us/software-engineer-embedded-systems-i--intern----united-states_2025926": {
   "company": "cisco",
@@ -44015,7 +44025,7 @@
   "locations": [
    "US-CO-COLORADO SPRINGS-793 ~ 1225 Aeroplaza Dr ~ AEROPLAZA"
   ],
-  "posted_at": "2026-10-27",
+  "posted_at": "2026-11-10",
   "source": "workday"
  },
  "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-co-colorado-springs-9970-cust--9970-federal-dr--federal-external-site/xmlname-2027-network-engineering-intern_01877666": {
@@ -44406,6 +44416,16 @@
    "US-FL-JUPITER-ADR ~ 17900 Beeline Hwy ~ ADR BLDG"
   ],
   "posted_at": "2026-09-30",
+  "source": "workday"
+ },
+ "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-fl-largo-382sr--7887-bryan-dairy-rd--bldg-600/software-engineering-intern--summer-2027-_01888045": {
+  "company": "globalhr",
+  "title": "Software Engineering Intern (Summer 2027)",
+  "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineering-Intern--Summer-2027-_01888045",
+  "locations": [
+   "US-FL-LARGO-382SR ~ 7887 Bryan Dairy Rd ~ BLDG 600"
+  ],
+  "posted_at": "2026-11-10",
   "source": "workday"
  },
  "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-fl-largo-382ss--7887-bryan-dairy-rd--bldg-100/electrical-test-engineering-intern--summer-2027-_01881562": {
@@ -55632,6 +55652,46 @@
   "posted_at": "2026-11-10",
   "source": "vanshb03"
  },
+ "url:https://go.vansh.nyc/1s8": {
+  "company": "Western Digital",
+  "title": "Software Engineering Intern",
+  "url": "https://go.vansh.nyc/1s8",
+  "locations": [
+   "San Jose, CA"
+  ],
+  "posted_at": "2026-11-10",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/1s9": {
+  "company": "Skydio",
+  "title": "Middleware Software Engineer Intern",
+  "url": "https://go.vansh.nyc/1s9",
+  "locations": [
+   "San Mateo, CA"
+  ],
+  "posted_at": "2026-11-10",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/1sa": {
+  "company": "Western Digital",
+  "title": "Hardware Engineering Intern",
+  "url": "https://go.vansh.nyc/1sa",
+  "locations": [
+   "San Jose, CA"
+  ],
+  "posted_at": "2026-11-10",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/1sb": {
+  "company": "REGENT",
+  "title": "Embedded Software Engineering Intern",
+  "url": "https://go.vansh.nyc/1sb",
+  "locations": [
+   "North Kingstown, RI"
+  ],
+  "posted_at": "2026-11-10",
+  "source": "vanshb03"
+ },
  "url:https://go.vansh.nyc/1u": {
   "company": "Skyworks",
   "title": "Analog IC Design Co-op",
@@ -61479,26 +61539,21 @@
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/ls": {
-  "company": "AMD",
-  "title": "Compiler Engineer Co-op",
-  "url": "https://go.vansh.nyc/LS",
+  "company": "Vermeer",
+  "title": "Embedded Software Engineer Intern",
+  "url": "https://go.vansh.nyc/Ls",
   "locations": [
-   "Austin, TX",
-   "Longmont, CO",
-   "Fishkill, NY",
-   "Fort Collins, CO",
-   "Boxborough, MA"
+   "Pella, IA"
   ],
   "posted_at": "2026-09-01",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/lt": {
-  "company": "AMD",
-  "title": "Compiler Engineer Co-op",
-  "url": "https://go.vansh.nyc/LT",
+  "company": "IAT Insurance Group",
+  "title": "Data & Integration Intern",
+  "url": "https://go.vansh.nyc/Lt",
   "locations": [
-   "San Jose, CA",
-   "Santa Clara, CA"
+   "Milwaukee, WI"
   ],
   "posted_at": "2026-09-01",
   "source": "vanshb03"
@@ -65156,13 +65211,13 @@
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/yl": {
-  "company": "Disney",
-  "title": "Enterprise Technology & Data Software Engineering Intern",
-  "url": "https://go.vansh.nyc/YL",
+  "company": "Gauss Management Research & Engineering",
+  "title": "Web Application Developer Intern",
+  "url": "https://go.vansh.nyc/Yl",
   "locations": [
-   "Orlando, FL"
+   "South Ogden, UT"
   ],
-  "posted_at": "2026-10-29",
+  "posted_at": "2026-10-28",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/ym": {
@@ -88939,7 +88994,8 @@
   "title": "Software Engineering Intern, Frontend (Summer 2027)",
   "url": "https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413",
   "locations": [
-   "New York, New York"
+   "New York, New York",
+   "San Francisco, California"
   ],
   "posted_at": "2026-11-06",
   "source": "ashby"
@@ -149645,6 +149701,16 @@
   ],
   "posted_at": "2026-10-02",
   "source": "speedyapply"
+ },
+ "url:https://www.riotgames.com/en/work-with-us/job/8356866?gh_jid=8356866": {
+  "company": "Riot Games",
+  "title": "Concept Art Intern, Teamfight Tactics - Summer 2027",
+  "url": "https://www.riotgames.com/en/work-with-us/job/8356866?gh_jid=8356866",
+  "locations": [
+   "Los Angeles, USA"
+  ],
+  "posted_at": "2026-11-10",
+  "source": "greenhouse"
  },
  "url:https://www.riverlane.com/jobs?gh_jid=5000786101": {
   "company": "Riverlane",
