@@ -8477,6 +8477,16 @@
   "posted_at": "2026-10-21",
   "source": "workday"
  },
+ "url:https://asml.wd3.myworkdayjobs.com/asmlext1/job/hsinchu-taiwan/internship---cs-infrastructure--architecture---security-team---hsinchu_j-00357779": {
+  "company": "asml",
+  "title": "Internship - CS Infrastructure, Architecture & Security Team - Hsinchu",
+  "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Hsinchu-Taiwan/Internship---CS-Infrastructure--Architecture---Security-Team---Hsinchu_J-00357779",
+  "locations": [
+   "Hsinchu, Taiwan"
+  ],
+  "posted_at": "2026-11-11",
+  "source": "workday"
+ },
  "url:https://asml.wd3.myworkdayjobs.com/asmlext1/job/hsinchu-taiwan/internship---it-intern--one-year-contract----hsinchu_j-00349395": {
   "company": "asml",
   "title": "Internship - IT Intern (one-year contract) - Hsinchu",
@@ -16018,6 +16028,16 @@
   "posted_at": "2026-11-11",
   "source": "workday"
  },
+ "url:https://boeing.wd1.myworkdayjobs.com/intern/job/ind---bangalore-india/manufacturing-engineer-intern_jr2026529353": {
+  "company": "boeing",
+  "title": "Manufacturing Engineer Intern",
+  "url": "https://boeing.wd1.myworkdayjobs.com/INTERN/job/IND---Bangalore-India/Manufacturing-Engineer-Intern_JR2026529353",
+  "locations": [
+   "IND - Bangalore, India"
+  ],
+  "posted_at": "2026-11-11",
+  "source": "workday"
+ },
  "url:https://boeing.wd1.myworkdayjobs.com/intern/job/ind---bangalore-india/systems-engineer-intern_jr2026528902": {
   "company": "boeing",
   "title": "Systems Engineer Intern",
@@ -16032,6 +16052,16 @@
   "company": "boeing",
   "title": "Manufacturing Engineer Intern",
   "url": "https://boeing.wd1.myworkdayjobs.com/INTERN/job/IND---Chennai-India/Manufacturing-Engineer-Intern_JR2026529345",
+  "locations": [
+   "IND - Chennai, India"
+  ],
+  "posted_at": "2026-11-11",
+  "source": "workday"
+ },
+ "url:https://boeing.wd1.myworkdayjobs.com/intern/job/ind---chennai-india/manufacturing-engineer-intern_jr2026529352": {
+  "company": "boeing",
+  "title": "Manufacturing Engineer Intern",
+  "url": "https://boeing.wd1.myworkdayjobs.com/INTERN/job/IND---Chennai-India/Manufacturing-Engineer-Intern_JR2026529352",
   "locations": [
    "IND - Chennai, India"
   ],
@@ -55691,12 +55721,10 @@
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/1rf": {
-  "company": "Echo",
+  "company": "Operio",
   "title": "Software Engineering Intern",
-  "url": "https://go.vansh.nyc/1rF",
+  "url": "https://go.vansh.nyc/1rf",
   "locations": [
-   "Chicago, IL",
-   "Remote",
    "United States"
   ],
   "posted_at": "2026-11-10",
@@ -56600,6 +56628,96 @@
    "Irvine, CA"
   ],
   "posted_at": "2026-04-20",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/1uo": {
+  "company": "Daimler Truck",
+  "title": "Governance, Risk, and Compliance (GRC) Analyst Intern, Cybersecurity",
+  "url": "https://go.vansh.nyc/1uo",
+  "locations": [
+   "Detroit, MI"
+  ],
+  "posted_at": "2026-11-11",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/1up": {
+  "company": "Navy Federal",
+  "title": "Associate Data Engineer Intern",
+  "url": "https://go.vansh.nyc/1up",
+  "locations": [
+   "Vienna, VA"
+  ],
+  "posted_at": "2026-09-09",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/1uq": {
+  "company": "Navy Federal",
+  "title": "Associate Zero Trust Information Security Analyst Intern",
+  "url": "https://go.vansh.nyc/1uq",
+  "locations": [
+   "Vienna, VA"
+  ],
+  "posted_at": "2026-09-09",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/1ur": {
+  "company": "Navy Federal",
+  "title": "Associate Product Security Engineer Intern",
+  "url": "https://go.vansh.nyc/1ur",
+  "locations": [
+   "Vienna, VA"
+  ],
+  "posted_at": "2026-09-09",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/1us": {
+  "company": "Navy Federal",
+  "title": "Associate Information Security Analyst Intern",
+  "url": "https://go.vansh.nyc/1us",
+  "locations": [
+   "Vienna, VA"
+  ],
+  "posted_at": "2026-09-09",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/1ut": {
+  "company": "Moss",
+  "title": "Intern, ML / Perception / Robotics",
+  "url": "https://go.vansh.nyc/1ut",
+  "locations": [
+   "San Francisco, CA"
+  ],
+  "posted_at": "2026-11-07",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/1uu": {
+  "company": "SimVentions",
+  "title": "Cybersecurity Intern",
+  "url": "https://go.vansh.nyc/1uu",
+  "locations": [
+   "Fredericksburg, VA"
+  ],
+  "posted_at": "2026-11-11",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/1uv": {
+  "company": "SimVentions",
+  "title": "Software Development Intern",
+  "url": "https://go.vansh.nyc/1uv",
+  "locations": [
+   "Fredericksburg, VA"
+  ],
+  "posted_at": "2026-11-11",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/1uw": {
+  "company": "Welltower",
+  "title": "Cyber Security Intern",
+  "url": "https://go.vansh.nyc/1uw",
+  "locations": [
+   "Frisco, TX"
+  ],
+  "posted_at": "2026-11-11",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/1x": {
