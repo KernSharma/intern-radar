@@ -16344,9 +16344,6 @@
   "url:https://jll.wd1.myworkdayjobs.com/jllcareers/job/gurugram-hr/data-compliance-review-associates_req535205": {
    "workday": "2026-10-19T02:14:06+00:00"
   },
-  "url:https://jll.wd1.myworkdayjobs.com/jllcareers/job/ho-chi-minh-city-vietnam/sustainability-engineering-intern_req540649": {
-   "workday": "2026-10-12T03:37:02+00:00"
-  },
   "url:https://jll.wd1.myworkdayjobs.com/jllcareers/job/kuala-lumpur-malaysia/research-intern_req534099": {
    "workday": "2026-10-27T09:37:05+00:00"
   },
@@ -19749,6 +19746,7 @@
    "simplify": "2026-11-01T13:12:59+00:00"
   },
   "url:https://jobs.ashbyhq.com/formulary/bbc4fef5-3cff-4879-89bc-65aba1214b04": {
+   "ashby": "2026-11-11T03:37:04+00:00",
    "simplify": "2026-11-11T03:07:03+00:00"
   },
   "url:https://jobs.ashbyhq.com/gearset/637b4805-e079-4bbd-91e8-96af81dd288f": {
@@ -20191,11 +20189,17 @@
   "url:https://jobs.ashbyhq.com/regent/9370adbc-f344-4aeb-a99d-65acaac87894": {
    "ashby": "2026-11-10T20:07:05+00:00"
   },
+  "url:https://jobs.ashbyhq.com/regent/9e314bda-fce1-444b-9874-bacd332880f9": {
+   "ashby": "2026-11-11T03:37:04+00:00"
+  },
   "url:https://jobs.ashbyhq.com/regent/9f25824f-486e-4d3a-b444-116b474619d7": {
    "ashby": "2026-11-10T20:07:05+00:00"
   },
   "url:https://jobs.ashbyhq.com/regent/c32af35c-d7bc-4124-834b-7d35cf51dc7b": {
    "ashby": "2026-11-10T20:07:05+00:00"
+  },
+  "url:https://jobs.ashbyhq.com/regent/dfdbb28f-f289-45b9-a2e5-158d81b93524": {
+   "ashby": "2026-11-11T03:37:04+00:00"
   },
   "url:https://jobs.ashbyhq.com/regent/ef7de80d-2e83-4714-9d77-5508d5f34086": {
    "ashby": "2026-11-10T20:07:05+00:00"
@@ -24261,9 +24265,6 @@
   "url:https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/pavia-italy/firmware-engineering-intern_2603916-1": {
    "workday": "2026-11-10T16:07:51+00:00"
   },
-  "url:https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/petah-tikva/ai-infrastructure-engineer-intern_2604499": {
-   "workday": "2026-10-12T03:37:02+00:00"
-  },
   "url:https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/santa-clara-ca/ai-data-science-intern--ms---summer-2027_2603846-1": {
    "workday": "2026-10-19T16:43:26+00:00"
   },
@@ -24753,9 +24754,6 @@
   "url:https://micron.wd1.myworkdayjobs.com/external/job/fab-10a-singapore/intern---hig-hbm-product-engineering--advance-data-analytics-_jr114591": {
    "workday": "2026-10-20T03:38:20+00:00"
   },
-  "url:https://micron.wd1.myworkdayjobs.com/external/job/fab-10nx-singapore/intern---chemical-mechanical-planarization-process-engineering_jr109884": {
-   "workday": "2026-10-12T03:37:02+00:00"
-  },
   "url:https://micron.wd1.myworkdayjobs.com/external/job/fab-10nx-singapore/intern---cvd-ald-advanced-process-development_jr115496": {
    "workday": "2026-11-05T13:07:05+00:00"
   },
@@ -24841,17 +24839,11 @@
   "url:https://micron.wd1.myworkdayjobs.com/external/job/msb-singapore/intern---test-equipment-engineer_jr111161": {
    "workday": "2026-10-24T00:37:04+00:00"
   },
-  "url:https://micron.wd1.myworkdayjobs.com/external/job/msb-singapore/intern--msb-process-integration-engineer_jr109767": {
-   "workday": "2026-10-12T03:37:02+00:00"
-  },
   "url:https://micron.wd1.myworkdayjobs.com/external/job/msb-singapore/intern--silicon-design-validation-engineer_jr111156": {
    "workday": "2026-11-01T16:07:04+00:00"
   },
   "url:https://micron.wd1.myworkdayjobs.com/external/job/msb-singapore/intern--silicon-design-validation-engineer_jr111158": {
    "workday": "2026-11-01T16:07:04+00:00"
-  },
-  "url:https://micron.wd1.myworkdayjobs.com/external/job/msb-singapore/intern--test-solutions-engineer_jr106290": {
-   "workday": "2026-10-12T03:37:02+00:00"
   },
   "url:https://micron.wd1.myworkdayjobs.com/external/job/richardson-tx/intern---design-engineer--hbm_jr110452": {
    "workday": "2026-10-19T18:37:05+00:00"
@@ -25347,9 +25339,6 @@
   },
   "url:https://msd.wd5.myworkdayjobs.com/searchjobs/job/sgp---singapore---singapore-boulevard-towers/intern--d-l-trade-compliance-data-analyst_r400206": {
    "workday": "2026-11-01T16:07:04+00:00"
-  },
-  "url:https://msd.wd5.myworkdayjobs.com/searchjobs/job/sgp---singapore---singapore-boulevard-towers/intern--distribution--logistics---warehousing-quality-data-analyst_r421490": {
-   "workday": "2026-10-12T03:37:02+00:00"
   },
   "url:https://msd.wd5.myworkdayjobs.com/searchjobs/job/tur---ankara---ankara-kmdb/clinical-research-intern_r424417": {
    "workday": "2026-11-02T09:22:41+00:00"
@@ -26140,9 +26129,6 @@
   "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/singapore-pasir-panjang/research-intern--robotics---2027_jr2028499": {
    "workday": "2026-10-24T01:07:05+00:00"
   },
-  "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/sweden-remote/accelerated-computing-research-intern_jr2027378": {
-   "workday": "2026-10-12T03:37:02+00:00"
-  },
   "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/taiwan-hsinchu/asic-physical-design-engineer--rdss-intern-_jr2024046": {
    "workday": "2026-10-30T22:37:26+00:00"
   },
@@ -26329,9 +26315,6 @@
   },
   "url:https://nxp.wd3.myworkdayjobs.com/careers/job/tianjin-teda/xmlname-2027-intern---sta-agent-developer-intern_r-10066785": {
    "workday": "2026-10-19T02:14:06+00:00"
-  },
-  "url:https://nxp.wd3.myworkdayjobs.com/careers/job/tianjin-teda/xmlname-2027-intern--ai-tool-development-intern_r-10067254": {
-   "workday": "2026-10-12T03:07:05+00:00"
   },
   "url:https://nxp.wd3.myworkdayjobs.com/careers/job/tianjin-xinghua/xmlname-2026-intern---information-system-engineer_r-10059867": {
    "workday": "2026-11-01T13:12:59+00:00"
@@ -29443,9 +29426,6 @@
    "simplify": "2026-10-22T06:37:05+00:00",
    "workday": "2026-10-22T04:07:05+00:00"
   },
-  "url:https://td.wd3.myworkdayjobs.com/td_bank_careers/job/mount-laurel-new-jersey/xmlname-2027-spring-co-op---global-technology---solutions---business-systems-analyst--bsa-_r_1516078": {
-   "workday": "2026-10-12T03:37:02+00:00"
-  },
   "url:https://td.wd3.myworkdayjobs.com/td_bank_careers/job/new-york-new-york/us-graduate-leadership-program--commercial-banking_r_1508612": {
    "simplify": "2026-10-23T11:44:43+00:00"
   },
@@ -29637,9 +29617,6 @@
   },
   "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/united-kingdom-london/generative-ai-research-intern_r108261-1": {
    "workday": "2026-10-20T12:07:38+00:00"
-  },
-  "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/united-kingdom-london/llm---agent-research-intern_r108173": {
-   "workday": "2026-10-12T03:37:02+00:00"
   },
   "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/united-kingdom-london/llm---agent-research-intern_r108285": {
    "workday": "2026-10-21T15:10:08+00:00"
