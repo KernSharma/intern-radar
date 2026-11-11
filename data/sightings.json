@@ -1896,7 +1896,8 @@
    "greenhouse": "2026-11-10T18:07:01+00:00"
   },
   "url:https://artofproblemsolving.com/careers/job/8201037003?gh_jid=8201037003": {
-   "greenhouse": "2026-11-10T23:37:02+00:00"
+   "greenhouse": "2026-11-10T23:37:02+00:00",
+   "simplify": "2026-11-11T00:07:02+00:00"
   },
   "url:https://asml.wd3.myworkdayjobs.com/asmlext1/job/delft-netherlands/computer-science---engineering-internship--performance-data-platform_j-00356806": {
    "workday": "2026-11-06T17:26:19+00:00"
@@ -2166,6 +2167,9 @@
   },
   "url:https://asml.wd3.myworkdayjobs.com/asmlext1/job/wilton-ct-usa/internship---electrical-engineer_j-00356457": {
    "workday": "2026-11-03T01:37:01+00:00"
+  },
+  "url:https://asml.wd3.myworkdayjobs.com/asmlext1/job/wilton-ct-usa/internship---electromechanical-engineer_j-00356069": {
+   "workday": "2026-11-11T00:07:02+00:00"
   },
   "url:https://asml.wd3.myworkdayjobs.com/asmlext1/job/wilton-ct-usa/internship---mechanical-design-engineer_j-00356215": {
    "workday": "2026-11-06T23:07:00+00:00"
@@ -3347,6 +3351,9 @@
   "url:https://boards.greenhouse.io/point72/jobs/8899753002?gh_jid=8899753002": {
    "greenhouse": "2026-11-06T10:07:05+00:00"
   },
+  "url:https://boards.greenhouse.io/robinhood/jobs/8197614?t=gh_src%3D&gh_jid=8197614": {
+   "greenhouse": "2026-11-11T00:07:02+00:00"
+  },
   "url:https://boards.greenhouse.io/robinhood/jobs/8198241?t=gh_src%3D&gh_jid=8198241": {
    "greenhouse": "2026-11-01T13:12:59+00:00"
   },
@@ -4203,6 +4210,9 @@
   "url:https://careers-peraton.icims.com/jobs/172378/job": {
    "speedyapply": "2026-10-16T17:37:05+00:00"
   },
+  "url:https://careers-rambus.icims.com/jobs/23119/job": {
+   "simplify": "2026-11-11T00:07:02+00:00"
+  },
   "url:https://careers-riversideresearch.icims.com/jobs/4461/job": {
    "simplify": "2026-11-05T23:37:03+00:00",
    "speedyapply": "2026-11-06T19:37:00+00:00"
@@ -4434,6 +4444,9 @@
   },
   "url:https://careers.huntingtoningalls.com/job/pascagoula-2027-college-summer-intern-computer-engineering-miss/1430053700?ats=successfactors": {
    "simplify": "2026-11-01T13:12:59+00:00"
+  },
+  "url:https://careers.international.com/jobs/60456?icims=1&lang=en-us": {
+   "simplify": "2026-11-11T00:07:02+00:00"
   },
   "url:https://careers.itw.com/global/en/job/jr10261": {
    "simplify": "2026-11-01T13:12:59+00:00"
@@ -6257,6 +6270,9 @@
   "url:https://ebxr.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/214478": {
    "simplify": "2026-11-01T13:12:59+00:00"
   },
+  "url:https://echo.wd1.myworkdayjobs.com/echo_logistics/job/remote/software-engineering-intern--chicago_r4645-1": {
+   "simplify": "2026-11-11T00:07:02+00:00"
+  },
   "url:https://ecnf.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx/job/301931": {
    "simplify": "2026-11-01T13:12:59+00:00"
   },
@@ -6534,8 +6550,39 @@
   "url:https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003520": {
    "simplify": "2026-11-01T13:12:59+00:00"
   },
+  "url:https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/bedford-ma/manufacturing-engineer-intern_req-15886-1": {
+   "workday": "2026-11-11T00:07:02+00:00"
+  },
+  "url:https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/billerica-ma/equipment-engineering-intern_req-15883": {
+   "workday": "2026-11-11T00:07:02+00:00"
+  },
   "url:https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/billerica-ma/filtration-portfolio-automation-intern_req-15840": {
-   "simplify": "2026-11-10T23:37:02+00:00"
+   "simplify": "2026-11-10T23:37:02+00:00",
+   "workday": "2026-11-11T00:07:02+00:00"
+  },
+  "url:https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/billerica-ma/mechanical-engineering-intern_req-15834": {
+   "workday": "2026-11-11T00:07:02+00:00"
+  },
+  "url:https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/billerica-ma/solutions-engineering-intern_req-15884": {
+   "workday": "2026-11-11T00:07:02+00:00"
+  },
+  "url:https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/chaska-mn/technical-training-co-op_req-14459": {
+   "workday": "2026-11-11T00:07:02+00:00"
+  },
+  "url:https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/colorado-springs-co/new-product-introduction-engineering-intern_req-15880": {
+   "workday": "2026-11-11T00:07:02+00:00"
+  },
+  "url:https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/franklin-ma/quality-engineering-intern_req-15850": {
+   "workday": "2026-11-11T00:07:02+00:00"
+  },
+  "url:https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/rockrimmon-colorado-springs-co/manufacturing-systems-and-planning-co-op_req-14410": {
+   "workday": "2026-11-11T00:07:02+00:00"
+  },
+  "url:https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/singapore-singapore/manufacturing-process-engineering-intern_req-15689": {
+   "workday": "2026-11-11T00:07:02+00:00"
+  },
+  "url:https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/singapore-singapore/modeling---simulation-intern_req-13667": {
+   "workday": "2026-11-11T00:07:02+00:00"
   },
   "url:https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/canada---ottawa/xmlname--intern---software-development----8-months---hybrid-ottawa_r004359": {
    "workday": "2026-11-06T20:37:00+00:00"
@@ -6796,6 +6843,9 @@
   },
   "url:https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/csxcareers/job/54844": {
    "simplify": "2026-10-23T11:44:43+00:00"
+  },
+  "url:https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/1104": {
+   "simplify": "2026-11-11T00:07:02+00:00"
   },
   "url:https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/3022475": {
    "vanshb03": "2026-10-20T17:07:02+00:00"
@@ -7270,6 +7320,7 @@
    "workday": "2026-11-03T07:38:28+00:00"
   },
   "url:https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/usa-la-bossier-city/gdit-summer-internship-program---summer-2027-ai-ml-business-intelligence-development-internship_rq228935": {
+   "simplify": "2026-11-11T00:07:02+00:00",
    "workday": "2026-11-10T22:07:03+00:00"
   },
   "url:https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/usa-la-bossier-city/gdit-summer-internship-program---summer-2027-ai-ml-data-science-and-engineering-internship_rq228936": {
@@ -11472,6 +11523,36 @@
   },
   "url:https://go.vansh.nyc/1sf": {
    "vanshb03": "2026-11-10T23:37:02+00:00"
+  },
+  "url:https://go.vansh.nyc/1sg": {
+   "vanshb03": "2026-11-11T00:07:02+00:00"
+  },
+  "url:https://go.vansh.nyc/1sh": {
+   "vanshb03": "2026-11-11T00:07:02+00:00"
+  },
+  "url:https://go.vansh.nyc/1si": {
+   "vanshb03": "2026-11-11T00:07:02+00:00"
+  },
+  "url:https://go.vansh.nyc/1sj": {
+   "vanshb03": "2026-11-11T00:07:02+00:00"
+  },
+  "url:https://go.vansh.nyc/1sk": {
+   "vanshb03": "2026-11-11T00:07:02+00:00"
+  },
+  "url:https://go.vansh.nyc/1sl": {
+   "vanshb03": "2026-11-11T00:07:02+00:00"
+  },
+  "url:https://go.vansh.nyc/1sm": {
+   "vanshb03": "2026-11-11T00:07:02+00:00"
+  },
+  "url:https://go.vansh.nyc/1sn": {
+   "vanshb03": "2026-11-11T00:07:02+00:00"
+  },
+  "url:https://go.vansh.nyc/1so": {
+   "vanshb03": "2026-11-11T00:07:02+00:00"
+  },
+  "url:https://go.vansh.nyc/1sp": {
+   "vanshb03": "2026-11-11T00:07:02+00:00"
   },
   "url:https://go.vansh.nyc/1u": {
    "vanshb03": "2026-10-25T08:37:01+00:00"
@@ -15891,6 +15972,9 @@
   "url:https://intel.wd1.myworkdayjobs.com/external/job/vietnam-ho_chi_minh_city/facilities-engineering-intern_jr0287227": {
    "workday": "2026-11-01T13:12:59+00:00"
   },
+  "url:https://internaljobs.centurylink.com/job/remote-ai-&-automation-builders-summer-2027-internship-pathway/1440953200?ats=successfactors": {
+   "simplify": "2026-11-11T00:07:02+00:00"
+  },
   "url:https://internaljobs.centurylink.com/job/remote-data,-analytics-&-decision-science-summer-2027-internship-pathway/1440961600?ats=successfactors": {
    "simplify": "2026-10-17T00:08:43+00:00",
    "vanshb03": "2026-10-19T02:14:06+00:00"
@@ -16352,6 +16436,9 @@
   "url:https://jmp-sas.icims.com/jobs/44418/job": {
    "speedyapply": "2026-10-22T17:36:06+00:00"
   },
+  "url:https://jmp-sas.icims.com/jobs/46960/job": {
+   "simplify": "2026-11-11T00:07:02+00:00"
+  },
   "url:https://job-boards.eu.greenhouse.io/baringa/jobs/5028472101": {
    "simplify": "2026-11-05T16:07:05+00:00"
   },
@@ -16438,21 +16525,27 @@
    "vanshb03": "2026-10-17T19:18:45+00:00"
   },
   "url:https://job-boards.greenhouse.io/addepar1/jobs/8910310002": {
+   "greenhouse": "2026-11-11T00:07:02+00:00",
    "simplify": "2026-11-10T23:37:02+00:00"
   },
   "url:https://job-boards.greenhouse.io/addepar1/jobs/8910327002": {
+   "greenhouse": "2026-11-11T00:07:02+00:00",
    "simplify": "2026-11-10T23:37:02+00:00"
   },
   "url:https://job-boards.greenhouse.io/addepar1/jobs/8927507002": {
+   "greenhouse": "2026-11-11T00:07:02+00:00",
    "simplify": "2026-11-10T23:37:02+00:00"
   },
   "url:https://job-boards.greenhouse.io/addepar1/jobs/8927531002": {
+   "greenhouse": "2026-11-11T00:07:02+00:00",
    "simplify": "2026-11-10T23:37:02+00:00"
   },
   "url:https://job-boards.greenhouse.io/addepar1/jobs/8927543002": {
+   "greenhouse": "2026-11-11T00:07:02+00:00",
    "simplify": "2026-11-10T23:37:02+00:00"
   },
   "url:https://job-boards.greenhouse.io/addepar1/jobs/8935678002": {
+   "greenhouse": "2026-11-11T00:07:02+00:00",
    "simplify": "2026-11-10T23:37:02+00:00"
   },
   "url:https://job-boards.greenhouse.io/advancedspace/jobs/4324855009": {
@@ -20072,6 +20165,9 @@
   "url:https://jobs.ashbyhq.com/regent/7c8fd767-dbac-41d8-a9f8-a364741d6c2a": {
    "ashby": "2026-11-10T20:07:05+00:00"
   },
+  "url:https://jobs.ashbyhq.com/regent/8bd9c9a5-04f4-4321-b837-9888a70d363d": {
+   "ashby": "2026-11-11T00:07:02+00:00"
+  },
   "url:https://jobs.ashbyhq.com/regent/9370adbc-f344-4aeb-a99d-65acaac87894": {
    "ashby": "2026-11-10T20:07:05+00:00"
   },
@@ -20395,7 +20491,8 @@
    "ashby": "2026-10-26T16:37:02+00:00"
   },
   "url:https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03": {
-   "ashby": "2026-11-10T22:07:03+00:00"
+   "ashby": "2026-11-10T22:07:03+00:00",
+   "simplify": "2026-11-11T00:07:02+00:00"
   },
   "url:https://jobs.ashbyhq.com/skydio/d39c46ce-a4e9-45d2-99bf-17e3b7dac34b": {
    "ashby": "2026-10-25T23:37:00+00:00"
@@ -20706,6 +20803,9 @@
   },
   "url:https://jobs.jobvite.com/aarete/job/otglafwe?nl=1&fr=false": {
    "simplify": "2026-11-01T13:12:59+00:00"
+  },
+  "url:https://jobs.jobvite.com/elire/job/opplafwt?nl=1&fr=false": {
+   "simplify": "2026-11-11T00:07:02+00:00"
   },
   "url:https://jobs.jobvite.com/gei-consultants/job/ogr5zfwv": {
    "speedyapply": "2026-10-13T19:37:06+00:00"
@@ -23586,6 +23686,9 @@
   },
   "url:https://koch.avature.net/en_us/careers/jobdetail/195465": {
    "simplify": "2026-10-12T23:40:49+00:00"
+  },
+  "url:https://kyndryl.wd5.myworkdayjobs.com/kyndrylearlycareers/job/new-york-ny-usa/marketing-internship--marketing-analysis_r-70007-1": {
+   "simplify": "2026-11-11T00:07:02+00:00"
   },
   "url:https://labcorp.wd1.myworkdayjobs.com/external/job/baltimore-md/intern---bioinformatics_2634135": {
    "vanshb03": "2026-10-22T20:07:03+00:00"
@@ -27445,6 +27548,9 @@
   "url:https://recruiting.paylocity.com/recruiting/jobs/details/4648416": {
    "simplify": "2026-11-07T00:07:00+00:00"
   },
+  "url:https://recruiting.paylocity.com/recruiting/jobs/details/4650662": {
+   "simplify": "2026-11-11T00:07:02+00:00"
+  },
   "url:https://redhat.wd5.myworkdayjobs.com/jobs/job/dublin---mso/software-engineering-internship---agent-operations--dublin--ireland-_r-059196": {
    "workday": "2026-10-22T11:15:36+00:00"
   },
@@ -31224,6 +31330,9 @@
   "url:https://vizient.wd1.myworkdayjobs.com/vizient_careers/job/irving-tx-75062-vizient-corporate-hq/xmlname-2027-summer-internship---revenue-intelligence_36048r-1": {
    "simplify": "2026-11-06T23:37:00+00:00",
    "workday": "2026-11-06T14:45:39+00:00"
+  },
+  "url:https://vizient.wd1.myworkdayjobs.com/vizient_careers/job/irving-tx-75062-vizient-corporate-hq/xmlname-2027-summer-internship---spend-management-insights_36212r": {
+   "simplify": "2026-11-11T00:07:02+00:00"
   },
   "url:https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/boston-ma/spring-co-op-2027--commercial-analytics_req-31112-1": {
    "simplify": "2026-10-20T17:29:45+00:00"
