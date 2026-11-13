@@ -8718,6 +8718,16 @@
   "posted_at": "2026-11-10",
   "source": "greenhouse"
  },
+ "url:https://asml.wd3.myworkdayjobs.com/asmlext1/job/austin-tx-usa/internship---euv-data-science-and-analytics_j-00357717": {
+  "company": "asml",
+  "title": "Internship - EUV Data Science and Analytics",
+  "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Austin-TX-USA/Internship---EUV-Data-Science-and-Analytics_J-00357717",
+  "locations": [
+   "Austin, TX, USA"
+  ],
+  "posted_at": "2026-11-13",
+  "source": "workday"
+ },
  "url:https://asml.wd3.myworkdayjobs.com/asmlext1/job/delft-netherlands/computer-science---engineering-internship--performance-data-platform_j-00356806": {
   "company": "asml",
   "title": "Computer Science | Engineering internship: performance data platform",
@@ -25167,7 +25177,7 @@
   "locations": [
    "CAI23: Carrier-Indianapolis, 7310 West Morris Street, Indianapolis, IN, 46231 USA"
   ],
-  "posted_at": "2026-10-19",
+  "posted_at": "2026-11-13",
   "source": "workday"
  },
  "url:https://carrier.wd5.myworkdayjobs.com/jobs/job/cai23-carrier-indianapolis-7310-west-morris-street-indianapolis-in-46231-usa/intern--chemmtrlsengrg_30220163": {
@@ -30291,6 +30301,16 @@
    "United Kingdom - Reading"
   ],
   "posted_at": "2026-11-12",
+  "source": "workday"
+ },
+ "url:https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/usa---arlington-va/insider-risk-engineering-intern---summer-2027_r30718": {
+  "company": "crowdstrike",
+  "title": "Insider Risk Engineering Intern - Summer 2027",
+  "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Arlington-VA/Insider-Risk-Engineering-Intern---Summer-2027_R30718",
+  "locations": [
+   "3 Locations"
+  ],
+  "posted_at": "2026-11-13",
   "source": "workday"
  },
  "url:https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/usa---arlington-va/intelligence-intern---summer-2027_r30605": {
@@ -60000,41 +60020,42 @@
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/1yo": {
-  "company": "Amazon",
-  "title": "Security Engineer Intern",
-  "url": "https://go.vansh.nyc/1yo",
+  "company": "CACI",
+  "title": "Configuration Control/Data Management Co-op",
+  "url": "https://go.vansh.nyc/1yO",
   "locations": [
-   "Seattle, WA"
+   "Danbury, CT"
   ],
-  "posted_at": "2026-09-22",
+  "posted_at": "2026-11-13",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/1yp": {
-  "company": "E2 Consulting Engineers",
-  "title": "Data Analyst Intern",
-  "url": "https://go.vansh.nyc/1yp",
+  "company": "RegScale",
+  "title": "Cyber Security Intern",
+  "url": "https://go.vansh.nyc/1yP",
   "locations": [
-   "San Diego, CA"
+   "Remote",
+   "United States"
   ],
   "posted_at": "2026-11-13",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/1yq": {
-  "company": "CoStar Group",
-  "title": "Vision & Learning Intern",
-  "url": "https://go.vansh.nyc/1yq",
+  "company": "Canadian Tire Corporation, Limited",
+  "title": "Programmer Analyst Intern",
+  "url": "https://go.vansh.nyc/1yQ",
   "locations": [
-   "Sunnyvale, CA"
+   "Mississauga, Canada"
   ],
   "posted_at": "2026-11-13",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/1yr": {
-  "company": "Origin Bank",
-  "title": "Cybersecurity Intern",
-  "url": "https://go.vansh.nyc/1yr",
+  "company": "Manulife Financial",
+  "title": "Software Engineering Co-op",
+  "url": "https://go.vansh.nyc/1yR",
   "locations": [
-   "Ruston, LA"
+   "Boston, MA"
   ],
   "posted_at": "2026-11-13",
   "source": "vanshb03"
@@ -67930,13 +67951,13 @@
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/sn": {
-  "company": "Netsmart",
-  "title": "Security Analyst Intern",
-  "url": "https://go.vansh.nyc/SN",
+  "company": "Bombardier",
+  "title": "Developer Intern",
+  "url": "https://go.vansh.nyc/Sn",
   "locations": [
-   "Overland Park, KS"
+   "Mississauga, Canada"
   ],
-  "posted_at": "2026-10-26",
+  "posted_at": "2026-10-18",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/so": {
@@ -88044,6 +88065,36 @@
   "posted_at": "2026-11-13",
   "source": "greenhouse"
  },
+ "url:https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202927003": {
+  "company": "Samsung Semiconductor",
+  "title": "Intern, AI Systems Performance Engineer",
+  "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202927003",
+  "locations": [
+   "San Jose, California, United States"
+  ],
+  "posted_at": "2026-11-13",
+  "source": "greenhouse"
+ },
+ "url:https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203052003": {
+  "company": "Samsung Semiconductor",
+  "title": "Intern, ML Compiler (Kernel Auto-Tuning)",
+  "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203052003",
+  "locations": [
+   "San Jose, California, United States"
+  ],
+  "posted_at": "2026-11-13",
+  "source": "greenhouse"
+ },
+ "url:https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203058003": {
+  "company": "Samsung Semiconductor",
+  "title": "Intern, SSD Firmware Development",
+  "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203058003",
+  "locations": [
+   "San Jose, California, United States"
+  ],
+  "posted_at": "2026-11-13",
+  "source": "greenhouse"
+ },
  "url:https://job-boards.greenhouse.io/scaleai/jobs/4611533005": {
   "company": "Scale AI",
   "title": "Technical Advisor Specialist (Part-Time Internship)",
@@ -102620,6 +102671,16 @@
   "url": "https://jobs.smartrecruiters.com/AECOM2/744000161502085",
   "locations": [
    "Waterloo, IA, United States"
+  ],
+  "posted_at": "2026-11-13",
+  "source": "smartrecruiters"
+ },
+ "url:https://jobs.smartrecruiters.com/aecom2/744000161561210": {
+  "company": "AECOM",
+  "title": "Traffic Engineering Intern",
+  "url": "https://jobs.smartrecruiters.com/AECOM2/744000161561210",
+  "locations": [
+   "Columbus, OH, United States"
   ],
   "posted_at": "2026-11-13",
   "source": "smartrecruiters"
@@ -119986,6 +120047,16 @@
   "posted_at": "2026-10-29",
   "source": "workday"
  },
+ "url:https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/buffalo-ny/intern--electrical-engineering_r-26-21409": {
+  "company": "moog",
+  "title": "Intern, Electrical Engineering",
+  "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Electrical-Engineering_R-26-21409",
+  "locations": [
+   "Buffalo, NY"
+  ],
+  "posted_at": "2026-11-13",
+  "source": "workday"
+ },
  "url:https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/buffalo-ny/intern--engineering_r-26-19391": {
   "company": "moog",
   "title": "Intern, Engineering",
@@ -123981,6 +124052,16 @@
    "United States-California-Sunnyvale"
   ],
   "posted_at": "2026-11-11",
+  "source": "workday"
+ },
+ "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-california-sunnyvale/xmlname-2027-manufacturing-engineering-intern---sunnyvale-ca_r10260394": {
+  "company": "ngc",
+  "title": "2027 Manufacturing Engineering Intern - Sunnyvale CA",
+  "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/XMLNAME-2027-Manufacturing-Engineering-Intern---Sunnyvale-CA_R10260394",
+  "locations": [
+   "United States-California-Sunnyvale"
+  ],
+  "posted_at": "2026-11-13",
   "source": "workday"
  },
  "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-california-sunnyvale/xmlname-2027-materials-engineer-intern---sunnyvale-ca_r10255084": {
@@ -128314,7 +128395,7 @@
   "locations": [
    "Office - USA - TX"
   ],
-  "posted_at": "2026-11-10",
+  "posted_at": "2026-11-13",
   "source": "workday"
  },
  "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/office---israel---petach-tikva/r-d-intern--alero---idira-_jr-023570": {
@@ -139927,6 +140008,16 @@
   ],
   "posted_at": "2026-09-03",
   "source": "simplify"
+ },
+ "url:https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/southern-pines-nc/systems-engineer-intern_r0031224-1": {
+  "company": "snc",
+  "title": "Systems Engineer Intern",
+  "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Systems-Engineer-Intern_R0031224-1",
+  "locations": [
+   "Southern Pines, NC"
+  ],
+  "posted_at": "2026-11-13",
+  "source": "workday"
  },
  "url:https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/sparks-nv/cybersecurity-analyst-intern_r0031269": {
   "company": "snc",
