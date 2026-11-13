@@ -8609,14 +8609,14 @@
   "source": "workday"
  },
  "url:https://archgroup.wd1.myworkdayjobs.com/careers/job/greensboro-nc-united-states-of-america/originations-portal-it-intern_r26_1135": {
-  "company": "Arch Capital Group",
+  "company": "archgroup",
   "title": "Originations Portal IT Intern",
   "url": "https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Originations-Portal-IT-Intern_R26_1135",
   "locations": [
-   "Greensboro, NC"
+   "Greensboro, NC United States of America"
   ],
-  "posted_at": "2026-11-03",
-  "source": "simplify"
+  "posted_at": "2026-11-13",
+  "source": "workday"
  },
  "url:https://archgroup.wd1.myworkdayjobs.com/careers/job/greensboro-nc-united-states-of-america/security-operations-intern_r26_1016": {
   "company": "archgroup",
@@ -16868,6 +16868,16 @@
   "posted_at": "2026-11-02",
   "source": "workday"
  },
+ "url:https://borgwarner.wd5.myworkdayjobs.com/borgwarner_careers/job/auburn-hills---michigan---usa/it-service-desk-intern--year-round-_r2026-4037": {
+  "company": "borgwarner",
+  "title": "IT Service Desk Intern (Year-Round)",
+  "url": "https://borgwarner.wd5.myworkdayjobs.com/borgwarner_careers/job/Auburn-Hills---Michigan---USA/IT-Service-Desk-Intern--Year-Round-_R2026-4037",
+  "locations": [
+   "Auburn Hills - Michigan - USA"
+  ],
+  "posted_at": "2026-10-14",
+  "source": "workday"
+ },
  "url:https://borgwarner.wd5.myworkdayjobs.com/borgwarner_careers/job/auburn-hills---michigan---usa/mechanical-engineering-intern--year-round-_r2026-3788": {
   "company": "borgwarner",
   "title": "Mechanical Engineering Intern (Year Round)",
@@ -16968,6 +16978,16 @@
   "posted_at": "2026-10-14",
   "source": "workday"
  },
+ "url:https://borgwarner.wd5.myworkdayjobs.com/borgwarner_careers/job/kokomo-technical-center---indiana---usa/emc-design-engineer-intern--year-round-_r2026-4152": {
+  "company": "borgwarner",
+  "title": "EMC Design Engineer Intern (Year-Round)",
+  "url": "https://borgwarner.wd5.myworkdayjobs.com/borgwarner_careers/job/Kokomo-Technical-Center---Indiana---USA/EMC-Design-Engineer-Intern--Year-Round-_R2026-4152",
+  "locations": [
+   "Kokomo Technical Center - Indiana - USA"
+  ],
+  "posted_at": "2026-10-21",
+  "source": "workday"
+ },
  "url:https://borgwarner.wd5.myworkdayjobs.com/borgwarner_careers/job/kokomo-technical-center---indiana---usa/manufacturing-process-engineering-intern_r2026-3943-1": {
   "company": "borgwarner",
   "title": "Manufacturing Process Engineering Intern",
@@ -16986,6 +17006,16 @@
    "Kokomo Technical Center - Indiana - USA"
   ],
   "posted_at": "2026-10-12",
+  "source": "workday"
+ },
+ "url:https://borgwarner.wd5.myworkdayjobs.com/borgwarner_careers/job/viana-do-castelo-i---portugal/professional-internship-information-technology---client-support--m-f-d-_r2026-4421": {
+  "company": "borgwarner",
+  "title": "Professional Internship Information Technology - Client Support (m/f/d)",
+  "url": "https://borgwarner.wd5.myworkdayjobs.com/borgwarner_careers/job/Viana-do-Castelo-I---Portugal/Professional-Internship-Information-Technology---Client-Support--m-f-d-_R2026-4421",
+  "locations": [
+   "Viana do Castelo I - Portugal"
+  ],
+  "posted_at": "2026-11-09",
   "source": "workday"
  },
  "url:https://borgwarner.wd5.myworkdayjobs.com/borgwarner_careers/job/viana-do-castelo-ii---portugal/nvh-product-engineering-intern_r2026-3131": {
@@ -57952,13 +57982,14 @@
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/1sf": {
-  "company": "Optimum (Altice USA)",
-  "title": "DevOps Toolchain Intern",
-  "url": "https://go.vansh.nyc/1sF",
+  "company": "Hook Music",
+  "title": "Machine Learning Engineering Intern, Recommendation Systems",
+  "url": "https://go.vansh.nyc/1sf",
   "locations": [
-   "Bethpage, NY"
+   "Remote",
+   "United States"
   ],
-  "posted_at": "2026-11-11",
+  "posted_at": "2026-11-10",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/1sg": {
@@ -59872,11 +59903,31 @@
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/1yl": {
-  "company": "ASML",
-  "title": "Data Scientist Intern",
-  "url": "https://go.vansh.nyc/1yl",
+  "company": "Micron Technology",
+  "title": "Enterprise SSD Architecture Intern",
+  "url": "https://go.vansh.nyc/1yL",
   "locations": [
-   "Wilton, CT"
+   "Boise, ID"
+  ],
+  "posted_at": "2026-11-13",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/1ym": {
+  "company": "Daimler Truck",
+  "title": "IT Developer Analyst Intern",
+  "url": "https://go.vansh.nyc/1yM",
+  "locations": [
+   "Mount Holly, NC"
+  ],
+  "posted_at": "2026-11-13",
+  "source": "vanshb03"
+ },
+ "url:https://go.vansh.nyc/1yn": {
+  "company": "Trace3",
+  "title": "Security Intern",
+  "url": "https://go.vansh.nyc/1yN",
+  "locations": [
+   "Irvine, CA"
   ],
   "posted_at": "2026-11-13",
   "source": "vanshb03"
@@ -62806,13 +62857,13 @@
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/cd": {
-  "company": "Kinaxis",
-  "title": "Cloud Developer Intern, Platform Engineering",
-  "url": "https://go.vansh.nyc/cD",
+  "company": "Point72",
+  "title": "Quantitative Developer Intern",
+  "url": "https://go.vansh.nyc/cd",
   "locations": [
-   "Ottawa, ON"
+   "NYC"
   ],
-  "posted_at": "2026-10-20",
+  "posted_at": "2026-10-19",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/ce": {
@@ -94778,6 +94829,16 @@
   "posted_at": "2026-09-24",
   "source": "ashby"
  },
+ "url:https://jobs.ashbyhq.com/ramp/b87e898f-8d8b-447d-b3d5-9073ccf7d109": {
+  "company": "ramp",
+  "title": "Risk Strategy Intern",
+  "url": "https://jobs.ashbyhq.com/ramp/b87e898f-8d8b-447d-b3d5-9073ccf7d109",
+  "locations": [
+   "New York, NY (HQ)"
+  ],
+  "posted_at": "2026-11-13",
+  "source": "ashby"
+ },
  "url:https://jobs.ashbyhq.com/ramp/be75224c-854c-4a55-9da5-62ca2dcc09df": {
   "company": "ramp",
   "title": "Software Engineer, International",
@@ -103850,14 +103911,14 @@
   "source": "smartrecruiters"
  },
  "url:https://jobs.smartrecruiters.com/boschgroup/744000146546849": {
-  "company": "Bosch Group",
-  "title": "Software Engineering Intern (8 months/40hrs per week)",
+  "company": "Bosch Home Comfort",
+  "title": "Software Engineer Intern",
   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000146546849",
   "locations": [
-   "Farmington Hills, MI, United States"
+   "Farmington Hills, MI"
   ],
   "posted_at": "2026-08-31",
-  "source": "smartrecruiters"
+  "source": "simplify"
  },
  "url:https://jobs.smartrecruiters.com/boschgroup/744000146546849-software-engineering-intern-8-months-40hrs-per-week-?oga=true": {
   "company": "Bosch",
@@ -156553,13 +156614,13 @@
  },
  "url:https://www.octant.bio/jobs?gh_jid=6260895004": {
   "company": "Octant Bio",
-  "title": "Software Engineer - Internship",
+  "title": "Software Engineering Intern",
   "url": "https://www.octant.bio/jobs?gh_jid=6260895004",
   "locations": [
-   "Emeryville, California, United States"
+   "Emeryville, CA"
   ],
   "posted_at": "2026-11-12",
-  "source": "greenhouse"
+  "source": "simplify"
  },
  "url:https://www.oldmissioncapital.com/careers?gh_jid=7796180003": {
   "company": "Old Mission",
@@ -159097,6 +159158,16 @@
   ],
   "posted_at": "2026-09-14",
   "source": "simplify"
+ },
+ "url:https://xcelenergy.wd1.myworkdayjobs.com/external/job/minneapolis-mn-55401/dam-safety-engineer-intern--wi_jr115604-2": {
+  "company": "xcelenergy",
+  "title": "Civil Engineering, Hydropower Intern - MN, WI",
+  "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Dam-Safety-Engineer-Intern--WI_JR115604-2",
+  "locations": [
+   "2 Locations"
+  ],
+  "posted_at": "2026-11-13",
+  "source": "workday"
  },
  "url:https://xcelenergy.wd1.myworkdayjobs.com/external/job/minneapolis-mn-55401/data-scientist-intern---mn--co_jr115668-1": {
   "company": "Xcel Energy",
