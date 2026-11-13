@@ -387,9 +387,6 @@
   "url:https://aerotech.applytojob.com/apply/ofiyspo0hw/software-engineering-internship-or-coop-2027": {
    "simplify": "2026-11-01T13:12:59+00:00"
   },
-  "url:https://aes.wd1.myworkdayjobs.com/aes_us/job/us-dayton-oh/relay-engineer---engineering-services-co-op--fall-2027-_r1064792": {
-   "workday": "2026-10-14T19:37:05+00:00"
-  },
   "url:https://aes.wd1.myworkdayjobs.com/aes_us/job/us-dayton-oh/t-d-performance-and-reliability-engineering-intern--summer-2027-_r1064841": {
    "simplify": "2026-11-01T13:12:59+00:00"
   },
@@ -3152,6 +3149,9 @@
    "greenhouse": "2026-10-06T00:37:05+00:00",
    "vanshb03": "2026-10-23T19:07:57+00:00"
   },
+  "url:https://boards.greenhouse.io/andurilindustries/jobs/5257709007?gh_jid=5257709007": {
+   "greenhouse": "2026-11-13T20:07:00+00:00"
+  },
   "url:https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007": {
    "vanshb03": "2026-10-17T19:18:45+00:00"
   },
@@ -3298,8 +3298,18 @@
   "url:https://boards.greenhouse.io/figma/jobs/6180005004?gh_jid=6180005004": {
    "greenhouse": "2026-11-01T13:12:59+00:00"
   },
+  "url:https://boards.greenhouse.io/lightmatter/jobs/5425407008?gh_jid=5425407008": {
+   "greenhouse": "2026-11-13T20:07:00+00:00"
+  },
+  "url:https://boards.greenhouse.io/lightmatter/jobs/5473740008?gh_jid=5473740008": {
+   "greenhouse": "2026-11-13T20:07:00+00:00"
+  },
   "url:https://boards.greenhouse.io/lightmatter/jobs/5479596008?gh_jid=5479596008": {
+   "greenhouse": "2026-11-13T20:07:00+00:00",
    "speedyapply": "2026-11-13T19:37:00+00:00"
+  },
+  "url:https://boards.greenhouse.io/lightmatter/jobs/5479605008?gh_jid=5479605008": {
+   "greenhouse": "2026-11-13T20:07:00+00:00"
   },
   "url:https://boards.greenhouse.io/neuralink/jobs/5469298003?gh_jid=5469298003": {
    "greenhouse": "2026-11-01T13:12:59+00:00"
@@ -3966,6 +3976,9 @@
   "url:https://cadence.wd1.myworkdayjobs.com/external_careers/job/beijing/software-engineering-intern_r52210": {
    "workday": "2026-11-01T16:07:04+00:00"
   },
+  "url:https://cadence.wd1.myworkdayjobs.com/external_careers/job/belo-horizonte/intern--application-engineering---cae-simulation_r57192": {
+   "workday": "2026-11-13T20:07:00+00:00"
+  },
   "url:https://cadence.wd1.myworkdayjobs.com/external_careers/job/belo-horizonte/intern--application-engineering---digital-verification---simulation-vip_r54888": {
    "workday": "2026-11-01T16:07:04+00:00"
   },
@@ -3986,6 +3999,9 @@
   },
   "url:https://cadence.wd1.myworkdayjobs.com/external_careers/job/san-jose/cst-application-engineer-intern---silicon_r56655-1": {
    "workday": "2026-11-05T18:07:04+00:00"
+  },
+  "url:https://cadence.wd1.myworkdayjobs.com/external_careers/job/san-jose/cst-application-engineer-intern---systems-atx_r56800-3": {
+   "workday": "2026-11-13T20:07:00+00:00"
   },
   "url:https://cadence.wd1.myworkdayjobs.com/external_careers/job/san-jose/cst-intern---data-center-gtm-intern_r57099-2": {
    "workday": "2026-11-02T20:07:00+00:00"
@@ -12362,6 +12378,15 @@
   "url:https://go.vansh.nyc/1yz": {
    "vanshb03": "2026-11-13T19:37:00+00:00"
   },
+  "url:https://go.vansh.nyc/1z0": {
+   "vanshb03": "2026-11-13T20:07:00+00:00"
+  },
+  "url:https://go.vansh.nyc/1z1": {
+   "vanshb03": "2026-11-13T20:07:00+00:00"
+  },
+  "url:https://go.vansh.nyc/1z2": {
+   "vanshb03": "2026-11-13T20:07:00+00:00"
+  },
   "url:https://go.vansh.nyc/2c": {
    "vanshb03": "2026-10-25T08:37:01+00:00"
   },
@@ -18807,8 +18832,18 @@
   "url:https://job-boards.greenhouse.io/metoxinternationalinc/jobs/5439987008": {
    "greenhouse": "2026-11-01T13:12:59+00:00"
   },
+  "url:https://job-boards.greenhouse.io/minitab/jobs/8200356003": {
+   "greenhouse": "2026-11-13T20:07:00+00:00"
+  },
+  "url:https://job-boards.greenhouse.io/minitab/jobs/8200493003": {
+   "greenhouse": "2026-11-13T20:07:00+00:00"
+  },
   "url:https://job-boards.greenhouse.io/minitab/jobs/8200698003": {
+   "greenhouse": "2026-11-13T20:07:00+00:00",
    "speedyapply": "2026-11-13T19:37:00+00:00"
+  },
+  "url:https://job-boards.greenhouse.io/minitab/jobs/8200707003": {
+   "greenhouse": "2026-11-13T20:07:00+00:00"
   },
   "url:https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967400003": {
    "greenhouse": "2026-11-01T16:07:04+00:00"
@@ -20298,7 +20333,11 @@
    "ashby": "2026-11-03T23:40:09+00:00"
   },
   "url:https://jobs.ashbyhq.com/atalanta/52011b21-df9a-4304-81a9-005a79f55335": {
+   "ashby": "2026-11-13T20:07:00+00:00",
    "speedyapply": "2026-11-13T19:37:00+00:00"
+  },
+  "url:https://jobs.ashbyhq.com/atalanta/732425ff-3461-49e6-9022-5b0cd732e6c1": {
+   "ashby": "2026-11-13T20:07:00+00:00"
   },
   "url:https://jobs.ashbyhq.com/aurora-operations-inc/058e3b3a-dd13-4736-84a8-b19d5de2c9f5": {
    "ashby": "2026-10-27T02:37:05+00:00"
@@ -22608,6 +22647,9 @@
   "url:https://jobs.lever.co/tri/6433edb6-76be-409f-9a73-9b9d9c207f9f": {
    "lever": "2026-11-01T13:12:59+00:00"
   },
+  "url:https://jobs.lever.co/tri/6c9002a1-6ed1-42b7-829c-5ba6661446ac": {
+   "lever": "2026-11-13T20:07:00+00:00"
+  },
   "url:https://jobs.lever.co/tri/6f60ff79-c902-466a-912c-7ab849ce6424": {
    "lever": "2026-10-26T22:37:03+00:00"
   },
@@ -23971,6 +24013,9 @@
   },
   "url:https://jobs.smartrecruiters.com/veoliaenvironnementsa/744000160896184-manufacturing-software-engineer-intern?oga=true": {
    "speedyapply": "2026-11-11T22:15:36+00:00"
+  },
+  "url:https://jobs.smartrecruiters.com/veoliaenvironnementsa/744000161567349": {
+   "smartrecruiters": "2026-11-13T20:07:00+00:00"
   },
   "url:https://jobs.smartrecruiters.com/wabtec/3743990014652807": {
    "smartrecruiters": "2026-11-13T03:37:03+00:00"
@@ -27744,6 +27789,9 @@
   "url:https://parsons.wd5.myworkdayjobs.com/search/job/us---va-centreville/ai-ml-engineering-intern-summer-2027_r188194": {
    "simplify": "2026-11-04T17:07:05+00:00"
   },
+  "url:https://parsons.wd5.myworkdayjobs.com/search/job/us---va-centreville/bridge-engineering-intern---summer-2027_r187033-1": {
+   "workday": "2026-11-13T20:07:00+00:00"
+  },
   "url:https://parsons.wd5.myworkdayjobs.com/search/job/us---va-centreville/digital-engineering-intern-summer-2027_r188195": {
    "workday": "2026-11-09T14:37:05+00:00"
   },
@@ -28236,6 +28284,9 @@
   },
   "url:https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/fayetteville-ga/summer-2027-internship--construction-project-engineer_r2026-1967": {
    "workday": "2026-11-01T13:12:59+00:00"
+  },
+  "url:https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/fayetteville-ga/summer-2027-internship--construction-project-engineer_r2026-2270": {
+   "workday": "2026-11-13T20:07:00+00:00"
   },
   "url:https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/manassas-va/summer-2027-internship---construction-project-development_r2026-1903": {
    "workday": "2026-11-01T13:12:59+00:00"
