@@ -117,7 +117,7 @@
   "locations": [
    "US, Minnesota, Maplewood"
   ],
-  "posted_at": "2026-10-14",
+  "posted_at": "2026-11-13",
   "source": "workday"
  },
  "url:https://3m.wd1.myworkdayjobs.com/search/job/us-minnesota-maplewood/internship---2027-undergraduate-it-intern_r01170403-1": {
@@ -151,14 +151,14 @@
   "source": "simplify"
  },
  "url:https://aaaie.wd1.myworkdayjobs.com/csaacareers2/job/arizona---home-teleworkers/data-science-intern_r8002": {
-  "company": "aaaie",
+  "company": "CSAA Insurance Group",
   "title": "Data Science Intern",
   "url": "https://aaaie.wd1.myworkdayjobs.com/CSAACareers2/job/Arizona---Home-Teleworkers/Data-Science-Intern_R8002",
   "locations": [
-   "Arizona - Home Teleworkers"
+   "Phoenix, AZ"
   ],
   "posted_at": "2026-10-27",
-  "source": "workday"
+  "source": "simplify"
  },
  "url:https://aba.wd1.myworkdayjobs.com/aba/job/us-dc-main-office/intern--banking-policy-and-economic-research_r625": {
   "company": "aba",
@@ -4591,7 +4591,7 @@
   "locations": [
    "Toronto, Ontario, Canada"
   ],
-  "posted_at": "2026-09-29",
+  "posted_at": "2026-11-13",
   "source": "workday"
  },
  "url:https://altera.wd1.myworkdayjobs.com/altera/job/toronto-ontario-canada/quartus-user-interface---intern_r03353": {
@@ -5720,14 +5720,15 @@
   "source": "workday"
  },
  "url:https://amfam.wd1.myworkdayjobs.com/amfamgroupinterncareers/job/wi-madison/amfam---2027-summer-genai-intern_r39561": {
-  "company": "amfam",
-  "title": "AMFAM - 2027 Summer GenAI/ML Intern",
+  "company": "American Family Insurance Group",
+  "title": "GenAI Intern",
   "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/AMFAM---2027-Summer-GenAI-Intern_R39561",
   "locations": [
-   "2 Locations"
+   "Madison, WI",
+   "Boston, MA"
   ],
-  "posted_at": "2026-10-30",
-  "source": "workday"
+  "posted_at": "2026-10-01",
+  "source": "simplify"
  },
  "url:https://amfam.wd1.myworkdayjobs.com/amfamgroupinterncareers/job/wi-madison/amfam---2027-summer-genai-ml-intern_r39514": {
   "company": "American Family Insurance Group",
@@ -12664,14 +12665,14 @@
   "source": "simplify"
  },
  "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/honolulu-hi/university---2027-summer-games-systems-engineer-intern---honolulu--hi_r0248370": {
-  "company": "bah",
-  "title": "University - 2027 Summer Games Systems Engineer Intern - Honolulu, HI",
+  "company": "Booz Allen",
+  "title": "Systems Engineer Intern - Summer Games",
   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games-Systems-Engineer-Intern---Honolulu--HI_R0248370",
   "locations": [
    "Honolulu, HI"
   ],
-  "posted_at": "2026-10-28",
-  "source": "workday"
+  "posted_at": "2026-09-01",
+  "source": "simplify"
  },
  "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/huntsville-al/university---2027-summer-games-data-scientist-intern---huntsville--al_r0248407": {
   "company": "Booz Allen",
@@ -59729,13 +59730,13 @@
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/1ye": {
-  "company": "Atalanta",
-  "title": "Software Engineer Intern",
-  "url": "https://go.vansh.nyc/1ye",
+  "company": "IPConfigure",
+  "title": "Software Development Intern, Video Surveillance Software",
+  "url": "https://go.vansh.nyc/1yE",
   "locations": [
-   "Washington, DC"
+   "Norfolk, VA"
   ],
-  "posted_at": "2026-11-12",
+  "posted_at": "2026-11-13",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/1yf": {
@@ -95755,7 +95756,7 @@
   "title": "X-BAT Business Development Director, Middle East (R4949)",
   "url": "https://jobs.ashbyhq.com/shield/bad3c822-4197-4b6a-aab8-d8ef8c91ff7f",
   "locations": [
-   "Abu Dhabi"
+   "Abu Dhabi, UAE"
   ],
   "posted_at": "2026-09-17",
   "source": "ashby"
@@ -114653,6 +114654,26 @@
    "Kanagawa"
   ],
   "posted_at": "2026-10-21",
+  "source": "workday"
+ },
+ "url:https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/ottawa-canada/data-center-silicon-hardware-engineering-intern---bs---2027-co-op_2604525": {
+  "company": "marvell",
+  "title": "Data Center Silicon Hardware Engineering Intern - BS - 2027 Co-Op",
+  "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Data-Center-Silicon-Hardware-Engineering-Intern---BS---2027-Co-Op_2604525",
+  "locations": [
+   "2 Locations"
+  ],
+  "posted_at": "2026-11-13",
+  "source": "workday"
+ },
+ "url:https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/ottawa-canada/firmware-engineer-intern---winter-2027_2604738": {
+  "company": "marvell",
+  "title": "Firmware Engineer Intern - Co-Op 2027",
+  "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Firmware-Engineer-Intern---Winter-2027_2604738",
+  "locations": [
+   "Ottawa, Canada"
+  ],
+  "posted_at": "2026-11-13",
   "source": "workday"
  },
  "url:https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/ottawa-canada/ic-validation-engineer-intern---bs-ms---2027-co-op_2603925": {
@@ -152442,6 +152463,16 @@
   "posted_at": "2026-11-06",
   "source": "workday"
  },
+ "url:https://vizient.wd1.myworkdayjobs.com/vizient_careers/job/chicago-il-60607/xmlname-2027-summer-internship---data---digital-finance-business-partner_36051r-1": {
+  "company": "vizient",
+  "title": "2027 Summer Internship - Data & Digital Finance Business Partner",
+  "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Data---Digital-Finance-Business-Partner_36051R-1",
+  "locations": [
+   "Chicago, IL 60607"
+  ],
+  "posted_at": "2026-11-13",
+  "source": "workday"
+ },
  "url:https://vizient.wd1.myworkdayjobs.com/vizient_careers/job/chicago-il-60607/xmlname-2027-summer-internship---digital-collaboration---data-insights_35969r": {
   "company": "vizient",
   "title": "2027 Summer Internship - Digital Collaboration & Data Insights",
@@ -155334,14 +155365,14 @@
   "source": "greenhouse"
  },
  "url:https://www.fglife.com/about/careers/intern/apply.html?gh_jid=7996103003": {
-  "company": "Fidelity & Guaranty Life Internships",
-  "title": "Intern, IT Software Engineer - Summer, 2027",
+  "company": "F&G",
+  "title": "Intern - IT Software Engineer - Summer - 2027",
   "url": "https://www.fglife.com/about/careers/intern/apply.html?gh_jid=7996103003",
   "locations": [
-   "Des Moines, Iowa, United States"
+   "Remote - Des Moines, IA"
   ],
-  "posted_at": "2026-09-15",
-  "source": "greenhouse"
+  "posted_at": "2026-09-16",
+  "source": "speedyapply"
  },
  "url:https://www.fglife.com/about/careers/intern/apply.html?gh_jid=7997201003": {
   "company": "Fidelity & Guaranty Life Internships",
