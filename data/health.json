@@ -36,6 +36,9 @@
   "R5|deep-crawl workday:tjx.wd1/tjx_external": {
    "opened_at": "2026-11-12T06:37:02+00:00"
   },
+  "R6|workday:3m.wd1/search": {
+   "opened_at": "2026-11-14T16:37:00+00:00"
+  },
   "R6|workday:abglobal.wd1/abcampuscareers": {
    "opened_at": "2026-11-14T05:07:00+00:00"
   },
@@ -69,9 +72,6 @@
   "R6|workday:altera.wd1/altera": {
    "opened_at": "2026-11-14T05:07:00+00:00"
   },
-  "R6|workday:amat.wd1/external": {
-   "opened_at": "2026-11-14T16:07:00+00:00"
-  },
   "R6|workday:ameren.wd1/external": {
    "opened_at": "2026-11-14T05:07:00+00:00"
   },
@@ -83,9 +83,6 @@
   },
   "R6|workday:ameriprise.wd5/ameriprise": {
    "opened_at": "2026-11-14T03:07:00+00:00"
-  },
-  "R6|workday:amgen.wd1/careers": {
-   "opened_at": "2026-11-14T16:07:00+00:00"
   },
   "R6|workday:aoins.wd5/concord": {
    "opened_at": "2026-11-14T03:07:00+00:00"
@@ -120,9 +117,6 @@
   "R6|workday:bah.wd1/confidential": {
    "opened_at": "2026-11-14T05:07:00+00:00"
   },
-  "R6|workday:baird.wd1/careers": {
-   "opened_at": "2026-11-14T16:07:00+00:00"
-  },
   "R6|workday:barr.wd1/barrcareers": {
    "opened_at": "2026-11-14T05:07:00+00:00"
   },
@@ -143,9 +137,6 @@
   },
   "R6|workday:brookfield.wd5/brookfield": {
    "opened_at": "2026-11-14T03:07:00+00:00"
-  },
-  "R6|workday:caci.wd1/external": {
-   "opened_at": "2026-11-14T16:07:00+00:00"
   },
   "R6|workday:cai.wd5/computer_aid": {
    "opened_at": "2026-11-14T03:07:00+00:00"
@@ -191,9 +182,6 @@
   },
   "R6|workday:cox.wd1/cox_external_career_site_1": {
    "opened_at": "2026-11-14T05:07:00+00:00"
-  },
-  "R6|workday:dickssportinggoods.wd1/dsg": {
-   "opened_at": "2026-11-14T16:07:00+00:00"
   },
   "R6|workday:directv.wd1/careers": {
    "opened_at": "2026-11-14T06:07:00+00:00"
@@ -258,6 +246,9 @@
   "R6|workday:fis.wd5/searchjobs": {
    "opened_at": "2026-11-14T03:07:00+00:00"
   },
+  "R6|workday:flextronics.wd1/careers": {
+   "opened_at": "2026-11-14T16:37:00+00:00"
+  },
   "R6|workday:fmr.wd1/fidelitycareers": {
    "opened_at": "2026-11-14T05:07:00+00:00"
   },
@@ -290,6 +281,9 @@
   },
   "R6|workday:gnw.wd1/gnw": {
    "opened_at": "2026-11-14T05:07:00+00:00"
+  },
+  "R6|workday:hitachi.wd1/hitachi": {
+   "opened_at": "2026-11-14T16:37:00+00:00"
   },
   "R6|workday:hl.wd1/campus": {
    "opened_at": "2026-11-14T05:07:00+00:00"
@@ -330,12 +324,6 @@
   "R6|workday:keybank.wd5/external_career_site": {
    "opened_at": "2026-11-14T03:07:00+00:00"
   },
-  "R6|workday:kla.wd1/ur": {
-   "opened_at": "2026-11-14T16:07:00+00:00"
-  },
-  "R6|workday:labcorp.wd1/external": {
-   "opened_at": "2026-11-14T16:07:00+00:00"
-  },
   "R6|workday:landolakes.wd1/landolakes": {
    "opened_at": "2026-11-14T05:07:00+00:00"
   },
@@ -363,9 +351,6 @@
   "R6|workday:medtronic.wd1/medtroniccareers": {
    "opened_at": "2026-11-14T05:07:00+00:00"
   },
-  "R6|workday:medtronic.wd1/redeploymentmedtroniccareers": {
-   "opened_at": "2026-11-14T16:07:00+00:00"
-  },
   "R6|workday:meijer.wd5/meijer": {
    "opened_at": "2026-11-14T03:07:00+00:00"
   },
@@ -375,8 +360,8 @@
   "R6|workday:microchiphr.wd5/external": {
    "opened_at": "2026-11-14T03:07:00+00:00"
   },
-  "R6|workday:mmc.wd1/mmc": {
-   "opened_at": "2026-11-14T16:07:00+00:00"
+  "R6|workday:micron.wd1/external": {
+   "opened_at": "2026-11-14T16:37:00+00:00"
   },
   "R6|workday:modernatx.wd1/m_tx": {
    "opened_at": "2026-11-14T05:07:00+00:00"
@@ -395,9 +380,6 @@
   },
   "R6|workday:nasdaq.wd1/global_external_site": {
    "opened_at": "2026-11-14T05:07:00+00:00"
-  },
-  "R6|workday:nationwide.wd1/nationwide_career": {
-   "opened_at": "2026-11-14T16:07:00+00:00"
   },
   "R6|workday:nb.wd1/nbcareers": {
    "opened_at": "2026-11-14T05:07:00+00:00"
@@ -432,6 +414,9 @@
   "R6|workday:paloaltonetworks.wd5/panwexternalcareers": {
    "opened_at": "2026-11-14T02:37:00+00:00"
   },
+  "R6|workday:paypal.wd1/jobs": {
+   "opened_at": "2026-11-14T16:37:00+00:00"
+  },
   "R6|workday:plastipak.wd1/plastipak": {
    "opened_at": "2026-11-14T05:07:00+00:00"
   },
@@ -443,9 +428,6 @@
   },
   "R6|workday:primient.wd1/external_careers": {
    "opened_at": "2026-11-14T05:07:00+00:00"
-  },
-  "R6|workday:psu.wd1/psu_staff": {
-   "opened_at": "2026-11-14T16:07:00+00:00"
   },
   "R6|workday:qtsdatacenters.wd5/qts": {
    "opened_at": "2026-11-14T03:07:00+00:00"
@@ -465,9 +447,6 @@
   "R6|workday:rsm.wd1/rsmcareers": {
    "opened_at": "2026-11-14T05:07:00+00:00"
   },
-  "R6|workday:ryan.wd1/ryancareers": {
-   "opened_at": "2026-11-14T16:07:00+00:00"
-  },
   "R6|workday:ryancompanies.wd5/ryancompanies": {
    "opened_at": "2026-11-14T02:37:00+00:00"
   },
@@ -479,9 +458,6 @@
   },
   "R6|workday:sierraspace.wd1/sierra_space_external_career_site": {
    "opened_at": "2026-11-14T05:07:00+00:00"
-  },
-  "R6|workday:signetjewelers.wd1/signetcorporatecareers": {
-   "opened_at": "2026-11-14T16:07:00+00:00"
   },
   "R6|workday:simon.wd1/simon": {
    "opened_at": "2026-11-14T05:37:00+00:00"
@@ -522,9 +498,6 @@
   "R6|workday:tiaa.wd1/search": {
    "opened_at": "2026-11-14T05:07:00+00:00"
   },
-  "R6|workday:tmobile.wd1/external": {
-   "opened_at": "2026-11-14T16:07:00+00:00"
-  },
   "R6|workday:transamerica.wd5/auk_jobsite": {
    "opened_at": "2026-11-14T03:07:00+00:00"
   },
@@ -536,12 +509,6 @@
   },
   "R6|workday:truist.wd1/careers": {
    "opened_at": "2026-11-14T05:07:00+00:00"
-  },
-  "R6|workday:uhaul.wd1/uhauljobs": {
-   "opened_at": "2026-11-14T16:07:00+00:00"
-  },
-  "R6|workday:uline.wd1/uline_careers": {
-   "opened_at": "2026-11-14T16:07:00+00:00"
   },
   "R6|workday:usaa.wd1/usaajobswd": {
    "opened_at": "2026-11-14T05:07:00+00:00"
@@ -581,90 +548,9 @@
   }
  },
  "last_health_ntfy_at": "2026-11-14T13:07:00+00:00",
- "last_run_at": "2026-11-14T16:07:00+00:00",
+ "last_run_at": "2026-11-14T16:37:00+00:00",
  "runner": "mac",
  "runs": [
-  {
-   "at": "2026-11-03T04:07:04+00:00",
-   "boards_polled": 904,
-   "boards_skipped_budget": 0,
-   "families": {
-    "ashby": {
-     "errors": 1,
-     "jobs": 139,
-     "matches": 322,
-     "newest": "2026-11-03",
-     "ok": 138,
-     "postings": 8858,
-     "seconds": 55.01
-    },
-    "greenhouse": {
-     "errors": 0,
-     "jobs": 247,
-     "matches": 1004,
-     "newest": "2026-11-02",
-     "ok": 247,
-     "postings": 28451,
-     "seconds": 49.55
-    },
-    "lever": {
-     "errors": 2,
-     "jobs": 40,
-     "matches": 159,
-     "newest": "2026-11-03",
-     "ok": 38,
-     "postings": 3047,
-     "seconds": 58.41
-    },
-    "simplify": {
-     "errors": 0,
-     "jobs": 1,
-     "matches": 1323,
-     "newest": "2026-11-03",
-     "ok": 1,
-     "postings": 5128,
-     "seconds": 1.28
-    },
-    "smartrecruiters": {
-     "errors": 0,
-     "jobs": 24,
-     "matches": 208,
-     "newest": "2026-11-03",
-     "ok": 24,
-     "postings": 2181,
-     "seconds": 17.57
-    },
-    "speedyapply": {
-     "errors": 0,
-     "jobs": 1,
-     "matches": 744,
-     "newest": "2026-11-02",
-     "ok": 1,
-     "postings": 830,
-     "seconds": 0.21
-    },
-    "vanshb03": {
-     "errors": 0,
-     "jobs": 1,
-     "matches": 1755,
-     "newest": "2026-11-03",
-     "ok": 1,
-     "postings": 1930,
-     "seconds": 0.35
-    },
-    "workday": {
-     "errors": 3,
-     "jobs": 454,
-     "matches": 2349,
-     "newest": "2026-11-03",
-     "ok": 451,
-     "postings": 20379,
-     "seconds": 794.49
-    }
-   },
-   "runner": "mac",
-   "seconds": 160.8
-  },
   {
    "at": "2026-11-03T04:37:04+00:00",
    "boards_polled": 905,
@@ -32983,6 +32869,87 @@
    },
    "runner": "mac",
    "seconds": 213.6
+  },
+  {
+   "at": "2026-11-14T16:37:00+00:00",
+   "boards_polled": 778,
+   "boards_skipped_budget": 0,
+   "families": {
+    "ashby": {
+     "errors": 1,
+     "jobs": 151,
+     "matches": 343,
+     "newest": "2026-11-14",
+     "ok": 150,
+     "postings": 10208,
+     "seconds": 30.55
+    },
+    "greenhouse": {
+     "errors": 0,
+     "jobs": 261,
+     "matches": 1038,
+     "newest": "2026-11-14",
+     "ok": 261,
+     "postings": 29233,
+     "seconds": 22.2
+    },
+    "lever": {
+     "errors": 2,
+     "jobs": 43,
+     "matches": 186,
+     "newest": "2026-11-14",
+     "ok": 41,
+     "postings": 2525,
+     "seconds": 74.08
+    },
+    "simplify": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 1350,
+     "newest": "2026-11-14",
+     "ok": 1,
+     "postings": 5336,
+     "seconds": 1.7
+    },
+    "smartrecruiters": {
+     "errors": 0,
+     "jobs": 25,
+     "matches": 201,
+     "newest": "2026-11-14",
+     "ok": 25,
+     "postings": 2337,
+     "seconds": 18.51
+    },
+    "speedyapply": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 769,
+     "newest": "2026-11-14",
+     "ok": 1,
+     "postings": 852,
+     "seconds": 0.18
+    },
+    "vanshb03": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 2315,
+     "newest": "2026-11-14",
+     "ok": 1,
+     "postings": 2480,
+     "seconds": 0.5
+    },
+    "workday": {
+     "errors": 20,
+     "jobs": 298,
+     "matches": 1564,
+     "newest": "2026-11-14",
+     "ok": 278,
+     "postings": 13256,
+     "seconds": 620.9
+    }
+   },
+   "runner": "mac",
+   "seconds": 147.1
   }
  ],
  "version": 1,
