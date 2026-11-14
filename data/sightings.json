@@ -8186,9 +8186,6 @@
   "url:https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/remote/services-internship---engineering-1_r5058534-1": {
    "workday": "2026-11-12T19:50:47+00:00"
   },
-  "url:https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/rochester/ge-vernova-grid-solutions---hardware-engineering-intern--critical-infrastructure-communications----spring-summer-2027_r5051647-1": {
-   "workday": "2026-10-15T18:07:05+00:00"
-  },
   "url:https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/schenectady/ge-vernova---energy-technology-analyst-intern---summer-2027_r5054316-2": {
    "workday": "2026-11-08T19:07:05+00:00"
   },
@@ -8325,9 +8322,6 @@
   },
   "url:https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/remote/services-internship---engineering-1_r5058534-2": {
    "workday": "2026-11-12T19:50:47+00:00"
-  },
-  "url:https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/rochester/ge-vernova-grid-solutions---hardware-engineering-intern--critical-infrastructure-communications----spring-summer-2027_r5051647-2": {
-   "workday": "2026-10-15T18:07:05+00:00"
   },
   "url:https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/schenectady/ge-vernova---energy-technology-analyst-intern---summer-2027_r5054316-3": {
    "workday": "2026-11-08T19:07:05+00:00"
@@ -19261,11 +19255,19 @@
   "url:https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002": {
    "greenhouse": "2026-11-01T16:07:04+00:00"
   },
+  "url:https://job-boards.greenhouse.io/raft/jobs/6239800004": {
+   "greenhouse": "2026-11-14T18:37:00+00:00"
+  },
   "url:https://job-boards.greenhouse.io/raft/jobs/6239819004": {
+   "greenhouse": "2026-11-14T18:37:00+00:00",
    "speedyapply": "2026-11-14T18:07:00+00:00"
   },
   "url:https://job-boards.greenhouse.io/raft/jobs/6240549004": {
+   "greenhouse": "2026-11-14T18:37:00+00:00",
    "speedyapply": "2026-11-14T18:07:00+00:00"
+  },
+  "url:https://job-boards.greenhouse.io/raft/jobs/6240555004": {
+   "greenhouse": "2026-11-14T18:37:00+00:00"
   },
   "url:https://job-boards.greenhouse.io/relaypro/jobs/8180836": {
    "greenhouse": "2026-11-01T13:12:59+00:00",
@@ -21378,7 +21380,35 @@
   "url:https://jobs.ashbyhq.com/regent/ef7de80d-2e83-4714-9d77-5508d5f34086": {
    "ashby": "2026-11-10T20:07:05+00:00"
   },
+  "url:https://jobs.ashbyhq.com/reliable-robotics/0af72d5a-87b7-49a1-b49e-424d28758c9e": {
+   "ashby": "2026-11-14T18:37:00+00:00"
+  },
+  "url:https://jobs.ashbyhq.com/reliable-robotics/0cd44e07-169f-4664-bf31-cded94b93deb": {
+   "ashby": "2026-11-14T18:37:00+00:00"
+  },
+  "url:https://jobs.ashbyhq.com/reliable-robotics/1085bdf8-f023-4cf6-90ed-93a2f4f6ded8": {
+   "ashby": "2026-11-14T18:37:00+00:00"
+  },
+  "url:https://jobs.ashbyhq.com/reliable-robotics/131987a0-ede9-4291-9cd2-1aaadabd2a54": {
+   "ashby": "2026-11-14T18:37:00+00:00"
+  },
+  "url:https://jobs.ashbyhq.com/reliable-robotics/1d020651-71bb-4e47-baa6-2286dc780d96": {
+   "ashby": "2026-11-14T18:37:00+00:00"
+  },
+  "url:https://jobs.ashbyhq.com/reliable-robotics/4aa17839-d94c-478f-9ce9-9974df00314b": {
+   "ashby": "2026-11-14T18:37:00+00:00"
+  },
+  "url:https://jobs.ashbyhq.com/reliable-robotics/9e609f4f-cf1c-4171-9140-54e05c5195de": {
+   "ashby": "2026-11-14T18:37:00+00:00"
+  },
+  "url:https://jobs.ashbyhq.com/reliable-robotics/b5068379-a36c-4b10-ab38-1c0282f24a69": {
+   "ashby": "2026-11-14T18:37:00+00:00"
+  },
+  "url:https://jobs.ashbyhq.com/reliable-robotics/bac27e34-c847-42f7-96d6-2bbd42df649c": {
+   "ashby": "2026-11-14T18:37:00+00:00"
+  },
   "url:https://jobs.ashbyhq.com/reliable-robotics/cbd31c94-5a83-4d1e-8252-de67a5e594ed": {
+   "ashby": "2026-11-14T18:37:00+00:00",
    "speedyapply": "2026-11-14T18:07:00+00:00"
   },
   "url:https://jobs.ashbyhq.com/replit/2c147ccb-2557-40f8-aab9-64422cef220c": {
@@ -29624,6 +29654,9 @@
   "url:https://slihrms.wd3.myworkdayjobs.com/careers/job/uscodenver/water-resources-engineering-intern---summer-2027_r-161180": {
    "workday": "2026-11-01T13:12:59+00:00"
   },
+  "url:https://slihrms.wd3.myworkdayjobs.com/careers/job/usflorlando482-s-keller-rd/aviation-civil-engineering-intern---summer-2027_r-162559": {
+   "workday": "2026-11-14T18:37:00+00:00"
+  },
   "url:https://slihrms.wd3.myworkdayjobs.com/careers/job/usflorlando482-s-keller-rd/bridge-engineering-intern---summer-2027_r-164421": {
    "workday": "2026-11-01T13:12:59+00:00"
   },
@@ -31772,8 +31805,36 @@
   "url:https://uscareers-medpace.icims.com/jobs/13059/job": {
    "speedyapply": "2026-11-11T22:15:36+00:00"
   },
+  "url:https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/chennai/intern---ai_req2025061319": {
+   "workday": "2026-11-14T18:37:00+00:00"
+  },
+  "url:https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/enfidha/project-engineer-intern_req2025067303": {
+   "workday": "2026-11-14T18:37:00+00:00"
+  },
+  "url:https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/martos/process-engineer-ptm-internship_req2026069244": {
+   "workday": "2026-11-14T18:37:00+00:00"
+  },
+  "url:https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/martos/product-technical-engineer-internship_req2026077555": {
+   "workday": "2026-11-14T18:37:00+00:00"
+  },
+  "url:https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/martos/quality-engineer-internship_req2026073346": {
+   "workday": "2026-11-14T18:37:00+00:00"
+  },
+  "url:https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/reno-nv/maintenance-engineering-trainee-intern_req2026082014": {
+   "workday": "2026-11-14T18:37:00+00:00"
+  },
+  "url:https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/rio-bravo/co-op-interns--dvs--development---support--new-position_req2026071136": {
+   "workday": "2026-11-14T18:37:00+00:00"
+  },
+  "url:https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/skawina/sta-w-dziale-it--is-it-intern---m-k-n-_req2026082064": {
+   "workday": "2026-11-14T18:37:00+00:00"
+  },
+  "url:https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/troy-mi/application-engineering-intern--year-round-_req2026080234": {
+   "workday": "2026-11-14T18:37:00+00:00"
+  },
   "url:https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/troy-mi/software-engineer-intern--year-round-_req2026081794": {
-   "speedyapply": "2026-11-14T18:07:00+00:00"
+   "speedyapply": "2026-11-14T18:07:00+00:00",
+   "workday": "2026-11-14T18:37:00+00:00"
   },
   "url:https://valmont.wd1.myworkdayjobs.com/valmontcareers/job/bellville-tx/civil-structural-engineering-intern_r28720": {
    "workday": "2026-11-03T23:40:09+00:00"
