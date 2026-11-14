@@ -683,6 +683,9 @@
   "url:https://allegion.wd5.myworkdayjobs.com/careers/job/carmel-in/summer-intern---advanced-manufacturing-engineering--computer-engineering_jr37433-1": {
    "workday": "2026-11-09T19:37:05+00:00"
   },
+  "url:https://allegion.wd5.myworkdayjobs.com/careers/job/carmel-in/summer-intern---advanced-manufacturing-engineering_jr37416-1": {
+   "workday": "2026-11-14T15:07:00+00:00"
+  },
   "url:https://allegion.wd5.myworkdayjobs.com/careers/job/carmel-in/summer-intern---advanced-manufacturing-engineering_jr37418-1": {
    "workday": "2026-11-13T01:01:17+00:00"
   },
@@ -792,6 +795,12 @@
   },
   "url:https://allegion.wd5.myworkdayjobs.com/earlytalent_careers/job/carmel-in/summer-intern---advanced-manufacturing-engineering_jr37418": {
    "workday": "2026-11-13T03:37:03+00:00"
+  },
+  "url:https://allegion.wd5.myworkdayjobs.com/earlytalent_careers/job/carmel-in/summer-intern---it-manufacturing-systems_jr37409": {
+   "workday": "2026-11-14T15:07:00+00:00"
+  },
+  "url:https://allegion.wd5.myworkdayjobs.com/earlytalent_careers/job/carmel-in/summer-intern---software-operations-engineer_jr37722": {
+   "workday": "2026-11-14T15:07:00+00:00"
   },
   "url:https://allegion.wd5.myworkdayjobs.com/earlytalent_careers/job/carmel-in/summer-intern--user-experience--ux--research_jr37497-2": {
    "workday": "2026-11-02T16:37:05+00:00"
@@ -3823,7 +3832,8 @@
   },
   "url:https://brunswick.wd1.myworkdayjobs.com/search/job/oshkosh-wi/mercury-marine--software-validation-intern_jr-051160": {
    "simplify": "2026-11-14T13:37:00+00:00",
-   "speedyapply": "2026-11-14T13:37:00+00:00"
+   "speedyapply": "2026-11-14T13:37:00+00:00",
+   "workday": "2026-11-14T15:07:00+00:00"
   },
   "url:https://brunswick.wd1.myworkdayjobs.com/search/job/tulsa-ok/lowrance-technical-support-intern_jr-051732": {
    "workday": "2026-11-01T13:12:59+00:00"
@@ -5551,11 +5561,26 @@
   "url:https://cir.wd108.myworkdayjobs.com/cir_external_career_site/job/fairfield-ia/software-engineering-intern_r-2025-219": {
    "speedyapply": "2026-11-13T01:01:17+00:00"
   },
+  "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/galway-ireland/software-engineer-intern_2024810": {
+   "workday": "2026-11-14T15:07:00+00:00"
+  },
   "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/guadalajara-mexico/quality-engineer-i--intern----mexico_2029145": {
    "workday": "2026-10-22T17:36:06+00:00"
   },
+  "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/hanoi-vietnam/test-engineer-intern--vietnam_2011415": {
+   "workday": "2026-11-14T15:07:00+00:00"
+  },
+  "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/harpenden-united-kingdom/software-engineer---intern_2023625": {
+   "workday": "2026-11-14T15:07:00+00:00"
+  },
   "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/kanata-ontario-canada/software-developer-embedded-systems-ii--co-op----canada_2024136": {
    "workday": "2026-10-16T22:07:05+00:00"
+  },
+  "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/london-united-kingdom/internet-measurement-research-intern---bgp-research-team_2023762": {
+   "workday": "2026-11-14T15:07:00+00:00"
+  },
+  "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/london-united-kingdom/splunk-solutions-engineer-intern_2025977": {
+   "workday": "2026-11-14T15:07:00+00:00"
   },
   "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/maynard-massachusetts-us/firmware-engineer-ii--co-op----united-states_2026913": {
    "speedyapply": "2026-10-13T19:37:06+00:00",
@@ -5572,6 +5597,15 @@
    "vanshb03": "2026-10-23T19:07:57+00:00",
    "workday": "2026-10-13T20:37:05+00:00"
   },
+  "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/north-sydney-australia/network-engineer-intern--australia_2024351": {
+   "workday": "2026-11-14T15:07:00+00:00"
+  },
+  "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/rtp-north-carolina-us/consulting-engineer-i--intern----united-states_2024816": {
+   "workday": "2026-11-14T15:07:00+00:00"
+  },
+  "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/rtp-north-carolina-us/splunk-solutions-engineer--intern----united-states_2028084": {
+   "workday": "2026-11-14T15:07:00+00:00"
+  },
   "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/san-jose-california-us/ai-operations-engineer-i--intern----united-states_2026804": {
    "vanshb03": "2026-10-22T03:07:06+00:00",
    "workday": "2026-10-13T20:37:05+00:00"
@@ -5580,8 +5614,17 @@
    "vanshb03": "2026-10-22T03:07:06+00:00",
    "workday": "2026-10-13T20:37:05+00:00"
   },
+  "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/san-jose-california-us/hardware-engineer-i--co-op----united-states_2025369": {
+   "workday": "2026-11-14T15:07:00+00:00"
+  },
   "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/san-jose-california-us/hardware-engineer-i--intern----united-states_2024756": {
    "workday": "2026-11-13T03:37:03+00:00"
+  },
+  "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/san-jose-california-us/hardware-engineer-ii--co-op----united-states_2025375": {
+   "workday": "2026-11-14T15:07:00+00:00"
+  },
+  "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/san-jose-california-us/hardware-engineer-ii-intern---united-states_2024757": {
+   "workday": "2026-11-14T15:07:00+00:00"
   },
   "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/san-jose-california-us/machine-learning-engineer-i--intern----united-states_2026803": {
    "vanshb03": "2026-10-22T03:07:06+00:00",
@@ -5590,6 +5633,9 @@
   "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/san-jose-california-us/machine-learning-engineer-ii--intern----united-states_2026802": {
    "vanshb03": "2026-10-22T03:07:06+00:00",
    "workday": "2026-10-13T20:37:05+00:00"
+  },
+  "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/san-jose-california-us/mechanical-engineer-i--intern----united-states_2026028": {
+   "workday": "2026-11-14T15:07:00+00:00"
   },
   "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/san-jose-california-us/software-engineer-data---ai-i--intern----united-states_2026306": {
    "vanshb03": "2026-10-23T19:07:57+00:00",
@@ -8051,7 +8097,11 @@
    "workday": "2026-11-06T19:07:00+00:00"
   },
   "url:https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/bellevue/ge-vernova---agi---ai-post-training-and-model-alignment-intern---summer-2027_r5054822-1": {
-   "simplify": "2026-11-13T16:07:00+00:00"
+   "simplify": "2026-11-13T16:07:00+00:00",
+   "workday": "2026-11-14T15:07:00+00:00"
+  },
+  "url:https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/bellevue/ge-vernova---agi---ai-power-systems-intern---summer-2027_r5054818-1": {
+   "workday": "2026-11-14T15:07:00+00:00"
   },
   "url:https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/bellevue/ge-vernova---agi---grid-foundational-models-intern---summer-2027_r5054820-2": {
    "simplify": "2026-11-13T16:07:00+00:00"
@@ -8167,6 +8217,9 @@
    "simplify": "2026-10-14T15:07:05+00:00",
    "vanshb03": "2026-10-17T19:18:45+00:00",
    "workday": "2026-10-14T13:08:14+00:00"
+  },
+  "url:https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/bellevue/ge-vernova---agi---ai-power-systems-intern---summer-2027_r5054818-2": {
+   "workday": "2026-11-14T15:07:00+00:00"
   },
   "url:https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/bellevue/ge-vernova---agi---grid-foundational-models-intern---summer-2027_r5054820-3": {
    "simplify": "2026-10-14T15:07:05+00:00",
@@ -17141,17 +17194,11 @@
   "url:https://jabil.wd5.myworkdayjobs.com/jabil_careers/job/guadalajara/product-engineer-intern_j2471423": {
    "workday": "2026-11-09T22:07:05+00:00"
   },
-  "url:https://jabil.wd5.myworkdayjobs.com/jabil_careers/job/memphis-tn/engineering-internships---memphis--tn_j2468449": {
-   "workday": "2026-10-15T14:37:05+00:00"
-  },
   "url:https://jabil.wd5.myworkdayjobs.com/jabil_careers/job/monument-co/manufacturing-engineering-intern---medical-device-manufacturing_j2469027": {
    "workday": "2026-11-13T01:01:17+00:00"
   },
   "url:https://jabil.wd5.myworkdayjobs.com/jabil_careers/job/penang/intern---data-services-squad--dss-_j2468608": {
    "workday": "2026-10-16T06:19:02+00:00"
-  },
-  "url:https://jabil.wd5.myworkdayjobs.com/jabil_careers/job/salt-lake-citygrantsville-ut/engineering-internships---salt-lake-city--ut_j2468445": {
-   "workday": "2026-10-15T14:37:05+00:00"
   },
   "url:https://jabil.wd5.myworkdayjobs.com/jabil_careers/job/st-petersburgtampa-fl/ai-agent-developer-intern--supply-chain-it---ai---enablement-_j2469054": {
    "simplify": "2026-11-10T23:37:02+00:00",
@@ -26087,7 +26134,8 @@
    "workday": "2026-11-03T23:14:50+00:00"
   },
   "url:https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/allen-tx-tx139/software-system-technologist-intern--summer-2027-internship-_r70511": {
-   "speedyapply": "2026-11-11T22:15:36+00:00"
+   "speedyapply": "2026-11-11T22:15:36+00:00",
+   "workday": "2026-11-14T15:07:00+00:00"
   },
   "url:https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/chicago-il/android-applications-developer-intern---summer-2027_r67740": {
    "simplify": "2026-11-01T13:12:59+00:00",
@@ -26207,7 +26255,8 @@
    "workday": "2026-10-22T23:57:50+00:00"
   },
   "url:https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/schaumburg-il/software-engineering-intern---2027-summer-internship_r70179": {
-   "speedyapply": "2026-11-13T19:37:00+00:00"
+   "speedyapply": "2026-11-13T19:37:00+00:00",
+   "workday": "2026-11-14T15:07:00+00:00"
   },
   "url:https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/schaumburg-il/xmlname-2027-summer-embedded-sw-engineering-intern_r67741-1": {
    "speedyapply": "2026-11-13T19:37:00+00:00"
@@ -28284,6 +28333,9 @@
   "url:https://rb.wd5.myworkdayjobs.com/frs/job/atlanta-ga/xmlname-2027-summer-internship-program---supervision---regulation--analytics--innovation-and-modeling-_r-0000033861": {
    "workday": "2026-11-10T05:07:00+00:00"
   },
+  "url:https://rb.wd5.myworkdayjobs.com/frs/job/atlanta-ga/xmlname-2027-summer-internship-program---supervision---regulation--professional-development-group-_r-0000033864": {
+   "workday": "2026-11-14T15:07:00+00:00"
+  },
   "url:https://rb.wd5.myworkdayjobs.com/frs/job/chicago-il/summer-2027-intern---economic-research---chicago_r-0000033628-1": {
    "workday": "2026-11-01T13:12:59+00:00"
   },
@@ -28345,6 +28397,12 @@
   "url:https://rb.wd5.myworkdayjobs.com/frs/job/houston-tx/xmlname-2027-intern---community--engagement---development--houston-_r-0000033568": {
    "workday": "2026-10-23T19:07:57+00:00"
   },
+  "url:https://rb.wd5.myworkdayjobs.com/frs/job/kansas-city-mo/economic-research--internship---summer-2027_r-0000034027": {
+   "workday": "2026-11-14T15:07:00+00:00"
+  },
+  "url:https://rb.wd5.myworkdayjobs.com/frs/job/minneapolis-mn/summer-2027-graduate-internship---data-science_r-0000034056-1": {
+   "workday": "2026-11-14T15:07:00+00:00"
+  },
   "url:https://rb.wd5.myworkdayjobs.com/frs/job/minneapolis-mn/undergraduate-intern---research-focus_r-0000033978-1": {
    "workday": "2026-11-01T18:37:04+00:00"
   },
@@ -28362,6 +28420,9 @@
   },
   "url:https://rb.wd5.myworkdayjobs.com/frs/job/richmond-va/federal-reserve-summer-2027-technical-internship_r-0000033194": {
    "workday": "2026-11-05T06:07:05+00:00"
+  },
+  "url:https://rb.wd5.myworkdayjobs.com/frs/job/st-louis-mo/xmlname-2027-information-technology-internship_r-0000034047": {
+   "workday": "2026-11-14T15:07:00+00:00"
   },
   "url:https://rb.wd5.myworkdayjobs.com/frs/job/st-louis-mo/xmlname-2027-summer-internship---business-technology_r-0000033461": {
    "workday": "2026-10-23T19:07:57+00:00"
@@ -30478,6 +30539,9 @@
   "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/malaysia-kuala-lumpur/tencent-cloud---business-development-interns--malaysia-_r107835": {
    "workday": "2026-11-01T16:07:04+00:00"
   },
+  "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/netherlands-amsterdam/ai-product-manager-intern--game-development_r108258": {
+   "workday": "2026-11-14T15:07:00+00:00"
+  },
   "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/netherlands-amsterdam/sre-intern_r108291": {
    "workday": "2026-10-23T11:44:43+00:00"
   },
@@ -31170,6 +31234,9 @@
   },
   "url:https://travelers.wd5.myworkdayjobs.com/external/job/ca---rancho-cordova/claim-professional-development-program-internship--cpdp-intern-_r-52592": {
    "workday": "2026-11-01T13:12:59+00:00"
+  },
+  "url:https://travelers.wd5.myworkdayjobs.com/external/job/co---centennial/business-insurance-underwriting-professional-development-program-internship--bi-updp-intern-_r-53097": {
+   "workday": "2026-11-14T15:07:00+00:00"
   },
   "url:https://travelers.wd5.myworkdayjobs.com/external/job/ct---hartford/actuarial-leadership-development-program--aldp--intern_r-52299": {
    "workday": "2026-11-01T13:12:59+00:00"
@@ -31972,6 +32039,9 @@
   },
   "url:https://visa.wd5.myworkdayjobs.com/visa_early_careers/job/hu---budapest-hungary/consulting---analytics-intern_ref089753w-1": {
    "workday": "2026-11-04T23:37:07+00:00"
+  },
+  "url:https://visa.wd5.myworkdayjobs.com/visa_early_careers/job/mx---mexico-city-mexico/intern_ref086154w": {
+   "workday": "2026-11-14T15:07:00+00:00"
   },
   "url:https://visa.wd5.myworkdayjobs.com/visa_early_careers/job/pl---warsaw-poland/consulting---analytics-intern_ref089690w-1": {
    "workday": "2026-11-12T13:37:00+00:00"
