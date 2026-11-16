@@ -3377,6 +3377,10 @@
   "url:https://boards.greenhouse.io/point72/jobs/8885733002": {
    "simplify": "2026-11-13T16:07:00+00:00"
   },
+  "url:https://boards.greenhouse.io/point72/jobs/8885733002?gh_jid=8885733002": {
+   "greenhouse": "2026-11-16T20:07:00+00:00",
+   "speedyapply": "2026-11-16T20:07:00+00:00"
+  },
   "url:https://boards.greenhouse.io/point72/jobs/8899750002?gh_jid=8899750002": {
    "greenhouse": "2026-11-06T14:45:39+00:00"
   },
@@ -5030,6 +5034,9 @@
   "url:https://cboe.wd1.myworkdayjobs.com/external_career_cboe/job/kansas-city-mo/operational-resilience---technical-content-intern_r-4779": {
    "workday": "2026-10-23T14:59:23+00:00"
   },
+  "url:https://cboe.wd1.myworkdayjobs.com/external_career_cboe/job/kansas-city-mo/software-engineer-intern--c---_r-4726": {
+   "speedyapply": "2026-11-16T20:07:00+00:00"
+  },
   "url:https://cboe.wd1.myworkdayjobs.com/external_career_cboe/job/overland-park-opx/trade-desk-intern_r-4659": {
    "workday": "2026-11-13T01:01:17+00:00"
   },
@@ -5576,6 +5583,12 @@
    "simplify": "2026-10-23T23:07:05+00:00",
    "vanshb03": "2026-10-24T05:07:29+00:00"
   },
+  "url:https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/united-states-ohio-holland/engineering-intern---toledo--oh--summer-2027-_wd51203": {
+   "workday": "2026-11-16T20:07:00+00:00"
+  },
+  "url:https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/united-states-ohio-holland/engineering-intern---toledo--oh--summer-2027-_wd51206": {
+   "workday": "2026-11-16T20:07:00+00:00"
+  },
   "url:https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/united-states-wisconsin-milwaukee/forward-deployed-engineering-intern--summer-2027-_wd49962": {
    "simplify": "2026-11-01T13:12:59+00:00"
   },
@@ -5975,6 +5988,9 @@
   },
   "url:https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/indianapolis-indiana-united-states/firmware-engineer-co-op_r1321509": {
    "speedyapply": "2026-11-09T22:37:05+00:00"
+  },
+  "url:https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/logan-utah-united-states/ccm-data-governance---intern-summer-2027_r1318977": {
+   "simplify": "2026-11-16T20:07:00+00:00"
   },
   "url:https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/logan-utah-united-states/data-analytics-intern-summer-2027_r1317525": {
    "simplify": "2026-11-01T13:12:59+00:00"
@@ -6479,6 +6495,9 @@
   },
   "url:https://egup.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx/job/20278794": {
    "simplify": "2026-11-01T13:12:59+00:00"
+  },
+  "url:https://egup.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx/job/20278852": {
+   "simplify": "2026-11-16T20:07:00+00:00"
   },
   "url:https://egup.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx/job/20279223": {
    "simplify": "2026-11-01T13:12:59+00:00"
@@ -7822,6 +7841,9 @@
   "url:https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/warren-michigan-united-states-of-america/xmlname-2027-summer-intern---research-and-development---nondestructive-evaluation_jr-202621726": {
    "workday": "2026-11-14T19:07:00+00:00"
   },
+  "url:https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/warren-michigan-united-states-of-america/xmlname-2027-summer-intern---research-and-development---system-safety_jr-202621736": {
+   "workday": "2026-11-16T20:07:00+00:00"
+  },
   "url:https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/warren-michigan-united-states-of-america/xmlname-2027-summer-intern---software-verification-engineer--av-ai-platform_jr-202621697": {
    "speedyapply": "2026-10-04T17:42:09+00:00",
    "workday": "2026-10-19T16:43:26+00:00"
@@ -8004,8 +8026,14 @@
   "url:https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/atlanta/scs-commercial-intern------ai-data-mining-agent_r5055036-2": {
    "workday": "2026-11-06T19:07:00+00:00"
   },
+  "url:https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/bellevue/ge-vernova---agi---ai-post-training-and-model-alignment-intern---summer-2027_r5054822-2": {
+   "simplify": "2026-11-16T20:07:00+00:00"
+  },
   "url:https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/bellevue/ge-vernova---agi---ai-power-systems-intern---summer-2027_r5054818-2": {
    "workday": "2026-11-14T15:07:00+00:00"
+  },
+  "url:https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/bellevue/ge-vernova---agi---grid-foundational-models-intern---summer-2027_r5054820-3": {
+   "simplify": "2026-11-16T20:07:00+00:00"
   },
   "url:https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/bellevue/ge-vernova---energy-optimization-software-engineer-intern---summer-2027_r5050022-2": {
    "workday": "2026-11-10T00:37:03+00:00"
@@ -15317,6 +15345,9 @@
   "url:https://hctz.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1001/job/2506638": {
    "simplify": "2026-11-01T13:12:59+00:00"
   },
+  "url:https://hctz.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1001/job/2506642": {
+   "simplify": "2026-11-16T20:07:00+00:00"
+  },
   "url:https://hctz.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1001/job/2507070": {
    "simplify": "2026-10-28T00:27:45+00:00"
   },
@@ -16310,6 +16341,9 @@
    "simplify": "2026-11-01T13:12:59+00:00",
    "workday": "2026-11-01T13:12:59+00:00"
   },
+  "url:https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/reston-va/xmlname-2027-summer-intern--ai-engineer--reston--va-_r2603518": {
+   "workday": "2026-11-16T20:07:00+00:00"
+  },
   "url:https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/reston-va/xmlname-2027-summer-intern--business-systems---applications-associate--reston--va-_r2603584": {
    "workday": "2026-10-19T18:37:05+00:00"
   },
@@ -17253,6 +17287,9 @@
   "url:https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4972324101": {
    "simplify": "2026-11-01T13:12:59+00:00"
   },
+  "url:https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4996533101": {
+   "simplify": "2026-11-16T20:07:00+00:00"
+  },
   "url:https://job-boards.greenhouse.io/addepar1/jobs/8910306002": {
    "simplify": "2026-11-13T23:37:00+00:00"
   },
@@ -17300,10 +17337,17 @@
   "url:https://job-boards.greenhouse.io/advancedspace/jobs/4376394009": {
    "greenhouse": "2026-11-01T16:07:04+00:00"
   },
+  "url:https://job-boards.greenhouse.io/advancedspace/jobs/4444656009": {
+   "greenhouse": "2026-11-16T20:07:00+00:00"
+  },
   "url:https://job-boards.greenhouse.io/affirm/jobs/8008645003": {
    "greenhouse": "2026-11-02T19:07:02+00:00",
    "simplify": "2026-11-02T19:07:02+00:00",
    "speedyapply": "2026-11-02T19:07:02+00:00"
+  },
+  "url:https://job-boards.greenhouse.io/affirm/jobs/8011375003": {
+   "greenhouse": "2026-11-16T20:07:00+00:00",
+   "simplify": "2026-11-16T20:07:00+00:00"
   },
   "url:https://job-boards.greenhouse.io/affirm/jobs/8011590003": {
    "greenhouse": "2026-11-02T19:07:02+00:00",
@@ -17717,6 +17761,9 @@
   "url:https://job-boards.greenhouse.io/cssmerge/jobs/8869098002": {
    "greenhouse": "2026-11-05T00:07:04+00:00"
   },
+  "url:https://job-boards.greenhouse.io/cssmerge/jobs/8888411002": {
+   "greenhouse": "2026-11-16T20:07:00+00:00"
+  },
   "url:https://job-boards.greenhouse.io/cssmerge/jobs/8919606002": {
    "greenhouse": "2026-10-27T18:37:05+00:00"
   },
@@ -17875,6 +17922,9 @@
   "url:https://job-boards.greenhouse.io/dvtrading/jobs/4741016005": {
    "greenhouse": "2026-11-05T20:07:05+00:00"
   },
+  "url:https://job-boards.greenhouse.io/dvtrading/jobs/4742962005": {
+   "greenhouse": "2026-11-16T20:07:00+00:00"
+  },
   "url:https://job-boards.greenhouse.io/emergentlabsinc/jobs/4323651009": {
    "greenhouse": "2026-11-01T16:07:04+00:00",
    "speedyapply": "2026-11-01T16:07:04+00:00"
@@ -17994,6 +18044,9 @@
   },
   "url:https://job-boards.greenhouse.io/figureai/jobs/4719591006": {
    "greenhouse": "2026-11-06T00:37:04+00:00"
+  },
+  "url:https://job-boards.greenhouse.io/figureai/jobs/4721113006": {
+   "greenhouse": "2026-11-16T20:07:00+00:00"
   },
   "url:https://job-boards.greenhouse.io/figureai/jobs/4722086006": {
    "greenhouse": "2026-11-16T00:07:00+00:00",
@@ -18213,6 +18266,9 @@
   },
   "url:https://job-boards.greenhouse.io/generalmatter/jobs/5440483008": {
    "greenhouse": "2026-11-05T00:07:04+00:00"
+  },
+  "url:https://job-boards.greenhouse.io/generalmatter/jobs/5448019008": {
+   "greenhouse": "2026-11-16T20:07:00+00:00"
   },
   "url:https://job-boards.greenhouse.io/generalmatter/jobs/5473803008": {
    "greenhouse": "2026-11-05T21:56:57+00:00"
@@ -18481,6 +18537,9 @@
   },
   "url:https://job-boards.greenhouse.io/later/jobs/8880737002": {
    "greenhouse": "2026-11-08T18:07:03+00:00"
+  },
+  "url:https://job-boards.greenhouse.io/later/jobs/8889650002": {
+   "greenhouse": "2026-11-16T20:07:00+00:00"
   },
   "url:https://job-boards.greenhouse.io/legendcareers/jobs/4745118005": {
    "greenhouse": "2026-10-20T18:07:05+00:00",
@@ -18760,6 +18819,18 @@
   },
   "url:https://job-boards.greenhouse.io/pacificfusion/jobs/4398388009": {
    "greenhouse": "2026-11-01T13:12:59+00:00"
+  },
+  "url:https://job-boards.greenhouse.io/pacificfusion/jobs/4505556009": {
+   "greenhouse": "2026-11-16T20:07:00+00:00"
+  },
+  "url:https://job-boards.greenhouse.io/pacificfusion/jobs/4505668009": {
+   "greenhouse": "2026-11-16T20:07:00+00:00"
+  },
+  "url:https://job-boards.greenhouse.io/pacificfusion/jobs/4505884009": {
+   "greenhouse": "2026-11-16T20:07:00+00:00"
+  },
+  "url:https://job-boards.greenhouse.io/pacificfusion/jobs/4505980009": {
+   "greenhouse": "2026-11-16T20:07:00+00:00"
   },
   "url:https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725319006": {
    "greenhouse": "2026-11-02T17:07:06+00:00"
@@ -19579,6 +19650,9 @@
   "url:https://job-boards.greenhouse.io/togetherai/jobs/5238469007": {
    "greenhouse": "2026-10-16T04:51:53+00:00",
    "vanshb03": "2026-10-20T17:07:02+00:00"
+  },
+  "url:https://job-boards.greenhouse.io/togetherai/jobs/5267198007": {
+   "greenhouse": "2026-11-16T20:07:00+00:00"
   },
   "url:https://job-boards.greenhouse.io/togetherai/jobs/5271149007": {
    "greenhouse": "2026-10-26T18:37:44+00:00",
@@ -22928,11 +23002,20 @@
   "url:https://jobs.smartrecruiters.com/boschgroup/744000154905820": {
    "smartrecruiters": "2026-11-11T02:37:05+00:00"
   },
+  "url:https://jobs.smartrecruiters.com/boschgroup/744000154911489": {
+   "smartrecruiters": "2026-11-16T20:07:00+00:00"
+  },
   "url:https://jobs.smartrecruiters.com/boschgroup/744000155097535": {
    "smartrecruiters": "2026-11-11T15:37:00+00:00"
   },
   "url:https://jobs.smartrecruiters.com/boschgroup/744000155100809": {
    "smartrecruiters": "2026-11-11T15:37:00+00:00"
+  },
+  "url:https://jobs.smartrecruiters.com/boschgroup/744000155101377": {
+   "smartrecruiters": "2026-11-16T20:07:00+00:00"
+  },
+  "url:https://jobs.smartrecruiters.com/boschgroup/744000155120934": {
+   "smartrecruiters": "2026-11-16T20:07:00+00:00"
   },
   "url:https://jobs.smartrecruiters.com/boschgroup/744000156251739": {
    "simplify": "2026-10-19T11:13:15+00:00"
@@ -23098,6 +23181,9 @@
   "url:https://jobs.smartrecruiters.com/intuitive/744000161896235": {
    "smartrecruiters": "2026-11-16T19:37:05+00:00"
   },
+  "url:https://jobs.smartrecruiters.com/intuitive/744000161896920": {
+   "smartrecruiters": "2026-11-16T20:07:00+00:00"
+  },
   "url:https://jobs.smartrecruiters.com/linkedin3/744000156616169": {
    "simplify": "2026-10-21T01:37:01+00:00",
    "smartrecruiters": "2026-10-20T23:37:05+00:00",
@@ -23201,6 +23287,9 @@
   "url:https://jobs.smartrecruiters.com/llnl/3743990016164416": {
    "smartrecruiters": "2026-10-15T21:37:05+00:00",
    "vanshb03": "2026-10-23T19:07:57+00:00"
+  },
+  "url:https://jobs.smartrecruiters.com/llnl/3743990016166026": {
+   "smartrecruiters": "2026-11-16T20:07:00+00:00"
   },
   "url:https://jobs.smartrecruiters.com/llnl/3743990016225626": {
    "smartrecruiters": "2026-10-19T16:43:26+00:00",
@@ -23441,6 +23530,10 @@
   "url:https://jobs.smartrecruiters.com/servicenow/744000155345689-ai-engineering-software-engineer-internships-summer-2027-masters-?oga=true": {
    "speedyapply": "2026-11-13T18:07:00+00:00"
   },
+  "url:https://jobs.smartrecruiters.com/servicenow/744000155345889": {
+   "simplify": "2026-11-16T20:07:00+00:00",
+   "smartrecruiters": "2026-11-16T20:07:00+00:00"
+  },
   "url:https://jobs.smartrecruiters.com/servicenow/744000155345889-ai-engineering-assoc-software-engineer-internships-summer-2027-bachelors-?oga=true": {
    "speedyapply": "2026-11-13T18:07:00+00:00"
   },
@@ -23585,6 +23678,10 @@
   },
   "url:https://jobs.smartrecruiters.com/wellmarkinc/744000152679699-software-engineer-internship-metadata-enablement-team?oga=true": {
    "speedyapply": "2026-11-13T18:07:00+00:00"
+  },
+  "url:https://jobs.smartrecruiters.com/wellmarkinc/744000156043218": {
+   "simplify": "2026-11-16T20:07:00+00:00",
+   "smartrecruiters": "2026-11-16T20:07:00+00:00"
   },
   "url:https://jobs.smartrecruiters.com/wellmarkinc/744000156043218-software-engineer-internship-technology-health-plan?oga=true": {
    "speedyapply": "2026-10-20T17:07:02+00:00"
@@ -26679,6 +26776,9 @@
   "url:https://nwis.wd12.myworkdayjobs.com/nw/job/springfield-va/mechanical-engineer-intern_jr102089-1": {
    "workday": "2026-11-01T16:07:04+00:00"
   },
+  "url:https://nwis.wd12.myworkdayjobs.com/nw/job/springfield-va/mechanical-engineer-intern_jr102272": {
+   "workday": "2026-11-16T20:07:00+00:00"
+  },
   "url:https://nwis.wd12.myworkdayjobs.com/nw/job/springfield-va/multidisciplinary-engineer-intern_jr102090": {
    "workday": "2026-11-01T16:07:04+00:00"
   },
@@ -27972,6 +28072,9 @@
   "url:https://recruiting.paylocity.com/recruiting/jobs/details/4650662": {
    "simplify": "2026-11-11T00:07:02+00:00"
   },
+  "url:https://redhat.wd5.myworkdayjobs.com/jobs/job/bogota/cloud-services-intern_r-059094": {
+   "workday": "2026-11-16T20:07:00+00:00"
+  },
   "url:https://redhat.wd5.myworkdayjobs.com/jobs/job/dublin---mso/software-engineering-internship---agent-operations--dublin--ireland-_r-059196": {
    "workday": "2026-10-22T11:15:36+00:00"
   },
@@ -27980,6 +28083,9 @@
   },
   "url:https://redhat.wd5.myworkdayjobs.com/jobs/job/raleigh/software-engineer-intern_r-059038": {
    "speedyapply": "2026-11-01T13:12:59+00:00"
+  },
+  "url:https://redhat.wd5.myworkdayjobs.com/jobs/job/santiago/cloud-services-intern_r-059108": {
+   "workday": "2026-11-16T20:07:00+00:00"
   },
   "url:https://redhat.wd5.myworkdayjobs.com/jobs/job/sao-paulo/cloud-services-intern_r-059109": {
    "workday": "2026-11-16T19:07:04+00:00"
@@ -30771,6 +30877,9 @@
    "speedyapply": "2026-11-01T13:12:59+00:00",
    "workday": "2026-11-01T13:12:59+00:00"
   },
+  "url:https://ttc.wd1.myworkdayjobs.com/toro_external_careers/job/perry-ok/it-business-analyst-intern---ditch-witch_jr17608": {
+   "simplify": "2026-11-16T20:07:00+00:00"
+  },
   "url:https://ttc.wd1.myworkdayjobs.com/toro_external_careers/job/perry-ok/manufacturing-engineer-intern---ditch-witch_jr17449": {
    "workday": "2026-11-01T13:12:59+00:00"
   },
@@ -32479,6 +32588,9 @@
   "url:https://www.google.com/about/careers/applications/jobs/results/135156989620560582": {
    "simplify": "2026-11-01T16:07:04+00:00"
   },
+  "url:https://www.google.com/about/careers/applications/jobs/results/75665705386549958": {
+   "simplify": "2026-11-16T20:07:00+00:00"
+  },
   "url:https://www.hudsonrivertrading.com/careers/job?gh_jid=7899574": {
    "greenhouse": "2026-11-02T09:22:41+00:00"
   },
@@ -32922,6 +33034,9 @@
   },
   "url:https://www.tower-research.com/open-positions?gh_jid=7011493": {
    "greenhouse": "2026-11-01T13:12:59+00:00"
+  },
+  "url:https://www.tower-research.com/open-positions?gh_jid=7077280": {
+   "greenhouse": "2026-11-16T20:07:00+00:00"
   },
   "url:https://www.tower-research.com/open-positions?gh_jid=7368106": {
    "greenhouse": "2026-11-11T14:07:04+00:00"
