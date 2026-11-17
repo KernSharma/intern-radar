@@ -109774,5 +109774,45 @@
   "locations": "US - California - South San Francisco",
   "source": "workday",
   "added": "2026-11-17"
+ },
+ {
+  "url": "https://go.vansh.nyc/1Bo",
+  "company": "Anduril",
+  "title": "Machine Learning Engineer Intern",
+  "locations": "Santa Ana, CA",
+  "source": "vanshb03",
+  "added": "2026-11-17"
+ },
+ {
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8394342?gh_jid=8394342",
+  "company": "Cloudflare",
+  "title": "AI & Automation Intern, Communications (Winter 2027)",
+  "locations": "In-Office",
+  "source": "greenhouse",
+  "added": "2026-11-17"
+ },
+ {
+  "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Rockrimmon-Colorado-Springs-CO/Automation-and-Controls-Interns_REQ-15858-1",
+  "company": "entegris",
+  "title": "Automation and Controls Intern",
+  "locations": "Rockrimmon, Colorado Springs, CO",
+  "source": "workday",
+  "added": "2026-11-17"
+ },
+ {
+  "url": "https://tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers/job/La-Crosse-Wisconsin/Acoustic-Engineer--Intern-_JR-19717",
+  "company": "tranetechnologies",
+  "title": "Acoustic Engineer (Intern)",
+  "locations": "La Crosse, Wisconsin",
+  "source": "workday",
+  "added": "2026-11-17"
+ },
+ {
+  "url": "https://ttmtech.wd5.myworkdayjobs.com/jobs/job/Stafford-CT/Process-Engineering-Intern_R19035-1",
+  "company": "ttmtech",
+  "title": "Process Engineering Intern",
+  "locations": "Stafford, CT",
+  "source": "workday",
+  "added": "2026-11-17"
  }
 ]
