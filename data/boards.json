@@ -2453,11 +2453,11 @@
   "ashby:whatnot": {
    "ats": "ashby",
    "board": "whatnot",
-   "consecutive_errors": 9,
+   "consecutive_errors": 10,
    "deep": false,
    "deep_since": null,
-   "disabled": false,
-   "disabled_at": null,
+   "disabled": true,
+   "disabled_at": "2026-11-18T01:07:04+00:00",
    "discovered_via": "simplify",
    "first_seen": "2026-10-02T05:21:11+00:00",
    "last_deep_crawl": null,
@@ -6157,7 +6157,7 @@
   "greenhouse:spacex": {
    "ats": "greenhouse",
    "board": "spacex",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -6237,7 +6237,7 @@
   "greenhouse:stratolaunch": {
    "ats": "greenhouse",
    "board": "stratolaunch",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -6269,7 +6269,7 @@
   "greenhouse:studiokraftonboard": {
    "ats": "greenhouse",
    "board": "studiokraftonboard",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -6285,7 +6285,7 @@
   "greenhouse:sxinternships": {
    "ats": "greenhouse",
    "board": "sxinternships",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -6301,7 +6301,7 @@
   "greenhouse:syskahennessy": {
    "ats": "greenhouse",
    "board": "syskahennessy",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -6317,7 +6317,7 @@
   "greenhouse:systemstechnologyresearch": {
    "ats": "greenhouse",
    "board": "systemstechnologyresearch",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -6333,7 +6333,7 @@
   "greenhouse:tanium": {
    "ats": "greenhouse",
    "board": "tanium",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -6366,7 +6366,7 @@
   "greenhouse:tenet3": {
    "ats": "greenhouse",
    "board": "tenet3",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -6382,7 +6382,7 @@
   "greenhouse:tenstorrentuniversity": {
    "ats": "greenhouse",
    "board": "tenstorrentuniversity",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -6398,7 +6398,7 @@
   "greenhouse:testnisc": {
    "ats": "greenhouse",
    "board": "testnisc",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -8368,7 +8368,7 @@
   "lever:cesiumastro": {
    "ats": "lever",
    "board": "cesiumastro",
-   "consecutive_errors": 1,
+   "consecutive_errors": 0,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -8833,7 +8833,7 @@
   "lever:simberobotics": {
    "ats": "lever",
    "board": "simberobotics",
-   "consecutive_errors": 4,
+   "consecutive_errors": 5,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -11017,7 +11017,7 @@
   "workday:asml.wd3/asmlext1": {
    "ats": "workday",
    "board": "asml.wd3/asmlext1",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": true,
    "deep_since": "2026-10-23T19:37:04+00:00",
    "disabled": false,
@@ -11102,7 +11102,7 @@
   "workday:astrazeneca.wd3/careers": {
    "ats": "workday",
    "board": "astrazeneca.wd3/Careers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": true,
    "deep_since": "2026-11-06T01:07:04+00:00",
    "disabled": false,
@@ -11374,7 +11374,7 @@
   "workday:barclays.wd3/external_career_site_barclays": {
    "ats": "workday",
    "board": "barclays.wd3/External_Career_Site_Barclays",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": true,
    "deep_since": "2026-10-02T05:21:11+00:00",
    "disabled": false,
@@ -11543,7 +11543,7 @@
   "workday:bmo.wd3/external": {
    "ats": "workday",
    "board": "bmo.wd3/External",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -11645,7 +11645,7 @@
   "workday:bpinternational.wd3/bpearlycareers": {
    "ats": "workday",
    "board": "bpinternational.wd3/bpEarlyCareers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -11696,7 +11696,7 @@
   "workday:brevanhoward.wd3/bh_externalcareers": {
    "ats": "workday",
    "board": "brevanhoward.wd3/bh_externalcareers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -13454,7 +13454,7 @@
   "workday:freseniusmedicalcare.wd3/fme": {
    "ats": "workday",
    "board": "freseniusmedicalcare.wd3/fme",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -14689,7 +14689,7 @@
   "workday:kiongroup.wd3/kion_scs": {
    "ats": "workday",
    "board": "kiongroup.wd3/kion_scs",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -14706,7 +14706,7 @@
   "workday:kiongroup.wd3/kiongroup": {
    "ats": "workday",
    "board": "kiongroup.wd3/kiongroup",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -14825,7 +14825,7 @@
   "workday:leonardocompany.wd3/leonardocareersite": {
    "ats": "workday",
    "board": "leonardocompany.wd3/LeonardoCareerSite",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -14978,7 +14978,7 @@
   "workday:lseg.wd3/graduate_careers": {
    "ats": "workday",
    "board": "lseg.wd3/Graduate_Careers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -15063,7 +15063,7 @@
   "workday:magna.wd3/magna": {
    "ats": "workday",
    "board": "magna.wd3/magna",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -15097,7 +15097,7 @@
   "workday:manulife.wd3/mfcjh_adminjobs": {
    "ats": "workday",
    "board": "manulife.wd3/MFCJH_adminJobs",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -15638,7 +15638,7 @@
   "workday:mufgub.wd3/mufg-careers": {
    "ats": "workday",
    "board": "mufgub.wd3/mufg-careers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -16061,7 +16061,7 @@
   "workday:onehealthineers.wd3/shsjb": {
    "ats": "workday",
    "board": "onehealthineers.wd3/shsjb",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -16112,7 +16112,7 @@
   "workday:osv-edf.wd5/confidential": {
    "ats": "workday",
    "board": "osv-edf.wd5/Confidential",
-   "consecutive_errors": 7,
+   "consecutive_errors": 8,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -16870,7 +16870,7 @@
   "workday:roche.wd3/rog-a2o-gene": {
    "ats": "workday",
    "board": "roche.wd3/ROG-A2O-GENE",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": true,
    "deep_since": "2026-10-20T23:37:05+00:00",
    "disabled": false,
@@ -16989,7 +16989,7 @@
   "workday:ryan.wd1/students-graduates": {
    "ats": "workday",
    "board": "ryan.wd1/Students-Graduates",
-   "consecutive_errors": 3,
+   "consecutive_errors": 4,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -17090,7 +17090,7 @@
   "workday:sallie-mae.wd5/careers": {
    "ats": "workday",
    "board": "sallie-mae.wd5/Careers",
-   "consecutive_errors": 3,
+   "consecutive_errors": 4,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -17209,7 +17209,7 @@
   "workday:slihrms.wd3/careers": {
    "ats": "workday",
    "board": "slihrms.wd3/careers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -17497,7 +17497,7 @@
   "workday:sunlife.wd3/campus": {
    "ats": "workday",
    "board": "sunlife.wd3/Campus",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -17767,7 +17767,7 @@
   "workday:thales.wd3/careers": {
    "ats": "workday",
    "board": "thales.wd3/Careers",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
@@ -18257,7 +18257,7 @@
   "workday:valeo.wd3/valeo_jobs": {
    "ats": "workday",
    "board": "valeo.wd3/valeo_jobs",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "deep": false,
    "deep_since": null,
    "disabled": false,
