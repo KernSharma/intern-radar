@@ -237,7 +237,7 @@
   "locations": [
    "Bartlesville, Oklahoma, United States of America"
   ],
-  "posted_at": "2026-10-27",
+  "posted_at": "2026-10-26",
   "source": "workday"
  },
  "url:https://abb.wd3.myworkdayjobs.com/external_career_page/job/buenos-aires-capital-federal-argentina/intern-for-service-engineering_jr00049901": {
@@ -14855,14 +14855,14 @@
   "source": "workday"
  },
  "url:https://basspro.wd1.myworkdayjobs.com/careers/job/springfield-mo-bass-pro-shops-base-camp/it-developer-intern-summer-2027_r267441-1": {
-  "company": "basspro",
-  "title": "IT Developer Intern Summer 2027",
+  "company": "Bass Pro Shops",
+  "title": "IT Developer Intern",
   "url": "https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/IT-Developer-Intern-Summer-2027_R267441-1",
   "locations": [
-   "Springfield, MO (Bass Pro Shops Base Camp)"
+   "Springfield, MO"
   ],
-  "posted_at": "2026-10-20",
-  "source": "workday"
+  "posted_at": "2026-09-16",
+  "source": "simplify"
  },
  "url:https://basspro.wd1.myworkdayjobs.com/careers/job/springfield-mo-bass-pro-shops-base-camp/product-development-intern-summer-2027_r267451": {
   "company": "basspro",
@@ -33564,14 +33564,14 @@
   "source": "workday"
  },
  "url:https://draftkings.wd1.myworkdayjobs.com/campus_career_portal/job/boston-ma/data-science-intern--summer-2027-_jr14958": {
-  "company": "draftkings",
-  "title": "Data Science Intern (Summer 2027)",
+  "company": "DraftKings",
+  "title": "Data Science Intern - Summer 2027",
   "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Data-Science-Intern--Summer-2027-_JR14958",
   "locations": [
    "Boston, MA"
   ],
-  "posted_at": "2026-10-20",
-  "source": "workday"
+  "posted_at": "2026-09-01",
+  "source": "simplify"
  },
  "url:https://draftkings.wd1.myworkdayjobs.com/campus_career_portal/job/boston-ma/software-engineer-intern--summer-2027-_jr14928": {
   "company": "draftkings",
@@ -36416,14 +36416,14 @@
   "source": "workday"
  },
  "url:https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/billerica-ma/filtration-portfolio-automation-intern_req-15840": {
-  "company": "Entegris",
+  "company": "entegris",
   "title": "Filtration Portfolio Automation Intern",
   "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Billerica-MA/Filtration-Portfolio-Automation-Intern_REQ-15840",
   "locations": [
    "Billerica, MA"
   ],
   "posted_at": "2026-11-10",
-  "source": "simplify"
+  "source": "workday"
  },
  "url:https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/billerica-ma/mechanical-engineering-intern_req-15834": {
   "company": "entegris",
@@ -43109,6 +43109,16 @@
   "posted_at": "2026-11-10",
   "source": "workday"
  },
+ "url:https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/greenville/ge-vernova-systems-architecture-intern---2027_r5051269-2": {
+  "company": "gevernova",
+  "title": "GE Vernova Systems Architecture Intern – 2027",
+  "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/GE-Vernova-Systems-Architecture-Intern---2027_R5051269-2",
+  "locations": [
+   "2 Locations"
+  ],
+  "posted_at": "2026-11-19",
+  "source": "workday"
+ },
  "url:https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/greenville/ge-vernova-systems-architecture-intern---2027_r5054433-1": {
   "company": "gevernova",
   "title": "GE Vernova Systems Architecture Intern – 2027",
@@ -43804,6 +43814,16 @@
    "2 Locations"
   ],
   "posted_at": "2026-11-10",
+  "source": "workday"
+ },
+ "url:https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/greenville/ge-vernova-systems-architecture-intern---2027_r5051269-3": {
+  "company": "gevernova",
+  "title": "GE Vernova Systems Architecture Intern – 2027",
+  "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/GE-Vernova-Systems-Architecture-Intern---2027_R5051269-3",
+  "locations": [
+   "2 Locations"
+  ],
+  "posted_at": "2026-11-19",
   "source": "workday"
  },
  "url:https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/greenville/ge-vernova-systems-architecture-intern---2027_r5054433-2": {
@@ -87692,15 +87712,45 @@
   "posted_at": "2026-11-13",
   "source": "greenhouse"
  },
+ "url:https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6250002004": {
+  "company": "Galaxy",
+  "title": "2027 Digital Infrastructure Intern - NYC",
+  "url": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6250002004",
+  "locations": [
+   "New York"
+  ],
+  "posted_at": "2026-11-06",
+  "source": "greenhouse"
+ },
+ "url:https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6250004004": {
+  "company": "Galaxy",
+  "title": "2027 Research Intern - NYC",
+  "url": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6250004004",
+  "locations": [
+   "New York"
+  ],
+  "posted_at": "2026-11-06",
+  "source": "greenhouse"
+ },
+ "url:https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6262681004": {
+  "company": "Galaxy",
+  "title": "2027 Environmental Health & Safety Engineer Intern-Afton Texas",
+  "url": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6262681004",
+  "locations": [
+   "Afton, Texas"
+  ],
+  "posted_at": "2026-11-16",
+  "source": "greenhouse"
+ },
  "url:https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6265138004": {
   "company": "Galaxy",
-  "title": "2027 Site Reliability Engineer Intern-Afton - Texas",
+  "title": "2027 Site Reliability Engineer Intern-Afton, Texas",
   "url": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6265138004",
   "locations": [
-   "Texas, USA"
+   "Afton, Texas"
   ],
   "posted_at": "2026-11-18",
-  "source": "speedyapply"
+  "source": "greenhouse"
  },
  "url:https://job-boards.greenhouse.io/gallup/jobs/4391520009": {
   "company": "Gallup",
@@ -89486,6 +89536,16 @@
    "State College, Pennsylvania, United States"
   ],
   "posted_at": "2026-11-10",
+  "source": "greenhouse"
+ },
+ "url:https://job-boards.greenhouse.io/minitab/jobs/8200490003": {
+  "company": "Minitab",
+  "title": "Data Privacy Intern (Summer 2027)",
+  "url": "https://job-boards.greenhouse.io/minitab/jobs/8200490003",
+  "locations": [
+   "State College, Pennsylvania, United States"
+  ],
+  "posted_at": "2026-11-19",
   "source": "greenhouse"
  },
  "url:https://job-boards.greenhouse.io/minitab/jobs/8200493003": {
@@ -93688,8 +93748,8 @@
   "locations": [
    "Seattle, WA"
   ],
-  "posted_at": "2026-11-19",
-  "source": "speedyapply"
+  "posted_at": "2026-11-18",
+  "source": "greenhouse"
  },
  "url:https://job-boards.greenhouse.io/twilio/jobs/8190887": {
   "company": "Twilio",
@@ -140258,7 +140318,7 @@
   "locations": [
    "Hoover, AL - Riverchase Operations Center (Birmingham, AL)"
   ],
-  "posted_at": "2026-11-18",
+  "posted_at": "2026-11-19",
   "source": "workday"
  },
  "url:https://regions.wd5.myworkdayjobs.com/regions_careers/job/hoover-al---riverchase-operations-center-birmingham-al/xmlname-2027-etp-intern---technology--operations--digital--and-data---analytics_r105426": {
@@ -140278,7 +140338,7 @@
   "locations": [
    "Hoover, AL - Riverchase Operations Center (Birmingham, AL)"
   ],
-  "posted_at": "2026-11-18",
+  "posted_at": "2026-11-19",
   "source": "workday"
  },
  "url:https://relx.wd3.myworkdayjobs.com/en-us/lexisnexislegal/job/raleigh-nc/data-science-internship_r118691-1": {
@@ -144710,6 +144770,76 @@
   "posted_at": "2026-10-22",
   "source": "speedyapply"
  },
+ "url:https://sierraspace.wd1.myworkdayjobs.com/sierra_space_external_career_site/job/centennial-co/xmlname-2027-summer-internship---aerospace-engineering_r26562-1": {
+  "company": "sierraspace",
+  "title": "2027 Summer Internship - Aerospace Engineering",
+  "url": "https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Centennial-CO/XMLNAME-2027-Summer-Internship---Aerospace-Engineering_R26562-1",
+  "locations": [
+   "5 Locations"
+  ],
+  "posted_at": "2026-11-19",
+  "source": "workday"
+ },
+ "url:https://sierraspace.wd1.myworkdayjobs.com/sierra_space_external_career_site/job/centennial-co/xmlname-2027-summer-internship---electrical-engineering_r26563-1": {
+  "company": "sierraspace",
+  "title": "2027 Summer Internship - Electrical Engineering",
+  "url": "https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Centennial-CO/XMLNAME-2027-Summer-Internship---Electrical-Engineering_R26563-1",
+  "locations": [
+   "5 Locations"
+  ],
+  "posted_at": "2026-11-19",
+  "source": "workday"
+ },
+ "url:https://sierraspace.wd1.myworkdayjobs.com/sierra_space_external_career_site/job/centennial-co/xmlname-2027-summer-internship---materials-engineering_r26569-1": {
+  "company": "sierraspace",
+  "title": "2027 Summer Internship - Materials Engineering",
+  "url": "https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Centennial-CO/XMLNAME-2027-Summer-Internship---Materials-Engineering_R26569-1",
+  "locations": [
+   "5 Locations"
+  ],
+  "posted_at": "2026-11-19",
+  "source": "workday"
+ },
+ "url:https://sierraspace.wd1.myworkdayjobs.com/sierra_space_external_career_site/job/centennial-co/xmlname-2027-summer-internship---mechanical-engineering_r26564": {
+  "company": "sierraspace",
+  "title": "2027 Summer Internship - Mechanical Engineering",
+  "url": "https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Centennial-CO/XMLNAME-2027-Summer-Internship---Mechanical-Engineering_R26564",
+  "locations": [
+   "5 Locations"
+  ],
+  "posted_at": "2026-11-19",
+  "source": "workday"
+ },
+ "url:https://sierraspace.wd1.myworkdayjobs.com/sierra_space_external_career_site/job/centennial-co/xmlname-2027-summer-internship---propulsion-engineering_r26565": {
+  "company": "sierraspace",
+  "title": "2027 Summer Internship - Propulsion Engineering",
+  "url": "https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Centennial-CO/XMLNAME-2027-Summer-Internship---Propulsion-Engineering_R26565",
+  "locations": [
+   "5 Locations"
+  ],
+  "posted_at": "2026-11-19",
+  "source": "workday"
+ },
+ "url:https://sierraspace.wd1.myworkdayjobs.com/sierra_space_external_career_site/job/centennial-co/xmlname-2027-summer-internship---software-engineering_r26560-1": {
+  "company": "sierraspace",
+  "title": "2027 Summer Internship - Software Engineering",
+  "url": "https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Centennial-CO/XMLNAME-2027-Summer-Internship---Software-Engineering_R26560-1",
+  "locations": [
+   "5 Locations"
+  ],
+  "posted_at": "2026-11-19",
+  "source": "workday"
+ },
+ "url:https://sierraspace.wd1.myworkdayjobs.com/sierra_space_external_career_site/job/centennial-co/xmlname-2027-summer-internship---systems-engineering_r26566-1": {
+  "company": "sierraspace",
+  "title": "2027 Summer Internship - Systems Engineering",
+  "url": "https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Centennial-CO/XMLNAME-2027-Summer-Internship---Systems-Engineering_R26566-1",
+  "locations": [
+   "5 Locations"
+  ],
+  "posted_at": "2026-11-19",
+  "source": "workday"
+ },
  "url:https://sierraspace.wd1.myworkdayjobs.com/sierra_space_external_career_site/job/louisville-co/summer-2027-flight-software-engineer-intern_r26456": {
   "company": "sierraspace",
   "title": "Summer 2027 Flight Software Engineer Intern",
@@ -146891,24 +147021,24 @@
   "source": "workday"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-intern---android--may-2027---12-months-_r10620": {
-  "company": "soti",
-  "title": "Software Developer Intern - Android (May 2027 - 12 Months)",
+  "company": "SOTI",
+  "title": "Software Developer Intern - Android",
   "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10620",
   "locations": [
-   "Mississauga, Canada – Meadowvale Office (HQ)"
+   "Mississauga, ON, Canada"
   ],
   "posted_at": "2026-10-26",
-  "source": "workday"
+  "source": "simplify"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-intern---android--may-2027---12-months-_r10650": {
-  "company": "soti",
-  "title": "Software Developer Intern - Android (May 2027 - 12 Months)",
+  "company": "SOTI",
+  "title": "Software Developer Intern",
   "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10650",
   "locations": [
-   "Mississauga, Canada – Meadowvale Office (HQ)"
+   "Mississauga, ON, Canada"
   ],
   "posted_at": "2026-11-05",
-  "source": "workday"
+  "source": "simplify"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-intern---server--may-2027---12-months-_r10647": {
   "company": "SOTI",
@@ -146931,14 +147061,14 @@
   "source": "workday"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-intern---soti-xsight--may-2027-12-months-_r10611": {
-  "company": "soti",
-  "title": "Software Developer Intern - SOTI XSight (May 2027 12 Months)",
+  "company": "SOTI",
+  "title": "Software Developer Intern",
   "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--May-2027-12-Months-_R10611",
   "locations": [
-   "Mississauga, Canada – Meadowvale Office (HQ)"
+   "Mississauga, ON, Canada"
   ],
   "posted_at": "2026-10-29",
-  "source": "workday"
+  "source": "simplify"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-intern--january-2026-12-months-_r10549": {
   "company": "soti",
@@ -146951,14 +147081,14 @@
   "source": "workday"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-intern--may-2027---12-months-_r10677": {
-  "company": "soti",
-  "title": "Software Developer Intern (May 2027 - 12 months)",
+  "company": "SOTI",
+  "title": "Software Developer Intern",
   "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027---12-months-_R10677",
   "locations": [
-   "Mississauga, Canada – Meadowvale Office (HQ)"
+   "Mississauga, ON, Canada"
   ],
   "posted_at": "2026-11-10",
-  "source": "workday"
+  "source": "simplify"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-intern--may-2027-12-months-_r10655": {
   "company": "soti",
@@ -153708,6 +153838,16 @@
   "posted_at": "2026-11-04",
   "source": "speedyapply"
  },
+ "url:https://tmobile.wd1.myworkdayjobs.com/external/job/atlanta-georgia/summer-2027-ai-engineering-internship---site-reliability---automation_req383239": {
+  "company": "tmobile",
+  "title": "Summer 2027 AI Engineering Internship - Site Reliability & Automation",
+  "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-AI-Engineering-Internship---Site-Reliability---Automation_REQ383239",
+  "locations": [
+   "Atlanta, Georgia"
+  ],
+  "posted_at": "2026-11-19",
+  "source": "workday"
+ },
  "url:https://tmobile.wd1.myworkdayjobs.com/external/job/atlanta-georgia/summer-2027-software-engineer---cloud-security-summer-internship_req379190": {
   "company": "tmobile",
   "title": "Summer 2027 Software Engineer – Cloud Security Summer Internship",
@@ -153726,6 +153866,16 @@
    "Atlanta, Georgia"
   ],
   "posted_at": "2026-11-16",
+  "source": "workday"
+ },
+ "url:https://tmobile.wd1.myworkdayjobs.com/external/job/atlanta-georgia/summer-2027-software-engineering-ai-internship_req382067": {
+  "company": "tmobile",
+  "title": "Summer 2027 Software Engineering AI Internship",
+  "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-AI-Internship_REQ382067",
+  "locations": [
+   "Atlanta, Georgia"
+  ],
+  "posted_at": "2026-11-19",
   "source": "workday"
  },
  "url:https://tmobile.wd1.myworkdayjobs.com/external/job/atlanta-georgia/summer-2027-software-engineering-internship_req380650": {
@@ -154020,6 +154170,16 @@
   "posted_at": "2026-11-16",
   "source": "workday"
  },
+ "url:https://tmobile.wd1.myworkdayjobs.com/external/job/overland-park-kansas/summer-2027-software-engineering-intern_req381362": {
+  "company": "tmobile",
+  "title": "Summer 2027 Software Engineering Intern",
+  "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Intern_REQ381362",
+  "locations": [
+   "Overland Park, Kansas"
+  ],
+  "posted_at": "2026-11-19",
+  "source": "workday"
+ },
  "url:https://tmobile.wd1.myworkdayjobs.com/external/job/overland-park-kansas/summer-2027-software-engineering-intern_req381368": {
   "company": "tmobile",
   "title": "Summer 2027 Software Engineering Intern",
@@ -154059,6 +154219,16 @@
   ],
   "posted_at": "2026-11-06",
   "source": "simplify"
+ },
+ "url:https://tmobile.wd1.myworkdayjobs.com/external/job/overland-park-kansas/summer-2027-software-engineering-internship_req381366": {
+  "company": "tmobile",
+  "title": "Summer 2027 Software Engineering Internship",
+  "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ381366",
+  "locations": [
+   "Overland Park, Kansas"
+  ],
+  "posted_at": "2026-11-19",
+  "source": "workday"
  },
  "url:https://tmobile.wd1.myworkdayjobs.com/external/job/philadelphia-pennsylvania/summer-2027-quality-engineering-internship_req381210": {
   "company": "tmobile",
