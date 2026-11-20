@@ -772,6 +772,9 @@
   "url:https://allegion.wd5.myworkdayjobs.com/earlytalent_careers/job/everett-wa/mechanical-engineering-intern_jr37384-1": {
    "workday": "2026-11-13T03:37:03+00:00"
   },
+  "url:https://allegion.wd5.myworkdayjobs.com/earlytalent_careers/job/golden-co/summer-intern---mechanical-engineer---golden--co_jr37455-1": {
+   "workday": "2026-11-20T21:37:04+00:00"
+  },
   "url:https://allegion.wd5.myworkdayjobs.com/earlytalent_careers/job/golden-co/summer-intern---software-engineering---quality-assurance_jr37472": {
    "speedyapply": "2026-10-29T18:37:00+00:00",
    "workday": "2026-11-03T23:14:50+00:00"
@@ -5054,9 +5057,6 @@
    "simplify": "2026-11-13T01:01:17+00:00",
    "workday": "2026-11-12T19:50:47+00:00"
   },
-  "url:https://carrier.wd5.myworkdayjobs.com/jobs/job/caf77-ccs---cib-13995-pasteur-boulevard-palm-beach-gardens-fl-33418-usa/general-engineering-intern---summer_30220419-2": {
-   "workday": "2026-10-21T21:11:39+00:00"
-  },
   "url:https://carrier.wd5.myworkdayjobs.com/jobs/job/cag01-ctd-athens-700-olympic-drive-athens-ga-30601-usa/systems-engineering-intern---summer_30220566": {
    "workday": "2026-11-06T20:37:00+00:00"
   },
@@ -5600,6 +5600,9 @@
   "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/san-jose-california-us/ai-operations-engineer-i--intern----united-states_2026804": {
    "vanshb03": "2026-10-22T03:07:06+00:00",
    "workday": "2026-10-13T20:37:05+00:00"
+  },
+  "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/san-jose-california-us/data-science-analyst-ii--intern----untied-states_2032691": {
+   "workday": "2026-11-20T21:37:04+00:00"
   },
   "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/san-jose-california-us/engineering-product-management-specialist-i--intern----united-states_2026308": {
    "vanshb03": "2026-10-22T03:07:06+00:00",
@@ -8437,9 +8440,6 @@
   },
   "url:https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/us-co-schriever-afb-cust--720-irwin-ave--schriever-afb-external-site/intern-systems-engineer---onsite-_01867818": {
    "workday": "2026-11-01T13:12:59+00:00"
-  },
-  "url:https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/us-ct-east-hartford-etc--400-main-st--bldg-etc/intern--f117-tf33-customer-support-engineer--cse---summer-2027-_01884130": {
-   "workday": "2026-10-21T21:11:39+00:00"
   },
   "url:https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/us-ct-east-hartford-etc--400-main-st--bldg-etc/sustainment-data-and-analytics-intern--summer-2027-_01885110": {
    "simplify": "2026-10-29T22:37:04+00:00",
@@ -25099,6 +25099,15 @@
   "url:https://lumentum.wd5.myworkdayjobs.com/lite/job/canada---ottawa-bill-leathem/ai-engineer---co-op-intern_20261778": {
    "workday": "2026-11-18T21:37:04+00:00"
   },
+  "url:https://lumentum.wd5.myworkdayjobs.com/lite/job/canada---ottawa-bill-leathem/electrical-engineer-co-op-intern_20261433": {
+   "workday": "2026-11-20T21:37:04+00:00"
+  },
+  "url:https://lumentum.wd5.myworkdayjobs.com/lite/job/canada---ottawa-bill-leathem/embedded-software-engineer-co-op-intern_20261370": {
+   "workday": "2026-11-20T21:37:04+00:00"
+  },
+  "url:https://lumentum.wd5.myworkdayjobs.com/lite/job/canada---ottawa-bill-leathem/it-desktop-engineer---co-op-intern_20261458": {
+   "workday": "2026-11-20T21:37:04+00:00"
+  },
   "url:https://lumentum.wd5.myworkdayjobs.com/lite/job/usa---ca---san-jose-ridder/internship---data-science---analytics_20261771": {
    "workday": "2026-11-18T21:37:04+00:00"
   },
@@ -25111,9 +25120,21 @@
   "url:https://lumentum.wd5.myworkdayjobs.com/lite/job/usa---ca---san-jose-ridder/internship---field-application-engineer_20261646": {
    "workday": "2026-11-05T17:37:05+00:00"
   },
+  "url:https://lumentum.wd5.myworkdayjobs.com/lite/job/usa---ca---san-jose-ridder/internship---mechanical-engineer_20261465": {
+   "workday": "2026-11-20T21:37:04+00:00"
+  },
   "url:https://lumentum.wd5.myworkdayjobs.com/lite/job/usa---ca---san-jose-ridder/internship---sw-developer-support---program-management-office_20261729": {
    "speedyapply": "2026-11-18T21:07:04+00:00",
    "workday": "2026-11-18T21:37:04+00:00"
+  },
+  "url:https://lumentum.wd5.myworkdayjobs.com/lite/job/usa---nc--greensboro/internship---mocvd-process-engineer_20261460": {
+   "workday": "2026-11-20T21:37:04+00:00"
+  },
+  "url:https://lumentum.wd5.myworkdayjobs.com/lite/job/usa---nc--greensboro/internship---semiconductor-fab-process-engineer_20261462": {
+   "workday": "2026-11-20T21:37:04+00:00"
+  },
+  "url:https://lumentum.wd5.myworkdayjobs.com/lite/job/usa---nc--greensboro/internship---semiconductor-maintenance-tech_20261461-1": {
+   "workday": "2026-11-20T21:37:04+00:00"
   },
   "url:https://lunaroutpost.bamboohr.com/careers/390": {
    "simplify": "2026-11-01T13:12:59+00:00"
@@ -26509,9 +26530,6 @@
   "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-california-palmdale/xmlname-2027-operations-tool-engineer-intern_r10259204": {
    "workday": "2026-11-04T17:07:05+00:00"
   },
-  "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-california-redondo-beach/xmlname-2027-electrical-engineer-intern---redondo-beach-ca_r10257204": {
-   "workday": "2026-10-21T21:11:39+00:00"
-  },
   "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-california-redondo-beach/xmlname-2027-electrical-engineer-intern--redondo-beach-ca_r10258121": {
    "workday": "2026-10-28T19:04:47+00:00"
   },
@@ -26537,9 +26555,6 @@
   },
   "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-california-redondo-beach/xmlname-2027-mechanical-engineer-intern--redondo-beach-ca_r10260955-1": {
    "workday": "2026-11-16T22:37:05+00:00"
-  },
-  "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-california-redondo-beach/xmlname-2027-structural---electromechanical-engineer-intern---redondo-beach-ca_r10257211": {
-   "workday": "2026-10-21T21:11:39+00:00"
   },
   "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-california-redondo-beach/xmlname-2027-structural-dynamics-engineer-intern---redondo-beach-ca_r10259391": {
    "workday": "2026-11-05T01:07:01+00:00"
@@ -29670,9 +29685,6 @@
   },
   "url:https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/hagerstown-md/network-engineer-intern--summer-2027-_r0031232": {
    "workday": "2026-10-28T15:37:05+00:00"
-  },
-  "url:https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/lone-tree-co/aerodynamics-engineer-intern---summer-2027_r0031131": {
-   "workday": "2026-10-21T21:11:39+00:00"
   },
   "url:https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/lone-tree-co/functional-materials---process-engineer-intern--summer-2027-_r0031370": {
    "workday": "2026-11-09T19:37:05+00:00"
