@@ -37274,10 +37274,10 @@
   "title": "Data Science Intern",
   "url": "https://epicgames.com/careers/jobs/6202675004?gh_jid=6202675004",
   "locations": [
-   "Cary,North Carolina,United States"
+   "Cary, NC"
   ],
-  "posted_at": "2026-09-21",
-  "source": "greenhouse"
+  "posted_at": "2026-09-22",
+  "source": "simplify"
  },
  "url:https://epicgames.com/careers/jobs/6219626004?gh_jid=6219626004": {
   "company": "Epic Games",
@@ -87447,14 +87447,14 @@
   "source": "greenhouse"
  },
  "url:https://job-boards.greenhouse.io/farmersmutualhailinsurancecompany/jobs/4404387009": {
-  "company": "Farmers Mutual Hail Insurance Company",
+  "company": "Farmers Mutual Hail",
   "title": "AI Intern",
   "url": "https://job-boards.greenhouse.io/farmersmutualhailinsurancecompany/jobs/4404387009",
   "locations": [
    "West Des Moines, IA"
   ],
   "posted_at": "2026-09-18",
-  "source": "greenhouse"
+  "source": "simplify"
  },
  "url:https://job-boards.greenhouse.io/farmersmutualhailinsurancecompany/jobs/4422262009": {
   "company": "Farmers Mutual Hail Insurance Company",
@@ -134183,6 +134183,16 @@
   "posted_at": "2026-10-14",
   "source": "workday"
  },
+ "url:https://oshkoshcorporation.wd5.myworkdayjobs.com/oshkosh/job/dodge-center-minnesota-united-states/engineer-intern---mechanical--summer-2027-_r50929": {
+  "company": "oshkoshcorporation",
+  "title": "Engineer Intern - Mechanical (Summer 2027)",
+  "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Dodge-Center-Minnesota-United-States/Engineer-Intern---Mechanical--Summer-2027-_R50929",
+  "locations": [
+   "Dodge Center, Minnesota, United States"
+  ],
+  "posted_at": "2026-11-20",
+  "source": "workday"
+ },
  "url:https://oshkoshcorporation.wd5.myworkdayjobs.com/oshkosh/job/frederick-maryland-united-states/autonomy-engineering-intern_r49418": {
   "company": "oshkoshcorporation",
   "title": "Autonomy Engineering Intern",
@@ -144678,24 +144688,32 @@
   "source": "workday"
  },
  "url:https://salesforce.wd12.myworkdayjobs.com/futureforce_internships/job/california---san-francisco/summer-2027-intern---software-engineer--security-government-_jr364911": {
-  "company": "salesforce",
-  "title": "Summer 2027 Intern - Software Engineer (Security/Government)",
+  "company": "Salesforce",
+  "title": "Software Engineer Intern",
   "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911",
   "locations": [
-   "2 Locations"
+   "SF",
+   "Bellevue, WA"
   ],
-  "posted_at": "2026-10-30",
-  "source": "workday"
+  "posted_at": "2026-10-19",
+  "source": "simplify"
  },
  "url:https://salesforce.wd12.myworkdayjobs.com/futureforce_internships/job/california---san-francisco/summer-2027-intern---software-engineer_jr340771": {
-  "company": "salesforce",
-  "title": "Summer 2027 Intern - Software Engineer",
+  "company": "Salesforce",
+  "title": "Software Engineer Intern",
   "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771",
   "locations": [
-   "8 Locations"
+   "Palo Alto, CA",
+   "Seattle, WA",
+   "Indianapolis, IN",
+   "SF",
+   "NYC",
+   "Bellevue, WA",
+   "Atlanta, GA",
+   "Burlington, MA"
   ],
-  "posted_at": "2026-10-21",
-  "source": "workday"
+  "posted_at": "2026-05-07",
+  "source": "simplify"
  },
  "url:https://salesforce.wd12.myworkdayjobs.com/futureforce_internships/job/france---paris/data-science---analytics-intern--alliances---channels---february-2027_jr368786": {
   "company": "salesforce",
@@ -154527,6 +154545,22 @@
   ],
   "posted_at": "2026-09-11",
   "source": "speedyapply"
+ },
+ "url:https://thomsonreuters.wd5.myworkdayjobs.com/external_career_site/job/united-kingdom-london/research-intern---agentic-ai---nlp---ml_jreq205375": {
+  "company": "thomsonreuters",
+  "title": "Research Intern - Agentic AI / NLP / ML",
+  "url": "https://thomsonreuters.wd5.myworkdayjobs.com/external_career_site/job/United-Kingdom-London/Research-Intern---Agentic-AI---NLP---ML_JREQ205375",
+  "locations": [],
+  "posted_at": "2026-11-20",
+  "source": "workday"
+ },
+ "url:https://thomsonreuters.wd5.myworkdayjobs.com/external_career_site/job/united-kingdom-london/research-intern---kg---agentic-ai---ml_jreq205376": {
+  "company": "thomsonreuters",
+  "title": "Research Intern - KG / Agentic AI / ML",
+  "url": "https://thomsonreuters.wd5.myworkdayjobs.com/external_career_site/job/United-Kingdom-London/Research-Intern---KG---Agentic-AI---ML_JREQ205376",
+  "locations": [],
+  "posted_at": "2026-11-20",
+  "source": "workday"
  },
  "url:https://thomsonreuters.wd5.myworkdayjobs.com/external_career_site/job/united-states-of-america-eagan-minnesota/research-scientist-intern_jreq205119": {
   "company": "thomsonreuters",
