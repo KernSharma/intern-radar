@@ -441,24 +441,24 @@
   "source": "workday"
  },
  "url:https://abb.wd3.myworkdayjobs.com/external_career_page/job/usa-nc-cary/ai-engineering--business-systems-intern--summer-2027_jr00048714": {
-  "company": "abb",
-  "title": "AI Engineering, Business Systems Intern- Summer 2027",
+  "company": "ABB",
+  "title": "AI Engineering Intern - Business Systems",
   "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--Business-Systems-Intern--Summer-2027_JR00048714",
   "locations": [
-   "USA, NC, Cary"
+   "Cary, NC"
   ],
-  "posted_at": "2026-11-04",
-  "source": "workday"
+  "posted_at": "2026-10-06",
+  "source": "simplify"
  },
  "url:https://abb.wd3.myworkdayjobs.com/external_career_page/job/usa-nc-cary/ai-engineering--erp-intern--summer-2027_jr00048711": {
-  "company": "abb",
-  "title": "AI Engineering, ERP Intern- Summer 2027",
+  "company": "ABB",
+  "title": "AI Engineering ERP Intern",
   "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--ERP-Intern--Summer-2027_JR00048711",
   "locations": [
-   "USA, NC, Cary"
+   "Cary, NC"
   ],
-  "posted_at": "2026-11-04",
-  "source": "workday"
+  "posted_at": "2026-10-06",
+  "source": "simplify"
  },
  "url:https://abb.wd3.myworkdayjobs.com/external_career_page/job/usa-nc-cary/is-common-infrastructure-intern--summer-2027_jr00047125": {
   "company": "abb",
@@ -10867,7 +10867,7 @@
   "locations": [
    "Bengaluru"
   ],
-  "posted_at": "2026-11-19",
+  "posted_at": "2026-11-20",
   "source": "workday"
  },
  "url:https://assurant.wd1.myworkdayjobs.com/external_limited_posting/job/georgia-virtual/it-intern_r-116011": {
@@ -29440,6 +29440,16 @@
    "Krakow, Poland"
   ],
   "posted_at": "2026-09-18",
+  "source": "workday"
+ },
+ "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/krakow-poland/cisco-technology-experience---internship-program-for-technical-high-schools_2032636": {
+  "company": "cisco",
+  "title": "Cisco Technology Experience – Internship Program for Technical High Schools",
+  "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Krakow-Poland/Cisco-Technology-Experience---Internship-Program-for-Technical-High-Schools_2032636",
+  "locations": [
+   "Krakow, Poland"
+  ],
+  "posted_at": "2026-11-20",
   "source": "workday"
  },
  "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/london-united-kingdom/internet-measurement-research-intern---bgp-research-team_2023762": {
@@ -56159,65 +56169,63 @@
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/1et": {
-  "company": "Revel",
-  "title": "Forward Deployed Engineer Intern, Software",
-  "url": "https://go.vansh.nyc/1eT",
+  "company": "Altera",
+  "title": "FPGA Software Engineer Intern",
+  "url": "https://go.vansh.nyc/1Et",
   "locations": [
-   "Los Angeles, CA",
-   "San Francisco, CA"
+   "Toronto, Canada"
   ],
-  "posted_at": "2026-10-06",
+  "posted_at": "2026-11-20",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/1eu": {
-  "company": "ICD",
-  "title": "Cyber Security Intern",
-  "url": "https://go.vansh.nyc/1eu",
+  "company": "Kudu Dynamics",
+  "title": "Software Developer Intern",
+  "url": "https://go.vansh.nyc/1Eu",
   "locations": [
-   "New York, NY"
+   "Fort Belvoir, VA"
   ],
-  "posted_at": "2026-11-03",
+  "posted_at": "2026-11-20",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/1ev": {
-  "company": "Revel",
-  "title": "Software Engineer Intern, Test",
-  "url": "https://go.vansh.nyc/1eV",
+  "company": "Nelnet",
+  "title": "Data Analytics Intern",
+  "url": "https://go.vansh.nyc/1Ev",
   "locations": [
-   "Los Angeles, CA",
-   "San Francisco, CA"
+   "Lincoln, NE"
   ],
-  "posted_at": "2026-10-06",
+  "posted_at": "2026-11-20",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/1ew": {
-  "company": "Strada",
-  "title": "Software Engineer Intern",
-  "url": "https://go.vansh.nyc/1eW",
+  "company": "White Cap Supply Holdings",
+  "title": "Information Security Intern, Corporate",
+  "url": "https://go.vansh.nyc/1Ew",
   "locations": [
-   "San Francisco, CA"
+   "United States"
   ],
-  "posted_at": "2026-10-07",
+  "posted_at": "2026-11-20",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/1ex": {
-  "company": "RAVE Aerospace",
-  "title": "Software Engineering Intern",
-  "url": "https://go.vansh.nyc/1eX",
+  "company": "DraftKings",
+  "title": "Data Engineer Intern",
+  "url": "https://go.vansh.nyc/1Ex",
   "locations": [
-   "Laramie, WY"
+   "Boston, MA"
   ],
-  "posted_at": "2026-11-03",
+  "posted_at": "2026-11-20",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/1ey": {
-  "company": "TWG Global",
-  "title": "AI Engineering Intern",
-  "url": "https://go.vansh.nyc/1eY",
+  "company": "Rockwell Automation",
+  "title": "Firmware Engineering Intern",
+  "url": "https://go.vansh.nyc/1Ey",
   "locations": [
-   "Santa Monica, CA"
+   "Milwaukee, WI"
   ],
-  "posted_at": "2026-11-03",
+  "posted_at": "2026-11-20",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/1ez": {
@@ -79016,14 +79024,14 @@
   "source": "simplify"
  },
  "url:https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/milwaukee-wi/data---integration-internship_jr100404": {
-  "company": "IAT Insurance Group",
-  "title": "Data & Integration Intern",
+  "company": "iatinsurancegroup",
+  "title": "Data & Integration Internship",
   "url": "https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Milwaukee-WI/Data---Integration-Internship_JR100404",
   "locations": [
-   "Milwaukee, WI"
+   "Milwaukee WI"
   ],
-  "posted_at": "2026-09-01",
-  "source": "simplify"
+  "posted_at": "2026-10-21",
+  "source": "workday"
  },
  "url:https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/naperville-il/tier-2-it-support-internship_jr100400": {
   "company": "iatinsurancegroup",
@@ -79046,14 +79054,14 @@
   "source": "workday"
  },
  "url:https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/raleigh-nc/data-engineering---visualization-internship_jr100441": {
-  "company": "IAT Insurance Group",
-  "title": "Data Engineering & Visualization Intern",
+  "company": "iatinsurancegroup",
+  "title": "Data Engineering & Visualization Internship",
   "url": "https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Raleigh-NC/Data-Engineering---Visualization-Internship_JR100441",
   "locations": [
-   "Raleigh, NC"
+   "Raleigh NC"
   ],
-  "posted_at": "2026-09-28",
-  "source": "simplify"
+  "posted_at": "2026-10-29",
+  "source": "workday"
  },
  "url:https://iawmqy.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/careers/job/297773": {
   "company": "Dell Technologies",
@@ -114541,14 +114549,14 @@
   "source": "workday"
  },
  "url:https://kla.wd1.myworkdayjobs.com/search/job/austin-tx/software-engineering-intern_2642004-1": {
-  "company": "KLA Corporation",
-  "title": "Software Engineer Intern",
+  "company": "kla",
+  "title": "Software Engineering Intern",
   "url": "https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Engineering-Intern_2642004-1",
   "locations": [
    "Austin, TX"
   ],
   "posted_at": "2026-11-02",
-  "source": "simplify"
+  "source": "workday"
  },
  "url:https://kla.wd1.myworkdayjobs.com/search/job/milpitas-ca/advanced-algorithm-intern_2641569-1": {
   "company": "kla",
@@ -115111,14 +115119,14 @@
   "source": "workday"
  },
  "url:https://kla.wd1.myworkdayjobs.com/ur/job/austin-tx/software-engineering-intern_2642004": {
-  "company": "KLA Corporation",
-  "title": "Software Engineer Intern",
-  "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Austin-TX/Software-Engineering-Intern_2642004",
+  "company": "kla",
+  "title": "Software Engineering Intern",
+  "url": "https://kla.wd1.myworkdayjobs.com/ur/job/Austin-TX/Software-Engineering-Intern_2642004",
   "locations": [
    "Austin, TX"
   ],
   "posted_at": "2026-11-02",
-  "source": "simplify"
+  "source": "workday"
  },
  "url:https://kla.wd1.myworkdayjobs.com/ur/job/chennai-india/intern---co-op-technical_2640945": {
   "company": "kla",
@@ -117213,7 +117221,7 @@
   "locations": [
    "Fort Belvoir, VA"
   ],
-  "posted_at": "2026-11-19",
+  "posted_at": "2026-11-20",
   "source": "workday"
  },
  "url:https://leidos.wd5.myworkdayjobs.com/external/job/fort-belvoir-va/software-developer-intern_r-00197399-1": {
@@ -119028,14 +119036,14 @@
   "source": "simplify"
  },
  "url:https://lseg.wd3.myworkdayjobs.com/graduate_careers/job/london-united-kingdom/intern---finance-engineer_r0124269": {
-  "company": "lseg",
-  "title": "Intern - Finance Engineer",
+  "company": "LSEG",
+  "title": "Finance Engineer Intern",
   "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/London-United-Kingdom/Intern---Finance-Engineer_R0124269",
   "locations": [
-   "London, United Kingdom"
+   "London, UK"
   ],
-  "posted_at": "2026-11-03",
-  "source": "workday"
+  "posted_at": "2026-10-14",
+  "source": "simplify"
  },
  "url:https://lseg.wd3.myworkdayjobs.com/graduate_careers/job/london-united-kingdom/intern---quantitative-services_r0124311-2": {
   "company": "lseg",
@@ -119048,14 +119056,14 @@
   "source": "workday"
  },
  "url:https://lseg.wd3.myworkdayjobs.com/graduate_careers/job/london-united-kingdom/intern---software-engineer_r0124267": {
-  "company": "lseg",
-  "title": "Intern - Software Engineer",
+  "company": "LSEG",
+  "title": "Software Engineer Intern",
   "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/London-United-Kingdom/Intern---Software-Engineer_R0124267",
   "locations": [
-   "London, United Kingdom"
+   "London, UK"
   ],
-  "posted_at": "2026-11-03",
-  "source": "workday"
+  "posted_at": "2026-10-14",
+  "source": "simplify"
  },
  "url:https://lseg.wd3.myworkdayjobs.com/graduate_careers/job/new-york-city-united-states/engineering-summer-internship-programme_r0123569": {
   "company": "lseg",
@@ -119068,34 +119076,34 @@
   "source": "workday"
  },
  "url:https://lseg.wd3.myworkdayjobs.com/graduate_careers/job/new-york-city-united-states/intern---finance-engineer_r0124268": {
-  "company": "lseg",
-  "title": "Intern - Finance Engineer",
+  "company": "LSEG",
+  "title": "Finance Engineer Intern",
   "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/New-York-City-United-States/Intern---Finance-Engineer_R0124268",
   "locations": [
-   "New York City, United States"
+   "NYC"
   ],
-  "posted_at": "2026-11-03",
-  "source": "workday"
+  "posted_at": "2026-10-14",
+  "source": "simplify"
  },
  "url:https://lseg.wd3.myworkdayjobs.com/graduate_careers/job/new-york-city-united-states/intern---software-engineer_r0124266-1": {
-  "company": "lseg",
-  "title": "Intern - Software Engineer",
+  "company": "LSEG",
+  "title": "Software Engineer Intern",
   "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/New-York-City-United-States/Intern---Software-Engineer_R0124266-1",
   "locations": [
-   "New York City, United States"
+   "NYC"
   ],
-  "posted_at": "2026-11-03",
-  "source": "workday"
+  "posted_at": "2026-10-14",
+  "source": "simplify"
  },
  "url:https://lseg.wd3.myworkdayjobs.com/graduate_careers/job/nottingham-united-kingdom/engineering-summer-internship-programme_r0124221": {
-  "company": "lseg",
-  "title": "Engineering Summer Internship Programme",
+  "company": "LSEG",
+  "title": "Engineering Intern",
   "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Nottingham-United-Kingdom/Engineering-Summer-Internship-Programme_R0124221",
   "locations": [
-   "Nottingham, United Kingdom"
+   "Nottingham, UK"
   ],
-  "posted_at": "2026-10-21",
-  "source": "workday"
+  "posted_at": "2026-10-12",
+  "source": "simplify"
  },
  "url:https://lseg.wd3.myworkdayjobs.com/graduate_careers/job/tha-bangkok-one-bangkok/engineering-intern-programme--software---data-or-ui-engineer-_r0123961-2": {
   "company": "lseg",
@@ -121664,14 +121672,14 @@
   "source": "workday"
  },
  "url:https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/santa-clara-ca/ai-native-development-platform-engineer-intern--ms---summer-2027_2603848": {
-  "company": "Marvell",
-  "title": "AI-Native Development Platform Engineer Intern",
+  "company": "marvell",
+  "title": "AI-Native Development Platform Engineer Intern, MS - Summer 2027",
   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848",
   "locations": [
    "Santa Clara, CA"
   ],
-  "posted_at": "2026-09-29",
-  "source": "simplify"
+  "posted_at": "2026-10-21",
+  "source": "workday"
  },
  "url:https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/santa-clara-ca/application-engineer-intern--ms---summer-2027_2604509-1": {
   "company": "marvell",
@@ -125227,15 +125235,14 @@
   "source": "simplify"
  },
  "url:https://midlandsb.wd1.myworkdayjobs.com/msbcareers/job/effingham-il/intern---associate-solutions-engineer---data-warehouse_jr1462": {
-  "company": "Midland States Bank",
-  "title": "Associate Solutions Engineer Intern - Data Warehouse",
+  "company": "midlandsb",
+  "title": "Intern - Associate Solutions Engineer - Data Warehouse",
   "url": "https://midlandsb.wd1.myworkdayjobs.com/msbcareers/job/Effingham-IL/Intern---Associate-Solutions-Engineer---Data-Warehouse_JR1462",
   "locations": [
-   "St. Louis, MO",
-   "Effingham, IL"
+   "2 Locations"
   ],
-  "posted_at": "2026-10-05",
-  "source": "simplify"
+  "posted_at": "2026-10-21",
+  "source": "workday"
  },
  "url:https://midlandsb.wd1.myworkdayjobs.com/msbcareers/job/effingham-il/intern---it-infrastructure_jr1471": {
   "company": "midlandsb",
@@ -125795,14 +125802,14 @@
   "source": "workday"
  },
  "url:https://momentive.wd1.myworkdayjobs.com/mc/job/us-ny-niskayuna/summer-2027-intern---enterprise-reporting---analytics---data-science_r9807-1": {
-  "company": "Momentive",
-  "title": "Data Science Intern - Enterprise Reporting & Analytics",
+  "company": "momentive",
+  "title": "Summer 2027 Intern - Enterprise Reporting & Analytics - Data Science",
   "url": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Enterprise-Reporting---Analytics---Data-Science_R9807-1",
   "locations": [
-   "Niskayuna, NY"
+   "US NY Niskayuna"
   ],
-  "posted_at": "2026-09-03",
-  "source": "simplify"
+  "posted_at": "2026-10-21",
+  "source": "workday"
  },
  "url:https://momentive.wd1.myworkdayjobs.com/mc/job/us-ny-niskayuna/summer-2027-intern---software-development_r9756": {
   "company": "momentive",
@@ -126605,14 +126612,14 @@
   "source": "workday"
  },
  "url:https://mosaic.wd5.myworkdayjobs.com/mosaic/job/us---tampa-fl-lithia-area/artificial-intelligence-co-op-intern---summer-2027_65420": {
-  "company": "Mosaic",
-  "title": "Artificial Intelligence Co-op Intern",
+  "company": "mosaic",
+  "title": "Artificial Intelligence Co-Op/Intern - Summer 2027",
   "url": "https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Artificial-Intelligence-Co-Op-Intern---Summer-2027_65420",
   "locations": [
-   "Lithia, FL"
+   "US - Tampa, FL (Lithia area)"
   ],
   "posted_at": "2026-11-03",
-  "source": "simplify"
+  "source": "workday"
  },
  "url:https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/allen-tx-tx139/software-system-technologist-intern--summer-2027-internship-_r70511": {
   "company": "motorolasolutions",
@@ -129354,14 +129361,14 @@
   "source": "workday"
  },
  "url:https://nelnet.wd1.myworkdayjobs.com/mynelnet/job/lincoln-ne/intern---it-software-engineer-net--summer-2027-_r23198": {
-  "company": "Nelnet",
-  "title": "IT Software Engineer Intern",
+  "company": "nelnet",
+  "title": "Intern - IT Software Engineer .NET (Summer 2027)",
   "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---IT-Software-Engineer-NET--Summer-2027-_R23198",
   "locations": [
    "Lincoln, NE"
   ],
-  "posted_at": "2026-10-02",
-  "source": "simplify"
+  "posted_at": "2026-10-21",
+  "source": "workday"
  },
  "url:https://nelnet.wd1.myworkdayjobs.com/mynelnet/job/lincoln-ne/intern---software-engineer---new-ventures---starting-summer-2026_r23098": {
   "company": "nelnet",
@@ -132445,14 +132452,14 @@
   "source": "workday"
  },
  "url:https://ntst.wd1.myworkdayjobs.com/careers/job/overland-park-ks/software-engineer-intern--summer-2027-internship-_r015667": {
-  "company": "Netsmart",
-  "title": "Software Engineer Intern",
+  "company": "ntst",
+  "title": "Software Engineer Intern (Summer 2027 Internship)",
   "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667",
   "locations": [
    "Overland Park, KS"
   ],
-  "posted_at": "2026-08-03",
-  "source": "simplify"
+  "posted_at": "2026-11-16",
+  "source": "workday"
  },
  "url:https://ntst.wd1.myworkdayjobs.com/careers/job/overland-park-ks/technical-analyst-intern---summer-2027-internship-_r015665": {
   "company": "ntst",
@@ -133144,6 +133151,16 @@
   "posted_at": "2026-10-21",
   "source": "workday"
  },
+ "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/taiwan-taipei/gpu-firmware-intern---2027_jr2029959": {
+  "company": "nvidia",
+  "title": "GPU Firmware Intern - 2027",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/GPU-Firmware-Intern---2027_JR2029959",
+  "locations": [
+   "Taiwan, Taipei"
+  ],
+  "posted_at": "2026-11-20",
+  "source": "workday"
+ },
  "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/taiwan-taipei/linux-for-edge-system-software-engineer--rdss-intern-_jr2023971": {
   "company": "nvidia",
   "title": "Linux for Edge System Software Engineer (RDSS intern)",
@@ -133287,14 +133304,14 @@
   "source": "workday"
  },
  "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-internships--deep-learning-computer-architecture_jr2023491": {
-  "company": "NVIDIA",
-  "title": "Deep Learning Computer Architecture Intern",
+  "company": "nvidia",
+  "title": "NVIDIA 2027 Internships: Deep Learning Computer Architecture",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491",
   "locations": [
-   "Santa Clara, CA"
+   "US, CA, Santa Clara"
   ],
-  "posted_at": "2026-08-19",
-  "source": "simplify"
+  "posted_at": "2026-11-19",
+  "source": "workday"
  },
  "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-internships--deep-learning_jr2023497-1": {
   "company": "nvidia",
@@ -133457,15 +133474,14 @@
   "source": "workday"
  },
  "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-internships--software-engineering_jr2023495": {
-  "company": "NVIDIA",
-  "title": "Software Engineering Intern",
+  "company": "nvidia",
+  "title": "NVIDIA 2027 Internships: Software Engineering",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495",
   "locations": [
-   "Canada",
-   "Santa Clara, CA"
+   "US, CA, Santa Clara"
   ],
-  "posted_at": "2026-08-19",
-  "source": "simplify"
+  "posted_at": "2026-11-19",
+  "source": "workday"
  },
  "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-internships--systems-software-engineering_jr2023492": {
   "company": "nvidia",
@@ -135137,24 +135153,24 @@
   "source": "workday"
  },
  "url:https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/hq_atlanta/xmlname-2027-summer-intern---data-science_r26_0000002157": {
-  "company": "Papa John's",
-  "title": "Data Science Intern",
+  "company": "papajohns",
+  "title": "2027 Summer Intern - Data Science",
   "url": "https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Atlanta/XMLNAME-2027-Summer-Intern---Data-Science_R26_0000002157",
   "locations": [
-   "Atlanta, GA"
+   "HQ_Atlanta"
   ],
-  "posted_at": "2026-10-09",
-  "source": "simplify"
+  "posted_at": "2026-10-21",
+  "source": "workday"
  },
  "url:https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/hq_atlanta/xmlname-2027-summer-intern---digital-development_r26_0000002155": {
-  "company": "Papa John's",
-  "title": "Digital Development Intern",
+  "company": "papajohns",
+  "title": "2027 Summer Intern - Digital Development",
   "url": "https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Atlanta/XMLNAME-2027-Summer-Intern---Digital-Development_R26_0000002155",
   "locations": [
-   "Atlanta, GA"
+   "HQ_Atlanta"
   ],
-  "posted_at": "2026-10-09",
-  "source": "simplify"
+  "posted_at": "2026-10-21",
+  "source": "workday"
  },
  "url:https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/hq_louisville/engineering-co-op_r26_0000002219": {
   "company": "papajohns",
@@ -137251,14 +137267,14 @@
   "source": "workday"
  },
  "url:https://poet.wd1.myworkdayjobs.com/poet/job/sioux-falls-sd/data-engineering-intern_r101787": {
-  "company": "POET",
-  "title": "Data Engineer Intern",
+  "company": "poet",
+  "title": "Data Engineering Intern - Summer 2027",
   "url": "https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Data-Engineering-Intern_R101787",
   "locations": [
    "Sioux Falls, SD"
   ],
-  "posted_at": "2026-09-28",
-  "source": "simplify"
+  "posted_at": "2026-10-21",
+  "source": "workday"
  },
  "url:https://poet.wd1.myworkdayjobs.com/poet/job/sioux-falls-sd/environmental-engineering-intern---summer-2027_r101710": {
   "company": "poet",
@@ -145854,24 +145870,24 @@
   "source": "workday"
  },
  "url:https://signetjewelers.wd1.myworkdayjobs.com/signetcorporatecareers/job/support-center---akron-oh/data-analytics-intern_req_84317": {
-  "company": "Signet Jewelers",
+  "company": "signetjewelers",
   "title": "Data Analytics Intern",
   "url": "https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Data-Analytics-Intern_REQ_84317",
   "locations": [
-   "Akron, OH"
+   "Support Center - Akron, OH"
   ],
-  "posted_at": "2026-11-02",
-  "source": "simplify"
+  "posted_at": "2026-11-03",
+  "source": "workday"
  },
  "url:https://signetjewelers.wd1.myworkdayjobs.com/signetcorporatecareers/job/support-center---akron-oh/data-analytics-intern_req_84318-1": {
-  "company": "Signet Jewelers",
+  "company": "signetjewelers",
   "title": "Data Analytics Intern",
   "url": "https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Data-Analytics-Intern_REQ_84318-1",
   "locations": [
-   "Akron, OH"
+   "Support Center - Akron, OH"
   ],
-  "posted_at": "2026-11-02",
-  "source": "simplify"
+  "posted_at": "2026-11-03",
+  "source": "workday"
  },
  "url:https://signetjewelers.wd1.myworkdayjobs.com/signetcorporatecareers/job/support-center---akron-oh/it-corporate-service-desk-intern_req_84418": {
   "company": "signetjewelers",
@@ -167720,14 +167736,14 @@
   "source": "simplify"
  },
  "url:https://xboxgaming.wd1.myworkdayjobs.com/blizzard_external_careers/job/irvine---blizzard---blizzard-way/blizzard-2027-summer-internships---animation---cinematic-tools-engineering_r028350": {
-  "company": "Blizzard Entertainment",
-  "title": "Animation & Cinematic Tools Engineering Intern - Animation & Cinematic Tools Engineering",
+  "company": "xboxgaming",
+  "title": "Blizzard 2027 Summer Internships - Animation & Cinematic Tools Engineering",
   "url": "https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Animation---Cinematic-Tools-Engineering_R028350",
   "locations": [
-   "Irvine, CA"
+   "Irvine - Blizzard - Blizzard Way"
   ],
   "posted_at": "2026-11-13",
-  "source": "simplify"
+  "source": "workday"
  },
  "url:https://xboxgaming.wd1.myworkdayjobs.com/blizzard_external_careers/job/irvine---blizzard---blizzard-way/blizzard-2027-summer-internships---data-platform-engineering_r028358": {
   "company": "xboxgaming",
