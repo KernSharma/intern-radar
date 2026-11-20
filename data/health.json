@@ -81,9 +81,6 @@
   "R6|workday:magna.wd3/magna": {
    "opened_at": "2026-11-19T04:07:05+00:00"
   },
-  "R6|workday:mufgub.wd3/mufg-careers": {
-   "opened_at": "2026-11-20T08:07:03+00:00"
-  },
   "R6|workday:ngc.wd1/northrop_grumman_external_site": {
    "opened_at": "2026-11-19T03:37:05+00:00"
   },
@@ -95,96 +92,12 @@
   },
   "R6|workday:sunlife.wd3/campus": {
    "opened_at": "2026-11-19T04:07:05+00:00"
-  },
-  "R6|workday:tcenergy.wd3/career_site_tc": {
-   "opened_at": "2026-11-20T08:07:03+00:00"
   }
  },
  "last_health_ntfy_at": "2026-11-20T06:37:05+00:00",
- "last_run_at": "2026-11-20T08:07:03+00:00",
+ "last_run_at": "2026-11-20T08:37:05+00:00",
  "runner": "mac",
  "runs": [
-  {
-   "at": "2026-11-07T11:37:00+00:00",
-   "boards_polled": 924,
-   "boards_skipped_budget": 0,
-   "families": {
-    "ashby": {
-     "errors": 1,
-     "jobs": 142,
-     "matches": 324,
-     "newest": "2026-11-07",
-     "ok": 141,
-     "postings": 8974,
-     "seconds": 28.0
-    },
-    "greenhouse": {
-     "errors": 0,
-     "jobs": 251,
-     "matches": 1011,
-     "newest": "2026-11-07",
-     "ok": 251,
-     "postings": 28635,
-     "seconds": 21.81
-    },
-    "lever": {
-     "errors": 0,
-     "jobs": 39,
-     "matches": 185,
-     "newest": "2026-11-07",
-     "ok": 39,
-     "postings": 3144,
-     "seconds": 77.53
-    },
-    "simplify": {
-     "errors": 0,
-     "jobs": 1,
-     "matches": 1399,
-     "newest": "2026-11-07",
-     "ok": 1,
-     "postings": 5381,
-     "seconds": 1.51
-    },
-    "smartrecruiters": {
-     "errors": 0,
-     "jobs": 25,
-     "matches": 194,
-     "newest": "2026-11-07",
-     "ok": 25,
-     "postings": 2195,
-     "seconds": 17.14
-    },
-    "speedyapply": {
-     "errors": 0,
-     "jobs": 1,
-     "matches": 743,
-     "newest": "2026-11-07",
-     "ok": 1,
-     "postings": 830,
-     "seconds": 0.2
-    },
-    "vanshb03": {
-     "errors": 0,
-     "jobs": 1,
-     "matches": 2054,
-     "newest": "2026-11-07",
-     "ok": 1,
-     "postings": 2231,
-     "seconds": 0.4
-    },
-    "workday": {
-     "errors": 3,
-     "jobs": 467,
-     "matches": 2354,
-     "newest": "2026-11-07",
-     "ok": 464,
-     "postings": 20823,
-     "seconds": 731.29
-    }
-   },
-   "runner": "mac",
-   "seconds": 160.2
-  },
   {
    "at": "2026-11-07T12:07:00+00:00",
    "boards_polled": 926,
@@ -32503,6 +32416,87 @@
    },
    "runner": "mac",
    "seconds": 172.2
+  },
+  {
+   "at": "2026-11-20T08:37:05+00:00",
+   "boards_polled": 788,
+   "boards_skipped_budget": 0,
+   "families": {
+    "ashby": {
+     "errors": 1,
+     "jobs": 157,
+     "matches": 350,
+     "newest": "2026-11-20",
+     "ok": 156,
+     "postings": 10808,
+     "seconds": 28.43
+    },
+    "greenhouse": {
+     "errors": 0,
+     "jobs": 271,
+     "matches": 1026,
+     "newest": "2026-11-20",
+     "ok": 271,
+     "postings": 29734,
+     "seconds": 52.56
+    },
+    "lever": {
+     "errors": 2,
+     "jobs": 47,
+     "matches": 191,
+     "newest": "2026-11-20",
+     "ok": 45,
+     "postings": 2550,
+     "seconds": 110.39
+    },
+    "simplify": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 1226,
+     "newest": "2026-11-20",
+     "ok": 1,
+     "postings": 5090,
+     "seconds": 1.15
+    },
+    "smartrecruiters": {
+     "errors": 0,
+     "jobs": 25,
+     "matches": 201,
+     "newest": "2026-11-20",
+     "ok": 25,
+     "postings": 2325,
+     "seconds": 17.91
+    },
+    "speedyapply": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 768,
+     "newest": "2026-11-20",
+     "ok": 1,
+     "postings": 850,
+     "seconds": 0.2
+    },
+    "vanshb03": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 2312,
+     "newest": "2026-11-20",
+     "ok": 1,
+     "postings": 2477,
+     "seconds": 0.49
+    },
+    "workday": {
+     "errors": 23,
+     "jobs": 288,
+     "matches": 1688,
+     "newest": "2026-11-20",
+     "ok": 265,
+     "postings": 11024,
+     "seconds": 696.75
+    }
+   },
+   "runner": "mac",
+   "seconds": 178.6
   }
  ],
  "version": 1,
