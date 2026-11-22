@@ -461,14 +461,14 @@
   "source": "simplify"
  },
  "url:https://abb.wd3.myworkdayjobs.com/external_career_page/job/usa-nc-cary/ai-engineering--erp-intern--summer-2027_jr00048711": {
-  "company": "abb",
-  "title": "AI Engineering, ERP Intern- Summer 2027",
+  "company": "ABB",
+  "title": "AI Engineering ERP Intern",
   "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--ERP-Intern--Summer-2027_JR00048711",
   "locations": [
-   "USA, NC, Cary"
+   "Cary, NC"
   ],
-  "posted_at": "2026-11-05",
-  "source": "workday"
+  "posted_at": "2026-10-06",
+  "source": "simplify"
  },
  "url:https://abb.wd3.myworkdayjobs.com/external_career_page/job/usa-nc-cary/is-common-infrastructure-intern--summer-2027_jr00047125": {
   "company": "abb",
@@ -1001,14 +1001,14 @@
   "source": "workday"
  },
  "url:https://advanceauto.wd5.myworkdayjobs.com/advanceexternalcareers/job/raleigh-nc/data-science-intern_r-0620261-1": {
-  "company": "Advance Auto Parts",
+  "company": "advanceauto",
   "title": "Data Science Intern",
   "url": "https://advanceauto.wd5.myworkdayjobs.com/advanceexternalcareers/job/Raleigh-NC/Data-Science-Intern_R-0620261-1",
   "locations": [
    "Raleigh, NC"
   ],
-  "posted_at": "2026-11-20",
-  "source": "simplify"
+  "posted_at": "2026-11-21",
+  "source": "workday"
  },
  "url:https://aep.wd1.myworkdayjobs.com/aepcareersite/job/bridgman-mi/engineering-intern---cook-nuclear---bridgman--mi_r18108-1": {
   "company": "aep",
@@ -54887,12 +54887,13 @@
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/1ac": {
-  "company": "ServiceNow",
-  "title": "Associate Forward Deployed Solution Engineer Intern",
-  "url": "https://go.vansh.nyc/1AC",
+  "company": "Shopify",
+  "title": "Software Engineer Intern",
+  "url": "https://go.vansh.nyc/1Ac",
   "locations": [
-   "Santa Clara, CA",
-   "New York, NY"
+   "Montreal, Canada",
+   "Toronto, Canada",
+   "Ottawa, Canada"
   ],
   "posted_at": "2026-11-16",
   "source": "vanshb03"
@@ -57158,36 +57159,33 @@
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/1gl": {
-  "company": "Kudu Dynamics",
-  "title": "Software Engineering & AI Intern",
-  "url": "https://go.vansh.nyc/1gL",
+  "company": "Neros Technologies",
+  "title": "Autonomy Intern",
+  "url": "https://go.vansh.nyc/1Gl",
   "locations": [
-   "Remote",
-   "United States",
-   "Odenton, MD",
-   "Shiloh, IL"
+   "Torrance, CA"
   ],
-  "posted_at": "2026-11-04",
+  "posted_at": "2026-11-21",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/1gm": {
-  "company": "TMX Group",
-  "title": "Junior Cybersecurity Operations Analyst Intern",
-  "url": "https://go.vansh.nyc/1gM",
+  "company": "WGU",
+  "title": "Technical Intern",
+  "url": "https://go.vansh.nyc/1Gm",
   "locations": [
-   "Toronto, Canada"
+   "Salt Lake City, UT"
   ],
-  "posted_at": "2026-11-04",
+  "posted_at": "2026-11-21",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/1gn": {
-  "company": "Smith+Nephew",
-  "title": "Data Science Intern, AI Center of Excellence",
-  "url": "https://go.vansh.nyc/1gN",
+  "company": "Lumentum",
+  "title": "AI Engineer Co-op",
+  "url": "https://go.vansh.nyc/1Gn",
   "locations": [
-   "Pittsburgh, PA"
+   "Ottawa, Canada"
   ],
-  "posted_at": "2026-11-04",
+  "posted_at": "2026-11-21",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/1go": {
@@ -68083,13 +68081,13 @@
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/gu": {
-  "company": "Workday",
-  "title": "Software Engineer Intern",
-  "url": "https://go.vansh.nyc/Gu",
+  "company": "MITRE",
+  "title": "Autonomous Systems Intern",
+  "url": "https://go.vansh.nyc/gU",
   "locations": [
-   "Pleasanton, CA"
+   "McLean, VA"
   ],
-  "posted_at": "2026-10-09",
+  "posted_at": "2026-10-23",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/gv": {
@@ -91014,6 +91012,26 @@
   ],
   "posted_at": "2026-09-30",
   "source": "simplify"
+ },
+ "url:https://job-boards.greenhouse.io/nerostechnologies/jobs/4648209007": {
+  "company": "Neros Technologies",
+  "title": "Mechanical Engineer Intern - Summer 2027",
+  "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/4648209007",
+  "locations": [
+   "Torrance, California, United States"
+  ],
+  "posted_at": "2026-11-21",
+  "source": "greenhouse"
+ },
+ "url:https://job-boards.greenhouse.io/nerostechnologies/jobs/5273149007": {
+  "company": "Neros Technologies",
+  "title": "Electrical Engineering Intern - Summer 2027",
+  "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5273149007",
+  "locations": [
+   "Torrance, California, United States"
+  ],
+  "posted_at": "2026-11-21",
+  "source": "greenhouse"
  },
  "url:https://job-boards.greenhouse.io/nerostechnologies/jobs/5273167007": {
   "company": "Neros Technologies",
@@ -147232,7 +147250,7 @@
   "locations": [
    "5 Locations"
   ],
-  "posted_at": "2026-11-20",
+  "posted_at": "2026-11-21",
   "source": "workday"
  },
  "url:https://sierraspace.wd1.myworkdayjobs.com/sierra_space_external_career_site/job/centennial-co/xmlname-2027-summer-internship---electrical-engineering_r26563-1": {
@@ -147242,7 +147260,7 @@
   "locations": [
    "5 Locations"
   ],
-  "posted_at": "2026-11-20",
+  "posted_at": "2026-11-21",
   "source": "workday"
  },
  "url:https://sierraspace.wd1.myworkdayjobs.com/sierra_space_external_career_site/job/centennial-co/xmlname-2027-summer-internship---materials-engineering_r26569-1": {
@@ -147252,7 +147270,7 @@
   "locations": [
    "5 Locations"
   ],
-  "posted_at": "2026-11-20",
+  "posted_at": "2026-11-21",
   "source": "workday"
  },
  "url:https://sierraspace.wd1.myworkdayjobs.com/sierra_space_external_career_site/job/centennial-co/xmlname-2027-summer-internship---mechanical-engineering_r26564": {
@@ -147262,7 +147280,7 @@
   "locations": [
    "5 Locations"
   ],
-  "posted_at": "2026-11-20",
+  "posted_at": "2026-11-21",
   "source": "workday"
  },
  "url:https://sierraspace.wd1.myworkdayjobs.com/sierra_space_external_career_site/job/centennial-co/xmlname-2027-summer-internship---propulsion-engineering_r26565": {
@@ -147272,7 +147290,7 @@
   "locations": [
    "5 Locations"
   ],
-  "posted_at": "2026-11-20",
+  "posted_at": "2026-11-21",
   "source": "workday"
  },
  "url:https://sierraspace.wd1.myworkdayjobs.com/sierra_space_external_career_site/job/centennial-co/xmlname-2027-summer-internship---software-engineering_r26560-1": {
@@ -147282,7 +147300,7 @@
   "locations": [
    "5 Locations"
   ],
-  "posted_at": "2026-11-20",
+  "posted_at": "2026-11-21",
   "source": "workday"
  },
  "url:https://sierraspace.wd1.myworkdayjobs.com/sierra_space_external_career_site/job/centennial-co/xmlname-2027-summer-internship---systems-engineering_r26566-1": {
@@ -147292,7 +147310,7 @@
   "locations": [
    "5 Locations"
   ],
-  "posted_at": "2026-11-20",
+  "posted_at": "2026-11-21",
   "source": "workday"
  },
  "url:https://sierraspace.wd1.myworkdayjobs.com/sierra_space_external_career_site/job/louisville-co/summer-2027-flight-software-engineer-intern_r26456": {
@@ -147322,28 +147340,28 @@
   "locations": [
    "Support Center - Akron, OH"
   ],
-  "posted_at": "2026-11-19",
+  "posted_at": "2026-11-20",
   "source": "workday"
  },
  "url:https://signetjewelers.wd1.myworkdayjobs.com/signetcorporatecareers/job/support-center---akron-oh/data-analytics-intern_req_84317": {
-  "company": "Signet Jewelers",
+  "company": "signetjewelers",
   "title": "Data Analytics Intern",
   "url": "https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Data-Analytics-Intern_REQ_84317",
   "locations": [
-   "Akron, OH"
+   "Support Center - Akron, OH"
   ],
-  "posted_at": "2026-11-02",
-  "source": "simplify"
+  "posted_at": "2026-11-04",
+  "source": "workday"
  },
  "url:https://signetjewelers.wd1.myworkdayjobs.com/signetcorporatecareers/job/support-center---akron-oh/data-analytics-intern_req_84318-1": {
-  "company": "Signet Jewelers",
+  "company": "signetjewelers",
   "title": "Data Analytics Intern",
   "url": "https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Data-Analytics-Intern_REQ_84318-1",
   "locations": [
-   "Akron, OH"
+   "Support Center - Akron, OH"
   ],
-  "posted_at": "2026-11-02",
-  "source": "simplify"
+  "posted_at": "2026-11-04",
+  "source": "workday"
  },
  "url:https://signetjewelers.wd1.myworkdayjobs.com/signetcorporatecareers/job/support-center---akron-oh/it-corporate-service-desk-intern_req_84418": {
   "company": "signetjewelers",
@@ -147352,7 +147370,7 @@
   "locations": [
    "Support Center - Akron, OH"
   ],
-  "posted_at": "2026-11-19",
+  "posted_at": "2026-11-20",
   "source": "workday"
  },
  "url:https://simisinc.applytojob.com/apply/u1yosyvkvh/aerospaceaviation-artificial-intelligence-developer-intern": {
@@ -149412,7 +149430,7 @@
   "locations": [
    "Galway, Ireland"
   ],
-  "posted_at": "2026-11-20",
+  "posted_at": "2026-11-21",
   "source": "workday"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/galway-ireland/software-development---qa-intern-opportunities-26-27_r10547-2": {
@@ -149422,7 +149440,7 @@
   "locations": [
    "Galway, Ireland"
   ],
-  "posted_at": "2026-11-18",
+  "posted_at": "2026-11-19",
   "source": "workday"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/associate-product-manager-intern--may-2027---12-months-_r10638": {
@@ -149452,7 +149470,7 @@
   "locations": [
    "Mississauga, Canada – Meadowvale Office (HQ)"
   ],
-  "posted_at": "2026-10-28",
+  "posted_at": "2026-10-29",
   "source": "workday"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/data-scientist--intern--jan-2027-12-months-_r10571": {
@@ -149472,7 +149490,7 @@
   "locations": [
    "Mississauga, Canada – Meadowvale Office (HQ)"
   ],
-  "posted_at": "2026-11-05",
+  "posted_at": "2026-11-06",
   "source": "workday"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/performance-test-engineer-intern--january-2027-12-months-_r10437": {
@@ -149482,7 +149500,7 @@
   "locations": [
    "Mississauga, Canada – Meadowvale Office (HQ)"
   ],
-  "posted_at": "2026-10-22",
+  "posted_at": "2026-10-23",
   "source": "workday"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/performance-test-engineer-intern--may-2027-12-months-_r10626": {
@@ -149492,7 +149510,7 @@
   "locations": [
    "Mississauga, Canada – Meadowvale Office (HQ)"
   ],
-  "posted_at": "2026-11-05",
+  "posted_at": "2026-11-06",
   "source": "workday"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/quality-assurance-specialist-intern---android--may-2027---12-months-_r10651": {
@@ -149502,7 +149520,7 @@
   "locations": [
    "Mississauga, Canada – Meadowvale Office (HQ)"
   ],
-  "posted_at": "2026-11-05",
+  "posted_at": "2026-11-06",
   "source": "workday"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-in-test-intern--may-2027-12-months-_r10676": {
@@ -149512,28 +149530,28 @@
   "locations": [
    "Mississauga, Canada – Meadowvale Office (HQ)"
   ],
-  "posted_at": "2026-11-17",
+  "posted_at": "2026-11-18",
   "source": "workday"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-intern---android--may-2027---12-months-_r10620": {
-  "company": "SOTI",
-  "title": "Software Developer Intern - Android",
+  "company": "soti",
+  "title": "Software Developer Intern - Android (May 2027 - 12 Months)",
   "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10620",
   "locations": [
-   "Mississauga, ON, Canada"
+   "Mississauga, Canada – Meadowvale Office (HQ)"
   ],
-  "posted_at": "2026-10-26",
-  "source": "simplify"
+  "posted_at": "2026-10-27",
+  "source": "workday"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-intern---android--may-2027---12-months-_r10650": {
-  "company": "SOTI",
-  "title": "Software Developer Intern",
+  "company": "soti",
+  "title": "Software Developer Intern - Android (May 2027 - 12 Months)",
   "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10650",
   "locations": [
-   "Mississauga, ON, Canada"
+   "Mississauga, Canada – Meadowvale Office (HQ)"
   ],
-  "posted_at": "2026-11-05",
-  "source": "simplify"
+  "posted_at": "2026-11-06",
+  "source": "workday"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-intern---server--may-2027---12-months-_r10647": {
   "company": "SOTI",
@@ -149556,14 +149574,14 @@
   "source": "workday"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-intern---soti-xsight--may-2027-12-months-_r10611": {
-  "company": "SOTI",
-  "title": "Software Developer Intern",
+  "company": "soti",
+  "title": "Software Developer Intern - SOTI XSight (May 2027 12 Months)",
   "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--May-2027-12-Months-_R10611",
   "locations": [
-   "Mississauga, ON, Canada"
+   "Mississauga, Canada – Meadowvale Office (HQ)"
   ],
-  "posted_at": "2026-10-29",
-  "source": "simplify"
+  "posted_at": "2026-10-30",
+  "source": "workday"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-intern---soti-xsight--may-2027-12-months-_r10718": {
   "company": "soti",
@@ -149572,7 +149590,7 @@
   "locations": [
    "Mississauga, Canada – Meadowvale Office (HQ)"
   ],
-  "posted_at": "2026-11-19",
+  "posted_at": "2026-11-20",
   "source": "workday"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-intern--january-2026-12-months-_r10549": {
@@ -149586,14 +149604,14 @@
   "source": "workday"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-intern--may-2027---12-months-_r10677": {
-  "company": "SOTI",
-  "title": "Software Developer Intern",
+  "company": "soti",
+  "title": "Software Developer Intern (May 2027 - 12 months)",
   "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027---12-months-_R10677",
   "locations": [
-   "Mississauga, ON, Canada"
+   "Mississauga, Canada – Meadowvale Office (HQ)"
   ],
-  "posted_at": "2026-11-10",
-  "source": "simplify"
+  "posted_at": "2026-11-11",
+  "source": "workday"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-intern--may-2027-12-months-_r10655": {
   "company": "soti",
@@ -149602,7 +149620,7 @@
   "locations": [
    "Mississauga, Canada – Meadowvale Office (HQ)"
   ],
-  "posted_at": "2026-11-05",
+  "posted_at": "2026-11-06",
   "source": "workday"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-intern--may-2027-_r10604": {
@@ -151627,7 +151645,7 @@
   "locations": [
    "Madison Wisconsin"
   ],
-  "posted_at": "2026-11-11",
+  "posted_at": "2026-11-12",
   "source": "workday"
  },
  "url:https://swib.wd12.myworkdayjobs.com/ext/job/madison-wisconsin/information-security-intern_r-001332": {
@@ -151637,7 +151655,7 @@
   "locations": [
    "Madison Wisconsin"
   ],
-  "posted_at": "2026-11-16",
+  "posted_at": "2026-11-17",
   "source": "workday"
  },
  "url:https://symbotic.wd504.myworkdayjobs.com/en-us/symbotic/job/usa-brooksville-fl/co-op--system-engineer_r8261": {
@@ -153377,14 +153395,14 @@
   "source": "simplify"
  },
  "url:https://tcenergy.wd3.myworkdayjobs.com/career_site_tc/job/spokane-washington/intern--intelligent-operations-technology_jr-10919": {
-  "company": "TC Energy",
-  "title": "Intelligent Operations Technology Intern",
+  "company": "tcenergy",
+  "title": "Intern, Intelligent Operations Technology",
   "url": "https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Spokane-Washington/Intern--Intelligent-Operations-Technology_JR-10919",
   "locations": [
-   "Spokane, WA"
+   "Spokane, Washington"
   ],
-  "posted_at": "2026-11-13",
-  "source": "simplify"
+  "posted_at": "2026-11-14",
+  "source": "workday"
  },
  "url:https://tcenergy.wd3.myworkdayjobs.com/career_site_tc/job/winnipeg-manitoba/intern--engineering_jr-11004": {
   "company": "tcenergy",
@@ -153393,7 +153411,7 @@
   "locations": [
    "Winnipeg, Manitoba"
   ],
-  "posted_at": "2026-11-03",
+  "posted_at": "2026-11-04",
   "source": "workday"
  },
  "url:https://td.wd3.myworkdayjobs.com/en-us/td_bank_careers/job/161-bay-street-corporate-toronto-ontario/td-asset-management-portfolio-analytics-developer-intern-co-op--winter-2027-_r_1509223": {
@@ -157323,6 +157341,26 @@
   "posted_at": "2026-09-28",
   "source": "simplify"
  },
+ "url:https://transunion.wd5.myworkdayjobs.com/transunion/job/chicago-illinois/data-analysis-internship---summer-2027_19042654": {
+  "company": "transunion",
+  "title": "Data Analysis Internship - Summer 2027",
+  "url": "https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Chicago-Illinois/Data-Analysis-Internship---Summer-2027_19042654",
+  "locations": [
+   "Chicago, Illinois"
+  ],
+  "posted_at": "2026-11-17",
+  "source": "workday"
+ },
+ "url:https://transunion.wd5.myworkdayjobs.com/transunion/job/chicago-illinois/data-science---analytics-internship---summer-2027_19043450": {
+  "company": "transunion",
+  "title": "Data Science & Analytics Internship - Summer 2027",
+  "url": "https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Chicago-Illinois/Data-Science---Analytics-Internship---Summer-2027_19043450",
+  "locations": [
+   "Chicago, Illinois"
+  ],
+  "posted_at": "2026-11-20",
+  "source": "workday"
+ },
  "url:https://travelers.wd5.myworkdayjobs.com/external/job/ca---diamond-bar/business-insurance-underwriting-professional-development-program-internship--bi-updp-intern-_r-53094": {
   "company": "travelers",
   "title": "Business Insurance Underwriting Professional Development Program Internship (BI UPDP Intern)",
@@ -160215,7 +160253,7 @@
   "locations": [
    "Chennai"
   ],
-  "posted_at": "2026-10-22",
+  "posted_at": "2026-10-23",
   "source": "workday"
  },
  "url:https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/enfidha/project-engineer-intern_req2025067303": {
@@ -160225,7 +160263,7 @@
   "locations": [
    "Enfidha"
   ],
-  "posted_at": "2026-10-22",
+  "posted_at": "2026-10-23",
   "source": "workday"
  },
  "url:https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/martos/process-engineer-ptm-internship_req2026069244": {
@@ -160235,7 +160273,7 @@
   "locations": [
    "Martos"
   ],
-  "posted_at": "2026-11-05",
+  "posted_at": "2026-11-06",
   "source": "workday"
  },
  "url:https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/martos/product-technical-engineer-internship_req2026077555": {
@@ -160245,7 +160283,7 @@
   "locations": [
    "Martos"
   ],
-  "posted_at": "2026-11-05",
+  "posted_at": "2026-11-06",
   "source": "workday"
  },
  "url:https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/martos/quality-engineer-internship_req2026073346": {
@@ -160255,7 +160293,7 @@
   "locations": [
    "Martos"
   ],
-  "posted_at": "2026-10-22",
+  "posted_at": "2026-10-23",
   "source": "workday"
  },
  "url:https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/reno-nv/maintenance-engineering-trainee-intern_req2026082014": {
@@ -160265,7 +160303,7 @@
   "locations": [
    "Reno, NV"
   ],
-  "posted_at": "2026-11-09",
+  "posted_at": "2026-11-10",
   "source": "workday"
  },
  "url:https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/reno-nv/vps-intern--year-round-_req2026082013": {
@@ -160275,7 +160313,7 @@
   "locations": [
    "Reno, NV"
   ],
-  "posted_at": "2026-11-19",
+  "posted_at": "2026-11-20",
   "source": "workday"
  },
  "url:https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/rio-bravo/co-op-interns--dvs--development---support--new-position_req2026071136": {
@@ -160285,7 +160323,7 @@
   "locations": [
    "Rio Bravo"
   ],
-  "posted_at": "2026-10-22",
+  "posted_at": "2026-10-23",
   "source": "workday"
  },
  "url:https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/skawina/sta-w-dziale-it--is-it-intern---m-k-n-_req2026082064": {
@@ -160315,7 +160353,7 @@
   "locations": [
    "Troy, MI"
   ],
-  "posted_at": "2026-11-13",
+  "posted_at": "2026-11-14",
   "source": "workday"
  },
  "url:https://valeris.wd108.myworkdayjobs.com/en-us/valeris/job/louisville-ky/software-engineer-intern_jr1044": {
