@@ -1,29 +1,29 @@
-# intern-radar weekly health — 2026-W47
+# intern-radar weekly health — 2026-W48
 
-Runs this week: 213
+Runs this week: 172
 
 | family | matched postings | unique finds (30 d) |
 |---|---|---|
-| ashby | 74786 | 264 |
-| greenhouse | 217020 | 837 |
-| lever | 39438 | 169 |
-| simplify | 293418 | 881 |
-| smartrecruiters | 41829 | 249 |
-| speedyapply | 161231 | 305 |
-| vanshb03 | 480147 | 2233 |
-| workday | 397377 | 3763 |
+| ashby | 60190 | 284 |
+| greenhouse | 174795 | 906 |
+| lever | 32749 | 185 |
+| simplify | 213055 | 935 |
+| smartrecruiters | 34449 | 303 |
+| speedyapply | 132162 | 374 |
+| vanshb03 | 395499 | 2056 |
+| workday | 238015 | 3815 |
 
 ## Head start over simplify (median hours, n ≥ 5)
 
-- ashby: +0.0 h (n=102)
-- greenhouse: +0.0 h (n=249)
+- ashby: +0.0 h (n=107)
+- greenhouse: +0.0 h (n=253)
 - lever: +0.0 h (n=33)
-- smartrecruiters: +0.5 h (n=26)
-- speedyapply: -16.4 h (n=355)
-- vanshb03: -19.2 h (n=149)
-- workday: +0.0 h (n=542)
+- smartrecruiters: +0.5 h (n=27)
+- speedyapply: +0.0 h (n=353)
+- vanshb03: -6.0 h (n=31)
+- workday: +0.0 h (n=479)
 
-## Disabled boards (180)
+## Disabled boards (213)
 
 - ashby:atomicsemi
 - ashby:maximor
@@ -42,6 +42,7 @@ Runs this week: 213
 - workday:acehardware.wd1/external
 - workday:aep.wd1/aepcareersite
 - workday:aes.wd1/aes_us
+- workday:ag.wd3/airbus
 - workday:aig.wd1/aig
 - workday:aig.wd1/early_careers
 - workday:airproducts.wd5/ap0001
@@ -60,22 +61,33 @@ Runs this week: 213
 - workday:athene.wd5/athene_careers
 - workday:autodesk.wd1/ext
 - workday:autodesk.wd1/uni
+- workday:autostore.wd3/autostore
 - workday:avisbudget.wd1/abg_careers
 - workday:axcelis.wd1/axcelis
 - workday:bah.wd1/confidential
 - workday:barr.wd1/barrcareers
 - workday:bcbsks.wd1/external
+- workday:biibhr.wd3/external
+- workday:bmo.wd3/campus
+- workday:bmo.wd3/external
+- workday:bmo.wd3/privileged
 - workday:bnl.wd1/externa
 - workday:boeing.wd1/external_careers
 - workday:boeing.wd1/intern
+- workday:bpinternational.wd3/bpprivateexternalcareerssite
 - workday:bristolmyerssquibb.wd5/bms
 - workday:brookfield.wd5/brookfield
+- workday:cae.wd3/career
 - workday:cai.wd5/computer_aid
 - workday:campbellsoup.wd5/externalcareers_globalsite
+- workday:capitalone.wd12/capital_one
 - workday:carrier.wd5/jobs
 - workday:cat.wd5/caterpillarcareers
+- workday:cenovus.wd3/careers
 - workday:chamberlain.wd1/chamberlain_group
 - workday:chevron.wd5/university
+- workday:cibc.wd3/campus
+- workday:cibc.wd3/search
 - workday:clr.wd5/clr_careers
 - workday:cmegroup.wd1/cme_careers
 - workday:cognex.wd1/external_career_site
@@ -85,6 +97,7 @@ Runs this week: 213
 - workday:conocophillips.wd1/external
 - workday:coreandmain.wd1/coreandmain
 - workday:countryfinancial.wd5/countrycorporateinternships
+- workday:covestro.wd3/cov_external
 - workday:cox.wd1/cox_external_career_site_1
 - workday:directv.wd1/careers
 - workday:disney.wd5/disneycareer
@@ -92,7 +105,6 @@ Runs this week: 213
 - workday:dmainc.wd5/dma
 - workday:dowjones.wd1/dow_jones_career
 - workday:draftkings.wd1/draftkings
-- workday:draper.wd5/draper_careers
 - workday:dtna.wd5/dtna_affiliate
 - workday:dtna.wd5/dtna_external
 - workday:dukeenergy.wd1/search
@@ -106,6 +118,7 @@ Runs this week: 213
 - workday:ercot.wd1/ercot_careers
 - workday:fanniemae.wd1/fanniemaecareers
 - workday:fifththird.wd5/53careers
+- workday:finastra.wd3/finc
 - workday:fis.wd5/searchjobs
 - workday:fmr.wd1/fidelitycareers
 - workday:fmr.wd1/targeted
@@ -116,31 +129,40 @@ Runs this week: 213
 - workday:generac.wd5/external
 - workday:gilead.wd1/gileadcareers
 - workday:gnw.wd1/enact_mi
-- workday:gnw.wd1/gnw
+- workday:haier.wd3/ge_appliances
 - workday:hl.wd1/campus
 - workday:homedepot.wd5/careerdepot
 - workday:hpe.wd5/acjobsite
 - workday:humana.wd5/humana_external_career_site
+- workday:hyperiongrp.wd3/hyperion_external
 - workday:hysteryale.wd1/hyster-yalecareers
 - workday:hyvee.wd1/hyveecareers
+- workday:iberdrola.wd3/iberdrola
 - workday:igsenergy.wd1/igs
+- workday:ing.wd3/icsgblcor
 - workday:intel.wd1/external
-- workday:jabil.wd5/jabil_careers
 - workday:jainglobal.wd5/externalsite
 - workday:jll.wd1/jllcareers
+- workday:kainos.wd3/kainos
 - workday:kenvue.wd5/kenvue
 - workday:keybank.wd5/external_career_site
 - workday:landolakes.wd1/landolakes
 - workday:liveoakbancshares.wd1/live_oak
+- workday:liveramp.wd5/liverampcareers
+- workday:lseg.wd3/careers
 - workday:lthc.wd1/excellusbcbscareers
 - workday:lthc.wd1/univerahealthcarecareers
-- workday:lumentum.wd5/lite
+- workday:magna.wd3/magna
+- workday:manulife.wd3/mfcjh_jobs
 - workday:mastercard.wd1/campus
 - workday:mastercard.wd1/corporatecareers
+- workday:mckesson.wd3/external_careers
+- workday:mckesson.wd3/sourcer_on_req
 - workday:medline.wd5/medline
 - workday:medtronic.wd1/medtroniccareers
 - workday:meijer.wd5/meijer
 - workday:mfs.wd1/mfs-careers
+- workday:michelinhr.wd3/michelin
 - workday:microchiphr.wd5/external
 - workday:mii.wd5/universityrecruiting
 - workday:modernatx.wd1/m_tx
@@ -152,6 +174,7 @@ Runs this week: 213
 - workday:nb.wd1/nbcareers
 - workday:nebraskablue.wd1/bcbsne
 - workday:nebraskamed.wd5/nm
+- workday:ngc.wd1/northrop_grumman_external_site
 - workday:nidec.wd1/nidec
 - workday:nike.wd1/nke
 - workday:nisource.wd1/nisource
@@ -161,22 +184,32 @@ Runs this week: 213
 - workday:nxp.wd3/careers
 - workday:osv-cci.wd1/ccicareers
 - workday:osv-rubicon.wd5/magnitecareers
-- workday:pae.wd1/amentum_careers
 - workday:paloaltonetworks.wd5/panwexternalcareers
+- workday:pernodricard.wd3/pernod-ricard
+- workday:petronascanada.wd3/petronascanada
 - workday:plastipak.wd1/plastipak
 - workday:polaris.wd5/polarisjobs
 - workday:premierinc.wd1/external_professional
 - workday:primient.wd1/external_careers
+- workday:pwc.wd3/us_entry_level_careers
 - workday:qtsdatacenters.wd5/qts
 - workday:raymondjames.wd1/raymondjamesearlycareers
+- workday:rbc.wd3/externalprivatepostingstudents
+- workday:rbc.wd3/rbcglobal1
 - workday:regeneron.wd1/careers
+- workday:relx.wd3/lexisnexislegal
+- workday:repsol.wd3/repsol
 - workday:roberthalf.wd1/protivitina
+- workday:roche.wd3/roche-ext
+- workday:rockwoolgroup.wd3/rockwool
 - workday:roguefitness.wd1/roguefitness_external_careers
 - workday:rsm.wd1/rsmcareers
+- workday:ryan.wd1/students-graduates
 - workday:ryancompanies.wd5/ryancompanies
 - workday:saabusa.wd1/saab_careers
 - workday:sailpoint.wd1/sailpoint
-- workday:sierraspace.wd1/sierra_space_external_career_site
+- workday:sallie-mae.wd5/careers
+- workday:sanofi.wd3/sanoficareers
 - workday:simon.wd1/simon
 - workday:snapchat.wd1/snap
 - workday:sonyglobal.wd1/sony_europe_careers
@@ -184,14 +217,15 @@ Runs this week: 213
 - workday:spe.wd1/sonypicturesentertainment
 - workday:spectrumhealth.wd5/corewellhealthcareers
 - workday:spgi.wd5/kensho_careers
+- workday:sunlife.wd3/campus
 - workday:swa.wd1/external
 - workday:taylor.wd1/external
+- workday:tel.wd3/tel-careers
 - workday:thehartford.wd5/careers_external
 - workday:thehartford.wd5/careers_restricted
 - workday:thermofisher.wd5/thermofishercareers
 - workday:tiaa.wd1/search
 - workday:transamerica.wd5/auk_jobsite
-- workday:transunion.wd5/transunion
 - workday:troweprice.wd5/troweprice
 - workday:truist.wd1/careers
 - workday:usbank.wd1/us_bank_careers
@@ -203,7 +237,6 @@ Runs this week: 213
 - workday:wellington.wd5/external
 - workday:wexinc.wd5/wexinc
 - workday:wf.wd1/wellsfargojobs
-- workday:woodward.wd5/woodward
 - workday:xcelenergy.wd1/external
 
 ## Deep (consider pinning) boards (57)
