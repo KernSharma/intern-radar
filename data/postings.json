@@ -491,14 +491,14 @@
   "source": "simplify"
  },
  "url:https://abb.wd3.myworkdayjobs.com/external_career_page/job/usa-nc-cary/ai-engineering--erp-intern--summer-2027_jr00048711": {
-  "company": "abb",
-  "title": "AI Engineering, ERP Intern- Summer 2027",
+  "company": "ABB",
+  "title": "AI Engineering ERP Intern",
   "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--ERP-Intern--Summer-2027_JR00048711",
   "locations": [
-   "USA, NC, Cary"
+   "Cary, NC"
   ],
-  "posted_at": "2026-11-04",
-  "source": "workday"
+  "posted_at": "2026-10-06",
+  "source": "simplify"
  },
  "url:https://abb.wd3.myworkdayjobs.com/external_career_page/job/usa-nc-cary/is-common-infrastructure-intern--summer-2027_jr00047125": {
   "company": "abb",
@@ -12740,6 +12740,16 @@
    "Simi Valley, CA"
   ],
   "posted_at": "2026-10-29",
+  "source": "workday"
+ },
+ "url:https://avav.wd1.myworkdayjobs.com/avav/job/simi-valley-ca/product-engineering-intern_8815": {
+  "company": "avav",
+  "title": "Product Engineering Intern",
+  "url": "https://avav.wd1.myworkdayjobs.com/avav/job/Simi-Valley-CA/Product-Engineering-Intern_8815",
+  "locations": [
+   "Simi Valley, CA"
+  ],
+  "posted_at": "2026-11-23",
   "source": "workday"
  },
  "url:https://avav.wd1.myworkdayjobs.com/avav/job/simi-valley-ca/production-engineering-intern_8887": {
@@ -34354,6 +34364,16 @@
   "posted_at": "2026-11-06",
   "source": "workday"
  },
+ "url:https://draper.wd5.myworkdayjobs.com/draper_careers/job/cambridge-ma/materials-and-chemistry-engineering-intern--summer-2027-_jr003177": {
+  "company": "draper",
+  "title": "Materials and Chemistry Engineering Intern (Summer 2027)",
+  "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Materials-and-Chemistry-Engineering-Intern--Summer-2027-_JR003177",
+  "locations": [
+   "Cambridge, MA"
+  ],
+  "posted_at": "2026-11-23",
+  "source": "workday"
+ },
  "url:https://draper.wd5.myworkdayjobs.com/draper_careers/job/cambridge-ma/mechanical-engineering---system-packaging-intern--summer-2027-_jr002943": {
   "company": "draper",
   "title": "Mechanical Engineering & System Packaging Intern (Summer 2027)",
@@ -48691,6 +48711,16 @@
   "posted_at": "2026-09-28",
   "source": "workday"
  },
+ "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-az-tucson-m02--1151-e-hermans-rd--bldg-m02/electrical-engineering-electromagnetic-environmental-effects-intern--summer-2027-_01885207": {
+  "company": "globalhr",
+  "title": "Electrical Engineering Electromagnetic Environmental Effects Intern (Summer 2027)",
+  "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Electrical-Engineering-Electromagnetic-Environmental-Effects-Intern--Summer-2027-_01885207",
+  "locations": [
+   "US-AZ-TUCSON-M02 ~ 1151 E Hermans Rd ~ BLDG M02"
+  ],
+  "posted_at": "2026-11-23",
+  "source": "workday"
+ },
  "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-az-tucson-m02--1151-e-hermans-rd--bldg-m02/power-and-analog-electronic-engineer-intern--onsite-_01875689": {
   "company": "globalhr",
   "title": "Power and Analog Electronic Engineer Intern (Onsite)",
@@ -57834,24 +57864,24 @@
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/1hm": {
-  "company": "NCR Atleos",
-  "title": "Data Science Intern",
-  "url": "https://go.vansh.nyc/1hM",
+  "company": "Rockwell Automation",
+  "title": "Content IDE Software Development Intern",
+  "url": "https://go.vansh.nyc/1Hm",
   "locations": [
-   "Atlanta, GA",
-   "Frisco, TX"
+   "Mayfield Heights, OH"
   ],
-  "posted_at": "2026-11-05",
+  "posted_at": "2026-11-21",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/1hn": {
-  "company": "Tencent",
-  "title": "Game Research & Development Intern, Engine Research",
-  "url": "https://go.vansh.nyc/1hN",
+  "company": "Motorola Solutions",
+  "title": "Mission Critical Networks Software Engineer Intern",
+  "url": "https://go.vansh.nyc/1Hn",
   "locations": [
-   "Los Angeles, CA"
+   "Schaumburg, IL",
+   "Chicago, IL"
   ],
-  "posted_at": "2026-11-05",
+  "posted_at": "2026-11-23",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/1ho": {
@@ -66904,13 +66934,13 @@
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/cq": {
-  "company": "Ryan",
-  "title": "Software Engineer Intern",
-  "url": "https://go.vansh.nyc/CQ",
+  "company": "Figure",
+  "title": "Embedded Software Engineer Intern, Platform",
+  "url": "https://go.vansh.nyc/Cq",
   "locations": [
-   "Plano, TX"
+   "San Jose, CA"
   ],
-  "posted_at": "2026-10-16",
+  "posted_at": "2026-10-14",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/cr": {
@@ -78326,7 +78356,7 @@
   "locations": [
    "3 Locations"
   ],
-  "posted_at": "2026-09-30",
+  "posted_at": "2026-11-23",
   "source": "workday"
  },
  "url:https://hp.wd5.myworkdayjobs.com/externalcareersite/job/tlaquepaque-jalisco-mexico/data-analysis-and-systems-internship--evergreen-_3168485-1": {
@@ -78986,7 +79016,7 @@
   "locations": [
    "3 Locations"
   ],
-  "posted_at": "2026-10-01",
+  "posted_at": "2026-11-23",
   "source": "workday"
  },
  "url:https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/tlaquepaque-jalisco-mexico/data-analysis-and-systems-internship--evergreen-_3168485": {
@@ -110946,14 +110976,14 @@
   "source": "smartrecruiters"
  },
  "url:https://jobs.smartrecruiters.com/boschgroup/744000162076254": {
-  "company": "Bosch Group",
-  "title": "AI Application Intern (8 months/40 hours per week)",
+  "company": "Robert Bosch Venture Capital",
+  "title": "AI Application Intern",
   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162076254",
   "locations": [
-   "Farmington Hills, MI, United States"
+   "Farmington Hills, MI"
   ],
   "posted_at": "2026-11-17",
-  "source": "smartrecruiters"
+  "source": "simplify"
  },
  "url:https://jobs.smartrecruiters.com/boschgroup/744000162212029": {
   "company": "Bosch Group",
@@ -120665,14 +120695,14 @@
   "source": "simplify"
  },
  "url:https://lseg.wd3.myworkdayjobs.com/graduate_careers/job/london-united-kingdom/intern---finance-engineer_r0124269": {
-  "company": "LSEG",
-  "title": "Finance Engineer Intern",
+  "company": "lseg",
+  "title": "Intern - Finance Engineer",
   "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/London-United-Kingdom/Intern---Finance-Engineer_R0124269",
   "locations": [
-   "London, UK"
+   "London, United Kingdom"
   ],
-  "posted_at": "2026-10-14",
-  "source": "simplify"
+  "posted_at": "2026-11-03",
+  "source": "workday"
  },
  "url:https://lseg.wd3.myworkdayjobs.com/graduate_careers/job/london-united-kingdom/intern---quantitative-services_r0124311-2": {
   "company": "lseg",
@@ -120685,14 +120715,14 @@
   "source": "workday"
  },
  "url:https://lseg.wd3.myworkdayjobs.com/graduate_careers/job/london-united-kingdom/intern---software-engineer_r0124267": {
-  "company": "LSEG",
-  "title": "Software Engineer Intern",
+  "company": "lseg",
+  "title": "Intern - Software Engineer",
   "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/London-United-Kingdom/Intern---Software-Engineer_R0124267",
   "locations": [
-   "London, UK"
+   "London, United Kingdom"
   ],
-  "posted_at": "2026-10-14",
-  "source": "simplify"
+  "posted_at": "2026-11-03",
+  "source": "workday"
  },
  "url:https://lseg.wd3.myworkdayjobs.com/graduate_careers/job/new-york-city-united-states/engineering-summer-internship-programme_r0123569": {
   "company": "lseg",
@@ -120705,34 +120735,34 @@
   "source": "workday"
  },
  "url:https://lseg.wd3.myworkdayjobs.com/graduate_careers/job/new-york-city-united-states/intern---finance-engineer_r0124268": {
-  "company": "LSEG",
-  "title": "Finance Engineer Intern",
+  "company": "lseg",
+  "title": "Intern - Finance Engineer",
   "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/New-York-City-United-States/Intern---Finance-Engineer_R0124268",
   "locations": [
-   "NYC"
+   "New York City, United States"
   ],
-  "posted_at": "2026-10-14",
-  "source": "simplify"
+  "posted_at": "2026-11-03",
+  "source": "workday"
  },
  "url:https://lseg.wd3.myworkdayjobs.com/graduate_careers/job/new-york-city-united-states/intern---software-engineer_r0124266-1": {
-  "company": "LSEG",
-  "title": "Software Engineer Intern",
+  "company": "lseg",
+  "title": "Intern - Software Engineer",
   "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/New-York-City-United-States/Intern---Software-Engineer_R0124266-1",
   "locations": [
-   "NYC"
+   "New York City, United States"
   ],
-  "posted_at": "2026-10-14",
-  "source": "simplify"
+  "posted_at": "2026-11-03",
+  "source": "workday"
  },
  "url:https://lseg.wd3.myworkdayjobs.com/graduate_careers/job/nottingham-united-kingdom/engineering-summer-internship-programme_r0124221": {
-  "company": "LSEG",
-  "title": "Engineering Intern",
+  "company": "lseg",
+  "title": "Engineering Summer Internship Programme",
   "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Nottingham-United-Kingdom/Engineering-Summer-Internship-Programme_R0124221",
   "locations": [
-   "Nottingham, UK"
+   "Nottingham, United Kingdom"
   ],
-  "posted_at": "2026-10-12",
-  "source": "simplify"
+  "posted_at": "2026-10-24",
+  "source": "workday"
  },
  "url:https://lseg.wd3.myworkdayjobs.com/graduate_careers/job/tha-bangkok-one-bangkok/engineering-intern-programme--software---data-or-ui-engineer-_r0123961-2": {
   "company": "lseg",
@@ -128437,7 +128467,7 @@
   "locations": [
    "Chicago, IL, More..."
   ],
-  "posted_at": "2026-11-17",
+  "posted_at": "2026-11-23",
   "source": "workday"
  },
  "url:https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/chicago-il/software-engineering-intern---summer-2027_r68388": {
@@ -145116,15 +145146,14 @@
   "source": "workday"
  },
  "url:https://rockwellautomation.wd1.myworkdayjobs.com/external_rockwell_automation/job/mayfield-heights-ohio-united-states/intern--ai-software-engineering--june-august-2027-_r26-6980-1": {
-  "company": "Rockwell Automation",
-  "title": "AI Software Engineer Intern",
+  "company": "rockwellautomation",
+  "title": "Intern, AI Software Engineering (June-August 2027)",
   "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--AI-Software-Engineering--June-August-2027-_R26-6980-1",
   "locations": [
-   "Mayfield Heights, OH",
-   "Milwaukee, WI"
+   "2 Locations"
   ],
-  "posted_at": "2026-09-25",
-  "source": "simplify"
+  "posted_at": "2026-10-24",
+  "source": "workday"
  },
  "url:https://rockwellautomation.wd1.myworkdayjobs.com/external_rockwell_automation/job/mayfield-heights-ohio-united-states/intern--content-ide-software-development--lcs-_r26-5010-2": {
   "company": "rockwellautomation",
@@ -150334,24 +150363,24 @@
   "source": "workday"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-intern---android--may-2027---12-months-_r10620": {
-  "company": "SOTI",
-  "title": "Software Developer Intern - Android",
+  "company": "soti",
+  "title": "Software Developer Intern - Android (May 2027 - 12 Months)",
   "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10620",
   "locations": [
-   "Mississauga, ON, Canada"
+   "Mississauga, Canada – Meadowvale Office (HQ)"
   ],
   "posted_at": "2026-10-26",
-  "source": "simplify"
+  "source": "workday"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-intern---android--may-2027---12-months-_r10650": {
-  "company": "SOTI",
-  "title": "Software Developer Intern",
+  "company": "soti",
+  "title": "Software Developer Intern - Android (May 2027 - 12 Months)",
   "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10650",
   "locations": [
-   "Mississauga, ON, Canada"
+   "Mississauga, Canada – Meadowvale Office (HQ)"
   ],
   "posted_at": "2026-11-05",
-  "source": "simplify"
+  "source": "workday"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-intern---server--may-2027---12-months-_r10647": {
   "company": "SOTI",
@@ -150365,23 +150394,23 @@
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-intern---soti-mobicontrol-apple-hq--january-2027-12-months-_r10551-2": {
   "company": "soti",
-  "title": "Software Developer Intern - SOTI MobiControl Apple HQ (January 2027 12 Months)",
+  "title": "Software Developer Intern - SOTI MobiControl Apple HQ (May 2027 12 Months)",
   "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-MobiControl-Apple-HQ--January-2027-12-Months-_R10551-2",
   "locations": [
    "Mississauga, Canada – Meadowvale Office (HQ)"
   ],
-  "posted_at": "2026-10-20",
+  "posted_at": "2026-11-23",
   "source": "workday"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-intern---soti-xsight--may-2027-12-months-_r10611": {
-  "company": "SOTI",
-  "title": "Software Developer Intern",
+  "company": "soti",
+  "title": "Software Developer Intern - SOTI XSight (May 2027 12 Months)",
   "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--May-2027-12-Months-_R10611",
   "locations": [
-   "Mississauga, ON, Canada"
+   "Mississauga, Canada – Meadowvale Office (HQ)"
   ],
   "posted_at": "2026-10-29",
-  "source": "simplify"
+  "source": "workday"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-intern---soti-xsight--may-2027-12-months-_r10718": {
   "company": "soti",
@@ -150404,14 +150433,14 @@
   "source": "workday"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-intern--may-2027---12-months-_r10677": {
-  "company": "SOTI",
-  "title": "Software Developer Intern",
+  "company": "soti",
+  "title": "Software Developer Intern (May 2027 - 12 months)",
   "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027---12-months-_R10677",
   "locations": [
-   "Mississauga, ON, Canada"
+   "Mississauga, Canada – Meadowvale Office (HQ)"
   ],
   "posted_at": "2026-11-10",
-  "source": "simplify"
+  "source": "workday"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-intern--may-2027-12-months-_r10655": {
   "company": "soti",
@@ -150421,6 +150450,16 @@
    "Mississauga, Canada – Meadowvale Office (HQ)"
   ],
   "posted_at": "2026-11-05",
+  "source": "workday"
+ },
+ "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-intern--may-2027-12-months-_r10703-2": {
+  "company": "soti",
+  "title": "Software Developer Intern (May 2027 12 Months)",
+  "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-12-Months-_R10703-2",
+  "locations": [
+   "Mississauga, Canada – Meadowvale Office (HQ)"
+  ],
+  "posted_at": "2026-11-23",
   "source": "workday"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-intern--may-2027-_r10604": {
@@ -158349,15 +158388,14 @@
   "source": "workday"
  },
  "url:https://travelers.wd5.myworkdayjobs.com/external/job/ct---hartford/business-insights---analytics-leadership-development-program--bi-a-ldp--intern_r-52304": {
-  "company": "Travelers",
-  "title": "Business Insights & Analytics Intern - BI&A LDP",
+  "company": "travelers",
+  "title": "Business Insights & Analytics Leadership Development Program (BI&A LDP) Intern",
   "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Intern_R-52304",
   "locations": [
-   "Hartford, CT",
-   "St Paul, MN"
+   "2 Locations"
   ],
-  "posted_at": "2026-09-01",
-  "source": "simplify"
+  "posted_at": "2026-10-26",
+  "source": "workday"
  },
  "url:https://travelers.wd5.myworkdayjobs.com/external/job/ct---hartford/business-insurance-underwriting-professional-development-program--bi-updp--internship_r-52980": {
   "company": "travelers",
@@ -158860,6 +158898,16 @@
    "US - OH, Dayton"
   ],
   "posted_at": "2026-11-19",
+  "source": "workday"
+ },
+ "url:https://trimble.wd1.myworkdayjobs.com/trimblecareers/job/us---or-lake-oswego/ai-software-developer-engineer-in-test-intern_r58210": {
+  "company": "trimble",
+  "title": "AI Software Developer Engineer in Test Intern",
+  "url": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OR-Lake-Oswego/AI-Software-Developer-Engineer-in-Test-Intern_R58210",
+  "locations": [
+   "US - OR, Lake Oswego"
+  ],
+  "posted_at": "2026-11-23",
   "source": "workday"
  },
  "url:https://trimble.wd1.myworkdayjobs.com/trimblecareers/job/us---or-lake-oswego/software-engineer-intern_r58171": {
@@ -171342,6 +171390,16 @@
    "Chelmsford, MA"
   ],
   "posted_at": "2026-11-20",
+  "source": "workday"
+ },
+ "url:https://zoll.wd5.myworkdayjobs.com/zollmedicalcorp/job/chelmsford-ma/software-engineering-intern_r20923": {
+  "company": "zoll",
+  "title": "Software Engineering Intern",
+  "url": "https://zoll.wd5.myworkdayjobs.com/zollmedicalcorp/job/Chelmsford-MA/Software-Engineering-Intern_R20923",
+  "locations": [
+   "Chelmsford, MA"
+  ],
+  "posted_at": "2026-11-23",
   "source": "workday"
  },
  "url:https://zoll.wd5.myworkdayjobs.com/zollmedicalcorp/job/chelmsford-ma/supplier-quality-engineering-co-op_r20738-1": {
