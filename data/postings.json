@@ -541,14 +541,14 @@
   "source": "simplify"
  },
  "url:https://abb.wd3.myworkdayjobs.com/external_career_page/job/usa-nc-cary/ai-engineering--erp-intern--summer-2027_jr00048711": {
-  "company": "abb",
-  "title": "AI Engineering, ERP Intern- Summer 2027",
+  "company": "ABB",
+  "title": "AI Engineering ERP Intern",
   "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--ERP-Intern--Summer-2027_JR00048711",
   "locations": [
-   "USA, NC, Cary"
+   "Cary, NC"
   ],
-  "posted_at": "2026-11-04",
-  "source": "workday"
+  "posted_at": "2026-10-06",
+  "source": "simplify"
  },
  "url:https://abb.wd3.myworkdayjobs.com/external_career_page/job/usa-nc-cary/is-common-infrastructure-intern--summer-2027_jr00047125": {
   "company": "abb",
@@ -44150,6 +44150,16 @@
   "posted_at": "2026-11-04",
   "source": "workday"
  },
+ "url:https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/campinas/controls-engineering-intern_r5058717-3": {
+  "company": "gevernova",
+  "title": "Controls Engineering Intern",
+  "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Campinas/Controls-Engineering-Intern_R5058717-3",
+  "locations": [
+   "Campinas"
+  ],
+  "posted_at": "2026-11-24",
+  "source": "workday"
+ },
  "url:https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/charleroi-usa/ge-vernova-engineering-automation-internship---summer-2027_r5059697-1": {
   "company": "gevernova",
   "title": "GE Vernova Engineering Automation Internship - Summer 2027",
@@ -44905,6 +44915,16 @@
    "Cairo"
   ],
   "posted_at": "2026-11-04",
+  "source": "workday"
+ },
+ "url:https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/campinas/controls-engineering-intern_r5058717-1": {
+  "company": "gevernova",
+  "title": "Controls Engineering Intern",
+  "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Campinas/Controls-Engineering-Intern_R5058717-1",
+  "locations": [
+   "Campinas"
+  ],
+  "posted_at": "2026-11-24",
   "source": "workday"
  },
  "url:https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/charleroi-usa/ge-vernova-engineering-automation-internship---summer-2027_r5059697-2": {
@@ -88747,84 +88767,94 @@
   "source": "greenhouse"
  },
  "url:https://job-boards.greenhouse.io/ecjobb/jobs/8230677": {
-  "company": "CarGurus",
+  "company": "CarGurus Early Careers",
   "title": "Product Data Analyst Intern",
   "url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230677",
   "locations": [
-   "Boston, MA"
+   "Boston, Massachusetts, United States"
   ],
   "posted_at": "2026-09-30",
-  "source": "simplify"
+  "source": "greenhouse"
+ },
+ "url:https://job-boards.greenhouse.io/ecjobb/jobs/8230690": {
+  "company": "CarGurus Early Careers",
+  "title": "Technical Product Management Intern",
+  "url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230690",
+  "locations": [
+   "Boston, Massachusetts, United States"
+  ],
+  "posted_at": "2026-09-30",
+  "source": "greenhouse"
  },
  "url:https://job-boards.greenhouse.io/ecjobb/jobs/8230749": {
-  "company": "CarGurus",
+  "company": "CarGurus Early Careers",
   "title": "Data Governance Engineer Intern",
   "url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230749",
   "locations": [
-   "Boston, MA"
+   "Boston, Massachusetts, United States"
   ],
   "posted_at": "2026-09-30",
-  "source": "simplify"
+  "source": "greenhouse"
  },
  "url:https://job-boards.greenhouse.io/ecjobb/jobs/8230750": {
-  "company": "CarGurus",
+  "company": "CarGurus Early Careers",
   "title": "Data Platform Engineer Intern",
   "url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230750",
   "locations": [
-   "Boston, MA"
+   "Boston, Massachusetts, United States"
   ],
   "posted_at": "2026-09-30",
-  "source": "simplify"
+  "source": "greenhouse"
  },
  "url:https://job-boards.greenhouse.io/ecjobb/jobs/8230763": {
-  "company": "CarGurus",
-  "title": "Software Engineer Intern - Full Stack",
+  "company": "CarGurus Early Careers",
+  "title": "Software Development Engineer Intern (Full Stack)",
   "url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230763",
   "locations": [
-   "Boston, MA"
+   "Boston, Massachusetts, United States"
   ],
   "posted_at": "2026-09-30",
-  "source": "simplify"
+  "source": "greenhouse"
  },
  "url:https://job-boards.greenhouse.io/ecjobb/jobs/8230777": {
-  "company": "CarGurus",
-  "title": "Software Engineer Intern - Full Stack",
+  "company": "CarGurus Early Careers",
+  "title": "Software Development Engineer Intern (Full Stack)",
   "url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230777",
   "locations": [
-   "Boston, MA"
+   "Boston, Massachusetts, United States"
   ],
   "posted_at": "2026-09-30",
-  "source": "simplify"
+  "source": "greenhouse"
  },
  "url:https://job-boards.greenhouse.io/ecjobb/jobs/8231504": {
-  "company": "CarGurus",
+  "company": "CarGurus Early Careers",
   "title": "Software Development Engineer Intern",
   "url": "https://job-boards.greenhouse.io/ecjobb/jobs/8231504",
   "locations": [
-   "Boston, MA"
+   "Boston, Massachusetts, United States"
   ],
   "posted_at": "2026-09-30",
-  "source": "simplify"
+  "source": "greenhouse"
  },
  "url:https://job-boards.greenhouse.io/ecjobb/jobs/8231510": {
-  "company": "CarGurus",
+  "company": "CarGurus Early Careers",
   "title": "Data Analytics Engineer Intern",
   "url": "https://job-boards.greenhouse.io/ecjobb/jobs/8231510",
   "locations": [
-   "Boston, MA"
+   "Boston, Massachusetts, United States"
   ],
   "posted_at": "2026-09-30",
-  "source": "simplify"
+  "source": "greenhouse"
  },
  "url:https://job-boards.greenhouse.io/ecjobb/jobs/8231798": {
-  "company": "CarGurus",
+  "company": "CarGurus Early Careers",
   "title": "Finance AI Solutions Intern",
   "url": "https://job-boards.greenhouse.io/ecjobb/jobs/8231798",
   "locations": [
-   "Boston, MA"
+   "Boston, Massachusetts, United States"
   ],
   "posted_at": "2026-09-30",
-  "source": "simplify"
+  "source": "greenhouse"
  },
  "url:https://job-boards.greenhouse.io/embed/job_app?for=aquaticcapitalmanagement&jr_id=6a06fd77152f493123c4b595&token=8489233002": {
   "company": "Aquatic Capital",
@@ -126838,9 +126868,9 @@
   "title": "Intern - Corporate Development",
   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Corporate-Development_JR115817",
   "locations": [
-   "Boise, ID - Main Site"
+   "2 Locations"
   ],
-  "posted_at": "2026-11-06",
+  "posted_at": "2026-11-24",
   "source": "workday"
  },
  "url:https://micron.wd1.myworkdayjobs.com/external/job/boise-id---main-site/intern---data-science--smai_jr117444": {
@@ -140147,15 +140177,25 @@
   "posted_at": "2026-11-19",
   "source": "simplify"
  },
+ "url:https://plains.wd1.myworkdayjobs.com/plains/job/houston-tx/engineering-intern---multiple-internships-available_r0014954-1": {
+  "company": "plains",
+  "title": "Engineering Intern - Multiple Internships Available",
+  "url": "https://plains.wd1.myworkdayjobs.com/plains/job/Houston-TX/Engineering-Intern---Multiple-Internships-Available_R0014954-1",
+  "locations": [
+   "Houston, TX"
+  ],
+  "posted_at": "2026-10-25",
+  "source": "workday"
+ },
  "url:https://plains.wd1.myworkdayjobs.com/plains/job/houston-tx/intern--operations-management-system--digital---ai-innovation_r0015266-1": {
-  "company": "Plains All American Pipeline",
-  "title": "Operations Management System Intern - Digital & AI Innovation",
+  "company": "plains",
+  "title": "Intern, Operations Management System, Digital & AI Innovation",
   "url": "https://plains.wd1.myworkdayjobs.com/plains/job/Houston-TX/Intern--Operations-Management-System--Digital---AI-Innovation_R0015266-1",
   "locations": [
    "Houston, TX"
   ],
-  "posted_at": "2026-11-20",
-  "source": "simplify"
+  "posted_at": "2026-11-23",
+  "source": "workday"
  },
  "url:https://plastipak.wd1.myworkdayjobs.com/en-us/plastipak/job/plastipak-gbtc---plymouth-mi/software-engineering-intern---summer-2027_req24512": {
   "company": "Plastipak",
@@ -159810,6 +159850,16 @@
    "MD - Baltimore"
   ],
   "posted_at": "2026-10-05",
+  "source": "workday"
+ },
+ "url:https://travelers.wd5.myworkdayjobs.com/external/job/mn---st-paul/bond-and-specialty-insurance-intern--underwriting-professional-development-program--updp-_r-53091": {
+  "company": "travelers",
+  "title": "Bond and Specialty Insurance Intern: Underwriting Professional Development Program (UPDP)",
+  "url": "https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Bond-and-Specialty-Insurance-Intern--Underwriting-Professional-Development-Program--UPDP-_R-53091",
+  "locations": [
+   "MN - St. Paul"
+  ],
+  "posted_at": "2026-10-26",
   "source": "workday"
  },
  "url:https://travelers.wd5.myworkdayjobs.com/external/job/mn---st-paul/claim-professional-development-program-intern_r-53125": {
