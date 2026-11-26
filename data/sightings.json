@@ -2354,6 +2354,9 @@
   "url:https://avav.wd1.myworkdayjobs.com/avav/job/petaluma-ca/electrical-engineering-intern_9037": {
    "workday": "2026-11-06T23:37:00+00:00"
   },
+  "url:https://avav.wd1.myworkdayjobs.com/avav/job/petaluma-ca/manufacturing-engineering-intern_8792": {
+   "workday": "2026-11-26T20:07:05+00:00"
+  },
   "url:https://avav.wd1.myworkdayjobs.com/avav/job/petaluma-ca/mechanical-engineering-intern_9038": {
    "workday": "2026-11-06T23:37:00+00:00"
   },
@@ -3289,6 +3292,10 @@
   },
   "url:https://boards.greenhouse.io/opensesame/jobs/8418272?gh_jid=8418272": {
    "greenhouse": "2026-11-26T05:25:13+00:00"
+  },
+  "url:https://boards.greenhouse.io/parallel/jobs/5275690007?gh_jid=5275690007": {
+   "greenhouse": "2026-11-26T20:07:05+00:00",
+   "speedyapply": "2026-11-26T20:07:05+00:00"
   },
   "url:https://boards.greenhouse.io/pathrobotics/jobs/8911570002?gh_jid=8911570002": {
    "greenhouse": "2026-10-29T23:07:05+00:00"
@@ -5053,9 +5060,6 @@
   "url:https://centene.wd5.myworkdayjobs.com/centene_external/job/remote-mo/business-technical-analyst-undergraduate-summer-intern_1667760": {
    "workday": "2026-11-20T19:37:05+00:00"
   },
-  "url:https://centene.wd5.myworkdayjobs.com/centene_external/job/remote-mo/business-technical-analyst-undergraduate-summer-intern_1667792": {
-   "workday": "2026-10-27T19:37:05+00:00"
-  },
   "url:https://centene.wd5.myworkdayjobs.com/centene_external/job/remote-mo/business-technical-analyst-undergraduate-summer-intern_1667829": {
    "workday": "2026-10-28T22:37:05+00:00"
   },
@@ -5314,9 +5318,6 @@
   },
   "url:https://ciena.wd5.myworkdayjobs.com/careers/job/ottawa/technical-solution-engineer--intern---se-i_r032114": {
    "workday": "2026-11-13T22:07:00+00:00"
-  },
-  "url:https://ciena.wd5.myworkdayjobs.com/careers/job/quebec/intern---software-developer-technician_r031983-1": {
-   "workday": "2026-10-27T19:37:05+00:00"
   },
   "url:https://ciena.wd5.myworkdayjobs.com/careers/job/quebec/stagiaire-en-dveloppement-logiciel---software-developer-intern-co-op_r032046": {
    "workday": "2026-11-03T23:14:50+00:00"
@@ -7221,9 +7222,6 @@
   },
   "url:https://gaig.wd1.myworkdayjobs.com/gaig_external/job/cincinnati-oh-usa/data-application-development-intern---summer-2027_r9796": {
    "simplify": "2026-10-28T00:27:45+00:00",
-   "workday": "2026-10-27T19:37:05+00:00"
-  },
-  "url:https://gaig.wd1.myworkdayjobs.com/gaig_external/job/cincinnati-oh-usa/data-automation-intern---summer-2027_r9798": {
    "workday": "2026-10-27T19:37:05+00:00"
   },
   "url:https://gaig.wd1.myworkdayjobs.com/gaig_external/job/cincinnati-oh-usa/data-engineer-developer-intern---summer-2027_r9919": {
@@ -10463,6 +10461,9 @@
   },
   "url:https://go.vansh.nyc/1kh": {
    "vanshb03": "2026-11-06T18:07:00+00:00"
+  },
+  "url:https://go.vansh.nyc/1ki": {
+   "vanshb03": "2026-11-26T20:07:05+00:00"
   },
   "url:https://go.vansh.nyc/1kj": {
    "vanshb03": "2026-11-06T17:26:19+00:00"
@@ -13746,14 +13747,8 @@
   "url:https://go.vansh.nyc/w4": {
    "vanshb03": "2026-11-26T19:37:05+00:00"
   },
-  "url:https://go.vansh.nyc/w9": {
-   "vanshb03": "2026-10-27T19:37:05+00:00"
-  },
-  "url:https://go.vansh.nyc/wa": {
-   "vanshb03": "2026-10-27T19:37:05+00:00"
-  },
-  "url:https://go.vansh.nyc/wb": {
-   "vanshb03": "2026-10-27T19:37:05+00:00"
+  "url:https://go.vansh.nyc/w8": {
+   "vanshb03": "2026-11-26T20:07:05+00:00"
   },
   "url:https://go.vansh.nyc/wd": {
    "vanshb03": "2026-10-27T20:07:05+00:00"
@@ -25406,9 +25401,6 @@
   "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-california-sunnyvale/xmlname-2027-spring-mechanical-engineer-co-op---sunnyvale-ca_r10260897": {
    "workday": "2026-11-16T21:37:04+00:00"
   },
-  "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-colorado-aurora/xmlname-2027-systems-engineering-intern---aurora-co_r10257892": {
-   "workday": "2026-10-27T19:37:05+00:00"
-  },
   "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-colorado-boulder/xmlname-2027-software-engineering-intern---boulder-co_r10257798": {
    "simplify": "2026-10-28T00:27:45+00:00",
    "speedyapply": "2026-10-28T19:04:47+00:00",
@@ -31701,10 +31693,19 @@
   "url:https://www.brex.com/careers/8936631002?gh_jid=8936631002": {
    "greenhouse": "2026-11-10T22:37:05+00:00"
   },
+  "url:https://www.burns-group.com/careers/current-openings?gh_jid=4467816009": {
+   "greenhouse": "2026-11-26T20:07:05+00:00"
+  },
+  "url:https://www.burns-group.com/careers/current-openings?gh_jid=4467832009": {
+   "greenhouse": "2026-11-26T20:07:05+00:00"
+  },
   "url:https://www.burns-group.com/careers/current-openings?gh_jid=4467848009": {
    "greenhouse": "2026-10-27T19:07:04+00:00",
    "simplify": "2026-10-29T15:37:05+00:00",
    "speedyapply": "2026-10-27T18:37:05+00:00"
+  },
+  "url:https://www.burns-group.com/careers/current-openings?gh_jid=4467869009": {
+   "greenhouse": "2026-11-26T20:07:05+00:00"
   },
   "url:https://www.chargepoint.com/about/opportunities/job?gh_jid=8716808002": {
    "greenhouse": "2026-11-16T22:37:05+00:00"
