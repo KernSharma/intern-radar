@@ -551,14 +551,14 @@
   "source": "simplify"
  },
  "url:https://abb.wd3.myworkdayjobs.com/external_career_page/job/usa-nc-cary/ai-engineering--erp-intern--summer-2027_jr00048711": {
-  "company": "abb",
-  "title": "AI Engineering, ERP Intern- Summer 2027",
+  "company": "ABB",
+  "title": "AI Engineering ERP Intern",
   "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--ERP-Intern--Summer-2027_JR00048711",
   "locations": [
-   "USA, NC, Cary"
+   "Cary, NC"
   ],
-  "posted_at": "2026-11-04",
-  "source": "workday"
+  "posted_at": "2026-10-06",
+  "source": "simplify"
  },
  "url:https://abb.wd3.myworkdayjobs.com/external_career_page/job/usa-nc-cary/is-common-infrastructure-intern--summer-2027_jr00047125": {
   "company": "abb",
@@ -5791,6 +5791,56 @@
   "posted_at": "2026-10-22",
   "source": "vanshb03"
  },
+ "url:https://ameren.wd1.myworkdayjobs.com/collegiate/job/st-louis-mo/civil-engineering-fall-co-op_034021": {
+  "company": "ameren",
+  "title": "Civil Engineering Fall Co-Op",
+  "url": "https://ameren.wd1.myworkdayjobs.com/collegiate/job/St-Louis-MO/Civil-Engineering-Fall-Co-Op_034021",
+  "locations": [
+   "St. Louis, MO"
+  ],
+  "posted_at": "2026-10-27",
+  "source": "workday"
+ },
+ "url:https://ameren.wd1.myworkdayjobs.com/collegiate/job/st-louis-mo/electrical-engineering-fall-co-op_034019": {
+  "company": "ameren",
+  "title": "Electrical Engineering Fall Co-Op",
+  "url": "https://ameren.wd1.myworkdayjobs.com/collegiate/job/St-Louis-MO/Electrical-Engineering-Fall-Co-Op_034019",
+  "locations": [
+   "St. Louis, MO"
+  ],
+  "posted_at": "2026-10-27",
+  "source": "workday"
+ },
+ "url:https://ameren.wd1.myworkdayjobs.com/collegiate/job/st-louis-mo/engineering-fall-co-op_034017": {
+  "company": "ameren",
+  "title": "Engineering Fall Co-Op",
+  "url": "https://ameren.wd1.myworkdayjobs.com/collegiate/job/St-Louis-MO/Engineering-Fall-Co-Op_034017",
+  "locations": [
+   "St. Louis, MO"
+  ],
+  "posted_at": "2026-10-27",
+  "source": "workday"
+ },
+ "url:https://ameren.wd1.myworkdayjobs.com/collegiate/job/st-louis-mo/intern--robotics--ai--ot--software-development-_033945": {
+  "company": "ameren",
+  "title": "Intern (Robotics, AI, OT, Software development)",
+  "url": "https://ameren.wd1.myworkdayjobs.com/collegiate/job/St-Louis-MO/Intern--Robotics--AI--OT--Software-development-_033945",
+  "locations": [
+   "St. Louis, MO"
+  ],
+  "posted_at": "2026-11-24",
+  "source": "workday"
+ },
+ "url:https://ameren.wd1.myworkdayjobs.com/collegiate/job/st-louis-mo/power-emphasis-electrical-engineering-co-op_034322": {
+  "company": "ameren",
+  "title": "Power Emphasis Electrical Engineering Co-Op",
+  "url": "https://ameren.wd1.myworkdayjobs.com/collegiate/job/St-Louis-MO/Power-Emphasis-Electrical-Engineering-Co-Op_034322",
+  "locations": [
+   "St. Louis, MO"
+  ],
+  "posted_at": "2026-10-27",
+  "source": "workday"
+ },
  "url:https://ameren.wd1.myworkdayjobs.com/en-us/collegiate/job/st-louis-mo/intern--robotics--ai--ot--software-development-_033945": {
   "company": "Ameren",
   "title": "Intern - Robotics - AI - OT - Software development",
@@ -5838,7 +5888,7 @@
   "locations": [
    "St. Louis, MO"
   ],
-  "posted_at": "2026-10-15",
+  "posted_at": "2026-10-27",
   "source": "workday"
  },
  "url:https://ameren.wd1.myworkdayjobs.com/external/job/st-louis-mo/civil-engineering-spring-co-op_034024-1": {
@@ -5879,7 +5929,7 @@
   "locations": [
    "St. Louis, MO"
   ],
-  "posted_at": "2026-10-15",
+  "posted_at": "2026-10-27",
   "source": "workday"
  },
  "url:https://ameren.wd1.myworkdayjobs.com/external/job/st-louis-mo/electrical-engineering-spring-co-op_034023-1": {
@@ -5899,7 +5949,7 @@
   "locations": [
    "St. Louis, MO"
   ],
-  "posted_at": "2026-10-15",
+  "posted_at": "2026-10-27",
   "source": "workday"
  },
  "url:https://ameren.wd1.myworkdayjobs.com/external/job/st-louis-mo/engineering-spring-co-op_034020-1": {
@@ -5910,6 +5960,16 @@
    "St. Louis, MO"
   ],
   "posted_at": "2026-10-06",
+  "source": "workday"
+ },
+ "url:https://ameren.wd1.myworkdayjobs.com/external/job/st-louis-mo/intern--robotics--ai--ot--software-development-_033945-1": {
+  "company": "ameren",
+  "title": "Intern (Robotics, AI, OT, Software development)",
+  "url": "https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Intern--Robotics--AI--OT--Software-development-_033945-1",
+  "locations": [
+   "St. Louis, MO"
+  ],
+  "posted_at": "2026-11-24",
   "source": "workday"
  },
  "url:https://ameren.wd1.myworkdayjobs.com/external/job/st-louis-mo/mechanical-engineering-fall-co-op_034018-1": {
@@ -5939,7 +5999,7 @@
   "locations": [
    "St. Louis, MO"
   ],
-  "posted_at": "2026-10-20",
+  "posted_at": "2026-10-27",
   "source": "workday"
  },
  "url:https://americancentury.wd5.myworkdayjobs.com/americancenturyinvestments/job/kansas-city-missouri/cybersecurity-intern_r0005729": {
@@ -27953,6 +28013,16 @@
   "posted_at": "2026-10-07",
   "source": "workday"
  },
+ "url:https://carrier.wd5.myworkdayjobs.com/jobs/job/caf77-ccs---cib-13995-pasteur-boulevard-palm-beach-gardens-fl-33418-usa/digital-technology-intern---summer_30222631": {
+  "company": "carrier",
+  "title": "Digital Technology Intern - Summer",
+  "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAF77-CCS---CIB-13995-Pasteur-Boulevard-Palm-Beach-Gardens-FL-33418-USA/Digital-Technology-Intern---Summer_30222631",
+  "locations": [
+   "2 Locations"
+  ],
+  "posted_at": "2026-11-24",
+  "source": "workday"
+ },
  "url:https://carrier.wd5.myworkdayjobs.com/jobs/job/caf77-ccs---cib-13995-pasteur-boulevard-palm-beach-gardens-fl-33418-usa/general-engineering-intern---summer_30220419-2": {
   "company": "carrier",
   "title": "General Engineering Intern - Summer",
@@ -27980,7 +28050,7 @@
   "locations": [
    "CAG16: AL Georgia (ATL), 1975 Vaughn Road, Kennesaw, GA, 30144 USA"
   ],
-  "posted_at": "2026-10-27",
+  "posted_at": "2026-11-20",
   "source": "workday"
  },
  "url:https://carrier.wd5.myworkdayjobs.com/jobs/job/cai19-utec-huntington-111-east-wayne-street-fort-wayne-in-46802-usa/design-engineering-intern---summer_30220221-2": {
@@ -28010,7 +28080,7 @@
   "locations": [
    "CAI19: UTEC-Huntington, 111 East Wayne Street, Fort Wayne, IN, 46802 USA"
   ],
-  "posted_at": "2026-10-20",
+  "posted_at": "2026-11-20",
   "source": "workday"
  },
  "url:https://carrier.wd5.myworkdayjobs.com/jobs/job/cai19-utec-huntington-111-east-wayne-street-fort-wayne-in-46802-usa/test-engineering-intern---summer_30220233": {
@@ -28050,7 +28120,7 @@
   "locations": [
    "CAI23: Carrier-Indianapolis, 7310 West Morris Street, Indianapolis, IN, 46231 USA"
   ],
-  "posted_at": "2026-10-26",
+  "posted_at": "2026-11-20",
   "source": "workday"
  },
  "url:https://carrier.wd5.myworkdayjobs.com/jobs/job/cai23-carrier-indianapolis-7310-west-morris-street-indianapolis-in-46231-usa/systems-engineering-intern---summer_30220210": {
@@ -28060,7 +28130,7 @@
   "locations": [
    "CAI23: Carrier-Indianapolis, 7310 West Morris Street, Indianapolis, IN, 46231 USA"
   ],
-  "posted_at": "2026-10-20",
+  "posted_at": "2026-11-16",
   "source": "workday"
  },
  "url:https://carrier.wd5.myworkdayjobs.com/jobs/job/cai23-carrier-indianapolis-7310-west-morris-street-indianapolis-in-46231-usa/systems-engineering-intern---summer_30220556-1": {
@@ -28071,6 +28141,16 @@
    "CAI23: Carrier-Indianapolis, 7310 West Morris Street, Indianapolis, IN, 46231 USA"
   ],
   "posted_at": "2026-10-23",
+  "source": "workday"
+ },
+ "url:https://carrier.wd5.myworkdayjobs.com/jobs/job/cai31-alc---indiana-117-north-high-street-muncie-in-47305-usa/general-engineering-intern---summer_30222053-2": {
+  "company": "carrier",
+  "title": "General Engineering Intern - Summer",
+  "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAI31-ALC---Indiana-117-North-High-Street-Muncie-IN-47305-USA/General-Engineering-Intern---Summer_30222053-2",
+  "locations": [
+   "CAI31: ALC - Indiana, 117 North High Street, Muncie, IN, 47305 USA"
+  ],
+  "posted_at": "2026-11-18",
   "source": "workday"
  },
  "url:https://carrier.wd5.myworkdayjobs.com/jobs/job/can01-carrier-syracuse-6304-carrier-parkway-east-syracuse-ny-13057-usa/new-product-development-engineering-intern---summer_30220948": {
@@ -28103,6 +28183,16 @@
   "posted_at": "2026-10-23",
   "source": "simplify"
  },
+ "url:https://carrier.wd5.myworkdayjobs.com/jobs/job/can05-ccs-charlotte-5900-northwoods-business-parkway-charlotte-nc-28269-usa/software---controls-engineering-intern---summer_30222979": {
+  "company": "carrier",
+  "title": "Software & Controls Engineering Intern - Summer",
+  "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN05-CCS-Charlotte-5900-Northwoods-Business-Parkway-Charlotte-NC-28269-USA/Software---Controls-Engineering-Intern---Summer_30222979",
+  "locations": [
+   "CAN05: CCS-Charlotte, 5900 Northwoods Business Parkway, Charlotte, NC, 28269 USA"
+  ],
+  "posted_at": "2026-11-25",
+  "source": "workday"
+ },
  "url:https://carrier.wd5.myworkdayjobs.com/jobs/job/can05-ccs-charlotte-5900-northwoods-business-parkway-charlotte-nc-28269-usa/systems-engineering-intern---summer_30220432": {
   "company": "carrier",
   "title": "Systems Engineering Intern - Summer",
@@ -28120,7 +28210,7 @@
   "locations": [
    "CANHQ: CCS HQ - Syracuse, 6304 Carrier Parkway, East Syracuse, NY, 13057 USA"
   ],
-  "posted_at": "2026-10-22",
+  "posted_at": "2026-11-20",
   "source": "workday"
  },
  "url:https://carrier.wd5.myworkdayjobs.com/jobs/job/canhq-ccs-hq---syracuse-6304-carrier-parkway-east-syracuse-ny-13057-usa/mechanical-engineering-intern---spring_30220992": {
@@ -28190,7 +28280,7 @@
   "locations": [
    "CAV20: ALC - Virginia, 4948 Dominion Boulevard, Glen Allen, VA, 23060 USA"
   ],
-  "posted_at": "2026-10-27",
+  "posted_at": "2026-11-20",
   "source": "workday"
  },
  "url:https://carrier.wd5.myworkdayjobs.com/jobs/job/oh07-3868-congress-parkway-richfield-oh-44286-usa/general-engineering-intern---summer_30221656": {
@@ -60079,13 +60169,13 @@
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/1kf": {
-  "company": "NinjaHoldings",
-  "title": "Data Science Intern",
-  "url": "https://go.vansh.nyc/1Kf",
+  "company": "AeroVironment",
+  "title": "Cyber Intern",
+  "url": "https://go.vansh.nyc/1KF",
   "locations": [
-   "Chicago, IL"
+   "Sunrise, FL"
   ],
-  "posted_at": "2026-11-19",
+  "posted_at": "2026-11-25",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/1kg": {
@@ -99554,14 +99644,14 @@
   "source": "ashby"
  },
  "url:https://jobs.ashbyhq.com/coderabbit/c30ab34a-98f3-4c41-b4ba-179bdbab32c9": {
-  "company": "CodeRabbit",
+  "company": "coderabbit",
   "title": "Software Engineer - Intern",
   "url": "https://jobs.ashbyhq.com/coderabbit/c30ab34a-98f3-4c41-b4ba-179bdbab32c9",
   "locations": [
-   "San Francisco, CA"
+   "San Francisco"
   ],
-  "posted_at": "2026-11-26",
-  "source": "speedyapply"
+  "posted_at": "2026-11-25",
+  "source": "ashby"
  },
  "url:https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b": {
   "company": "cohere",
@@ -104707,15 +104797,25 @@
   "posted_at": "2026-08-12",
   "source": "ashby"
  },
+ "url:https://jobs.ashbyhq.com/xona-space/4bf79312-d4c4-4ae2-bdfc-85c9e63937ad": {
+  "company": "xona-space",
+  "title": "Mechanical Engineering Co-op",
+  "url": "https://jobs.ashbyhq.com/xona-space/4bf79312-d4c4-4ae2-bdfc-85c9e63937ad",
+  "locations": [
+   "Burlingame, California"
+  ],
+  "posted_at": "2026-10-16",
+  "source": "ashby"
+ },
  "url:https://jobs.ashbyhq.com/xona-space/d3549244-52e2-4894-87f9-99fc8cbe26ab": {
-  "company": "Xona Space Systems",
-  "title": "Software Engineering - Engineering Productivity Intern",
+  "company": "xona-space",
+  "title": "Software Engineering (Engineering Productivity) Intern",
   "url": "https://jobs.ashbyhq.com/xona-space/d3549244-52e2-4894-87f9-99fc8cbe26ab",
   "locations": [
-   "Burlingame, CA"
+   "Burlingame, California"
   ],
   "posted_at": "2026-11-25",
-  "source": "speedyapply"
+  "source": "ashby"
  },
  "url:https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3": {
   "company": "yotta",
@@ -153840,24 +153940,24 @@
   "source": "workday"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-intern---android--may-2027---12-months-_r10620": {
-  "company": "soti",
-  "title": "Software Developer Intern - Android (May 2027 - 12 Months)",
+  "company": "SOTI",
+  "title": "Software Developer Intern - Android",
   "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10620",
   "locations": [
-   "Mississauga, Canada – Meadowvale Office (HQ)"
+   "Mississauga, ON, Canada"
   ],
-  "posted_at": "2026-10-27",
-  "source": "workday"
+  "posted_at": "2026-10-26",
+  "source": "simplify"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-intern---android--may-2027---12-months-_r10650": {
-  "company": "soti",
-  "title": "Software Developer Intern - Android (May 2027 - 12 Months)",
+  "company": "SOTI",
+  "title": "Software Developer Intern",
   "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10650",
   "locations": [
-   "Mississauga, Canada – Meadowvale Office (HQ)"
+   "Mississauga, ON, Canada"
   ],
   "posted_at": "2026-11-05",
-  "source": "workday"
+  "source": "simplify"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-intern---server--may-2027---12-months-_r10647": {
   "company": "SOTI",
@@ -153880,14 +153980,14 @@
   "source": "workday"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-intern---soti-xsight--may-2027-12-months-_r10611": {
-  "company": "soti",
-  "title": "Software Developer Intern - SOTI XSight (May 2027 12 Months)",
+  "company": "SOTI",
+  "title": "Software Developer Intern",
   "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--May-2027-12-Months-_R10611",
   "locations": [
-   "Mississauga, Canada – Meadowvale Office (HQ)"
+   "Mississauga, ON, Canada"
   ],
   "posted_at": "2026-10-29",
-  "source": "workday"
+  "source": "simplify"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-intern---soti-xsight--may-2027-12-months-_r10718": {
   "company": "soti",
@@ -153920,14 +154020,14 @@
   "source": "workday"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-intern--may-2027---12-months-_r10677": {
-  "company": "soti",
-  "title": "Software Developer Intern (May 2027 - 12 months)",
+  "company": "SOTI",
+  "title": "Software Developer Intern",
   "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027---12-months-_R10677",
   "locations": [
-   "Mississauga, Canada – Meadowvale Office (HQ)"
+   "Mississauga, ON, Canada"
   ],
   "posted_at": "2026-11-10",
-  "source": "workday"
+  "source": "simplify"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-intern--may-2027-12-months-_r10655": {
   "company": "soti",
@@ -157878,14 +157978,14 @@
   "source": "vanshb03"
  },
  "url:https://td.wd3.myworkdayjobs.com/td_bank_careers/job/belfast-united-kingdom/xmlname-2027-summer-internship---technology_r_1518241": {
-  "company": "TD Bank",
-  "title": "Technology Intern",
+  "company": "td",
+  "title": "2027 Summer Internship - Technology",
   "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Belfast-United-Kingdom/XMLNAME-2027-Summer-Internship---Technology_R_1518241",
   "locations": [
-   "Belfast, UK"
+   "Belfast, United Kingdom"
   ],
-  "posted_at": "2026-10-28",
-  "source": "simplify"
+  "posted_at": "2026-11-23",
+  "source": "workday"
  },
  "url:https://td.wd3.myworkdayjobs.com/td_bank_careers/job/dublin-ireland/xmlname-2027-technology-internship---ai-native-data-platform-engineering---6-month-internship--january---july-_r_1513790-1": {
   "company": "td",
