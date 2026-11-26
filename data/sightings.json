@@ -1271,6 +1271,12 @@
   "url:https://analogdevices.wd1.myworkdayjobs.com/external/job/united-kingdom-newbury/design-verification-engineering-intern_r267098": {
    "workday": "2026-11-19T08:37:06+00:00"
   },
+  "url:https://analogdevices.wd1.myworkdayjobs.com/external/job/us-ma-boston/devops-co-op_r267690": {
+   "speedyapply": "2026-11-26T19:37:05+00:00"
+  },
+  "url:https://analogdevices.wd1.myworkdayjobs.com/external/job/us-ma-boston/embedded-systems-co-op_r267689": {
+   "speedyapply": "2026-11-26T19:37:05+00:00"
+  },
   "url:https://analogdevices.wd1.myworkdayjobs.com/external/job/us-ma-chelmsford-alpha/process-sustaining-engineering-intern_r265319-1": {
    "workday": "2026-11-01T16:07:04+00:00"
   },
@@ -2348,9 +2354,6 @@
   "url:https://avav.wd1.myworkdayjobs.com/avav/job/petaluma-ca/electrical-engineering-intern_9037": {
    "workday": "2026-11-06T23:37:00+00:00"
   },
-  "url:https://avav.wd1.myworkdayjobs.com/avav/job/petaluma-ca/manufacturing-engineering-intern_8792": {
-   "workday": "2026-10-27T19:07:04+00:00"
-  },
   "url:https://avav.wd1.myworkdayjobs.com/avav/job/petaluma-ca/mechanical-engineering-intern_9038": {
    "workday": "2026-11-06T23:37:00+00:00"
   },
@@ -2513,6 +2516,10 @@
   "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/albuquerque-nm/university---2027-summer-games--systems-engineer-intern---albuquerque--nm_r0252337": {
    "simplify": "2026-11-26T05:25:13+00:00"
   },
+  "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/albuquerque-nm/university---2027-summer-games-software-developer-intern---albuquerque--nm_r0252335": {
+   "simplify": "2026-11-26T19:37:05+00:00",
+   "speedyapply": "2026-11-26T19:37:05+00:00"
+  },
   "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/annapolis-junction-md/systems-administrator---summer-intern_r0252406": {
    "workday": "2026-11-26T18:37:04+00:00"
   },
@@ -2569,11 +2576,19 @@
   "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/dayton-oh/university---2027-summer-games--systems-engineer-intern---dayton--oh_r0252342": {
    "simplify": "2026-11-26T05:25:13+00:00"
   },
+  "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/dayton-oh/university---2027-summer-games-software-developer-intern---dayton--oh_r0252345": {
+   "simplify": "2026-11-26T19:37:05+00:00",
+   "speedyapply": "2026-11-26T19:37:05+00:00"
+  },
   "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/detroit-mi/university---2027-summer-games--systems-engineer-intern---royal-oaks--mi_r0252341": {
    "simplify": "2026-11-26T05:25:13+00:00"
   },
   "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/detroit-mi/university---2027-summer-games-data-scientist-intern---royal-oak--mi_r0252783": {
    "simplify": "2026-11-03T01:37:01+00:00"
+  },
+  "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/detroit-mi/university---2027-summer-games-software-developer-intern---royal-oaks--mi_r0252340": {
+   "simplify": "2026-11-26T19:37:05+00:00",
+   "speedyapply": "2026-11-26T19:37:05+00:00"
   },
   "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/el-segundo-ca/university---2027-summer-games-software-developer-intern---el-segundo--ca_r0248046": {
    "simplify": "2026-11-01T13:12:59+00:00"
@@ -2613,8 +2628,15 @@
   "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/lexington-ma/university---2027-summer-games-data-scientist-intern---lexington--ma_r0252275": {
    "simplify": "2026-11-26T05:25:13+00:00"
   },
+  "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/lexington-ma/university---2027-summer-games-software-developer-intern---lexington--ma_r0252274": {
+   "simplify": "2026-11-26T19:37:05+00:00",
+   "speedyapply": "2026-11-26T19:37:05+00:00"
+  },
   "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/lexington-ma/university---2027-summer-games-systems-engineer-intern---lexington--ma_r0252273": {
    "simplify": "2026-11-26T05:25:13+00:00"
+  },
+  "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/lexington-park-md/test-engineer-intern_r0252409": {
+   "workday": "2026-11-26T19:37:05+00:00"
   },
   "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/lexington-park-md/test-engineer-intern_r0253124": {
    "workday": "2026-11-06T17:26:19+00:00"
@@ -3267,13 +3289,6 @@
   },
   "url:https://boards.greenhouse.io/opensesame/jobs/8418272?gh_jid=8418272": {
    "greenhouse": "2026-11-26T05:25:13+00:00"
-  },
-  "url:https://boards.greenhouse.io/parallel/jobs/5275660007?gh_jid=5275660007": {
-   "greenhouse": "2026-10-27T19:07:04+00:00"
-  },
-  "url:https://boards.greenhouse.io/parallel/jobs/5275690007?gh_jid=5275690007": {
-   "greenhouse": "2026-10-27T19:07:04+00:00",
-   "speedyapply": "2026-10-27T18:37:05+00:00"
   },
   "url:https://boards.greenhouse.io/pathrobotics/jobs/8911570002?gh_jid=8911570002": {
    "greenhouse": "2026-10-29T23:07:05+00:00"
@@ -5035,9 +5050,6 @@
   "url:https://centene.wd5.myworkdayjobs.com/centene_external/job/remote-mo/analytics-engineering-intern--undergraduate-summer-2027-_1667721": {
    "workday": "2026-11-18T23:07:05+00:00"
   },
-  "url:https://centene.wd5.myworkdayjobs.com/centene_external/job/remote-mo/applications-security-engineer-intern--undergraduate-summer-2027-_1667746": {
-   "workday": "2026-10-27T19:07:04+00:00"
-  },
   "url:https://centene.wd5.myworkdayjobs.com/centene_external/job/remote-mo/business-technical-analyst-undergraduate-summer-intern_1667760": {
    "workday": "2026-11-20T19:37:05+00:00"
   },
@@ -5046,9 +5058,6 @@
   },
   "url:https://centene.wd5.myworkdayjobs.com/centene_external/job/remote-mo/business-technical-analyst-undergraduate-summer-intern_1667829": {
    "workday": "2026-10-28T22:37:05+00:00"
-  },
-  "url:https://centene.wd5.myworkdayjobs.com/centene_external/job/remote-mo/cloud-security-analyst-intern--undergraduate-summer-2027-_1667744": {
-   "workday": "2026-10-27T19:07:04+00:00"
   },
   "url:https://centene.wd5.myworkdayjobs.com/centene_external/job/remote-mo/data-and-analytics-summer-2027-intern--undergraduate-_1660515": {
    "workday": "2026-11-19T22:07:05+00:00"
@@ -5569,6 +5578,11 @@
   },
   "url:https://cohesity.wd5.myworkdayjobs.com/cohesity_careers/job/cork---ireland-office/technical-support-engineer---intern_r04745-1": {
    "workday": "2026-10-28T19:04:47+00:00"
+  },
+  "url:https://cohesity.wd5.myworkdayjobs.com/cohesity_careers/job/santa-clara-ca---usa-office/software-engineering-intern--summer-2027-_r04791-2": {
+   "simplify": "2026-11-26T19:37:05+00:00",
+   "speedyapply": "2026-11-26T19:37:05+00:00",
+   "workday": "2026-11-26T19:37:05+00:00"
   },
   "url:https://commercebank.wd1.myworkdayjobs.com/commercejobs/job/mo---kansas-city-downtownplaza---kansas-city---kc-downtown-trust-building-922-walnut-64106/intern---it--summer-2027-_38395": {
    "simplify": "2026-11-01T13:12:59+00:00",
@@ -8019,6 +8033,9 @@
   },
   "url:https://globalfoundries.wd1.myworkdayjobs.com/external/job/usa---vermont---essex-junction/advanced-manufacturing-process-engineering-intern--sophomore--summer-2027-_jr-2604639": {
    "workday": "2026-11-24T17:58:18+00:00"
+  },
+  "url:https://globalfoundries.wd1.myworkdayjobs.com/external/job/usa---vermont---essex-junction/buildings-engineer-intern--summer-2027-_jr-2604571": {
+   "workday": "2026-11-26T19:37:05+00:00"
   },
   "url:https://globalfoundries.wd1.myworkdayjobs.com/external/job/usa---vermont---essex-junction/controls-engineering-intern--summer-2027-_jr-2604647": {
    "workday": "2026-11-10T07:07:03+00:00"
@@ -13705,6 +13722,9 @@
   "url:https://go.vansh.nyc/vo": {
    "vanshb03": "2026-11-26T18:37:04+00:00"
   },
+  "url:https://go.vansh.nyc/vs": {
+   "vanshb03": "2026-11-26T19:37:05+00:00"
+  },
   "url:https://go.vansh.nyc/vt": {
    "vanshb03": "2026-11-26T18:19:17+00:00"
   },
@@ -13717,11 +13737,14 @@
   "url:https://go.vansh.nyc/vz": {
    "vanshb03": "2026-11-26T18:19:17+00:00"
   },
-  "url:https://go.vansh.nyc/w7": {
-   "vanshb03": "2026-10-27T19:07:04+00:00"
+  "url:https://go.vansh.nyc/w0": {
+   "vanshb03": "2026-11-26T19:37:05+00:00"
   },
-  "url:https://go.vansh.nyc/w8": {
-   "vanshb03": "2026-10-27T19:07:04+00:00"
+  "url:https://go.vansh.nyc/w2": {
+   "vanshb03": "2026-11-26T19:37:05+00:00"
+  },
+  "url:https://go.vansh.nyc/w4": {
+   "vanshb03": "2026-11-26T19:37:05+00:00"
   },
   "url:https://go.vansh.nyc/w9": {
    "vanshb03": "2026-10-27T19:37:05+00:00"
@@ -14283,6 +14306,10 @@
   "url:https://hcsc.wd1.myworkdayjobs.com/hcsc_external/job/il---chicago/early-careers---infrastructure-engineer-intern_r0059506": {
    "workday": "2026-11-02T09:22:41+00:00"
   },
+  "url:https://hcsc.wd1.myworkdayjobs.com/hcsc_external/job/il---chicago/early-careers---product-engineering-developer-intern_r0059492": {
+   "speedyapply": "2026-11-26T19:37:05+00:00",
+   "workday": "2026-11-26T19:37:05+00:00"
+  },
   "url:https://hcsc.wd1.myworkdayjobs.com/hcsc_external/job/il---chicago/early-careers---systems-analyst-intern_r0059498": {
    "workday": "2026-11-06T20:37:00+00:00"
   },
@@ -14434,6 +14461,11 @@
   "url:https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/pa-working-at-home---pennsylvania/summer-2027-responsible-ai-undergraduate-intern_j288327": {
    "workday": "2026-11-03T23:14:50+00:00"
   },
+  "url:https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/pa-working-at-home---pennsylvania/summer-2027-software-engineer-engen-graduate-intern_j289845": {
+   "simplify": "2026-11-26T19:37:05+00:00",
+   "speedyapply": "2026-11-26T19:37:05+00:00",
+   "workday": "2026-11-26T19:37:05+00:00"
+  },
   "url:https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/pa-working-at-home---pennsylvania/summer-2027-software-engineer-engen-undergraduate-intern_j290027": {
    "simplify": "2026-10-26T22:37:03+00:00",
    "speedyapply": "2026-10-27T18:37:05+00:00",
@@ -14449,6 +14481,9 @@
   "url:https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/pittsburgh-pa-15222-fap-5th-avenue-place/summer-2027-market-analytics-graduate-intern_j285906": {
    "simplify": "2026-11-06T07:37:00+00:00",
    "workday": "2026-11-06T03:39:57+00:00"
+  },
+  "url:https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/pittsburgh-pa-15222-pap-penn-avenue-place/summer-2027-enterprise-architecture-software-engineer---architect-engen-undergradute-intern_j289821": {
+   "speedyapply": "2026-11-26T19:37:05+00:00"
   },
   "url:https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/pittsburgh-pa-15222-pap-penn-avenue-place/summer-2027-enterprise-data-governance-engen-undergraduate-internship_j289807": {
    "simplify": "2026-11-26T05:25:13+00:00"
@@ -16456,11 +16491,17 @@
   "url:https://job-boards.greenhouse.io/atoms/jobs/8356071002": {
    "greenhouse": "2026-11-13T17:07:00+00:00"
   },
+  "url:https://job-boards.greenhouse.io/atoms/jobs/8356100002": {
+   "greenhouse": "2026-11-26T19:37:05+00:00"
+  },
   "url:https://job-boards.greenhouse.io/atoms/jobs/8868464002": {
    "greenhouse": "2026-11-05T08:37:05+00:00"
   },
   "url:https://job-boards.greenhouse.io/atoms/jobs/8869094002": {
    "greenhouse": "2026-11-05T08:37:05+00:00"
+  },
+  "url:https://job-boards.greenhouse.io/atoms/jobs/8919596002": {
+   "greenhouse": "2026-11-26T19:37:05+00:00"
   },
   "url:https://job-boards.greenhouse.io/attainpartners/jobs/5485427008": {
    "greenhouse": "2026-11-18T00:37:05+00:00",
@@ -16597,6 +16638,9 @@
   "url:https://job-boards.greenhouse.io/cssmerge/jobs/8888411002": {
    "greenhouse": "2026-11-16T20:07:00+00:00"
   },
+  "url:https://job-boards.greenhouse.io/cssmerge/jobs/8919606002": {
+   "greenhouse": "2026-11-26T19:37:05+00:00"
+  },
   "url:https://job-boards.greenhouse.io/cssmerge/jobs/8952896002": {
    "greenhouse": "2026-11-20T17:37:05+00:00"
   },
@@ -16605,6 +16649,9 @@
   },
   "url:https://job-boards.greenhouse.io/cssmerge/jobs/8952983002": {
    "greenhouse": "2026-11-20T20:37:05+00:00"
+  },
+  "url:https://job-boards.greenhouse.io/cssmerge/jobs/8963704002": {
+   "greenhouse": "2026-11-26T19:37:05+00:00"
   },
   "url:https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005": {
    "greenhouse": "2026-11-01T16:07:04+00:00",
@@ -18622,6 +18669,10 @@
   },
   "url:https://job-boards.greenhouse.io/togetherai/jobs/5267198007": {
    "greenhouse": "2026-11-16T20:07:00+00:00"
+  },
+  "url:https://job-boards.greenhouse.io/togetherai/jobs/5271149007": {
+   "greenhouse": "2026-11-26T19:37:05+00:00",
+   "speedyapply": "2026-11-26T19:37:05+00:00"
   },
   "url:https://job-boards.greenhouse.io/trace3/jobs/8274770": {
    "greenhouse": "2026-11-26T18:19:17+00:00"
@@ -23533,9 +23584,6 @@
   "url:https://leidos.wd5.myworkdayjobs.com/external/job/6314-remoteteleworker-us/chief-engineer-intern_r-00196859": {
    "workday": "2026-11-13T18:07:00+00:00"
   },
-  "url:https://leidos.wd5.myworkdayjobs.com/external/job/6314-remoteteleworker-us/sharepoint---systems-engineering-intern_r-00195538": {
-   "workday": "2026-10-27T19:07:04+00:00"
-  },
   "url:https://leidos.wd5.myworkdayjobs.com/external/job/6314-remoteteleworker-us/sharepoint---systems-engineering-intern_r-00197543": {
    "workday": "2026-11-23T16:37:00+00:00"
   },
@@ -26697,6 +26745,11 @@
    "speedyapply": "2026-11-13T19:37:00+00:00",
    "workday": "2026-11-12T19:50:47+00:00"
   },
+  "url:https://ptc.wd1.myworkdayjobs.com/ptc/job/boston-ma-usa/software-engineer-intern--summer-2027-_jr112943": {
+   "simplify": "2026-11-26T19:37:05+00:00",
+   "speedyapply": "2026-11-26T19:37:05+00:00",
+   "workday": "2026-11-26T19:37:05+00:00"
+  },
   "url:https://ptc.wd1.myworkdayjobs.com/ptc/job/budapest-hungary/software-developer---intern_jr110893-1": {
    "workday": "2026-11-25T15:37:03+00:00"
   },
@@ -28444,6 +28497,9 @@
   "url:https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/lone-tree-co/functional-structural-engineer-intern--summer-2027-_r0031371-1": {
    "workday": "2026-11-09T19:37:05+00:00"
   },
+  "url:https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/lone-tree-co/it-service-desk-intern--summer-2027-_r0031251": {
+   "workday": "2026-11-26T19:37:05+00:00"
+  },
   "url:https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/lone-tree-co/it-support-technician-intern--summer-2027-_r0030762": {
    "workday": "2026-11-01T13:12:59+00:00"
   },
@@ -30161,6 +30217,10 @@
   "url:https://ttc.wd1.myworkdayjobs.com/toro_external_careers/job/bloomington-mn/mechatronics-engineering-co-op_jr17153": {
    "workday": "2026-11-20T07:07:06+00:00"
   },
+  "url:https://ttc.wd1.myworkdayjobs.com/toro_external_careers/job/bloomington-mn/spatial-data-r-d-intern---the-toro-company_jr17187": {
+   "simplify": "2026-11-26T19:37:05+00:00",
+   "workday": "2026-11-26T19:37:05+00:00"
+  },
   "url:https://ttc.wd1.myworkdayjobs.com/toro_external_careers/job/bloomington-mn/technical-writer-intern---the-toro-company_jr17013": {
    "workday": "2026-11-01T13:12:59+00:00"
   },
@@ -31641,19 +31701,10 @@
   "url:https://www.brex.com/careers/8936631002?gh_jid=8936631002": {
    "greenhouse": "2026-11-10T22:37:05+00:00"
   },
-  "url:https://www.burns-group.com/careers/current-openings?gh_jid=4467816009": {
-   "greenhouse": "2026-10-27T19:07:04+00:00"
-  },
-  "url:https://www.burns-group.com/careers/current-openings?gh_jid=4467832009": {
-   "greenhouse": "2026-10-27T19:07:04+00:00"
-  },
   "url:https://www.burns-group.com/careers/current-openings?gh_jid=4467848009": {
    "greenhouse": "2026-10-27T19:07:04+00:00",
    "simplify": "2026-10-29T15:37:05+00:00",
    "speedyapply": "2026-10-27T18:37:05+00:00"
-  },
-  "url:https://www.burns-group.com/careers/current-openings?gh_jid=4467869009": {
-   "greenhouse": "2026-10-27T19:07:04+00:00"
   },
   "url:https://www.chargepoint.com/about/opportunities/job?gh_jid=8716808002": {
    "greenhouse": "2026-11-16T22:37:05+00:00"
