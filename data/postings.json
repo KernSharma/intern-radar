@@ -40235,14 +40235,14 @@
   "source": "workday"
  },
  "url:https://fhlbc.wd1.myworkdayjobs.com/search/job/chicago/summer-internship---ai-intern_r2600477": {
-  "company": "FHLBank Chicago",
-  "title": "AI Intern",
+  "company": "fhlbc",
+  "title": "Summer Internship - AI Intern",
   "url": "https://fhlbc.wd1.myworkdayjobs.com/search/job/Chicago/Summer-Internship---AI-Intern_R2600477",
   "locations": [
-   "Chicago, IL"
+   "Chicago"
   ],
-  "posted_at": "2026-10-05",
-  "source": "simplify"
+  "posted_at": "2026-10-28",
+  "source": "workday"
  },
  "url:https://fhlbc.wd1.myworkdayjobs.com/search/job/chicago/summer-internship---application-development_r2600441": {
   "company": "fhlbc",
@@ -158986,6 +158986,16 @@
    "Singapore-CapitaSky"
   ],
   "posted_at": "2026-10-25",
+  "source": "workday"
+ },
+ "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/singapore-capitasky/tencent-cloud---edge-platform-product-solutions-architecture-intern---singapore_r108436": {
+  "company": "tencent",
+  "title": "Tencent Cloud - Edge Platform Product Solutions Architecture Intern - Singapore",
+  "url": "https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/Singapore-CapitaSky/Tencent-Cloud---Edge-Platform-Product-Solutions-Architecture-Intern---Singapore_R108436",
+  "locations": [
+   "Singapore-CapitaSky"
+  ],
+  "posted_at": "2026-11-27",
   "source": "workday"
  },
  "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/singapore-capitasky/wechat---backend-engineer-intern_r107928": {
