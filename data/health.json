@@ -63,101 +63,23 @@
   "R6|greenhouse:aperaaiinc": {
    "opened_at": "2026-11-26T22:07:05+00:00"
   },
+  "R6|lever:simberobotics": {
+   "opened_at": "2026-11-27T06:07:05+00:00"
+  },
   "R6|workday:onehealthineers.wd3/shsjb": {
    "opened_at": "2026-11-27T00:37:05+00:00"
   },
-  "R6|workday:osv-edf.wd5/confidential": {
-   "opened_at": "2026-11-27T05:37:05+00:00"
-  },
   "R6|workday:rbc.wd3/rbcearlytalent1": {
    "opened_at": "2026-11-27T02:07:05+00:00"
+  },
+  "R6|workday:roche.wd3/rog-a2o-gene": {
+   "opened_at": "2026-11-27T06:07:05+00:00"
   }
  },
  "last_health_ntfy_at": "2026-11-27T00:37:05+00:00",
- "last_run_at": "2026-11-27T05:37:05+00:00",
+ "last_run_at": "2026-11-27T06:07:05+00:00",
  "runner": "mac",
  "runs": [
-  {
-   "at": "2026-11-13T05:37:03+00:00",
-   "boards_polled": 952,
-   "boards_skipped_budget": 0,
-   "families": {
-    "ashby": {
-     "errors": 1,
-     "jobs": 148,
-     "matches": 370,
-     "newest": "2026-11-13",
-     "ok": 147,
-     "postings": 9942,
-     "seconds": 46.5
-    },
-    "greenhouse": {
-     "errors": 0,
-     "jobs": 259,
-     "matches": 1030,
-     "newest": "2026-11-13",
-     "ok": 259,
-     "postings": 29254,
-     "seconds": 31.32
-    },
-    "lever": {
-     "errors": 2,
-     "jobs": 43,
-     "matches": 195,
-     "newest": "2026-11-13",
-     "ok": 41,
-     "postings": 3173,
-     "seconds": 146.0
-    },
-    "simplify": {
-     "errors": 0,
-     "jobs": 1,
-     "matches": 1394,
-     "newest": "2026-11-13",
-     "ok": 1,
-     "postings": 5398,
-     "seconds": 1.99
-    },
-    "smartrecruiters": {
-     "errors": 0,
-     "jobs": 25,
-     "matches": 198,
-     "newest": "2026-11-13",
-     "ok": 25,
-     "postings": 2333,
-     "seconds": 18.81
-    },
-    "speedyapply": {
-     "errors": 0,
-     "jobs": 1,
-     "matches": 778,
-     "newest": "2026-11-12",
-     "ok": 1,
-     "postings": 861,
-     "seconds": 0.27
-    },
-    "vanshb03": {
-     "errors": 0,
-     "jobs": 1,
-     "matches": 2334,
-     "newest": "2026-11-13",
-     "ok": 1,
-     "postings": 2504,
-     "seconds": 0.77
-    },
-    "workday": {
-     "errors": 3,
-     "jobs": 477,
-     "matches": 2301,
-     "newest": "2026-11-13",
-     "ok": 474,
-     "postings": 20993,
-     "seconds": 830.47
-    }
-   },
-   "runner": "mac",
-   "seconds": 212.4
-  },
   {
    "at": "2026-11-13T06:07:05+00:00",
    "boards_polled": 447,
@@ -32476,6 +32398,87 @@
    },
    "runner": "mac",
    "seconds": 155.1
+  },
+  {
+   "at": "2026-11-27T06:07:05+00:00",
+   "boards_polled": 823,
+   "boards_skipped_budget": 0,
+   "families": {
+    "ashby": {
+     "errors": 1,
+     "jobs": 162,
+     "matches": 355,
+     "newest": "2026-11-27",
+     "ok": 161,
+     "postings": 10429,
+     "seconds": 27.42
+    },
+    "greenhouse": {
+     "errors": 0,
+     "jobs": 284,
+     "matches": 1042,
+     "newest": "2026-11-27",
+     "ok": 284,
+     "postings": 30576,
+     "seconds": 35.1
+    },
+    "lever": {
+     "errors": 3,
+     "jobs": 52,
+     "matches": 200,
+     "newest": "2026-11-25",
+     "ok": 49,
+     "postings": 3497,
+     "seconds": 25.59
+    },
+    "simplify": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 1227,
+     "newest": "2026-11-27",
+     "ok": 1,
+     "postings": 5082,
+     "seconds": 0.43
+    },
+    "smartrecruiters": {
+     "errors": 0,
+     "jobs": 25,
+     "matches": 196,
+     "newest": "2026-11-26",
+     "ok": 25,
+     "postings": 2329,
+     "seconds": 13.52
+    },
+    "speedyapply": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 777,
+     "newest": "2026-11-27",
+     "ok": 1,
+     "postings": 850,
+     "seconds": 0.24
+    },
+    "vanshb03": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 2364,
+     "newest": "2026-11-26",
+     "ok": 1,
+     "postings": 2521,
+     "seconds": 0.34
+    },
+    "workday": {
+     "errors": 30,
+     "jobs": 300,
+     "matches": 1584,
+     "newest": "2026-11-27",
+     "ok": 270,
+     "postings": 11137,
+     "seconds": 653.78
+    }
+   },
+   "runner": "mac",
+   "seconds": 132.8
   }
  ],
  "version": 1,
