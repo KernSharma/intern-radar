@@ -1011,14 +1011,14 @@
   "source": "workday"
  },
  "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/san-jose/xmlname-2027-intern---ai---architecture_r172998": {
-  "company": "adobe",
-  "title": "2027 Intern - AI & Architecture",
+  "company": "Adobe",
+  "title": "AI & Architecture Intern",
   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998",
   "locations": [
-   "San Jose"
+   "San Jose, CA"
   ],
-  "posted_at": "2026-10-28",
-  "source": "workday"
+  "posted_at": "2026-10-19",
+  "source": "simplify"
  },
  "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/san-jose/xmlname-2027-intern---applied-and-research-scientist-engineer_r172064": {
   "company": "adobe",
@@ -1071,14 +1071,19 @@
   "source": "workday"
  },
  "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/san-jose/xmlname-2027-intern---machine-learning-engineer_r171519": {
-  "company": "adobe",
-  "title": "2027 Intern - Machine Learning Engineer",
+  "company": "Adobe",
+  "title": "Machine Learning Engineer Intern",
   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519",
   "locations": [
-   "7 Locations"
+   "Seattle, WA",
+   "SF",
+   "Austin, TX",
+   "San Jose, CA",
+   "NYC",
+   "Lehi, UT"
   ],
-  "posted_at": "2026-10-28",
-  "source": "workday"
+  "posted_at": "2026-08-31",
+  "source": "simplify"
  },
  "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/san-jose/xmlname-2027-intern---security-engineer_r173001": {
   "company": "adobe",
@@ -1091,14 +1096,20 @@
   "source": "workday"
  },
  "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/san-jose/xmlname-2027-intern---software-engineer_r171666": {
-  "company": "adobe",
-  "title": "2027 Intern - Software Engineer",
+  "company": "Adobe",
+  "title": "Software Engineer Intern",
   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666",
   "locations": [
-   "7 Locations"
+   "Seattle, WA",
+   "SF",
+   "Austin, TX",
+   "San Jose, CA",
+   "Waltham, MA",
+   "NYC",
+   "Lehi, UT"
   ],
-  "posted_at": "2026-10-28",
-  "source": "workday"
+  "posted_at": "2026-09-03",
+  "source": "simplify"
  },
  "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/yerevan/xmlname-2027-intern--software-engineer_r173019": {
   "company": "adobe",
@@ -1111,14 +1122,14 @@
   "source": "workday"
  },
  "url:https://advanceauto.wd5.myworkdayjobs.com/advanceexternalcareers/job/raleigh-nc/data-science-intern_r-0620261-1": {
-  "company": "advanceauto",
+  "company": "Advance Auto Parts",
   "title": "Data Science Intern",
   "url": "https://advanceauto.wd5.myworkdayjobs.com/advanceexternalcareers/job/Raleigh-NC/Data-Science-Intern_R-0620261-1",
   "locations": [
    "Raleigh, NC"
   ],
   "posted_at": "2026-11-20",
-  "source": "workday"
+  "source": "simplify"
  },
  "url:https://aep.wd1.myworkdayjobs.com/aepcareersite/job/bridgman-mi/engineering-intern---cook-nuclear---bridgman--mi_r18108-1": {
   "company": "aep",
@@ -4855,34 +4866,34 @@
   "source": "workday"
  },
  "url:https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/usa---il-remote/arity---data-analytics-engineer-intern_r36286": {
-  "company": "allstate",
-  "title": "Arity - Data Analytics Engineer Intern",
+  "company": "Allstate",
+  "title": "Data Analytics Engineer Intern",
   "url": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Arity---Data-Analytics-Engineer-Intern_R36286",
   "locations": [
-   "USA - IL (Remote)"
+   "Illinois"
   ],
-  "posted_at": "2026-10-28",
-  "source": "workday"
+  "posted_at": "2026-10-22",
+  "source": "simplify"
  },
  "url:https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/usa---il-remote/arity---data-science-intern--core-telematics-_r36285": {
-  "company": "allstate",
-  "title": "Arity - Data Science Intern (Core Telematics)",
+  "company": "Allstate",
+  "title": "Data Science Intern - Core Telematics",
   "url": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Arity---Data-Science-Intern--Core-Telematics-_R36285",
   "locations": [
-   "USA - IL (Remote)"
+   "Illinois"
   ],
-  "posted_at": "2026-10-28",
-  "source": "workday"
+  "posted_at": "2026-10-22",
+  "source": "simplify"
  },
  "url:https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/usa---nc-remote/arity---software-engineer-intern_r36266": {
-  "company": "allstate",
-  "title": "Arity - Software Engineer Intern",
+  "company": "Allstate",
+  "title": "Software Engineer Intern",
   "url": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---NC-Remote/Arity---Software-Engineer-Intern_R36266",
   "locations": [
-   "USA - NC (Remote)"
+   "North Carolina"
   ],
-  "posted_at": "2026-10-28",
-  "source": "workday"
+  "posted_at": "2026-10-20",
+  "source": "simplify"
  },
  "url:https://alston.wd1.myworkdayjobs.com/en-us/externalcareer/job/atlanta/developer-intern_jr100986": {
   "company": "Alston & Bird",
@@ -14141,24 +14152,24 @@
   "source": "workday"
  },
  "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/atlanta-ga/university---2027-summer-games-software-developer-intern---atlanta--ga_r0248138": {
-  "company": "bah",
-  "title": "University - 2027 Summer Games Software Developer Intern - Atlanta, GA",
+  "company": "Booz Allen",
+  "title": "Software Developer Intern - University",
   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games-Software-Developer-Intern---Atlanta--GA_R0248138",
   "locations": [
    "Atlanta, GA"
   ],
-  "posted_at": "2026-10-28",
-  "source": "workday"
+  "posted_at": "2026-08-28",
+  "source": "simplify"
  },
  "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/atlanta-ga/university--2027-summer-games-data-scientist-intern_r0248140": {
-  "company": "bah",
-  "title": "University, 2027 Summer Games Data Scientist Intern - Atlanta, GA",
+  "company": "Booz Allen",
+  "title": "Data Scientist Intern - University",
   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University--2027-Summer-Games-Data-Scientist-Intern_R0248140",
   "locations": [
    "Atlanta, GA"
   ],
-  "posted_at": "2026-10-28",
-  "source": "workday"
+  "posted_at": "2026-08-28",
+  "source": "simplify"
  },
  "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/beavercreek-oh/design-and-verification-engineer-intern_r0252482": {
   "company": "bah",
@@ -14181,14 +14192,14 @@
   "source": "workday"
  },
  "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/charleston-sc/university---2027-summer-games-data-scientist-intern_r0248137": {
-  "company": "bah",
-  "title": "University - 2027 Summer Games Data Scientist Intern - Charleston, SC",
+  "company": "Booz Allen",
+  "title": "Data Scientist Intern - University",
   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charleston-SC/University---2027-Summer-Games-Data-Scientist-Intern_R0248137",
   "locations": [
    "Charleston, SC"
   ],
-  "posted_at": "2026-10-28",
-  "source": "workday"
+  "posted_at": "2026-08-28",
+  "source": "simplify"
  },
  "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/charleston-sc/university---2027-summer-games-software-developer-intern_r0248134": {
   "company": "Booz Allen",
@@ -14881,24 +14892,24 @@
   "source": "workday"
  },
  "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/rome-ny/university--2027-summer-games-data-scientist-intern_r0248143": {
-  "company": "bah",
-  "title": "University, 2027 Summer Games Data Scientist Intern - Rome, NY",
+  "company": "Booz Allen",
+  "title": "Data Scientist Intern - Summer Games",
   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/University--2027-Summer-Games-Data-Scientist-Intern_R0248143",
   "locations": [
    "Rome, NY"
   ],
-  "posted_at": "2026-10-28",
-  "source": "workday"
+  "posted_at": "2026-08-28",
+  "source": "simplify"
  },
  "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/rome-ny/university--2027-summer-games-software-developer-intern_r0248141": {
-  "company": "bah",
-  "title": "University, 2027 Summer Games Software Developer Intern - Rome, NY",
+  "company": "Booz Allen",
+  "title": "Software Developer Intern - Summer Games",
   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/University--2027-Summer-Games-Software-Developer-Intern_R0248141",
   "locations": [
    "Rome, NY"
   ],
-  "posted_at": "2026-10-28",
-  "source": "workday"
+  "posted_at": "2026-08-28",
+  "source": "simplify"
  },
  "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/san-diego-ca/ai-software-developer-intern_r0248115": {
   "company": "Booz Allen",
@@ -14971,14 +14982,14 @@
   "source": "simplify"
  },
  "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/washington-dc/university---summer-2027-quantum-computing-research-intern_r0249046": {
-  "company": "bah",
-  "title": "University - Summer 2027 Quantum Computing Research Intern",
+  "company": "Booz Allen",
+  "title": "Quantum Computing Research Intern",
   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/University---Summer-2027-Quantum-Computing-Research-Intern_R0249046",
   "locations": [
    "Washington, DC"
   ],
-  "posted_at": "2026-11-10",
-  "source": "workday"
+  "posted_at": "2026-09-09",
+  "source": "simplify"
  },
  "url:https://bah.wd1.myworkdayjobs.com/confidential/job/annapolis-junction-md/systems-administrator-intern_r0249564": {
   "company": "bah",
@@ -15231,24 +15242,25 @@
   "source": "workday"
  },
  "url:https://baird.wd1.myworkdayjobs.com/careers/job/wi-milwaukee/internship---it-data---analytics--year-round-_r20261012-1": {
-  "company": "baird",
-  "title": "Internship – IT Data & Analytics (Year-Round)",
+  "company": "Baird",
+  "title": "IT Data & Analytics Intern",
   "url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---IT-Data---Analytics--Year-Round-_R20261012-1",
   "locations": [
-   "2 Locations"
+   "Madison, WI",
+   "Milwaukee, WI"
   ],
-  "posted_at": "2026-10-28",
-  "source": "workday"
+  "posted_at": "2026-09-11",
+  "source": "simplify"
  },
  "url:https://baird.wd1.myworkdayjobs.com/careers/job/wi-milwaukee/internship---it-operations-automation---ai--year-round-_r2026986-1": {
-  "company": "baird",
-  "title": "Internship – IT AI & Automation (Year-Round)",
+  "company": "Baird",
+  "title": "IT AI & Automation Intern",
   "url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---IT-Operations-Automation---AI--Year-Round-_R2026986-1",
   "locations": [
-   "WI-Milwaukee"
+   "Milwaukee, WI"
   ],
-  "posted_at": "2026-10-28",
-  "source": "workday"
+  "posted_at": "2026-09-08",
+  "source": "simplify"
  },
  "url:https://baird.wd1.myworkdayjobs.com/careers/job/wi-milwaukee/internship---it-service-desk--year-round-_r20261014-1": {
   "company": "baird",
@@ -32168,14 +32180,14 @@
   "source": "workday"
  },
  "url:https://cohesity.wd5.myworkdayjobs.com/cohesity_careers/job/santa-clara-ca---usa-office/software-engineering-intern--summer-2027-_r04791-2": {
-  "company": "cohesity",
-  "title": "Software Engineering Intern (Summer 2027)",
+  "company": "Cohesity",
+  "title": "Software Engineer Intern",
   "url": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/Software-Engineering-Intern--Summer-2027-_R04791-2",
   "locations": [
-   "Santa Clara, CA - USA (Office)"
+   "Santa Clara, CA"
   ],
-  "posted_at": "2026-10-28",
-  "source": "workday"
+  "posted_at": "2026-10-26",
+  "source": "simplify"
  },
  "url:https://cohesity.wd5.myworkdayjobs.com/en-us/cohesity_careers/job/santa-clara-ca---usa-office/software-engineering-intern--summer-2027-_r04791-2": {
   "company": "Cohesity",
@@ -32278,14 +32290,14 @@
   "source": "simplify"
  },
  "url:https://compassion.wd5.myworkdayjobs.com/compassioncareers/job/usa---global-ministry-center/xmlname-2027-summer-internship---data-and-software-engineering_r8840": {
-  "company": "Compassion International",
-  "title": "Summer Intern - Data and Software Engineering",
+  "company": "compassion",
+  "title": "2027 Summer Internship - Data and Software Engineering",
   "url": "https://compassion.wd5.myworkdayjobs.com/compassioncareers/job/USA---Global-Ministry-Center/XMLNAME-2027-Summer-Internship---Data-and-Software-Engineering_R8840",
   "locations": [
-   "Colorado Springs, CO"
+   "USA - Global Ministry Center"
   ],
   "posted_at": "2026-11-19",
-  "source": "simplify"
+  "source": "workday"
  },
  "url:https://compassion.wd5.myworkdayjobs.com/en-us/compassioncareers/job/usa---global-ministry-center/xmlname-2027-summer-internship---data-and-software-engineering_r8840": {
   "company": "Compassion",
@@ -34341,14 +34353,14 @@
   "source": "workday"
  },
  "url:https://davidyurman.wd1.myworkdayjobs.com/davidyurmancareers/job/new-york-ny/strategic-analytics-intern_r-101176": {
-  "company": "David Yurman",
+  "company": "davidyurman",
   "title": "Strategic Analytics Intern",
   "url": "https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Strategic-Analytics-Intern_R-101176",
   "locations": [
-   "NYC"
+   "New York, NY"
   ],
-  "posted_at": "2026-10-27",
-  "source": "simplify"
+  "posted_at": "2026-11-02",
+  "source": "workday"
  },
  "url:https://db.recsolu.com/external/requisitions/utrm7yhsin2pudx_g6rh2w": {
   "company": "Deutsche Bank",
@@ -41528,14 +41540,14 @@
   "source": "simplify"
  },
  "url:https://freddiemac.wd5.myworkdayjobs.com/external/job/mclean-va/risk-management-graduate-intern---quantitative-summer-2027_jr17553": {
-  "company": "Freddie Mac",
-  "title": "Quantitative Risk Management Intern",
+  "company": "freddiemac",
+  "title": "Risk Management Graduate Intern – Quantitative Summer 2027",
   "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Risk-Management-Graduate-Intern---Quantitative-Summer-2027_JR17553",
   "locations": [
    "McLean, VA"
   ],
-  "posted_at": "2026-08-24",
-  "source": "simplify"
+  "posted_at": "2026-10-28",
+  "source": "workday"
  },
  "url:https://freddiemac.wd5.myworkdayjobs.com/external/job/mclean-va/single-family-data-intern--summer-2027_jr17545": {
   "company": "Freddie Mac",
@@ -43869,14 +43881,14 @@
   "source": "simplify"
  },
  "url:https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/sunnyvale-california-united-states-of-america/xmlname-2027-summer-intern---ai-ml-engineer--autonomous-vehicle--simulation_jr-202621508": {
-  "company": "generalmotors",
-  "title": "2027 Summer Intern - AI/ML Engineer, Autonomous Vehicle: Simulation",
+  "company": "General Motors",
+  "title": "AI/ML Engineer Intern - Autonomous Vehicle: Simulation",
   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508",
   "locations": [
-   "Sunnyvale, California, United States of America"
+   "Sunnyvale, CA"
   ],
-  "posted_at": "2026-10-28",
-  "source": "workday"
+  "posted_at": "2026-10-01",
+  "source": "simplify"
  },
  "url:https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/sunnyvale-california-united-states-of-america/xmlname-2027-summer-intern---autonomous-driving-software-engineer--bachelor-s---master-s-_jr-202622064": {
   "company": "General Motors",
@@ -44029,14 +44041,15 @@
   "source": "workday"
  },
  "url:https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/warren-michigan-united-states-of-america/xmlname-2027-summer-intern---ai---hardware-analytics--adpt_jr-202621756": {
-  "company": "generalmotors",
-  "title": "2027 Summer Intern – AI & Hardware Analytics, ADPT",
+  "company": "General Motors",
+  "title": "Summer Intern - AI & Hardware Analytics - Adpt",
   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756",
   "locations": [
-   "2 Locations"
+   "Milford, MI",
+   "Warren, MI"
   ],
-  "posted_at": "2026-10-28",
-  "source": "workday"
+  "posted_at": "2026-10-05",
+  "source": "simplify"
  },
  "url:https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/warren-michigan-united-states-of-america/xmlname-2027-summer-intern---cybersecurity-education---awareness-program-intern_jr-202624606": {
   "company": "generalmotors",
@@ -77752,14 +77765,14 @@
   "source": "workday"
  },
  "url:https://hilbgroup.wd5.myworkdayjobs.com/hg-careers/job/hunt-valley-md/benefits-analytics-intern_jr100866": {
-  "company": "Hilb Group",
+  "company": "hilbgroup",
   "title": "Benefits Analytics Intern",
   "url": "https://hilbgroup.wd5.myworkdayjobs.com/HG-Careers/job/Hunt-Valley-MD/Benefits-Analytics-Intern_JR100866",
   "locations": [
-   "Hunt Valley, Cockeysville, MD"
+   "Hunt Valley MD"
   ],
-  "posted_at": "2026-10-16",
-  "source": "simplify"
+  "posted_at": "2026-10-28",
+  "source": "workday"
  },
  "url:https://hitachi.wd1.myworkdayjobs.com/en-us/hitachi/job/dallas-texas-united-states/full-stack-developer-intern_r0149426": {
   "company": "Hitachi",
@@ -81420,14 +81433,14 @@
   "source": "simplify"
  },
  "url:https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/milwaukee-wi/data---integration-internship_jr100404": {
-  "company": "IAT Insurance Group",
-  "title": "Data & Integration Intern",
+  "company": "iatinsurancegroup",
+  "title": "Data & Integration Internship",
   "url": "https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Milwaukee-WI/Data---Integration-Internship_JR100404",
   "locations": [
-   "Milwaukee, WI"
+   "Milwaukee WI"
   ],
-  "posted_at": "2026-09-01",
-  "source": "simplify"
+  "posted_at": "2026-10-28",
+  "source": "workday"
  },
  "url:https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/naperville-il/tier-2-it-support-internship_jr100400": {
   "company": "iatinsurancegroup",
@@ -81450,14 +81463,14 @@
   "source": "workday"
  },
  "url:https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/raleigh-nc/data-engineering---visualization-internship_jr100441": {
-  "company": "IAT Insurance Group",
-  "title": "Data Engineering & Visualization Intern",
+  "company": "iatinsurancegroup",
+  "title": "Data Engineering & Visualization Internship",
   "url": "https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Raleigh-NC/Data-Engineering---Visualization-Internship_JR100441",
   "locations": [
-   "Raleigh, NC"
+   "Raleigh NC"
   ],
-  "posted_at": "2026-09-28",
-  "source": "simplify"
+  "posted_at": "2026-10-29",
+  "source": "workday"
  },
  "url:https://iawmqy.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/careers/job/297773": {
   "company": "Dell Technologies",
@@ -81888,14 +81901,14 @@
   "source": "vanshb03"
  },
  "url:https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/reston-va/xmlname-2027-summer-intern--ai-engineer--reston--va-_r2603312-1": {
-  "company": "icf",
-  "title": "2027 Summer Intern, AI Engineer (Master's Degree, Reston, VA)",
+  "company": "ICF International",
+  "title": "AI Engineer Intern",
   "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603312-1",
   "locations": [
    "Reston, VA"
   ],
-  "posted_at": "2026-11-18",
-  "source": "workday"
+  "posted_at": "2026-09-29",
+  "source": "simplify"
  },
  "url:https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/reston-va/xmlname-2027-summer-intern--ai-engineer--reston--va-_r2603518": {
   "company": "icf",
@@ -122653,14 +122666,14 @@
   "source": "workday"
  },
  "url:https://lifefitness.wd1.myworkdayjobs.com/searchlfn/job/rosemont-il/it-intern_jr-025323": {
-  "company": "Life Fitness",
+  "company": "lifefitness",
   "title": "IT Intern",
   "url": "https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Rosemont-IL/IT-Intern_JR-025323",
   "locations": [
    "Rosemont, IL"
   ],
   "posted_at": "2026-10-30",
-  "source": "simplify"
+  "source": "workday"
  },
  "url:https://lifefitness.wd1.myworkdayjobs.com/searchlfn/job/rosemont-il/marketing-analytics-intern_jr-025253": {
   "company": "Life Fitness",
@@ -130530,14 +130543,14 @@
   "source": "workday"
  },
  "url:https://momentive.wd1.myworkdayjobs.com/mc/job/us-ny-niskayuna/summer-2027-intern---enterprise-reporting---analytics---data-science_r9807-1": {
-  "company": "Momentive",
-  "title": "Data Science Intern - Enterprise Reporting & Analytics",
+  "company": "momentive",
+  "title": "Summer 2027 Intern - Enterprise Reporting & Analytics - Data Science",
   "url": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Enterprise-Reporting---Analytics---Data-Science_R9807-1",
   "locations": [
-   "Niskayuna, NY"
+   "US NY Niskayuna"
   ],
-  "posted_at": "2026-09-03",
-  "source": "simplify"
+  "posted_at": "2026-10-28",
+  "source": "workday"
  },
  "url:https://momentive.wd1.myworkdayjobs.com/mc/job/us-ny-niskayuna/summer-2027-intern---software-development_r9756": {
   "company": "momentive",
@@ -137107,14 +137120,14 @@
   "source": "workday"
  },
  "url:https://njm.wd1.myworkdayjobs.com/njm/job/njm---trenton/it-data-administration-intern_r2008309": {
-  "company": "njm",
-  "title": "I.T. Data Administration Intern",
+  "company": "NJM Insurance Group",
+  "title": "IT Data Administration Intern",
   "url": "https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/IT-Data-Administration-Intern_R2008309",
   "locations": [
-   "NJM - Trenton"
+   "Trenton, NJ"
   ],
-  "posted_at": "2026-10-28",
-  "source": "workday"
+  "posted_at": "2026-10-01",
+  "source": "simplify"
  },
  "url:https://njm.wd1.myworkdayjobs.com/njm/job/njm---trenton/it-data-science-intern_r2008284": {
   "company": "NJM Insurance Group",
@@ -147112,14 +147125,15 @@
   "source": "workday"
  },
  "url:https://revantage.wd1.myworkdayjobs.com/revantage/job/chicago-il/insurance-technology---ai-analytics-intern--summer-2027_jr104539": {
-  "company": "revantage",
-  "title": "Insurance Technology & AI Analytics Intern, Summer 2027",
+  "company": "Revantage Corporate Services",
+  "title": "Insurance Technology & AI Analytics Intern",
   "url": "https://revantage.wd1.myworkdayjobs.com/Revantage/job/Chicago-IL/Insurance-Technology---AI-Analytics-Intern--Summer-2027_JR104539",
   "locations": [
-   "2 Locations"
+   "Dallas, TX",
+   "Chicago, IL"
   ],
-  "posted_at": "2026-10-30",
-  "source": "workday"
+  "posted_at": "2026-10-28",
+  "source": "simplify"
  },
  "url:https://revantage.wd1.myworkdayjobs.com/revantage/job/remote---illinois/quantitative-developer-intern_jr104315": {
   "company": "Revantage Corporate Services",
@@ -150369,24 +150383,32 @@
   "source": "workday"
  },
  "url:https://salesforce.wd12.myworkdayjobs.com/futureforce_internships/job/california---san-francisco/summer-2027-intern---software-engineer--security-government-_jr364911": {
-  "company": "salesforce",
-  "title": "Summer 2027 Intern - Software Engineer (Security/Government)",
+  "company": "Salesforce",
+  "title": "Software Engineer Intern",
   "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911",
   "locations": [
-   "2 Locations"
+   "SF",
+   "Bellevue, WA"
   ],
-  "posted_at": "2026-10-30",
-  "source": "workday"
+  "posted_at": "2026-10-19",
+  "source": "simplify"
  },
  "url:https://salesforce.wd12.myworkdayjobs.com/futureforce_internships/job/california---san-francisco/summer-2027-intern---software-engineer_jr340771": {
-  "company": "salesforce",
-  "title": "Summer 2027 Intern - Software Engineer",
+  "company": "Salesforce",
+  "title": "Software Engineer Intern",
   "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771",
   "locations": [
-   "8 Locations"
+   "Palo Alto, CA",
+   "Seattle, WA",
+   "Indianapolis, IN",
+   "SF",
+   "NYC",
+   "Bellevue, WA",
+   "Atlanta, GA",
+   "Burlington, MA"
   ],
-  "posted_at": "2026-10-28",
-  "source": "workday"
+  "posted_at": "2026-05-07",
+  "source": "simplify"
  },
  "url:https://salesforce.wd12.myworkdayjobs.com/futureforce_internships/job/france---paris/data-science---analytics-intern--alliances---channels---february-2027_jr368786": {
   "company": "salesforce",
@@ -153051,14 +153073,14 @@
   "source": "workday"
  },
  "url:https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/folsom-ca/software-engineering-intern--summer-2027-_r0030761-1": {
-  "company": "snc",
-  "title": "Software Engineering Intern (Summer 2027)",
+  "company": "Sierra Nevada Corporation",
+  "title": "Software Engineer Intern",
   "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Folsom-CA/Software-Engineering-Intern--Summer-2027-_R0030761-1",
   "locations": [
    "Folsom, CA"
   ],
-  "posted_at": "2026-10-28",
-  "source": "workday"
+  "posted_at": "2026-09-03",
+  "source": "simplify"
  },
  "url:https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/hagerstown-md/aerospace-engineering-intern--summer-2027-_r0030737": {
   "company": "snc",
@@ -158149,14 +158171,14 @@
   "source": "vanshb03"
  },
  "url:https://td.wd3.myworkdayjobs.com/td_bank_careers/job/belfast-united-kingdom/xmlname-2027-summer-internship---technology_r_1518241": {
-  "company": "td",
-  "title": "2027 Summer Internship - Technology",
+  "company": "TD Bank",
+  "title": "Technology Intern",
   "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Belfast-United-Kingdom/XMLNAME-2027-Summer-Internship---Technology_R_1518241",
   "locations": [
-   "Belfast, United Kingdom"
+   "Belfast, UK"
   ],
-  "posted_at": "2026-11-23",
-  "source": "workday"
+  "posted_at": "2026-10-28",
+  "source": "simplify"
  },
  "url:https://td.wd3.myworkdayjobs.com/td_bank_careers/job/dublin-ireland/xmlname-2027-technology-internship---ai-native-data-platform-engineering---6-month-internship--january---july-_r_1513790-1": {
   "company": "td",
@@ -175411,14 +175433,15 @@
   "source": "workday"
  },
  "url:https://zekelman.wd12.myworkdayjobs.com/careers/job/troy-mi/intern--business-intelligence_jr002769": {
-  "company": "zekelman",
-  "title": "Intern, Business Intelligence",
+  "company": "Zekelman Industries",
+  "title": "Business Intelligence Intern - Program Development",
   "url": "https://zekelman.wd12.myworkdayjobs.com/Careers/job/Troy-MI/Intern--Business-Intelligence_JR002769",
   "locations": [
-   "2 Locations"
+   "Austin, TX",
+   "Troy, MI"
   ],
-  "posted_at": "2026-10-28",
-  "source": "workday"
+  "posted_at": "2026-09-23",
+  "source": "simplify"
  },
  "url:https://zekelman.wd12.myworkdayjobs.com/careers/job/warren-oh/intern--quality-engineer_jr002821": {
   "company": "zekelman",
