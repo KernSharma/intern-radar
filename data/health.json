@@ -75,15 +75,6 @@
   "R6|greenhouse:aperaaiinc": {
    "opened_at": "2026-11-26T22:07:05+00:00"
   },
-  "R6|workday:asml.wd3/asmlext1": {
-   "opened_at": "2026-11-28T13:07:05+00:00"
-  },
-  "R6|workday:astrazeneca.wd3/careers": {
-   "opened_at": "2026-11-28T13:07:05+00:00"
-  },
-  "R6|workday:barclays.wd3/external_career_site_barclays": {
-   "opened_at": "2026-11-28T13:07:05+00:00"
-  },
   "R6|workday:onehealthineers.wd3/shsjb": {
    "opened_at": "2026-11-27T00:37:05+00:00"
   },
@@ -92,90 +83,9 @@
   }
  },
  "last_health_ntfy_at": "2026-11-28T07:37:00+00:00",
- "last_run_at": "2026-11-28T13:07:05+00:00",
+ "last_run_at": "2026-11-28T13:37:05+00:00",
  "runner": "mac",
  "runs": [
-  {
-   "at": "2026-11-14T13:07:00+00:00",
-   "boards_polled": 791,
-   "boards_skipped_budget": 0,
-   "families": {
-    "ashby": {
-     "errors": 1,
-     "jobs": 151,
-     "matches": 343,
-     "newest": "2026-11-14",
-     "ok": 150,
-     "postings": 10202,
-     "seconds": 33.99
-    },
-    "greenhouse": {
-     "errors": 0,
-     "jobs": 261,
-     "matches": 1038,
-     "newest": "2026-11-14",
-     "ok": 261,
-     "postings": 29235,
-     "seconds": 30.7
-    },
-    "lever": {
-     "errors": 2,
-     "jobs": 43,
-     "matches": 186,
-     "newest": "2026-11-14",
-     "ok": 41,
-     "postings": 2526,
-     "seconds": 158.51
-    },
-    "simplify": {
-     "errors": 0,
-     "jobs": 1,
-     "matches": 1365,
-     "newest": "2026-11-14",
-     "ok": 1,
-     "postings": 5347,
-     "seconds": 1.25
-    },
-    "smartrecruiters": {
-     "errors": 0,
-     "jobs": 25,
-     "matches": 201,
-     "newest": "2026-11-14",
-     "ok": 25,
-     "postings": 2337,
-     "seconds": 20.41
-    },
-    "speedyapply": {
-     "errors": 0,
-     "jobs": 1,
-     "matches": 769,
-     "newest": "2026-11-14",
-     "ok": 1,
-     "postings": 852,
-     "seconds": 0.28
-    },
-    "vanshb03": {
-     "errors": 0,
-     "jobs": 1,
-     "matches": 2315,
-     "newest": "2026-11-14",
-     "ok": 1,
-     "postings": 2480,
-     "seconds": 0.38
-    },
-    "workday": {
-     "errors": 220,
-     "jobs": 311,
-     "matches": 328,
-     "newest": "2026-11-14",
-     "ok": 91,
-     "postings": 4483,
-     "seconds": 1881.17
-    }
-   },
-   "runner": "mac",
-   "seconds": 346.6
-  },
   {
    "at": "2026-11-14T13:37:00+00:00",
    "boards_polled": 792,
@@ -32494,6 +32404,87 @@
    },
    "runner": "mac",
    "seconds": 308.4
+  },
+  {
+   "at": "2026-11-28T13:37:05+00:00",
+   "boards_polled": 845,
+   "boards_skipped_budget": 0,
+   "families": {
+    "ashby": {
+     "errors": 1,
+     "jobs": 162,
+     "matches": 349,
+     "newest": "2026-11-28",
+     "ok": 161,
+     "postings": 10423,
+     "seconds": 30.23
+    },
+    "greenhouse": {
+     "errors": 0,
+     "jobs": 284,
+     "matches": 1037,
+     "newest": "2026-11-28",
+     "ok": 284,
+     "postings": 30590,
+     "seconds": 43.61
+    },
+    "lever": {
+     "errors": 3,
+     "jobs": 52,
+     "matches": 200,
+     "newest": "2026-11-27",
+     "ok": 49,
+     "postings": 3478,
+     "seconds": 27.09
+    },
+    "simplify": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 1302,
+     "newest": "2026-11-28",
+     "ok": 1,
+     "postings": 5309,
+     "seconds": 0.75
+    },
+    "smartrecruiters": {
+     "errors": 0,
+     "jobs": 25,
+     "matches": 194,
+     "newest": "2026-11-27",
+     "ok": 25,
+     "postings": 2318,
+     "seconds": 15.56
+    },
+    "speedyapply": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 786,
+     "newest": "2026-11-27",
+     "ok": 1,
+     "postings": 857,
+     "seconds": 0.22
+    },
+    "vanshb03": {
+     "errors": 0,
+     "jobs": 1,
+     "matches": 2336,
+     "newest": "2026-11-28",
+     "ok": 1,
+     "postings": 2491,
+     "seconds": 0.37
+    },
+    "workday": {
+     "errors": 26,
+     "jobs": 322,
+     "matches": 1697,
+     "newest": "2026-11-28",
+     "ok": 296,
+     "postings": 13071,
+     "seconds": 695.4
+    }
+   },
+   "runner": "mac",
+   "seconds": 145.3
   }
  ],
  "version": 1,
