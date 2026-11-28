@@ -15792,14 +15792,14 @@
   "source": "workday"
  },
  "url:https://basspro.wd1.myworkdayjobs.com/careers/job/springfield-mo-bass-pro-shops-base-camp/it-developer-intern-summer-2027_r267441-1": {
-  "company": "basspro",
-  "title": "IT Developer Intern Summer 2027",
+  "company": "Bass Pro Shops",
+  "title": "IT Developer Intern",
   "url": "https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/IT-Developer-Intern-Summer-2027_R267441-1",
   "locations": [
-   "Springfield, MO (Bass Pro Shops Base Camp)"
+   "Springfield, MO"
   ],
-  "posted_at": "2026-10-29",
-  "source": "workday"
+  "posted_at": "2026-09-16",
+  "source": "simplify"
  },
  "url:https://basspro.wd1.myworkdayjobs.com/careers/job/springfield-mo-bass-pro-shops-base-camp/product-development-intern-summer-2027_r267451": {
   "company": "basspro",
@@ -40334,6 +40334,16 @@
   "posted_at": "2026-10-29",
   "source": "workday"
  },
+ "url:https://fhlb.wd1.myworkdayjobs.com/fhlb_careers/job/irving-tx/xmlname-2027-summer-digital-transformation-intern_req-457": {
+  "company": "Federal Home Loan Bank of Dallas",
+  "title": "Digital Transformation Intern",
+  "url": "https://fhlb.wd1.myworkdayjobs.com/FHLB_Careers/job/Irving-TX/XMLNAME-2027-Summer-Digital-Transformation-Intern_REQ-457",
+  "locations": [
+   "Irving, TX"
+  ],
+  "posted_at": "2026-11-23",
+  "source": "simplify"
+ },
  "url:https://fhlbc.wd1.myworkdayjobs.com/search/job/chicago/summer-internship---ai-intern_r2600477": {
   "company": "fhlbc",
   "title": "Summer Internship - AI Intern",
@@ -60823,13 +60833,13 @@
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/1ly": {
-  "company": "Corning",
-  "title": "HPC DevOps Engineer Intern, Science & Technology",
-  "url": "https://go.vansh.nyc/1lY",
+  "company": "CARFAX Canada",
+  "title": "Developer Co-op",
+  "url": "https://go.vansh.nyc/1Ly",
   "locations": [
-   "Corning, NY"
+   "London, Canada"
   ],
-  "posted_at": "2026-11-07",
+  "posted_at": "2026-11-27",
   "source": "vanshb03"
  },
  "url:https://go.vansh.nyc/1lz": {
@@ -154156,7 +154166,7 @@
   "locations": [
    "Galway, Ireland"
   ],
-  "posted_at": "2026-11-18",
+  "posted_at": "2026-11-19",
   "source": "workday"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/associate-product-manager-intern--may-2027---12-months-_r10638": {
@@ -154186,7 +154196,7 @@
   "locations": [
    "Mississauga, Canada – Meadowvale Office (HQ)"
   ],
-  "posted_at": "2026-11-27",
+  "posted_at": "2026-11-28",
   "source": "workday"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/data-scientist--intern--jan-2027-12-months-_r10571": {
@@ -154216,7 +154226,7 @@
   "locations": [
    "Mississauga, Canada – Meadowvale Office (HQ)"
   ],
-  "posted_at": "2026-10-28",
+  "posted_at": "2026-10-29",
   "source": "workday"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/performance-test-engineer-intern--may-2027-12-months-_r10626": {
@@ -154226,7 +154236,7 @@
   "locations": [
    "Mississauga, Canada – Meadowvale Office (HQ)"
   ],
-  "posted_at": "2026-11-05",
+  "posted_at": "2026-11-06",
   "source": "workday"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/quality-assurance-specialist-intern---android--may-2027---12-months-_r10651": {
@@ -154236,7 +154246,7 @@
   "locations": [
    "Mississauga, Canada – Meadowvale Office (HQ)"
   ],
-  "posted_at": "2026-11-05",
+  "posted_at": "2026-11-06",
   "source": "workday"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-in-test-intern--may-2027-12-months-_r10676": {
@@ -154246,28 +154256,28 @@
   "locations": [
    "Mississauga, Canada – Meadowvale Office (HQ)"
   ],
-  "posted_at": "2026-11-17",
+  "posted_at": "2026-11-18",
   "source": "workday"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-intern---android--may-2027---12-months-_r10620": {
-  "company": "SOTI",
-  "title": "Software Developer Intern - Android",
+  "company": "soti",
+  "title": "Software Developer Intern - Android (May 2027 - 12 Months)",
   "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10620",
   "locations": [
-   "Mississauga, ON, Canada"
+   "Mississauga, Canada – Meadowvale Office (HQ)"
   ],
-  "posted_at": "2026-10-26",
-  "source": "simplify"
+  "posted_at": "2026-10-29",
+  "source": "workday"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-intern---android--may-2027---12-months-_r10650": {
-  "company": "SOTI",
-  "title": "Software Developer Intern",
+  "company": "soti",
+  "title": "Software Developer Intern - Android (May 2027 - 12 Months)",
   "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10650",
   "locations": [
-   "Mississauga, ON, Canada"
+   "Mississauga, Canada – Meadowvale Office (HQ)"
   ],
-  "posted_at": "2026-11-05",
-  "source": "simplify"
+  "posted_at": "2026-11-06",
+  "source": "workday"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-intern---server--may-2027---12-months-_r10647": {
   "company": "SOTI",
@@ -154286,18 +154296,18 @@
   "locations": [
    "Mississauga, Canada – Meadowvale Office (HQ)"
   ],
-  "posted_at": "2026-11-23",
+  "posted_at": "2026-11-24",
   "source": "workday"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-intern---soti-xsight--may-2027-12-months-_r10611": {
-  "company": "SOTI",
-  "title": "Software Developer Intern",
+  "company": "soti",
+  "title": "Software Developer Intern - SOTI XSight (May 2027 12 Months)",
   "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--May-2027-12-Months-_R10611",
   "locations": [
-   "Mississauga, ON, Canada"
+   "Mississauga, Canada – Meadowvale Office (HQ)"
   ],
-  "posted_at": "2026-10-29",
-  "source": "simplify"
+  "posted_at": "2026-10-30",
+  "source": "workday"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-intern---soti-xsight--may-2027-12-months-_r10718": {
   "company": "soti",
@@ -154306,7 +154316,7 @@
   "locations": [
    "Mississauga, Canada – Meadowvale Office (HQ)"
   ],
-  "posted_at": "2026-11-19",
+  "posted_at": "2026-11-20",
   "source": "workday"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-intern---soti-xsight--may-2027-12-months-_r10735": {
@@ -154316,7 +154326,7 @@
   "locations": [
    "Mississauga, Canada – Meadowvale Office (HQ)"
   ],
-  "posted_at": "2026-11-24",
+  "posted_at": "2026-11-25",
   "source": "workday"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-intern--january-2026-12-months-_r10549": {
@@ -154330,14 +154340,14 @@
   "source": "workday"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-intern--may-2027---12-months-_r10677": {
-  "company": "SOTI",
-  "title": "Software Developer Intern",
+  "company": "soti",
+  "title": "Software Developer Intern (May 2027 - 12 months)",
   "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027---12-months-_R10677",
   "locations": [
-   "Mississauga, ON, Canada"
+   "Mississauga, Canada – Meadowvale Office (HQ)"
   ],
-  "posted_at": "2026-11-10",
-  "source": "simplify"
+  "posted_at": "2026-11-11",
+  "source": "workday"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-intern--may-2027-12-months-_r10655": {
   "company": "soti",
@@ -154346,7 +154356,7 @@
   "locations": [
    "Mississauga, Canada – Meadowvale Office (HQ)"
   ],
-  "posted_at": "2026-11-05",
+  "posted_at": "2026-11-06",
   "source": "workday"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-intern--may-2027-12-months-_r10703-2": {
@@ -154356,7 +154366,7 @@
   "locations": [
    "Mississauga, Canada – Meadowvale Office (HQ)"
   ],
-  "posted_at": "2026-11-23",
+  "posted_at": "2026-11-24",
   "source": "workday"
  },
  "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-intern--may-2027-_r10604": {
@@ -163066,6 +163076,46 @@
    "NYC"
   ],
   "posted_at": "2026-10-27",
+  "source": "simplify"
+ },
+ "url:https://trinzic.wd115.myworkdayjobs.com/trinzic_careers/job/chantilly-virginia/defense---intel--d-i----computer-science-internship_r3001231-1": {
+  "company": "Trinzic",
+  "title": "Defense & Intel Computer Science Intern",
+  "url": "https://trinzic.wd115.myworkdayjobs.com/Trinzic_Careers/job/Chantilly-Virginia/Defense---Intel--D-I----Computer-Science-Internship_R3001231-1",
+  "locations": [
+   "Orlando, FL",
+   "King of Prussia, PA",
+   "Colorado Springs, CO",
+   "Lexington, MA",
+   "Chantilly, VA",
+   "Ann Arbor, MI",
+   "Lexington Park, MD",
+   "Beavercreek, OH",
+   "Huntsville, AL",
+   "Kihei, HI",
+   "El Segundo, CA"
+  ],
+  "posted_at": "2026-11-05",
+  "source": "simplify"
+ },
+ "url:https://trinzic.wd115.myworkdayjobs.com/trinzic_careers/job/chantilly-virginia/defense---intel--d-i----software-engineering-internship_r3001235": {
+  "company": "Trinzic",
+  "title": "Defense & Intel Software Engineer Intern",
+  "url": "https://trinzic.wd115.myworkdayjobs.com/Trinzic_Careers/job/Chantilly-Virginia/Defense---Intel--D-I----Software-Engineering-Internship_R3001235",
+  "locations": [
+   "Orlando, FL",
+   "King of Prussia, PA",
+   "Colorado Springs, CO",
+   "Lexington, MA",
+   "Chantilly, VA",
+   "Ann Arbor, MI",
+   "Lexington Park, MD",
+   "Beavercreek, OH",
+   "Huntsville, AL",
+   "Kihei, HI",
+   "El Segundo, CA"
+  ],
+  "posted_at": "2026-11-05",
   "source": "simplify"
  },
  "url:https://troweprice.wd5.myworkdayjobs.com/en-us/troweprice/job/baltimore-md/xmlname-2027-global-trading-internship-program_82718": {
