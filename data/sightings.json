@@ -2429,10 +2429,18 @@
    "workday": "2026-11-01T13:12:59+00:00"
   },
   "url:https://aveva.wd3.myworkdayjobs.com/aveva_careers/job/cambridge-united-kingdom/software-developer-intern---uk_r015082": {
-   "simplify": "2026-11-28T02:07:00+00:00"
+   "simplify": "2026-11-28T02:07:00+00:00",
+   "workday": "2026-11-28T03:07:00+00:00"
   },
   "url:https://aveva.wd3.myworkdayjobs.com/aveva_careers/job/cambridge-united-kingdom/software-developer-intern--core-ai----uk_r015084": {
-   "simplify": "2026-11-28T02:07:00+00:00"
+   "simplify": "2026-11-28T02:07:00+00:00",
+   "workday": "2026-11-28T03:07:00+00:00"
+  },
+  "url:https://aveva.wd3.myworkdayjobs.com/aveva_careers/job/sao-paulo-brazil/software-developer-intern---brazil_r015054": {
+   "workday": "2026-11-28T03:07:00+00:00"
+  },
+  "url:https://aveva.wd3.myworkdayjobs.com/aveva_careers/job/sao-paulo-brazil/technical-support-engineering-intern---sao-paulo-bz_r016045": {
+   "workday": "2026-11-28T03:07:00+00:00"
   },
   "url:https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-interpace-pkwy-parsippany-07054/accelerate---ai-enablement-intern-summer-2027_r0190563": {
    "workday": "2026-11-01T13:12:59+00:00"
@@ -3001,6 +3009,12 @@
   },
   "url:https://bmo.wd3.myworkdayjobs.com/external/job/toronto-on-can/quantitative-analyst--summer-2027--co-op-internship----4-months_r260031097": {
    "workday": "2026-11-06T17:37:00+00:00"
+  },
+  "url:https://bmo.wd3.myworkdayjobs.com/privileged/job/toronto-on-can/agile-center-of-excellence--summer-2027--co-op-internship----4-months_r260031148-3": {
+   "simplify": "2026-11-28T03:07:00+00:00"
+  },
+  "url:https://bmo.wd3.myworkdayjobs.com/privileged/job/toronto-on-can/business-analyst--summer-2027--co-op-internship----4-months_r260031168-3": {
+   "simplify": "2026-11-28T03:07:00+00:00"
   },
   "url:https://boards.greenhouse.io/andurilindustries/jobs/5148079007": {
    "simplify": "2026-11-01T13:12:59+00:00"
@@ -5022,7 +5036,23 @@
    "workday": "2026-11-06T20:37:00+00:00"
   },
   "url:https://cartech.wd5.myworkdayjobs.com/ctcexternal/job/reading-pa/business-continuity-data-analyst---reporting-intern_27047": {
-   "simplify": "2026-11-28T02:37:00+00:00"
+   "simplify": "2026-11-28T02:37:00+00:00",
+   "workday": "2026-11-28T03:07:00+00:00"
+  },
+  "url:https://cartech.wd5.myworkdayjobs.com/ctcexternal/job/reading-pa/process-engineering-intern_26978": {
+   "workday": "2026-11-28T03:07:00+00:00"
+  },
+  "url:https://cartech.wd5.myworkdayjobs.com/ctcexternal/job/reading-pa/reliability-engineering-intern_26976": {
+   "workday": "2026-11-28T03:07:00+00:00"
+  },
+  "url:https://cartech.wd5.myworkdayjobs.com/ctcexternal/job/reading-pa/technical-writing-intern_26977": {
+   "workday": "2026-11-28T03:07:00+00:00"
+  },
+  "url:https://cartech.wd5.myworkdayjobs.com/ctcexternal/job/tanner-al/project-engineering-intern_27044": {
+   "workday": "2026-11-28T03:07:00+00:00"
+  },
+  "url:https://cartech.wd5.myworkdayjobs.com/ctcexternal/job/tanner-al/reliability-engineering-intern_27045": {
+   "workday": "2026-11-28T03:07:00+00:00"
   },
   "url:https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/irving-texas/xmlname-2027-summer-corporate-intern---information-technology_r0000383086-1": {
    "workday": "2026-11-01T13:12:59+00:00"
@@ -6173,6 +6203,7 @@
    "workday": "2026-11-04T23:37:07+00:00"
   },
   "url:https://draper.wd5.myworkdayjobs.com/draper_careers/job/cambridge-ma/simulation-engineering-intern--summer-2027-_jr003181": {
+   "simplify": "2026-11-28T03:07:00+00:00",
    "workday": "2026-11-24T17:58:18+00:00"
   },
   "url:https://draper.wd5.myworkdayjobs.com/draper_careers/job/cambridge-ma/software-engineering---devops-intern_jr003155": {
@@ -13957,9 +13988,6 @@
   "url:https://go.vansh.nyc/yx": {
    "vanshb03": "2026-11-28T00:37:00+00:00"
   },
-  "url:https://go.vansh.nyc/yz": {
-   "vanshb03": "2026-10-29T02:37:05+00:00"
-  },
   "url:https://go.vansh.nyc/z0": {
    "vanshb03": "2026-10-29T15:37:05+00:00"
   },
@@ -16107,6 +16135,26 @@
   "url:https://job-boards.greenhouse.io/aidashinc/jobs/4436057009": {
    "greenhouse": "2026-11-23T02:37:05+00:00",
    "speedyapply": "2026-11-23T02:37:05+00:00"
+  },
+  "url:https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065656": {
+   "greenhouse": "2026-11-28T03:07:00+00:00",
+   "simplify": "2026-11-28T03:07:00+00:00"
+  },
+  "url:https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065670": {
+   "greenhouse": "2026-11-28T03:07:00+00:00",
+   "simplify": "2026-11-28T03:07:00+00:00"
+  },
+  "url:https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065680": {
+   "greenhouse": "2026-11-28T03:07:00+00:00",
+   "simplify": "2026-11-28T03:07:00+00:00"
+  },
+  "url:https://job-boards.greenhouse.io/akunacapitaloci/jobs/8066880": {
+   "greenhouse": "2026-11-28T03:07:00+00:00",
+   "simplify": "2026-11-28T03:07:00+00:00"
+  },
+  "url:https://job-boards.greenhouse.io/akunacapitaloci/jobs/8066884": {
+   "greenhouse": "2026-11-28T03:07:00+00:00",
+   "simplify": "2026-11-28T03:07:00+00:00"
   },
   "url:https://job-boards.greenhouse.io/amca/jobs/4253828009": {
    "greenhouse": "2026-11-01T13:12:59+00:00"
@@ -28846,7 +28894,8 @@
    "workday": "2026-11-03T17:47:04+00:00"
   },
   "url:https://td.wd3.myworkdayjobs.com/td_bank_careers/job/belfast-united-kingdom/xmlname-2027-summer-internship---technology_r_1518241": {
-   "simplify": "2026-11-27T23:37:00+00:00"
+   "simplify": "2026-11-27T23:37:00+00:00",
+   "workday": "2026-11-28T03:07:00+00:00"
   },
   "url:https://td.wd3.myworkdayjobs.com/td_bank_careers/job/london-united-kingdom/xmlname-2027-summer-internship---technology_r_1518239": {
    "simplify": "2026-11-21T15:16:49+00:00",
